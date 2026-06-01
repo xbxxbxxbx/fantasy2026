@@ -7,7 +7,11 @@ const elements = {
   leaderboardBody: document.querySelector("#leaderboard-body"),
   managerCards: document.querySelector("#manager-cards"),
   refreshButton: document.querySelector("#refresh-button"),
+  refreshToast: document.querySelector("#refresh-toast"),
 };
+
+let lastSnapshotSignature = "";
+let toastTimeoutId = null;
 
 function normalizeName(value) {
   return String(value || "")
@@ -108,7 +112,39 @@ function setStatus(message, state) {
   elements.statusBanner.className = `status-banner ${state}`;
 }
 
-async function loadLeaderboard() {
+function snapshotSignature(snapshot) {
+  return JSON.stringify({
+    generatedAt: snapshot.generatedAt || null,
+    managers: (snapshot.managers || []).map((manager) => ({
+      managerName: manager.managerName,
+      teamName: manager.teamName,
+      totalPoints: parseNumber(manager.totalPoints),
+      players: (manager.players || []).map((player) => ({
+        player: canonicalPlayerName(player.player),
+        points: parseNumber(player.points),
+      })),
+    })),
+  });
+}
+
+function showRefreshToast(message) {
+  if (!elements.refreshToast) {
+    return;
+  }
+
+  elements.refreshToast.textContent = message;
+  elements.refreshToast.classList.add("is-visible");
+
+  if (toastTimeoutId) {
+    window.clearTimeout(toastTimeoutId);
+  }
+
+  toastTimeoutId = window.setTimeout(() => {
+    elements.refreshToast.classList.remove("is-visible");
+  }, 2600);
+}
+
+async function loadLeaderboard({ manual = false } = {}) {
   const existingStatus = elements.statusBanner.textContent.trim();
   const existingState = elements.statusBanner.className.replace("status-banner", "").trim();
   if (!existingStatus) {
@@ -118,6 +154,8 @@ async function loadLeaderboard() {
 
   try {
     const snapshot = await fetchSnapshot();
+    const nextSignature = snapshotSignature(snapshot);
+    const hasChanged = lastSnapshotSignature !== "" && nextSignature !== lastSnapshotSignature;
     const managers = (snapshot.managers || []).map((manager) => ({
       name: manager.managerName,
       teamName: manager.teamName,
@@ -143,6 +181,16 @@ async function loadLeaderboard() {
     } else {
       setStatus("No data yet. Run the scraper to populate docs/data.json.", "status-loading");
     }
+
+    if (manual) {
+      showRefreshToast(
+        hasChanged
+          ? "Leaderboard updated with new data."
+          : "Checked for updates. No score changes yet."
+      );
+    }
+
+    lastSnapshotSignature = nextSignature;
   } catch (error) {
     renderLeaderboard([]);
     renderManagerCards([]);
@@ -150,6 +198,9 @@ async function loadLeaderboard() {
       error instanceof Error ? error.message : "Could not load docs/data.json.",
       "status-error"
     );
+    if (manual) {
+      showRefreshToast("Refresh failed. Try again in a moment.");
+    }
   }
 
   if (existingStatus && existingState && !elements.statusBanner.textContent.trim()) {
@@ -160,5 +211,5 @@ async function loadLeaderboard() {
 }
 
 renderHeaderStats();
-elements.refreshButton.addEventListener("click", loadLeaderboard);
+elements.refreshButton.addEventListener("click", () => loadLeaderboard({ manual: true }));
 loadLeaderboard();
