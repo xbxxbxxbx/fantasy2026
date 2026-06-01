@@ -103,6 +103,22 @@ h1 {
   line-height: 1.5;
 }
 
+.hero-credit {
+  margin-top: 18px;
+  color: var(--muted);
+}
+
+.hero-credit a {
+  color: var(--ink);
+  font-weight: 700;
+  text-decoration-color: rgba(31, 29, 26, 0.35);
+  text-underline-offset: 0.18em;
+}
+
+.hero-credit a:hover {
+  text-decoration-color: rgba(31, 29, 26, 0.8);
+}
+
 .hero-stats {
   display: grid;
   gap: 14px;
