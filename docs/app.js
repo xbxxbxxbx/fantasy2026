@@ -109,7 +109,11 @@ function setStatus(message, state) {
 }
 
 async function loadLeaderboard() {
-  setStatus("Loading latest leaderboard snapshot...", "status-loading");
+  const existingStatus = elements.statusBanner.textContent.trim();
+  const existingState = elements.statusBanner.className.replace("status-banner", "").trim();
+  if (!existingStatus) {
+    setStatus("Loading latest leaderboard snapshot...", "status-loading");
+  }
   elements.refreshButton.disabled = true;
 
   try {
@@ -146,6 +150,10 @@ async function loadLeaderboard() {
       error instanceof Error ? error.message : "Could not load docs/data.json.",
       "status-error"
     );
+  }
+
+  if (existingStatus && existingState && !elements.statusBanner.textContent.trim()) {
+    setStatus(existingStatus, existingState);
   }
 
   elements.refreshButton.disabled = false;
