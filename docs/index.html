@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Poker Fantasy Leaderboard</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@400;500;700&family=IBM+Plex+Mono:wght@400;500&display=swap"
+      rel="stylesheet"
+    />
+    <link rel="stylesheet" href="./styles.css" />
+  </head>
+  <body>
+    <div class="page-shell">
+      <header class="hero">
+        <div class="hero-copy">
+          <p class="eyebrow">Fantasy Draft Tracker</p>
+          <h1 id="league-name">Poker Fantasy Leaderboard</h1>
+          <p class="hero-text" id="league-description">
+            Track standings across multiple poker result tables.
+          </p>
+        </div>
+        <div class="hero-stats">
+          <div class="stat-card">
+            <span class="stat-label">Prize</span>
+            <span class="stat-value">$50 to win $450</span>
+            <p class="hero-text">Winner take all.</p>
+          </div>
+        </div>
+      </header>
+
+      <main class="content-grid">
+        <section class="panel panel-wide">
+          <div class="panel-heading">
+            <div>
+              <p class="section-kicker">Standings</p>
+              <h2>Leaderboard</h2>
+            </div>
+            <button id="refresh-button" class="refresh-button" type="button">
+              Refresh Data
+            </button>
+          </div>
+          <div id="status-banner" class="status-banner status-loading">
+            Loading configured tables...
+          </div>
+          <div class="table-wrap">
+            <table class="leaderboard-table">
+              <thead>
+                <tr>
+                  <th>Rank</th>
+                  <th>Manager</th>
+                  <th>Total Points</th>
+                  <th>Team Name</th>
+                </tr>
+              </thead>
+              <tbody id="leaderboard-body"></tbody>
+            </table>
+          </div>
+        </section>
+
+        <section class="panel panel-wide">
+          <div class="panel-heading">
+            <div>
+              <p class="section-kicker">Breakdown</p>
+              <h2>Player Totals</h2>
+            </div>
+          </div>
+          <div id="manager-cards" class="manager-cards"></div>
+        </section>
+      </main>
+    </div>
+
+    <script src="./config.js"></script>
+    <script src="./app.js" type="module"></script>
+  </body>
+</html>
