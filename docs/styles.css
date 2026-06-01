@@ -273,6 +273,40 @@ h1 {
   font-weight: 500;
 }
 
+.view-column-header,
+.view-link-cell {
+  width: 1%;
+  white-space: nowrap;
+}
+
+.view-link-cell {
+  text-align: right;
+}
+
+.view-link {
+  display: inline-flex;
+  align-items: center;
+  gap: 8px;
+  color: var(--muted);
+  font-size: 0.84rem;
+  text-decoration: none;
+}
+
+.view-link:hover {
+  color: var(--ink);
+}
+
+.view-link-text {
+  line-height: 1;
+}
+
+.view-link-icon {
+  width: 16px;
+  height: 16px;
+  border-radius: 4px;
+  display: block;
+}
+
 .source-list,
 .manager-cards {
   list-style: none;

@@ -69,6 +69,24 @@ function renderLeaderboard(managers) {
           <td>${escapeHtml(manager.name)}</td>
           <td class="points-cell">${Math.round(manager.totalPoints)}</td>
           <td>${manager.teamName ? escapeHtml(manager.teamName) : "-"}</td>
+          <td class="view-link-cell">
+            <a
+              class="view-link"
+              href="${escapeHtml(manager.url || "#")}"
+              target="_blank"
+              rel="noreferrer"
+              aria-label="View ${escapeHtml(manager.teamName || manager.name)} on Poker.org"
+              title="View on Poker.org"
+            >
+              <span class="view-link-text">View on</span>
+              <img
+                class="view-link-icon"
+                src="./favicon-32x32.18bb06ad.png"
+                alt=""
+                aria-hidden="true"
+              />
+            </a>
+          </td>
         </tr>
       `
     )
@@ -159,6 +177,7 @@ async function loadLeaderboard({ manual = false } = {}) {
     const managers = (snapshot.managers || []).map((manager) => ({
       name: manager.managerName,
       teamName: manager.teamName,
+      url: manager.url,
       totalPoints: parseNumber(manager.totalPoints),
       players: (manager.players || []).map((player) => ({
         player: canonicalPlayerName(player.player),
