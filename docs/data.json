@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-02T13:30:29.529155+00:00",
+  "generatedAt": "2026-06-02T15:32:52.057578+00:00",
   "managers": [
     {
       "managerName": "ASG",
@@ -82,6 +82,46 @@
       "totalPoints": 141.0
     },
     {
+      "managerName": "Kush",
+      "teamName": "Kushstrain1",
+      "url": "https://www.poker.org/fantasy/wsop/2026/team/kushstrain1/",
+      "players": [
+        {
+          "player": "Mike Leah",
+          "points": 103.0
+        },
+        {
+          "player": "David 'ODB' Baker",
+          "points": 24.0
+        },
+        {
+          "player": "Ben Yu",
+          "points": 2.0
+        },
+        {
+          "player": "Martin Zamani",
+          "points": 2.0
+        },
+        {
+          "player": "Viktor Blom",
+          "points": 0.0
+        },
+        {
+          "player": "Kristen Foxen",
+          "points": 0.0
+        },
+        {
+          "player": "Andrew Lichtenberger",
+          "points": 0.0
+        },
+        {
+          "player": "Allen Kessler",
+          "points": 0.0
+        }
+      ],
+      "totalPoints": 131.0
+    },
+    {
       "managerName": "JeffBNT",
       "teamName": "Max Degen",
       "url": "https://www.poker.org/fantasy/wsop/2026/team/team-max-degen/",
@@ -120,46 +160,6 @@
         }
       ],
       "totalPoints": 129.0
-    },
-    {
-      "managerName": "Kush",
-      "teamName": "Kushstrain1",
-      "url": "https://www.poker.org/fantasy/wsop/2026/team/kushstrain1/",
-      "players": [
-        {
-          "player": "Mike Leah",
-          "points": 103.0
-        },
-        {
-          "player": "David 'ODB' Baker",
-          "points": 3.0
-        },
-        {
-          "player": "Ben Yu",
-          "points": 2.0
-        },
-        {
-          "player": "Martin Zamani",
-          "points": 2.0
-        },
-        {
-          "player": "Viktor Blom",
-          "points": 0.0
-        },
-        {
-          "player": "Kristen Foxen",
-          "points": 0.0
-        },
-        {
-          "player": "Andrew Lichtenberger",
-          "points": 0.0
-        },
-        {
-          "player": "Allen Kessler",
-          "points": 0.0
-        }
-      ],
-      "totalPoints": 110.0
     },
     {
       "managerName": "Turbo",
