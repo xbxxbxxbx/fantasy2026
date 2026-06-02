@@ -50,44 +50,153 @@
         </div>
       </header>
 
+      <nav class="section-nav" aria-label="Section navigation">
+        <a class="section-nav-link" href="#leaderboard-section">Leaderboard</a>
+        <a class="section-nav-link" href="#routes-section">Routes to Victory</a>
+        <a class="section-nav-link" href="#breakdown-section">Rosters</a>
+        <a class="section-nav-link" href="#overlap-section">Team Overlap</a>
+        <a class="section-nav-link" href="#ownership-section">Ownership</a>
+      </nav>
+
       <main class="content-grid">
-        <section class="panel panel-wide">
+        <section id="leaderboard-section" class="panel panel-wide collapsible-panel">
           <div class="panel-heading">
             <div>
               <p class="section-kicker">Standings</p>
               <h2>Leaderboard</h2>
             </div>
-            <button id="refresh-button" class="refresh-button" type="button">
-              Refresh Data
+            <button
+              class="collapse-button"
+              type="button"
+              data-target="leaderboard-content"
+              aria-expanded="true"
+            >
+              Collapse
             </button>
           </div>
-          <div id="status-banner" class="status-banner status-loading">
-            Loading configured tables...
-          </div>
-          <div class="table-wrap">
-            <table class="leaderboard-table">
-              <thead>
-                <tr>
-                  <th>Rank</th>
-                  <th>Manager</th>
-                  <th>Total Points</th>
-                  <th>Team Name</th>
-                  <th class="view-column-header"></th>
-                </tr>
-              </thead>
-              <tbody id="leaderboard-body"></tbody>
-            </table>
+          <div id="leaderboard-content" class="panel-content">
+            <div id="status-banner" class="status-banner status-loading">
+              Loading configured tables...
+            </div>
+            <p class="status-note">Poker.org updates daily. This page refreshes automatically.</p>
+            <div class="table-wrap">
+              <table class="leaderboard-table">
+                <thead>
+                  <tr>
+                    <th>Rank</th>
+                    <th>Manager</th>
+                    <th>Total Points</th>
+                    <th>Team Name</th>
+                    <th class="view-column-header"></th>
+                  </tr>
+                </thead>
+                <tbody id="leaderboard-body"></tbody>
+              </table>
+            </div>
           </div>
         </section>
 
-        <section class="panel panel-wide">
+        <section id="routes-section" class="panel panel-wide collapsible-panel">
           <div class="panel-heading">
             <div>
-              <p class="section-kicker">Breakdown</p>
-              <h2>Player Totals</h2>
+              <p class="section-kicker">Leverage</p>
+              <h2>Routes To Victory</h2>
+            </div>
+            <button
+              class="collapse-button"
+              type="button"
+              data-target="routes-content"
+              aria-expanded="true"
+            >
+              Collapse
+            </button>
+          </div>
+          <div id="routes-content" class="panel-content">
+            <div class="analysis-lists">
+              <div class="analysis-list-card">
+                <h3>Best Leverage Teams</h3>
+                <ol id="best-leverage-list" class="insight-list"></ol>
+              </div>
+              <div class="analysis-list-card">
+                <h3>Most Blocked Teams</h3>
+                <ol id="most-blocked-list" class="insight-list"></ol>
+              </div>
+            </div>
+            <div id="routes-grid" class="routes-grid"></div>
+          </div>
+        </section>
+
+        <section id="breakdown-section" class="panel panel-wide collapsible-panel">
+          <div class="panel-heading">
+            <div>
+              <p class="section-kicker">Rosters</p>
+              <h2>Rosters</h2>
+            </div>
+            <button
+              class="collapse-button"
+              type="button"
+              data-target="breakdown-content"
+              aria-expanded="true"
+            >
+              Collapse
+            </button>
+          </div>
+          <div id="breakdown-content" class="panel-content">
+            <div id="manager-cards" class="manager-cards"></div>
+          </div>
+        </section>
+
+        <section id="overlap-section" class="panel panel-wide collapsible-panel">
+          <div class="panel-heading">
+            <div>
+              <p class="section-kicker">Overlap</p>
+              <h2>Team Overlap</h2>
+            </div>
+            <button
+              class="collapse-button"
+              type="button"
+              data-target="overlap-content"
+              aria-expanded="true"
+            >
+              Collapse
+            </button>
+          </div>
+          <div id="overlap-content" class="panel-content">
+            <div id="overlap-grid" class="overlap-grid"></div>
+          </div>
+        </section>
+
+        <section id="ownership-section" class="panel panel-wide collapsible-panel">
+          <div class="panel-heading">
+            <div>
+              <p class="section-kicker">Ownership</p>
+              <h2>Ownership</h2>
+            </div>
+            <button
+              class="collapse-button"
+              type="button"
+              data-target="ownership-content"
+              aria-expanded="true"
+            >
+              Collapse
+            </button>
+          </div>
+          <div id="ownership-content" class="panel-content">
+            <div class="table-wrap">
+              <table class="leaderboard-table ownership-table">
+                <thead>
+                  <tr>
+                    <th>Player</th>
+                    <th>Points</th>
+                    <th>Owned By</th>
+                    <th>Ownership %</th>
+                    <th>Teams</th>
+                  </tr>
+                </thead>
+                <tbody id="ownership-body"></tbody>
+              </table>
             </div>
           </div>
-          <div id="manager-cards" class="manager-cards"></div>
         </section>
       </main>
     </div>

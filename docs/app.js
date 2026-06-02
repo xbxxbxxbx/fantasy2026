@@ -6,7 +6,11 @@ const elements = {
   statusBanner: document.querySelector("#status-banner"),
   leaderboardBody: document.querySelector("#leaderboard-body"),
   managerCards: document.querySelector("#manager-cards"),
-  refreshButton: document.querySelector("#refresh-button"),
+  ownershipBody: document.querySelector("#ownership-body"),
+  overlapGrid: document.querySelector("#overlap-grid"),
+  routesGrid: document.querySelector("#routes-grid"),
+  bestLeverageList: document.querySelector("#best-leverage-list"),
+  mostBlockedList: document.querySelector("#most-blocked-list"),
   refreshToast: document.querySelector("#refresh-toast"),
 };
 
@@ -125,9 +129,298 @@ function renderManagerCards(managers) {
     .join("");
 }
 
+function formatPercent(value) {
+  return `${Math.round(value)}%`;
+}
+
+function buildAnalytics(managers) {
+  const teamCount = managers.length;
+  const playerMap = new Map();
+
+  for (const manager of managers) {
+    for (const player of manager.players) {
+      const key = canonicalPlayerName(player.player);
+      const existing = playerMap.get(key) || {
+        player: key,
+        points: 0,
+        owners: [],
+      };
+      existing.points = Math.max(existing.points, parseNumber(player.points));
+      existing.owners.push(manager.name);
+      playerMap.set(key, existing);
+    }
+  }
+
+  const ownershipRows = Array.from(playerMap.values())
+    .map((entry) => ({
+      player: entry.player,
+      points: entry.points,
+      ownerCount: entry.owners.length,
+      ownershipPercent: (entry.owners.length / teamCount) * 100,
+      owners: [...entry.owners].sort(),
+    }))
+    .sort(
+      (left, right) =>
+        right.ownerCount - left.ownerCount ||
+        right.points - left.points ||
+        left.player.localeCompare(right.player)
+    );
+
+  const playerOwnerCount = new Map(
+    ownershipRows.map((row) => [canonicalPlayerName(row.player), row.ownerCount])
+  );
+  const leader = managers[0] || null;
+  const leaderPlayers = new Set((leader?.players || []).map((player) => canonicalPlayerName(player.player)));
+
+  const overlapRows = managers.map((manager) => {
+    const playerSet = new Set(manager.players.map((player) => canonicalPlayerName(player.player)));
+    const rivals = managers
+      .filter((rival) => rival.name !== manager.name)
+      .map((rival) => {
+        const sharedPlayers = rival.players
+          .map((player) => canonicalPlayerName(player.player))
+          .filter((playerName) => playerSet.has(playerName))
+          .sort((left, right) => {
+            const leftPoints = ownershipRows.find((row) => row.player === left)?.points || 0;
+            const rightPoints = ownershipRows.find((row) => row.player === right)?.points || 0;
+            return rightPoints - leftPoints || left.localeCompare(right);
+          });
+        return {
+          rivalName: rival.name,
+          overlapCount: sharedPlayers.length,
+          sharedPlayers,
+        };
+      })
+      .sort(
+        (left, right) =>
+          right.overlapCount - left.overlapCount ||
+          left.rivalName.localeCompare(right.rivalName)
+      );
+
+    return {
+      team: manager.name,
+      teamName: manager.teamName,
+      bestRival: rivals[0] || null,
+      rivals,
+    };
+  });
+
+  const routeRows = managers.map((manager, index) => {
+    const uniquePlayers = [];
+    const sharedPlayers = [];
+    let uniquePoints = 0;
+    let semiSharedPoints = 0;
+    let crowdedPoints = 0;
+
+    for (const player of manager.players) {
+      const playerName = canonicalPlayerName(player.player);
+      const ownerCount = playerOwnerCount.get(playerName) || 1;
+      const points = parseNumber(player.points);
+
+      if (ownerCount === 1) {
+        uniquePlayers.push(playerName);
+        uniquePoints += points;
+      } else {
+        sharedPlayers.push(playerName);
+        if (ownerCount === 2) {
+          semiSharedPoints += points;
+        } else {
+          crowdedPoints += points;
+        }
+      }
+    }
+
+    const managerPlayerSet = new Set(manager.players.map((player) => canonicalPlayerName(player.player)));
+    const leadersSharedPlayers = Array.from(managerPlayerSet).filter((player) => leaderPlayers.has(player));
+    const leadersSharedWithTeam = leadersSharedPlayers.length;
+    const leadersSharedAgainstTeam = (leader?.players || [])
+      .filter((player) => managerPlayerSet.has(canonicalPlayerName(player.player)))
+      .reduce((sum, player) => sum + parseNumber(player.points), 0);
+    const higherTeams = managers.slice(0, index);
+    const blockedOverlapCount = higherTeams.reduce((sum, higherTeam) => {
+      const higherSet = new Set(
+        higherTeam.players.map((player) => canonicalPlayerName(player.player))
+      );
+      return (
+        sum +
+        Array.from(managerPlayerSet).filter((player) => higherSet.has(player)).length
+      );
+    }, 0);
+    const sharedPoints = semiSharedPoints + crowdedPoints;
+    const uniqueShare = manager.totalPoints > 0 ? uniquePoints / manager.totalPoints : 0;
+    const chaseGap = leader ? leader.totalPoints - manager.totalPoints : 0;
+
+    let routeSummary = "Needs both shared stars to hold and one or two unique draftees to separate.";
+    if (index === 0) {
+      routeSummary =
+        uniquePoints > sharedPoints
+          ? "Controls its own path; gains from continued scoring by unique core."
+          : "Still leading, but shared draftees let trailing teams keep pace.";
+    } else if (leadersSharedWithTeam >= 3 || leadersSharedAgainstTeam > manager.totalPoints * 0.5) {
+      routeSummary =
+        "Needs non-shared production because leader gains from many of the same scores.";
+    } else if (uniqueShare >= 0.35 || uniquePlayers.length >= 3) {
+      routeSummary =
+        "Has live outs if unique draftees surge; less blocked by leaders.";
+    }
+
+    return {
+      ...manager,
+      rank: index + 1,
+      uniquePlayerCount: uniquePlayers.length,
+      sharedPlayerCount: sharedPlayers.length,
+      uniquePoints,
+      semiSharedPoints,
+      crowdedPoints,
+      sharedPoints,
+      leadersSharedWithTeam,
+      leadersSharedAgainstTeam,
+      chaseGap,
+      routeSummary,
+      uniqueShare,
+      blockedOverlapCount,
+    };
+  });
+
+  const bestLeverageTeams = [...routeRows]
+    .sort(
+      (left, right) =>
+        right.uniqueShare - left.uniqueShare ||
+        right.uniquePoints - left.uniquePoints ||
+        left.rank - right.rank
+    )
+    .slice(0, 3);
+
+  const mostBlockedTeams = [...routeRows]
+    .sort(
+      (left, right) =>
+        right.blockedOverlapCount - left.blockedOverlapCount ||
+        right.leadersSharedAgainstTeam - left.leadersSharedAgainstTeam ||
+        left.rank - right.rank
+    )
+    .slice(0, 3);
+
+  return {
+    ownershipRows,
+    overlapRows,
+    routeRows,
+    bestLeverageTeams,
+    mostBlockedTeams,
+  };
+}
+
+function renderOwnership(ownershipRows) {
+  elements.ownershipBody.innerHTML = ownershipRows
+    .map((row) => {
+      const bucketClass =
+        row.ownerCount === 1 ? "ownership-unique" : row.ownerCount === 2 ? "ownership-shared" : "ownership-crowded";
+      return `
+        <tr>
+          <td>${escapeHtml(row.player)}</td>
+          <td class="points-cell">${Math.round(row.points)}</td>
+          <td>${row.ownerCount}</td>
+          <td><span class="ownership-pill ${bucketClass}">${formatPercent(row.ownershipPercent)}</span></td>
+          <td class="teams-cell">${escapeHtml(row.owners.join(", "))}</td>
+        </tr>
+      `;
+    })
+    .join("");
+}
+
+function renderOverlap(overlapRows) {
+  elements.overlapGrid.innerHTML = overlapRows
+    .map((row) => {
+      const bestRivalName = row.bestRival?.rivalName || "None";
+      const bestRivalCount = row.bestRival?.overlapCount || 0;
+      return `
+        <article class="overlap-card">
+          <div class="card-header">
+            <div>
+              <h3>${escapeHtml(row.team)}</h3>
+              <p class="player-meta">${escapeHtml(row.teamName)}</p>
+            </div>
+            <div class="overlap-highlight">${bestRivalCount} with ${escapeHtml(bestRivalName)}</div>
+          </div>
+          <div class="overlap-list">
+            ${row.rivals
+              .map(
+                (rival) => `
+                  <div class="overlap-row ${rival.rivalName === bestRivalName ? "is-top-rival" : ""}">
+                    <div>
+                      <div class="player-name">${escapeHtml(rival.rivalName)}</div>
+                      <div class="player-meta">${escapeHtml(
+                        rival.sharedPlayers.slice(0, 3).join(", ") || "No shared players"
+                      )}</div>
+                    </div>
+                    <div class="overlap-count">${rival.overlapCount}</div>
+                  </div>
+                `
+              )
+              .join("")}
+          </div>
+        </article>
+      `;
+    })
+    .join("");
+}
+
+function renderRouteLists(bestLeverageTeams, mostBlockedTeams) {
+  elements.bestLeverageList.innerHTML = bestLeverageTeams
+    .map(
+      (team) => `
+        <li>${escapeHtml(team.name)} <span>${Math.round(team.uniquePoints)} unique pts</span></li>
+      `
+    )
+    .join("");
+  elements.mostBlockedList.innerHTML = mostBlockedTeams
+    .map(
+      (team) => `
+        <li>${escapeHtml(team.name)} <span>${team.blockedOverlapCount} shared with teams ahead</span></li>
+      `
+    )
+    .join("");
+}
+
+function renderRoutes(routeRows) {
+  elements.routesGrid.innerHTML = routeRows
+    .map(
+      (team) => `
+        <article class="route-card">
+          <div class="card-header">
+            <div>
+              <p class="section-kicker">Rank #${team.rank}</p>
+              <h3>${escapeHtml(team.name)}</h3>
+            </div>
+            <div class="card-total">${Math.round(team.totalPoints)} pts</div>
+          </div>
+          <p class="route-summary">${escapeHtml(team.routeSummary)}</p>
+          <div class="route-metrics">
+            <div class="route-metric"><span>Unique players</span><strong>${team.uniquePlayerCount}</strong></div>
+            <div class="route-metric"><span>Shared players</span><strong>${team.sharedPlayerCount}</strong></div>
+            <div class="route-metric"><span>Unique points</span><strong>${Math.round(team.uniquePoints)}</strong></div>
+            <div class="route-metric"><span>Shared points</span><strong>${Math.round(team.sharedPoints)}</strong></div>
+            <div class="route-metric"><span>Leader overlap</span><strong>${team.leadersSharedWithTeam}</strong></div>
+            <div class="route-metric"><span>Gap to first</span><strong>${Math.round(team.chaseGap)}</strong></div>
+          </div>
+        </article>
+      `
+    )
+    .join("");
+}
+
 function setStatus(message, state) {
   elements.statusBanner.textContent = message;
   elements.statusBanner.className = `status-banner ${state}`;
+}
+
+function formatUpdatedAt(value) {
+  const date = new Date(value);
+  return new Intl.DateTimeFormat("en-US", {
+    month: "long",
+    day: "numeric",
+    hour: "numeric",
+    minute: "2-digit",
+  }).format(date);
 }
 
 function snapshotSignature(snapshot) {
@@ -162,13 +455,28 @@ function showRefreshToast(message) {
   }, 2600);
 }
 
+function initializeCollapsiblePanels() {
+  document.querySelectorAll(".collapse-button").forEach((button) => {
+    button.addEventListener("click", () => {
+      const targetId = button.getAttribute("data-target");
+      const content = targetId ? document.getElementById(targetId) : null;
+      if (!content) {
+        return;
+      }
+
+      const isCollapsed = content.classList.toggle("is-collapsed");
+      button.setAttribute("aria-expanded", String(!isCollapsed));
+      button.textContent = isCollapsed ? "Expand" : "Collapse";
+    });
+  });
+}
+
 async function loadLeaderboard({ manual = false } = {}) {
   const existingStatus = elements.statusBanner.textContent.trim();
   const existingState = elements.statusBanner.className.replace("status-banner", "").trim();
   if (!existingStatus) {
     setStatus("Loading latest leaderboard snapshot...", "status-loading");
   }
-  elements.refreshButton.disabled = true;
 
   try {
     const snapshot = await fetchSnapshot();
@@ -191,12 +499,14 @@ async function loadLeaderboard({ manual = false } = {}) {
 
     renderLeaderboard(managers);
     renderManagerCards(managers);
+    const analytics = buildAnalytics(managers);
+    renderOwnership(analytics.ownershipRows);
+    renderOverlap(analytics.overlapRows);
+    renderRouteLists(analytics.bestLeverageTeams, analytics.mostBlockedTeams);
+    renderRoutes(analytics.routeRows);
 
     if (snapshot.generatedAt) {
-      setStatus(
-        `Last updated ${new Date(snapshot.generatedAt).toLocaleString()}.`,
-        "status-ok"
-      );
+      setStatus(`Last updated ${formatUpdatedAt(snapshot.generatedAt)}.`, "status-ok");
     } else {
       setStatus("No data yet. Run the scraper to populate docs/data.json.", "status-loading");
     }
@@ -213,6 +523,10 @@ async function loadLeaderboard({ manual = false } = {}) {
   } catch (error) {
     renderLeaderboard([]);
     renderManagerCards([]);
+    renderOwnership([]);
+    renderOverlap([]);
+    renderRouteLists([], []);
+    renderRoutes([]);
     setStatus(
       error instanceof Error ? error.message : "Could not load docs/data.json.",
       "status-error"
@@ -225,10 +539,8 @@ async function loadLeaderboard({ manual = false } = {}) {
   if (existingStatus && existingState && !elements.statusBanner.textContent.trim()) {
     setStatus(existingStatus, existingState);
   }
-
-  elements.refreshButton.disabled = false;
 }
 
 renderHeaderStats();
-elements.refreshButton.addEventListener("click", () => loadLeaderboard({ manual: true }));
+initializeCollapsiblePanels();
 loadLeaderboard();
