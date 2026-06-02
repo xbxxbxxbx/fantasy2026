@@ -3,7 +3,6 @@ const config = window.LEADERBOARD_CONFIG;
 const elements = {
   leagueName: document.querySelector("#league-name"),
   leagueDescription: document.querySelector("#league-description"),
-  statusBanner: document.querySelector("#status-banner"),
   leaderboardBody: document.querySelector("#leaderboard-body"),
   managerCards: document.querySelector("#manager-cards"),
   ownershipBody: document.querySelector("#ownership-body"),
@@ -410,8 +409,7 @@ function renderRoutes(routeRows) {
 }
 
 function setStatus(message, state) {
-  elements.statusBanner.textContent = message;
-  elements.statusBanner.className = `status-banner ${state}`;
+  return { message, state };
 }
 
 function formatUpdatedAt(value) {
@@ -504,12 +502,6 @@ function updateBackToTopVisibility() {
 }
 
 async function loadLeaderboard({ manual = false } = {}) {
-  const existingStatus = elements.statusBanner.textContent.trim();
-  const existingState = elements.statusBanner.className.replace("status-banner", "").trim();
-  if (!existingStatus) {
-    setStatus("Loading latest leaderboard snapshot...", "status-loading");
-  }
-
   try {
     const snapshot = await fetchSnapshot();
     const nextSignature = snapshotSignature(snapshot);
@@ -525,10 +517,6 @@ async function loadLeaderboard({ manual = false } = {}) {
       })),
     }));
 
-    elements.leagueName.textContent = snapshot.leagueName || config.leagueName;
-    elements.leagueDescription.textContent =
-      snapshot.leagueDescription || config.leagueDescription;
-
     renderLeaderboard(managers);
     renderManagerCards(managers);
     const analytics = buildAnalytics(managers);
@@ -536,12 +524,6 @@ async function loadLeaderboard({ manual = false } = {}) {
     renderOverlap(analytics.overlapRows);
     renderRouteLists(analytics.bestLeverageTeams, analytics.mostBlockedTeams);
     renderRoutes(analytics.routeRows);
-
-    if (snapshot.generatedAt) {
-      setStatus(`Last updated ${formatUpdatedAt(snapshot.generatedAt)}.`, "status-ok");
-    } else {
-      setStatus("No data yet. Run the scraper to populate docs/data.json.", "status-loading");
-    }
 
     if (manual) {
       showRefreshToast(
@@ -566,10 +548,6 @@ async function loadLeaderboard({ manual = false } = {}) {
     if (manual) {
       showRefreshToast("Refresh failed. Try again in a moment.");
     }
-  }
-
-  if (existingStatus && existingState && !elements.statusBanner.textContent.trim()) {
-    setStatus(existingStatus, existingState);
   }
 }
 

@@ -187,9 +187,6 @@ def build_snapshot(config: dict) -> dict:
     results.sort(key=lambda item: item["totalPoints"], reverse=True)
 
     return {
-        "leagueName": config.get("leagueName", "Poker Fantasy Leaderboard"),
-        "leagueDescription": config.get("leagueDescription", ""),
-        "scoringLabel": config.get("scoringLabel", "Score"),
         "generatedAt": datetime.now(timezone.utc).isoformat(),
         "managers": results,
         "failures": failures,

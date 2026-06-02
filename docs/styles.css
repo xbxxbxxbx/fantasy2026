@@ -103,22 +103,6 @@ h1 {
   line-height: 1.5;
 }
 
-.hero-credit {
-  margin-top: 18px;
-  color: var(--muted);
-}
-
-.hero-credit a {
-  color: var(--ink);
-  font-weight: 700;
-  text-decoration-color: rgba(31, 29, 26, 0.35);
-  text-underline-offset: 0.18em;
-}
-
-.hero-credit a:hover {
-  text-decoration-color: rgba(31, 29, 26, 0.8);
-}
-
 .hero-stats {
   display: grid;
   gap: 14px;
@@ -256,7 +240,6 @@ h1 {
 .status-banner {
   border-radius: var(--radius-md);
   padding: 14px 16px;
-  margin-bottom: 16px;
   border: 1px solid var(--line);
   background: rgba(255, 255, 255, 0.56);
 }
@@ -279,7 +262,7 @@ h1 {
 }
 
 .status-note {
-  margin: -4px 0 18px;
+  margin: 10px 0 0;
   color: var(--muted);
   font-size: 0.9rem;
 }

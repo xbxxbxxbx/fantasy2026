@@ -1,7 +1,7 @@
 window.LEADERBOARD_CONFIG = {
   leagueName: "WSOP Poker Fantasy Draft 2026",
   leagueDescription:
-    "Live leaderboard sourced from Poker.org fantasy team pages.",
+    "Live leaderboard from Poker.org updated daily",
   scoringLabel: "Score",
   teamSources: [
     {
