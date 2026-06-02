@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-02T05:42:25.802074+00:00",
+  "generatedAt": "2026-06-02T07:51:05.611936+00:00",
   "managers": [
     {
       "managerName": "ASG",
@@ -23,6 +23,10 @@
           "points": 1.0
         },
         {
+          "player": "Bryce Yockey",
+          "points": 1.0
+        },
+        {
           "player": "Chance Kornuth",
           "points": 1.0
         },
@@ -31,15 +35,51 @@
           "points": 1.0
         },
         {
-          "player": "Bryce Yockey",
-          "points": 0.0
-        },
-        {
           "player": "Jason Koon",
           "points": 0.0
         }
       ],
-      "totalPoints": 167.0
+      "totalPoints": 168.0
+    },
+    {
+      "managerName": "Doinky",
+      "teamName": "doinky",
+      "url": "https://www.poker.org/fantasy/wsop/2026/team/doinky/",
+      "players": [
+        {
+          "player": "Dylan Weisman",
+          "points": 137.0
+        },
+        {
+          "player": "Adam Hendrix",
+          "points": 3.0
+        },
+        {
+          "player": "Matt Vengrin",
+          "points": 1.0
+        },
+        {
+          "player": "Isaac Haxton",
+          "points": 0.0
+        },
+        {
+          "player": "Eric Wasserson",
+          "points": 0.0
+        },
+        {
+          "player": "Sam Soverel",
+          "points": 0.0
+        },
+        {
+          "player": "Stephen Song",
+          "points": 0.0
+        },
+        {
+          "player": "Andrew Ostapchenko",
+          "points": 0.0
+        }
+      ],
+      "totalPoints": 141.0
     },
     {
       "managerName": "JeffBNT",
@@ -56,7 +96,7 @@
         },
         {
           "player": "Ari Engel",
-          "points": 3.0
+          "points": 4.0
         },
         {
           "player": "Ben Yu",
@@ -79,7 +119,7 @@
           "points": 0.0
         }
       ],
-      "totalPoints": 128.0
+      "totalPoints": 129.0
     },
     {
       "managerName": "Kush",
@@ -162,44 +202,44 @@
       "totalPoints": 60.0
     },
     {
-      "managerName": "Doinky",
-      "teamName": "doinky",
-      "url": "https://www.poker.org/fantasy/wsop/2026/team/doinky/",
+      "managerName": "Gus",
+      "teamName": "mynameaintearl",
+      "url": "https://www.poker.org/fantasy/wsop/2026/team/mynameaintearl/",
       "players": [
         {
-          "player": "Dylan Weisman",
-          "points": 45.0
+          "player": "Jerry Wong",
+          "points": 12.0
         },
         {
-          "player": "Adam Hendrix",
+          "player": "Nick Guagenti",
           "points": 3.0
         },
         {
-          "player": "Matt Vengrin",
+          "player": "Danny Wong",
+          "points": 3.0
+        },
+        {
+          "player": "Dylan Smith",
+          "points": 3.0
+        },
+        {
+          "player": "Esther Taylor",
+          "points": 2.0
+        },
+        {
+          "player": "Matt Glantz",
           "points": 1.0
         },
         {
-          "player": "Isaac Haxton",
-          "points": 0.0
+          "player": "Phillip Hui",
+          "points": 1.0
         },
         {
-          "player": "Eric Wasserson",
-          "points": 0.0
-        },
-        {
-          "player": "Sam Soverel",
-          "points": 0.0
-        },
-        {
-          "player": "Stephen Song",
-          "points": 0.0
-        },
-        {
-          "player": "Andrew Ostapchenko",
+          "player": "Allan Le",
           "points": 0.0
         }
       ],
-      "totalPoints": 49.0
+      "totalPoints": 25.0
     },
     {
       "managerName": "realbmorekid",
@@ -242,50 +282,14 @@
       "totalPoints": 24.0
     },
     {
-      "managerName": "Gus",
-      "teamName": "mynameaintearl",
-      "url": "https://www.poker.org/fantasy/wsop/2026/team/mynameaintearl/",
-      "players": [
-        {
-          "player": "Nick Guagenti",
-          "points": 3.0
-        },
-        {
-          "player": "Danny Wong",
-          "points": 3.0
-        },
-        {
-          "player": "Dylan Smith",
-          "points": 3.0
-        },
-        {
-          "player": "Esther Taylor",
-          "points": 2.0
-        },
-        {
-          "player": "Matt Glantz",
-          "points": 1.0
-        },
-        {
-          "player": "Phillip Hui",
-          "points": 1.0
-        },
-        {
-          "player": "Jerry Wong",
-          "points": 1.0
-        },
-        {
-          "player": "Allan Le",
-          "points": 0.0
-        }
-      ],
-      "totalPoints": 14.0
-    },
-    {
       "managerName": "Ruben",
       "teamName": "wugwugwugwug",
       "url": "https://www.poker.org/fantasy/wsop/2026/team/wugwugwugwug/",
       "players": [
+        {
+          "player": "Jerry Wong",
+          "points": 12.0
+        },
         {
           "player": "Maksim Pisarenko",
           "points": 4.0
@@ -299,11 +303,11 @@
           "points": 1.0
         },
         {
-          "player": "Matt Vengrin",
+          "player": "Ian Matakis",
           "points": 1.0
         },
         {
-          "player": "Jerry Wong",
+          "player": "Matt Vengrin",
           "points": 1.0
         },
         {
@@ -311,15 +315,11 @@
           "points": 0.0
         },
         {
-          "player": "Ian Matakis",
-          "points": 0.0
-        },
-        {
           "player": "Brandon Shack-Harris",
           "points": 0.0
         }
       ],
-      "totalPoints": 9.0
+      "totalPoints": 21.0
     },
     {
       "managerName": "Trampstamp",
@@ -327,11 +327,11 @@
       "url": "https://www.poker.org/fantasy/wsop/2026/team/lowerbackstamp/",
       "players": [
         {
-          "player": "Esther Taylor",
-          "points": 2.0
+          "player": "Patrick Leonard",
+          "points": 3.0
         },
         {
-          "player": "Patrick Leonard",
+          "player": "Esther Taylor",
           "points": 2.0
         },
         {
@@ -359,7 +359,7 @@
           "points": 0.0
         }
       ],
-      "totalPoints": 5.0
+      "totalPoints": 6.0
     }
   ],
   "failures": []
