@@ -472,6 +472,28 @@ function initializeCollapsiblePanels() {
   });
 }
 
+function expandSectionFromNav(hash) {
+  if (!hash || hash === "#top") {
+    return null;
+  }
+
+  const section = document.querySelector(hash);
+  if (!section) {
+    return null;
+  }
+
+  const content = section.querySelector(".panel-content");
+  const button = section.querySelector(".collapse-button");
+  if (!content || !button || !content.classList.contains("is-collapsed")) {
+    return section;
+  }
+
+  content.classList.remove("is-collapsed");
+  button.setAttribute("aria-expanded", "true");
+  button.textContent = "Collapse";
+  return section;
+}
+
 function updateBackToTopVisibility() {
   if (!elements.backToTop) {
     return;
@@ -553,6 +575,23 @@ async function loadLeaderboard({ manual = false } = {}) {
 
 renderHeaderStats();
 initializeCollapsiblePanels();
+document.querySelectorAll(".section-nav-link").forEach((link) => {
+  link.addEventListener("click", (event) => {
+    const hash = link.getAttribute("href");
+    if (!hash) {
+      return;
+    }
+
+    event.preventDefault();
+    const section = expandSectionFromNav(hash);
+    if (!section) {
+      return;
+    }
+
+    section.scrollIntoView({ behavior: "smooth", block: "start" });
+    window.history.replaceState(null, "", hash);
+  });
+});
 window.addEventListener("scroll", updateBackToTopVisibility, { passive: true });
 updateBackToTopVisibility();
 loadLeaderboard();
