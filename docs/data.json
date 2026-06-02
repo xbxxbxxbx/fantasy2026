@@ -2,7 +2,7 @@
   "leagueName": "WSOP Poker Fantasy Draft 2026",
   "leagueDescription": "Live leaderboard sourced from Poker.org fantasy team pages.",
   "scoringLabel": "Score",
-  "generatedAt": "2026-06-01T23:57:19.644318+00:00",
+  "generatedAt": "2026-06-02T01:22:25.532159+00:00",
   "managers": [
     {
       "managerName": "ASG",
@@ -294,11 +294,15 @@
           "points": 4.0
         },
         {
-          "player": "Matt Vengrin",
+          "player": "Ryan Hoenig",
+          "points": 2.0
+        },
+        {
+          "player": "Jim Collopy",
           "points": 1.0
         },
         {
-          "player": "Ryan Hoenig",
+          "player": "Matt Vengrin",
           "points": 1.0
         },
         {
@@ -310,10 +314,6 @@
           "points": 0.0
         },
         {
-          "player": "Jim Collopy",
-          "points": 0.0
-        },
-        {
           "player": "Ian Matakis",
           "points": 0.0
         },
@@ -322,7 +322,7 @@
           "points": 0.0
         }
       ],
-      "totalPoints": 7.0
+      "totalPoints": 9.0
     },
     {
       "managerName": "Trampstamp",
