@@ -67,11 +67,24 @@ function renderHeaderStats() {
 function renderLeaderboard(managers) {
   elements.leaderboardBody.innerHTML = managers
     .map(
-      (manager, index) => `
+      (manager, index) => {
+        const pointsDelta = parseNumber(manager.pointsChange);
+        const deltaMarkup =
+          pointsDelta === 0
+            ? ""
+            : `<span class="points-delta ${pointsDelta > 0 ? "points-delta-up" : "points-delta-down"}">${
+                pointsDelta > 0 ? "+" : ""
+              }${Math.round(pointsDelta)}</span>`;
+
+        return `
         <tr>
           <td><span class="rank-badge">${index + 1}</span></td>
           <td>${escapeHtml(manager.name)}</td>
-          <td class="points-cell">${Math.round(manager.totalPoints)}</td>
+          <td class="points-cell">
+            <span class="points-cell-content">
+              <span class="points-total">${Math.round(manager.totalPoints)}</span>${deltaMarkup}
+            </span>
+          </td>
           <td>${manager.teamName ? escapeHtml(manager.teamName) : "-"}</td>
           <td class="view-link-cell">
             <a
@@ -92,7 +105,8 @@ function renderLeaderboard(managers) {
             </a>
           </td>
         </tr>
-      `
+      `;
+      }
     )
     .join("");
 }
@@ -346,8 +360,8 @@ function renderOverlap(overlapRows) {
                 (rival) => `
                   <div class="overlap-row ${rival.rivalName === bestRivalName ? "is-top-rival" : ""}">
                     <div>
-                      <div class="player-name">${escapeHtml(rival.rivalName)}</div>
-                      <div class="player-meta">${escapeHtml(
+                      <div class="overlap-rival-name">${escapeHtml(rival.rivalName)}</div>
+                      <div class="overlap-shared-players">${escapeHtml(
                         rival.sharedPlayers.slice(0, 3).join(", ") || "No shared players"
                       )}</div>
                     </div>
@@ -510,6 +524,7 @@ async function loadLeaderboard({ manual = false } = {}) {
       teamName: manager.teamName,
       url: manager.url,
       totalPoints: parseNumber(manager.totalPoints),
+      pointsChange: parseNumber(manager.pointsChange),
       players: (manager.players || []).map((player) => ({
         player: canonicalPlayerName(player.player),
         points: parseNumber(player.points),

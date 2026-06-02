@@ -107,6 +107,25 @@ def fetch_html(url: str) -> str:
         return response.read().decode("utf-8", errors="replace")
 
 
+def load_previous_totals() -> dict[str, float]:
+    if not OUTPUT_PATH.exists():
+        return {}
+
+    try:
+        payload = json.loads(OUTPUT_PATH.read_text(encoding="utf-8"))
+    except (OSError, json.JSONDecodeError):
+        return {}
+
+    totals = {}
+    for manager in payload.get("managers", []):
+        manager_name = manager.get("managerName")
+        total_points = manager.get("totalPoints")
+        if manager_name is None or total_points is None:
+            continue
+        totals[str(manager_name)] = float(total_points)
+    return totals
+
+
 def parse_team_page(html: str, table_class: str, player_column: str, score_column: str) -> list[dict]:
     parser = DraftTableParser(table_class)
     parser.feed(html)
@@ -151,6 +170,7 @@ def build_snapshot(config: dict) -> dict:
     table_class = table_selector.lstrip(".")
     player_column = config.get("teamPagePlayerColumn", "PLAYER")
     score_column = config.get("teamPagePointsColumn", "SCORE")
+    previous_totals = load_previous_totals()
 
     results = []
     failures = []
@@ -172,6 +192,7 @@ def build_snapshot(config: dict) -> dict:
                     "url": source.url,
                     "players": sorted(players, key=lambda item: item["points"], reverse=True),
                     "totalPoints": round(total_points, 2),
+                    "pointsChange": round(total_points - previous_totals.get(source.manager_name, total_points), 2),
                 }
             )
         except (HTTPError, URLError, TimeoutError, ValueError) as exc:

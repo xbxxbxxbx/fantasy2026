@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-02T20:29:35.917510+00:00",
+  "generatedAt": "2026-06-02T20:38:07.430783+00:00",
   "managers": [
     {
       "managerName": "ASG",
@@ -39,7 +39,8 @@
           "points": 0.0
         }
       ],
-      "totalPoints": 168.0
+      "totalPoints": 168.0,
+      "pointsChange": 0.0
     },
     {
       "managerName": "Doinky",
@@ -79,7 +80,8 @@
           "points": 0.0
         }
       ],
-      "totalPoints": 141.0
+      "totalPoints": 141.0,
+      "pointsChange": 0.0
     },
     {
       "managerName": "Kush",
@@ -119,11 +121,12 @@
           "points": 0.0
         }
       ],
-      "totalPoints": 131.0
+      "totalPoints": 131.0,
+      "pointsChange": 0.0
     },
     {
       "managerName": "JeffBNT",
-      "teamName": "Max Degen",
+      "teamName": "Team Max Degen",
       "url": "https://www.poker.org/fantasy/wsop/2026/team/team-max-degen/",
       "players": [
         {
@@ -159,7 +162,8 @@
           "points": 0.0
         }
       ],
-      "totalPoints": 129.0
+      "totalPoints": 129.0,
+      "pointsChange": 0.0
     },
     {
       "managerName": "Turbo",
@@ -199,7 +203,8 @@
           "points": 0.0
         }
       ],
-      "totalPoints": 60.0
+      "totalPoints": 60.0,
+      "pointsChange": 0.0
     },
     {
       "managerName": "Gus",
@@ -239,11 +244,12 @@
           "points": 0.0
         }
       ],
-      "totalPoints": 25.0
+      "totalPoints": 25.0,
+      "pointsChange": 0.0
     },
     {
       "managerName": "realbmorekid",
-      "teamName": "Bmore's brawlers",
+      "teamName": "Bmore\u2019s Brawlers",
       "url": "https://www.poker.org/fantasy/wsop/2026/team/bmore-s-brawlers/",
       "players": [
         {
@@ -279,7 +285,8 @@
           "points": 0.0
         }
       ],
-      "totalPoints": 24.0
+      "totalPoints": 24.0,
+      "pointsChange": 0.0
     },
     {
       "managerName": "Ruben",
@@ -319,7 +326,8 @@
           "points": 0.0
         }
       ],
-      "totalPoints": 21.0
+      "totalPoints": 21.0,
+      "pointsChange": 0.0
     },
     {
       "managerName": "Trampstamp",
@@ -359,7 +367,8 @@
           "points": 0.0
         }
       ],
-      "totalPoints": 6.0
+      "totalPoints": 6.0,
+      "pointsChange": 0.0
     }
   ],
   "failures": []

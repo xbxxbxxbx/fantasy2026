@@ -335,6 +335,35 @@ h1 {
   font-weight: 500;
 }
 
+.points-cell-content {
+  display: inline-flex;
+  align-items: center;
+  gap: 8px;
+  line-height: 1;
+  white-space: nowrap;
+}
+
+.points-total {
+  display: inline-block;
+}
+
+.points-delta {
+  font-size: 0.86rem;
+  font-weight: 700;
+  line-height: 1;
+  margin-left: 4px;
+  position: relative;
+  top: 1px;
+}
+
+.points-delta-up {
+  color: var(--green);
+}
+
+.points-delta-down {
+  color: var(--red);
+}
+
 .view-column-header,
 .view-link-cell {
   width: 1%;
@@ -547,6 +576,15 @@ h1 {
   gap: 12px;
   padding-top: 10px;
   border-top: 1px solid var(--line);
+}
+
+.overlap-rival-name {
+  font-weight: 700;
+  color: var(--ink);
+}
+
+.overlap-shared-players {
+  color: var(--muted);
 }
 
 .overlap-row.is-top-rival {

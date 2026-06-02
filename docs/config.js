@@ -31,7 +31,7 @@ window.LEADERBOARD_CONFIG = {
     },
     {
       managerName: "JeffBNT",
-      teamName: "Max Degen",
+      teamName: "Team Max Degen",
       url: "https://www.poker.org/fantasy/wsop/2026/team/team-max-degen/",
     },
     {
@@ -41,7 +41,7 @@ window.LEADERBOARD_CONFIG = {
     },
     {
       managerName: "realbmorekid",
-      teamName: "Bmore's brawlers",
+      teamName: "Bmore’s Brawlers",
       url: "https://www.poker.org/fantasy/wsop/2026/team/bmore-s-brawlers/",
     },
     {
