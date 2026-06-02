@@ -237,15 +237,14 @@ function buildAnalytics(managers) {
       .filter((player) => managerPlayerSet.has(canonicalPlayerName(player.player)))
       .reduce((sum, player) => sum + parseNumber(player.points), 0);
     const higherTeams = managers.slice(0, index);
-    const blockedOverlapCount = higherTeams.reduce((sum, higherTeam) => {
-      const higherSet = new Set(
+    const playersAheadSet = new Set(
+      higherTeams.flatMap((higherTeam) =>
         higherTeam.players.map((player) => canonicalPlayerName(player.player))
-      );
-      return (
-        sum +
-        Array.from(managerPlayerSet).filter((player) => higherSet.has(player)).length
-      );
-    }, 0);
+      )
+    );
+    const blockedOverlapCount = Array.from(managerPlayerSet).filter((player) =>
+      playersAheadSet.has(player)
+    ).length;
     const sharedPoints = semiSharedPoints + crowdedPoints;
     const uniqueShare = manager.totalPoints > 0 ? uniquePoints / manager.totalPoints : 0;
     const chaseGap = leader ? leader.totalPoints - manager.totalPoints : 0;
