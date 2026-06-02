@@ -11,6 +11,7 @@ const elements = {
   routesGrid: document.querySelector("#routes-grid"),
   bestLeverageList: document.querySelector("#best-leverage-list"),
   mostBlockedList: document.querySelector("#most-blocked-list"),
+  backToTop: document.querySelector("#back-to-top"),
   refreshToast: document.querySelector("#refresh-toast"),
 };
 
@@ -471,6 +472,15 @@ function initializeCollapsiblePanels() {
   });
 }
 
+function updateBackToTopVisibility() {
+  if (!elements.backToTop) {
+    return;
+  }
+
+  const shouldShow = window.scrollY > 320;
+  elements.backToTop.classList.toggle("is-visible", shouldShow);
+}
+
 async function loadLeaderboard({ manual = false } = {}) {
   const existingStatus = elements.statusBanner.textContent.trim();
   const existingState = elements.statusBanner.className.replace("status-banner", "").trim();
@@ -543,4 +553,6 @@ async function loadLeaderboard({ manual = false } = {}) {
 
 renderHeaderStats();
 initializeCollapsiblePanels();
+window.addEventListener("scroll", updateBackToTopVisibility, { passive: true });
+updateBackToTopVisibility();
 loadLeaderboard();

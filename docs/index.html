@@ -26,7 +26,7 @@
     <link rel="stylesheet" href="./styles.css" />
   </head>
   <body>
-    <div class="page-shell">
+    <div id="top" class="page-shell">
       <header class="hero">
         <div class="hero-copy">
           <p class="eyebrow">Fantasy Draft Tracker</p>
@@ -35,10 +35,11 @@
             Track standings across multiple poker result tables.
           </p>
           <p class="hero-credit">
-            Brought to you by
-            <a href="https://x.com/BlackbeardHQ" target="_blank" rel="noreferrer">
-              BlackBeardHQ
+            a
+            <a href="https://x.com/kingdoinky" target="_blank" rel="noreferrer">
+              doinky
             </a>
+            thing
           </p>
         </div>
         <div class="hero-stats">
@@ -54,7 +55,7 @@
         <a class="section-nav-link" href="#leaderboard-section">Leaderboard</a>
         <a class="section-nav-link" href="#routes-section">Routes to Victory</a>
         <a class="section-nav-link" href="#breakdown-section">Rosters</a>
-        <a class="section-nav-link" href="#overlap-section">Team Overlap</a>
+        <a class="section-nav-link" href="#overlap-section">Player Overlap</a>
         <a class="section-nav-link" href="#ownership-section">Ownership</a>
       </nav>
 
@@ -62,7 +63,6 @@
         <section id="leaderboard-section" class="panel panel-wide collapsible-panel">
           <div class="panel-heading">
             <div>
-              <p class="section-kicker">Standings</p>
               <h2>Leaderboard</h2>
             </div>
             <button
@@ -99,7 +99,6 @@
         <section id="routes-section" class="panel panel-wide collapsible-panel">
           <div class="panel-heading">
             <div>
-              <p class="section-kicker">Leverage</p>
               <h2>Routes To Victory</h2>
             </div>
             <button
@@ -129,7 +128,6 @@
         <section id="breakdown-section" class="panel panel-wide collapsible-panel">
           <div class="panel-heading">
             <div>
-              <p class="section-kicker">Rosters</p>
               <h2>Rosters</h2>
             </div>
             <button
@@ -149,8 +147,7 @@
         <section id="overlap-section" class="panel panel-wide collapsible-panel">
           <div class="panel-heading">
             <div>
-              <p class="section-kicker">Overlap</p>
-              <h2>Team Overlap</h2>
+              <h2>Player Overlap</h2>
             </div>
             <button
               class="collapse-button"
@@ -169,7 +166,6 @@
         <section id="ownership-section" class="panel panel-wide collapsible-panel">
           <div class="panel-heading">
             <div>
-              <p class="section-kicker">Ownership</p>
               <h2>Ownership</h2>
             </div>
             <button
@@ -199,7 +195,10 @@
           </div>
         </section>
       </main>
+
     </div>
+
+    <a id="back-to-top" class="back-to-top-link" href="#top">Back to Top</a>
 
     <div id="refresh-toast" class="refresh-toast" aria-live="polite"></div>
 
