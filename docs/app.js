@@ -18,6 +18,42 @@ const elements = {
 let lastSnapshotSignature = "";
 let toastTimeoutId = null;
 let currentPointsChangeLabel = "today";
+let revealAnimationTimeoutId = 0;
+
+function triggerPanelReveal(content) {
+  content.classList.remove("is-revealing");
+  void content.offsetWidth;
+  content.classList.add("is-revealing");
+
+  if (revealAnimationTimeoutId) {
+    window.clearTimeout(revealAnimationTimeoutId);
+  }
+
+  revealAnimationTimeoutId = window.setTimeout(() => {
+    content.classList.remove("is-revealing");
+  }, 700);
+}
+
+function collapsePanelContent(content) {
+  content.style.maxHeight = `${content.scrollHeight}px`;
+  content.classList.add("is-collapsed");
+  window.requestAnimationFrame(() => {
+    content.style.maxHeight = "0px";
+  });
+}
+
+function expandPanelContent(content) {
+  content.classList.remove("is-collapsed");
+  content.style.maxHeight = `${content.scrollHeight}px`;
+  triggerPanelReveal(content);
+  const clearHeight = () => {
+    if (!content.classList.contains("is-collapsed")) {
+      content.style.maxHeight = "none";
+    }
+    content.removeEventListener("transitionend", clearHeight);
+  };
+  content.addEventListener("transitionend", clearHeight);
+}
 
 function normalizeName(value) {
   return String(value || "")
@@ -498,6 +534,10 @@ function showRefreshToast(message) {
 }
 
 function initializeCollapsiblePanels() {
+  document.querySelectorAll(".panel-content").forEach((content) => {
+    content.style.maxHeight = "none";
+  });
+
   document.querySelectorAll(".collapse-button").forEach((button) => {
     button.addEventListener("click", () => {
       const targetId = button.getAttribute("data-target");
@@ -506,18 +546,15 @@ function initializeCollapsiblePanels() {
         return;
       }
 
-      const isCollapsed = content.classList.toggle("is-collapsed");
-      button.setAttribute("aria-expanded", String(!isCollapsed));
-      button.textContent = isCollapsed ? "Expand" : "Collapse";
-
-      if (!isCollapsed) {
-        const section = button.closest(".collapsible-panel");
-        if (section) {
-          window.requestAnimationFrame(() => {
-            section.scrollIntoView({ behavior: "smooth", block: "start" });
-          });
-        }
+      const isCollapsed = content.classList.contains("is-collapsed");
+      if (isCollapsed) {
+        expandPanelContent(content);
+      } else {
+        collapsePanelContent(content);
       }
+
+      button.setAttribute("aria-expanded", String(isCollapsed));
+      button.textContent = isCollapsed ? "Collapse" : "Expand";
     });
   });
 }
@@ -538,7 +575,7 @@ function expandSectionFromNav(hash) {
     return section;
   }
 
-  content.classList.remove("is-collapsed");
+  expandPanelContent(content);
   button.setAttribute("aria-expanded", "true");
   button.textContent = "Collapse";
   return section;

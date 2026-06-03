@@ -234,6 +234,12 @@ h1 {
   font-size: 0.92rem;
 }
 
+.panel-content {
+  overflow: hidden;
+  transform: translateY(0);
+  transition: max-height 240ms ease, transform 240ms ease;
+}
+
 .panel-actions {
   display: flex;
   align-items: center;
@@ -241,7 +247,8 @@ h1 {
 }
 
 .panel-content.is-collapsed {
-  display: none;
+  max-height: 0 !important;
+  transform: translateY(8px);
 }
 
 .refresh-button {
@@ -480,7 +487,12 @@ h1 {
   gap: 16px;
 }
 
-.manager-card {
+.panel-content.is-revealing .manager-card,
+.panel-content.is-revealing .analysis-list-card,
+.panel-content.is-revealing .overlap-card,
+.panel-content.is-revealing .route-card,
+.panel-content.is-revealing .leaderboard-table tbody tr,
+.panel-content.is-revealing .ownership-table tbody tr {
   animation: rise-in 620ms ease;
 }
 
