@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-03T05:01:48.917638+00:00",
+  "generatedAt": "2026-06-03T09:46:54.269225+00:00",
   "managers": [
     {
       "managerName": "ASG",
@@ -105,6 +105,10 @@
           "points": 2.0
         },
         {
+          "player": "Allen Kessler",
+          "points": 1.0
+        },
+        {
           "player": "Viktor Blom",
           "points": 0.0
         },
@@ -115,14 +119,10 @@
         {
           "player": "Andrew Lichtenberger",
           "points": 0.0
-        },
-        {
-          "player": "Allen Kessler",
-          "points": 0.0
         }
       ],
-      "totalPoints": 131.0,
-      "pointsChange": 0.0
+      "totalPoints": 132.0,
+      "pointsChange": 1.0
     },
     {
       "managerName": "JeffBNT",
@@ -179,11 +179,11 @@
           "points": 12.0
         },
         {
-          "player": "Nick Guagenti",
-          "points": 3.0
+          "player": "Danny Wong",
+          "points": 4.0
         },
         {
-          "player": "Danny Wong",
+          "player": "Nick Guagenti",
           "points": 3.0
         },
         {
@@ -196,15 +196,15 @@
         },
         {
           "player": "Phillip Hui",
-          "points": 1.0
+          "points": 2.0
         },
         {
           "player": "Allan Le",
           "points": 1.0
         }
       ],
-      "totalPoints": 73.0,
-      "pointsChange": 0.0
+      "totalPoints": 75.0,
+      "pointsChange": 2.0
     },
     {
       "managerName": "Turbo",
@@ -217,10 +217,14 @@
         },
         {
           "player": "Tyler Phillips",
-          "points": 14.0
+          "points": 15.0
         },
         {
           "player": "Brad Owen",
+          "points": 1.0
+        },
+        {
+          "player": "Allen Kessler",
           "points": 1.0
         },
         {
@@ -238,14 +242,10 @@
         {
           "player": "John Racener",
           "points": 0.0
-        },
-        {
-          "player": "Allen Kessler",
-          "points": 0.0
         }
       ],
-      "totalPoints": 61.0,
-      "pointsChange": 0.0
+      "totalPoints": 63.0,
+      "pointsChange": 2.0
     },
     {
       "managerName": "realbmorekid",
@@ -253,12 +253,16 @@
       "url": "https://www.poker.org/fantasy/wsop/2026/team/bmore-s-brawlers/",
       "players": [
         {
+          "player": "Cherish Andrews",
+          "points": 24.0
+        },
+        {
           "player": "Jeremy Becker",
           "points": 11.0
         },
         {
           "player": "Christian Harder",
-          "points": 7.0
+          "points": 8.0
         },
         {
           "player": "Esther Taylor",
@@ -267,10 +271,6 @@
         {
           "player": "Brock Wilson",
           "points": 2.0
-        },
-        {
-          "player": "Cherish Andrews",
-          "points": 1.0
         },
         {
           "player": "Shannon Shorr",
@@ -285,8 +285,8 @@
           "points": 0.0
         }
       ],
-      "totalPoints": 24.0,
-      "pointsChange": 0.0
+      "totalPoints": 48.0,
+      "pointsChange": 24.0
     },
     {
       "managerName": "Ruben",
@@ -299,15 +299,15 @@
         },
         {
           "player": "Maksim Pisarenko",
-          "points": 4.0
+          "points": 5.0
+        },
+        {
+          "player": "Jim Collopy",
+          "points": 2.0
         },
         {
           "player": "Ryan Hoenig",
           "points": 2.0
-        },
-        {
-          "player": "Jim Collopy",
-          "points": 1.0
         },
         {
           "player": "Ian Matakis",
@@ -326,8 +326,8 @@
           "points": 0.0
         }
       ],
-      "totalPoints": 21.0,
-      "pointsChange": 0.0
+      "totalPoints": 23.0,
+      "pointsChange": 2.0
     },
     {
       "managerName": "Trampstamp",
