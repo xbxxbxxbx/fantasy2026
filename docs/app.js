@@ -3,6 +3,7 @@ const config = window.LEADERBOARD_CONFIG;
 const elements = {
   leagueName: document.querySelector("#league-name"),
   leagueDescription: document.querySelector("#league-description"),
+  heroPolling: document.querySelector("#hero-polling"),
   leaderboardBody: document.querySelector("#leaderboard-body"),
   managerCards: document.querySelector("#manager-cards"),
   ownershipBody: document.querySelector("#ownership-body"),
@@ -62,6 +63,19 @@ async function fetchSnapshot() {
 function renderHeaderStats() {
   elements.leagueName.textContent = config.leagueName;
   elements.leagueDescription.textContent = config.leagueDescription;
+  if (elements.heroPolling) {
+    elements.heroPolling.textContent = "";
+  }
+}
+
+function formatUpdatedAt(value) {
+  const date = new Date(value);
+  return new Intl.DateTimeFormat("en-US", {
+    month: "long",
+    day: "numeric",
+    hour: "numeric",
+    minute: "2-digit",
+  }).format(date);
 }
 
 function renderLeaderboard(managers) {
@@ -550,6 +564,10 @@ async function loadLeaderboard({ manual = false } = {}) {
     renderOverlap(analytics.overlapRows);
     renderRouteLists(analytics.bestLeverageTeams, analytics.mostBlockedTeams);
     renderRoutes(analytics.routeRows);
+
+    if (elements.heroPolling && snapshot.generatedAt) {
+      elements.heroPolling.textContent = `Last successful update ${formatUpdatedAt(snapshot.generatedAt)}`;
+    }
 
     if (manual) {
       showRefreshToast(
