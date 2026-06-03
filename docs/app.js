@@ -62,7 +62,13 @@ async function fetchSnapshot() {
 
 function renderHeaderStats() {
   elements.leagueName.textContent = config.leagueName;
-  elements.leagueDescription.textContent = config.leagueDescription;
+  if (elements.leagueDescription) {
+    const sourceLabel = escapeHtml(config.sourceLabel || "source");
+    const sourceUrl = escapeHtml(config.sourceUrl || "#");
+    const updateCadenceLabel = escapeHtml(config.updateCadenceLabel || "regularly");
+    elements.leagueDescription.innerHTML =
+      `Live leaderboard from <a href="${sourceUrl}" target="_blank" rel="noreferrer">${sourceLabel}</a> updated ${updateCadenceLabel}`;
+  }
   if (elements.heroPolling) {
     elements.heroPolling.textContent = "";
   }
@@ -566,7 +572,7 @@ async function loadLeaderboard({ manual = false } = {}) {
     renderRoutes(analytics.routeRows);
 
     if (elements.heroPolling && snapshot.generatedAt) {
-      elements.heroPolling.textContent = `Last successful update ${formatUpdatedAt(snapshot.generatedAt)}`;
+      elements.heroPolling.textContent = `Updated ${formatUpdatedAt(snapshot.generatedAt)}`;
     }
 
     if (manual) {
