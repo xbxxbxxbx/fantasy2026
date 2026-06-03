@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-03T17:48:03.592521+00:00",
+  "generatedAt": "2026-06-03T19:29:12.640249+00:00",
   "pointsChangeLabel": "today",
   "pointsChangeComparisonDate": "2026-06-03",
   "managers": [
@@ -114,7 +114,7 @@
         },
         {
           "player": "Ben Yu",
-          "points": 2.0
+          "points": 3.0
         },
         {
           "player": "Sam Soverel",
@@ -125,9 +125,9 @@
           "points": 1.0
         }
       ],
-      "totalPoints": 136.0,
-      "pointsChange": 0.0,
-      "pointsChangeSincePrevious": 0.0
+      "totalPoints": 137.0,
+      "pointsChange": 1.0,
+      "pointsChangeSincePrevious": 1.0
     },
     {
       "managerName": "Kush",
@@ -144,7 +144,7 @@
         },
         {
           "player": "Ben Yu",
-          "points": 2.0
+          "points": 3.0
         },
         {
           "player": "Martin Zamani",
@@ -167,9 +167,9 @@
           "points": 0.0
         }
       ],
-      "totalPoints": 134.0,
-      "pointsChange": 0.0,
-      "pointsChangeSincePrevious": 0.0
+      "totalPoints": 135.0,
+      "pointsChange": 1.0,
+      "pointsChangeSincePrevious": 1.0
     },
     {
       "managerName": "Gus",
@@ -193,11 +193,11 @@
           "points": 4.0
         },
         {
-          "player": "Matt Glantz",
-          "points": 2.0
+          "player": "Esther Taylor",
+          "points": 3.0
         },
         {
-          "player": "Esther Taylor",
+          "player": "Matt Glantz",
           "points": 2.0
         },
         {
@@ -209,9 +209,9 @@
           "points": 1.0
         }
       ],
-      "totalPoints": 76.0,
-      "pointsChange": 0.0,
-      "pointsChangeSincePrevious": 0.0
+      "totalPoints": 77.0,
+      "pointsChange": 1.0,
+      "pointsChangeSincePrevious": 1.0
     },
     {
       "managerName": "Turbo",
@@ -278,7 +278,7 @@
         },
         {
           "player": "Esther Taylor",
-          "points": 2.0
+          "points": 3.0
         },
         {
           "player": "Shannon Shorr",
@@ -293,9 +293,9 @@
           "points": 0.0
         }
       ],
-      "totalPoints": 50.0,
-      "pointsChange": 0.0,
-      "pointsChangeSincePrevious": 0.0
+      "totalPoints": 51.0,
+      "pointsChange": 1.0,
+      "pointsChangeSincePrevious": 1.0
     },
     {
       "managerName": "Ruben",
@@ -350,7 +350,7 @@
         },
         {
           "player": "Esther Taylor",
-          "points": 2.0
+          "points": 3.0
         },
         {
           "player": "Chance Kornuth",
@@ -377,9 +377,9 @@
           "points": 0.0
         }
       ],
-      "totalPoints": 7.0,
-      "pointsChange": 0.0,
-      "pointsChangeSincePrevious": 0.0
+      "totalPoints": 8.0,
+      "pointsChange": 1.0,
+      "pointsChangeSincePrevious": 1.0
     }
   ],
   "failures": []
