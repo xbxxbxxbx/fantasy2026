@@ -12,6 +12,7 @@ from html import unescape
 from html.parser import HTMLParser
 from pathlib import Path
 from urllib.error import HTTPError, URLError
+from urllib.parse import urlsplit
 from urllib.request import Request, urlopen
 
 
@@ -29,12 +30,14 @@ class TeamSource:
     manager_name: str
     team_name: str
     url: str
+    roster: list[str]
 
 
 class DraftTableParser(HTMLParser):
-    def __init__(self, expected_table_class: str) -> None:
+    def __init__(self, expected_table_class: str | None = None, expected_table_id: str | None = None) -> None:
         super().__init__()
         self.expected_table_class = expected_table_class
+        self.expected_table_id = expected_table_id
         self.in_target_table = False
         self.table_depth = 0
         self.capture_cell = False
@@ -46,7 +49,9 @@ class DraftTableParser(HTMLParser):
         attrs_dict = dict(attrs)
         if tag == "table":
             classes = (attrs_dict.get("class") or "").split()
-            if self.expected_table_class in classes and not self.in_target_table:
+            matches_class = self.expected_table_class and self.expected_table_class in classes
+            matches_id = self.expected_table_id and attrs_dict.get("id") == self.expected_table_id
+            if (matches_class or matches_id) and not self.in_target_table:
                 self.in_target_table = True
                 self.table_depth = 1
                 return
@@ -94,6 +99,8 @@ def load_config() -> dict:
 
 
 def fetch_html(url: str) -> str:
+    parts = urlsplit(url)
+    referer = f"{parts.scheme}://{parts.netloc}/" if parts.scheme and parts.netloc else url
     headers = {
         "User-Agent": (
             "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) "
@@ -104,7 +111,7 @@ def fetch_html(url: str) -> str:
         "Accept-Language": "en-US,en;q=0.9",
         "Cache-Control": "no-cache",
         "Pragma": "no-cache",
-        "Referer": "https://www.poker.org/",
+        "Referer": referer,
     }
     retry_delays = [0, 2, 5]
 
@@ -158,12 +165,17 @@ def load_previous_snapshot() -> dict:
         return {}
 
 
-def parse_team_page(html: str, table_class: str, player_column: str, score_column: str) -> list[dict]:
-    parser = DraftTableParser(table_class)
+def parse_score_feed(
+    html: str,
+    table_id: str,
+    player_column: str,
+    score_column: str,
+) -> dict[str, float]:
+    parser = DraftTableParser(expected_table_id=table_id)
     parser.feed(html)
 
     if len(parser.rows) < 2:
-        raise ValueError("No rows found in target draft table")
+        raise ValueError("No rows found in target score table")
 
     headers = parser.rows[0]
     try:
@@ -172,7 +184,7 @@ def parse_team_page(html: str, table_class: str, player_column: str, score_colum
     except ValueError as exc:
         raise ValueError(f"Missing expected columns in table headers: {headers}") from exc
 
-    players = []
+    scores: dict[str, float] = {}
     for row in parser.rows[1:]:
         if len(row) <= max(player_index, score_index):
             continue
@@ -187,21 +199,16 @@ def parse_team_page(html: str, table_class: str, player_column: str, score_colum
         except ValueError:
             continue
 
-        players.append(
-            {
-                "player": player_name,
-                "points": score_value,
-            }
-        )
+        scores[player_name] = score_value
 
-    return players
+    return scores
 
 
 def build_snapshot(config: dict) -> dict:
-    table_selector = config.get("teamPageTableSelector", ".draft-player-table")
-    table_class = table_selector.lstrip(".")
-    player_column = config.get("teamPagePlayerColumn", "PLAYER")
-    score_column = config.get("teamPagePointsColumn", "SCORE")
+    score_feed_url = config["scoreFeedUrl"]
+    table_id = config.get("scoreFeedTableId", "dataTable-main")
+    player_column = config.get("scoreFeedPlayerColumn", "Player")
+    score_column = config.get("scoreFeedPointsColumn", "Score")
     previous_snapshot = load_previous_snapshot()
     previous_totals = load_previous_totals()
     previous_managers = {
@@ -214,15 +221,37 @@ def build_snapshot(config: dict) -> dict:
     failures = []
     success_count = 0
 
+    try:
+        html = fetch_html(score_feed_url)
+        score_map = parse_score_feed(html, table_id, player_column, score_column)
+    except (HTTPError, URLError, TimeoutError, ValueError) as exc:
+        failures.append(
+            {
+                "managerName": "score-feed",
+                "teamName": "score-feed",
+                "url": score_feed_url,
+                "error": str(exc),
+            }
+        )
+        score_map = None
+
     for entry in config.get("teamSources", []):
         source = TeamSource(
             manager_name=entry["managerName"],
             team_name=entry["teamName"],
             url=entry["url"],
+            roster=entry["roster"],
         )
         try:
-            html = fetch_html(source.url)
-            players = parse_team_page(html, table_class, player_column, score_column)
+            if score_map is None:
+                raise ValueError("Score feed unavailable")
+            players = [
+                {
+                    "player": player_name,
+                    "points": score_map.get(player_name, 0.0),
+                }
+                for player_name in source.roster
+            ]
             total_points = sum(player["points"] for player in players)
             results.append(
                 {
@@ -236,14 +265,15 @@ def build_snapshot(config: dict) -> dict:
             )
             success_count += 1
         except (HTTPError, URLError, TimeoutError, ValueError) as exc:
-            failures.append(
-                {
-                    "managerName": source.manager_name,
-                    "teamName": source.team_name,
-                    "url": source.url,
-                    "error": str(exc),
-                }
-            )
+            if score_map is not None:
+                failures.append(
+                    {
+                        "managerName": source.manager_name,
+                        "teamName": source.team_name,
+                        "url": source.url,
+                        "error": str(exc),
+                    }
+                )
             previous_manager = previous_managers.get(source.manager_name)
             if previous_manager:
                 fallback_manager = dict(previous_manager)
