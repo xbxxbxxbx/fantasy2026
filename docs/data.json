@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-03T20:38:53.874161+00:00",
+  "generatedAt": "2026-06-03T22:01:37.642513+00:00",
   "pointsChangeLabel": "today",
   "pointsChangeComparisonDate": "2026-06-03",
   "managers": [
@@ -282,7 +282,7 @@
         },
         {
           "player": "Shannon Shorr",
-          "points": 1.0
+          "points": 2.0
         },
         {
           "player": "Shaun Deeb",
@@ -293,9 +293,9 @@
           "points": 0.0
         }
       ],
-      "totalPoints": 51.0,
-      "pointsChange": 1.0,
-      "pointsChangeSincePrevious": 0.0
+      "totalPoints": 52.0,
+      "pointsChange": 2.0,
+      "pointsChangeSincePrevious": 1.0
     },
     {
       "managerName": "Ruben",
@@ -320,7 +320,7 @@
         },
         {
           "player": "Ian Matakis",
-          "points": 1.0
+          "points": 2.0
         },
         {
           "player": "Matt Vengrin",
@@ -335,9 +335,9 @@
           "points": 0.0
         }
       ],
-      "totalPoints": 23.0,
-      "pointsChange": 0.0,
-      "pointsChangeSincePrevious": 0.0
+      "totalPoints": 24.0,
+      "pointsChange": 1.0,
+      "pointsChangeSincePrevious": 1.0
     },
     {
       "managerName": "Trampstamp",
