@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-03T22:01:37.642513+00:00",
+  "generatedAt": "2026-06-03T23:13:10.880834+00:00",
   "pointsChangeLabel": "today",
   "pointsChangeComparisonDate": "2026-06-03",
   "managers": [
@@ -155,21 +155,21 @@
           "points": 2.0
         },
         {
+          "player": "Andrew Lichtenberger",
+          "points": 2.0
+        },
+        {
           "player": "Allen Kessler",
           "points": 1.0
         },
         {
           "player": "Viktor Blom",
           "points": 0.0
-        },
-        {
-          "player": "Andrew Lichtenberger",
-          "points": 0.0
         }
       ],
-      "totalPoints": 135.0,
-      "pointsChange": 1.0,
-      "pointsChangeSincePrevious": 0.0
+      "totalPoints": 137.0,
+      "pointsChange": 3.0,
+      "pointsChangeSincePrevious": 2.0
     },
     {
       "managerName": "Gus",
@@ -295,7 +295,7 @@
       ],
       "totalPoints": 52.0,
       "pointsChange": 2.0,
-      "pointsChangeSincePrevious": 1.0
+      "pointsChangeSincePrevious": 0.0
     },
     {
       "managerName": "Ruben",
@@ -308,7 +308,7 @@
         },
         {
           "player": "Maksim Pisarenko",
-          "points": 5.0
+          "points": 6.0
         },
         {
           "player": "Ryan Hoenig",
@@ -335,8 +335,8 @@
           "points": 0.0
         }
       ],
-      "totalPoints": 24.0,
-      "pointsChange": 1.0,
+      "totalPoints": 25.0,
+      "pointsChange": 2.0,
       "pointsChangeSincePrevious": 1.0
     },
     {
@@ -351,6 +351,10 @@
         {
           "player": "Esther Taylor",
           "points": 3.0
+        },
+        {
+          "player": "Andrew Lichtenberger",
+          "points": 2.0
         },
         {
           "player": "Chance Kornuth",
@@ -371,15 +375,11 @@
         {
           "player": "Jason Koon",
           "points": 0.0
-        },
-        {
-          "player": "Andrew Lichtenberger",
-          "points": 0.0
         }
       ],
-      "totalPoints": 8.0,
-      "pointsChange": 1.0,
-      "pointsChangeSincePrevious": 0.0
+      "totalPoints": 10.0,
+      "pointsChange": 3.0,
+      "pointsChangeSincePrevious": 2.0
     }
   ],
   "failures": []
