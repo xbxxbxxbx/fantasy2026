@@ -274,7 +274,7 @@ function buildAnalytics(managers) {
         "Needs non-shared production because leader gains from many of the same scores.";
     } else if (uniqueShare >= 0.35 || uniquePlayers.length >= 3) {
       routeSummary =
-        "Has live outs if unique draftees surge; less blocked by leaders.";
+        "Can gain ground if its unique players score, since those points do not also help the leaders.";
     }
 
     return {
