@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-03T19:29:12.640249+00:00",
+  "generatedAt": "2026-06-03T20:38:53.874161+00:00",
   "pointsChangeLabel": "today",
   "pointsChangeComparisonDate": "2026-06-03",
   "managers": [
@@ -127,7 +127,7 @@
       ],
       "totalPoints": 137.0,
       "pointsChange": 1.0,
-      "pointsChangeSincePrevious": 1.0
+      "pointsChangeSincePrevious": 0.0
     },
     {
       "managerName": "Kush",
@@ -169,7 +169,7 @@
       ],
       "totalPoints": 135.0,
       "pointsChange": 1.0,
-      "pointsChangeSincePrevious": 1.0
+      "pointsChangeSincePrevious": 0.0
     },
     {
       "managerName": "Gus",
@@ -211,7 +211,7 @@
       ],
       "totalPoints": 77.0,
       "pointsChange": 1.0,
-      "pointsChangeSincePrevious": 1.0
+      "pointsChangeSincePrevious": 0.0
     },
     {
       "managerName": "Turbo",
@@ -295,7 +295,7 @@
       ],
       "totalPoints": 51.0,
       "pointsChange": 1.0,
-      "pointsChangeSincePrevious": 1.0
+      "pointsChangeSincePrevious": 0.0
     },
     {
       "managerName": "Ruben",
@@ -379,7 +379,7 @@
       ],
       "totalPoints": 8.0,
       "pointsChange": 1.0,
-      "pointsChangeSincePrevious": 1.0
+      "pointsChangeSincePrevious": 0.0
     }
   ],
   "failures": []
