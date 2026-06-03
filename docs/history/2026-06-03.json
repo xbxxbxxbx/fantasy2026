@@ -1,7 +1,5 @@
 {
-  "generatedAt": "2026-06-03T17:21:37.636872+00:00",
-  "pointsChangeLabel": "today",
-  "pointsChangeComparisonDate": "2026-06-03",
+  "generatedAt": "2026-06-03T17:11:07.137907+00:00",
   "managers": [
     {
       "managerName": "ASG",
@@ -42,8 +40,7 @@
         }
       ],
       "totalPoints": 169.0,
-      "pointsChange": 0.0,
-      "pointsChangeSincePrevious": 0.0
+      "pointsChange": 0.0
     },
     {
       "managerName": "Doinky",
@@ -84,8 +81,7 @@
         }
       ],
       "totalPoints": 143.0,
-      "pointsChange": 0.0,
-      "pointsChangeSincePrevious": 0.0
+      "pointsChange": 0.0
     },
     {
       "managerName": "JeffBNT",
@@ -126,8 +122,7 @@
         }
       ],
       "totalPoints": 136.0,
-      "pointsChange": 0.0,
-      "pointsChangeSincePrevious": 0.0
+      "pointsChange": 0.0
     },
     {
       "managerName": "Kush",
@@ -168,8 +163,7 @@
         }
       ],
       "totalPoints": 134.0,
-      "pointsChange": 0.0,
-      "pointsChangeSincePrevious": 0.0
+      "pointsChange": 0.0
     },
     {
       "managerName": "Gus",
@@ -210,8 +204,7 @@
         }
       ],
       "totalPoints": 76.0,
-      "pointsChange": 0.0,
-      "pointsChangeSincePrevious": 0.0
+      "pointsChange": 0.0
     },
     {
       "managerName": "Turbo",
@@ -252,8 +245,7 @@
         }
       ],
       "totalPoints": 63.0,
-      "pointsChange": 0.0,
-      "pointsChangeSincePrevious": 0.0
+      "pointsChange": 0.0
     },
     {
       "managerName": "realbmorekid",
@@ -294,8 +286,7 @@
         }
       ],
       "totalPoints": 50.0,
-      "pointsChange": 0.0,
-      "pointsChangeSincePrevious": 0.0
+      "pointsChange": 0.0
     },
     {
       "managerName": "Ruben",
@@ -336,8 +327,7 @@
         }
       ],
       "totalPoints": 23.0,
-      "pointsChange": 0.0,
-      "pointsChangeSincePrevious": 0.0
+      "pointsChange": 0.0
     },
     {
       "managerName": "Trampstamp",
@@ -378,8 +368,7 @@
         }
       ],
       "totalPoints": 7.0,
-      "pointsChange": 0.0,
-      "pointsChangeSincePrevious": 0.0
+      "pointsChange": 0.0
     }
   ],
   "failures": []

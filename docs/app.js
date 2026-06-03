@@ -17,6 +17,7 @@ const elements = {
 
 let lastSnapshotSignature = "";
 let toastTimeoutId = null;
+let currentPointsChangeLabel = "today";
 
 function normalizeName(value) {
   return String(value || "")
@@ -102,7 +103,14 @@ function renderLeaderboard(managers) {
           <td>${escapeHtml(manager.name)}</td>
           <td class="points-cell">
             <span class="points-cell-content">
-              <span class="points-total">${Math.round(manager.totalPoints)}</span>${deltaMarkup}
+              <span class="points-total">${Math.round(manager.totalPoints)}</span>${
+                deltaMarkup
+                  ? deltaMarkup.replace(
+                      '<span class="points-delta ',
+                      `<span title="Points gained ${escapeHtml(currentPointsChangeLabel)}" aria-label="Points gained ${escapeHtml(currentPointsChangeLabel)}" class="points-delta `
+                    )
+                  : ""
+              }
             </span>
           </td>
           <td>${manager.teamName ? escapeHtml(manager.teamName) : "-"}</td>
@@ -539,6 +547,7 @@ function updateBackToTopVisibility() {
 async function loadLeaderboard({ manual = false } = {}) {
   try {
     const snapshot = await fetchSnapshot();
+    currentPointsChangeLabel = snapshot.pointsChangeLabel || "today";
     const nextSignature = snapshotSignature(snapshot);
     const hasChanged = lastSnapshotSignature !== "" && nextSignature !== lastSnapshotSignature;
     const managers = (snapshot.managers || []).map((manager) => ({

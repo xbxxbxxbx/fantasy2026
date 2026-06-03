@@ -14,11 +14,14 @@ from pathlib import Path
 from urllib.error import HTTPError, URLError
 from urllib.parse import urlsplit
 from urllib.request import Request, urlopen
+from zoneinfo import ZoneInfo
 
 
 ROOT = Path(__file__).resolve().parents[1]
 CONFIG_PATH = ROOT / "docs" / "config.js"
 OUTPUT_PATH = ROOT / "docs" / "data.json"
+HISTORY_DIR = ROOT / "docs" / "history"
+DISPLAY_TIMEZONE = ZoneInfo("America/New_York")
 
 
 class ConfigError(RuntimeError):
@@ -165,6 +168,77 @@ def load_previous_snapshot() -> dict:
         return {}
 
 
+def load_json(path: Path) -> dict:
+    if not path.exists():
+        return {}
+
+    try:
+        return json.loads(path.read_text(encoding="utf-8"))
+    except (OSError, json.JSONDecodeError):
+        return {}
+
+
+def snapshot_totals(snapshot: dict) -> dict[str, float]:
+    totals = {}
+    for manager in snapshot.get("managers", []):
+        manager_name = manager.get("managerName")
+        total_points = manager.get("totalPoints")
+        if manager_name is None or total_points is None:
+            continue
+        totals[str(manager_name)] = float(total_points)
+    return totals
+
+
+def current_local_date() -> str:
+    return datetime.now(timezone.utc).astimezone(DISPLAY_TIMEZONE).date().isoformat()
+
+
+def snapshot_local_date(snapshot: dict) -> str | None:
+    generated_at = snapshot.get("generatedAt")
+    if not generated_at:
+        return None
+
+    try:
+        timestamp = datetime.fromisoformat(str(generated_at))
+    except ValueError:
+        return None
+
+    if timestamp.tzinfo is None:
+        timestamp = timestamp.replace(tzinfo=timezone.utc)
+
+    return timestamp.astimezone(DISPLAY_TIMEZONE).date().isoformat()
+
+
+def history_path_for(date_key: str) -> Path:
+    return HISTORY_DIR / f"{date_key}.json"
+
+
+def load_daily_baseline(previous_snapshot: dict) -> tuple[dict, str]:
+    today_key = current_local_date()
+    baseline_path = history_path_for(today_key)
+    existing_baseline = load_json(baseline_path)
+    if existing_baseline:
+        return existing_baseline, today_key
+
+    previous_date = snapshot_local_date(previous_snapshot)
+    if previous_snapshot and previous_snapshot.get("managers"):
+        if previous_date != today_key:
+            return previous_snapshot, today_key
+        return previous_snapshot, today_key
+
+    return {}, today_key
+
+
+def write_daily_baseline(today_key: str, baseline_snapshot: dict) -> None:
+    if not baseline_snapshot:
+        return
+
+    HISTORY_DIR.mkdir(parents=True, exist_ok=True)
+    path = history_path_for(today_key)
+    if not path.exists():
+        path.write_text(json.dumps(baseline_snapshot, indent=2) + "\n", encoding="utf-8")
+
+
 def parse_score_feed(
     html: str,
     table_id: str,
@@ -211,6 +285,8 @@ def build_snapshot(config: dict) -> dict:
     score_column = config.get("scoreFeedPointsColumn", "Score")
     previous_snapshot = load_previous_snapshot()
     previous_totals = load_previous_totals()
+    daily_baseline_snapshot, comparison_date = load_daily_baseline(previous_snapshot)
+    baseline_totals = snapshot_totals(daily_baseline_snapshot)
     previous_managers = {
         manager.get("managerName"): manager
         for manager in previous_snapshot.get("managers", [])
@@ -260,7 +336,11 @@ def build_snapshot(config: dict) -> dict:
                     "url": source.url,
                     "players": sorted(players, key=lambda item: item["points"], reverse=True),
                     "totalPoints": round(total_points, 2),
-                    "pointsChange": round(total_points - previous_totals.get(source.manager_name, total_points), 2),
+                    "pointsChange": round(total_points - baseline_totals.get(source.manager_name, total_points), 2),
+                    "pointsChangeSincePrevious": round(
+                        total_points - previous_totals.get(source.manager_name, total_points),
+                        2,
+                    ),
                 }
             )
             success_count += 1
@@ -278,18 +358,25 @@ def build_snapshot(config: dict) -> dict:
             if previous_manager:
                 fallback_manager = dict(previous_manager)
                 fallback_manager["pointsChange"] = 0.0
+                fallback_manager["pointsChangeSincePrevious"] = 0.0
                 fallback_manager["stale"] = True
                 fallback_manager["staleReason"] = str(exc)
                 results.append(fallback_manager)
 
     results.sort(key=lambda item: item["totalPoints"], reverse=True)
 
-    return {
+    snapshot = {
         "generatedAt": datetime.now(timezone.utc).isoformat(),
+        "pointsChangeLabel": "today",
+        "pointsChangeComparisonDate": comparison_date,
         "managers": results,
         "failures": failures,
         "successCount": success_count,
     }
+    if success_count > 0:
+        write_daily_baseline(comparison_date, daily_baseline_snapshot or previous_snapshot or snapshot)
+
+    return snapshot
 
 
 def main() -> int:
