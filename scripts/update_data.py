@@ -5,6 +5,7 @@ from __future__ import annotations
 import json
 import re
 import sys
+import time
 from dataclasses import dataclass
 from datetime import datetime, timezone
 from html import unescape
@@ -93,18 +94,39 @@ def load_config() -> dict:
 
 
 def fetch_html(url: str) -> str:
-    request = Request(
-        url,
-        headers={
-            "User-Agent": (
-                "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) "
-                "AppleWebKit/537.36 (KHTML, like Gecko) "
-                "Chrome/126.0 Safari/537.36"
-            )
-        },
-    )
-    with urlopen(request, timeout=30) as response:
-        return response.read().decode("utf-8", errors="replace")
+    headers = {
+        "User-Agent": (
+            "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) "
+            "AppleWebKit/537.36 (KHTML, like Gecko) "
+            "Chrome/126.0 Safari/537.36"
+        ),
+        "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8",
+        "Accept-Language": "en-US,en;q=0.9",
+        "Cache-Control": "no-cache",
+        "Pragma": "no-cache",
+        "Referer": "https://www.poker.org/",
+    }
+    retry_delays = [0, 2, 5]
+
+    last_error: Exception | None = None
+    for delay in retry_delays:
+        if delay:
+            time.sleep(delay)
+
+        request = Request(url, headers=headers)
+        try:
+            with urlopen(request, timeout=30) as response:
+                return response.read().decode("utf-8", errors="replace")
+        except HTTPError as exc:
+            last_error = exc
+            if exc.code not in {403, 429}:
+                raise
+        except URLError as exc:
+            last_error = exc
+
+    if last_error:
+        raise last_error
+    raise RuntimeError(f"Failed to fetch {url}")
 
 
 def load_previous_totals() -> dict[str, float]:
@@ -124,6 +146,16 @@ def load_previous_totals() -> dict[str, float]:
             continue
         totals[str(manager_name)] = float(total_points)
     return totals
+
+
+def load_previous_snapshot() -> dict:
+    if not OUTPUT_PATH.exists():
+        return {}
+
+    try:
+        return json.loads(OUTPUT_PATH.read_text(encoding="utf-8"))
+    except (OSError, json.JSONDecodeError):
+        return {}
 
 
 def parse_team_page(html: str, table_class: str, player_column: str, score_column: str) -> list[dict]:
@@ -170,10 +202,17 @@ def build_snapshot(config: dict) -> dict:
     table_class = table_selector.lstrip(".")
     player_column = config.get("teamPagePlayerColumn", "PLAYER")
     score_column = config.get("teamPagePointsColumn", "SCORE")
+    previous_snapshot = load_previous_snapshot()
     previous_totals = load_previous_totals()
+    previous_managers = {
+        manager.get("managerName"): manager
+        for manager in previous_snapshot.get("managers", [])
+        if manager.get("managerName")
+    }
 
     results = []
     failures = []
+    success_count = 0
 
     for entry in config.get("teamSources", []):
         source = TeamSource(
@@ -195,6 +234,7 @@ def build_snapshot(config: dict) -> dict:
                     "pointsChange": round(total_points - previous_totals.get(source.manager_name, total_points), 2),
                 }
             )
+            success_count += 1
         except (HTTPError, URLError, TimeoutError, ValueError) as exc:
             failures.append(
                 {
@@ -204,6 +244,13 @@ def build_snapshot(config: dict) -> dict:
                     "error": str(exc),
                 }
             )
+            previous_manager = previous_managers.get(source.manager_name)
+            if previous_manager:
+                fallback_manager = dict(previous_manager)
+                fallback_manager["pointsChange"] = 0.0
+                fallback_manager["stale"] = True
+                fallback_manager["staleReason"] = str(exc)
+                results.append(fallback_manager)
 
     results.sort(key=lambda item: item["totalPoints"], reverse=True)
 
@@ -211,6 +258,7 @@ def build_snapshot(config: dict) -> dict:
         "generatedAt": datetime.now(timezone.utc).isoformat(),
         "managers": results,
         "failures": failures,
+        "successCount": success_count,
     }
 
 
@@ -218,6 +266,9 @@ def main() -> int:
     try:
         config = load_config()
         snapshot = build_snapshot(config)
+        if snapshot.get("successCount", 0) == 0:
+            raise RuntimeError("All team scrapes failed; preserving previous snapshot.")
+        snapshot.pop("successCount", None)
         OUTPUT_PATH.write_text(json.dumps(snapshot, indent=2) + "\n", encoding="utf-8")
     except Exception as exc:
         print(f"Failed to update data: {exc}", file=sys.stderr)
