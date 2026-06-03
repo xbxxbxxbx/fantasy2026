@@ -1,375 +1,60 @@
 {
-  "generatedAt": "2026-06-03T02:33:59.489658+00:00",
-  "managers": [
+  "generatedAt": "2026-06-03T03:49:26.667666+00:00",
+  "managers": [],
+  "failures": [
     {
-      "managerName": "ASG",
-      "teamName": "ASG's Team",
-      "url": "https://www.poker.org/fantasy/wsop/2026/team/asg-s-team/",
-      "players": [
-        {
-          "player": "Mike Leah",
-          "points": 103.0
-        },
-        {
-          "player": "Scott Seiver",
-          "points": 46.0
-        },
-        {
-          "player": "Jon Turner",
-          "points": 15.0
-        },
-        {
-          "player": "Calvin Anderson",
-          "points": 1.0
-        },
-        {
-          "player": "Bryce Yockey",
-          "points": 1.0
-        },
-        {
-          "player": "Chance Kornuth",
-          "points": 1.0
-        },
-        {
-          "player": "Matt Vengrin",
-          "points": 1.0
-        },
-        {
-          "player": "Jason Koon",
-          "points": 0.0
-        }
-      ],
-      "totalPoints": 168.0,
-      "pointsChange": 0.0
+      "managerName": "Trampstamp",
+      "teamName": "lowerbackstamp",
+      "url": "https://www.poker.org/fantasy/wsop/2026/team/lowerbackstamp/",
+      "error": "HTTP Error 403: Forbidden"
     },
     {
       "managerName": "Doinky",
       "teamName": "doinky",
       "url": "https://www.poker.org/fantasy/wsop/2026/team/doinky/",
-      "players": [
-        {
-          "player": "Dylan Weisman",
-          "points": 137.0
-        },
-        {
-          "player": "Adam Hendrix",
-          "points": 3.0
-        },
-        {
-          "player": "Matt Vengrin",
-          "points": 1.0
-        },
-        {
-          "player": "Isaac Haxton",
-          "points": 0.0
-        },
-        {
-          "player": "Eric Wasserson",
-          "points": 0.0
-        },
-        {
-          "player": "Sam Soverel",
-          "points": 0.0
-        },
-        {
-          "player": "Stephen Song",
-          "points": 0.0
-        },
-        {
-          "player": "Andrew Ostapchenko",
-          "points": 0.0
-        }
-      ],
-      "totalPoints": 141.0,
-      "pointsChange": 0.0
+      "error": "HTTP Error 403: Forbidden"
     },
     {
-      "managerName": "Kush",
-      "teamName": "Kushstrain1",
-      "url": "https://www.poker.org/fantasy/wsop/2026/team/kushstrain1/",
-      "players": [
-        {
-          "player": "Mike Leah",
-          "points": 103.0
-        },
-        {
-          "player": "David 'ODB' Baker",
-          "points": 24.0
-        },
-        {
-          "player": "Ben Yu",
-          "points": 2.0
-        },
-        {
-          "player": "Martin Zamani",
-          "points": 2.0
-        },
-        {
-          "player": "Viktor Blom",
-          "points": 0.0
-        },
-        {
-          "player": "Kristen Foxen",
-          "points": 0.0
-        },
-        {
-          "player": "Andrew Lichtenberger",
-          "points": 0.0
-        },
-        {
-          "player": "Allen Kessler",
-          "points": 0.0
-        }
-      ],
-      "totalPoints": 131.0,
-      "pointsChange": 0.0
-    },
-    {
-      "managerName": "JeffBNT",
-      "teamName": "Team Max Degen",
-      "url": "https://www.poker.org/fantasy/wsop/2026/team/team-max-degen/",
-      "players": [
-        {
-          "player": "Arthur Morris",
-          "points": 103.0
-        },
-        {
-          "player": "Jon Turner",
-          "points": 15.0
-        },
-        {
-          "player": "Ari Engel",
-          "points": 4.0
-        },
-        {
-          "player": "Ben Yu",
-          "points": 2.0
-        },
-        {
-          "player": "Brock Wilson",
-          "points": 2.0
-        },
-        {
-          "player": "Nicholas Seward",
-          "points": 2.0
-        },
-        {
-          "player": "Calvin Anderson",
-          "points": 1.0
-        },
-        {
-          "player": "Sam Soverel",
-          "points": 0.0
-        }
-      ],
-      "totalPoints": 129.0,
-      "pointsChange": 0.0
-    },
-    {
-      "managerName": "Turbo",
-      "teamName": "Turbolulz",
-      "url": "https://www.poker.org/fantasy/wsop/2026/team/turbolulz/",
-      "players": [
-        {
-          "player": "Scott Seiver",
-          "points": 46.0
-        },
-        {
-          "player": "Tyler Phillips",
-          "points": 13.0
-        },
-        {
-          "player": "Brad Owen",
-          "points": 1.0
-        },
-        {
-          "player": "Erik Seidel",
-          "points": 0.0
-        },
-        {
-          "player": "Ben Lamb",
-          "points": 0.0
-        },
-        {
-          "player": "Jared Bleznick",
-          "points": 0.0
-        },
-        {
-          "player": "John Racener",
-          "points": 0.0
-        },
-        {
-          "player": "Allen Kessler",
-          "points": 0.0
-        }
-      ],
-      "totalPoints": 60.0,
-      "pointsChange": 0.0
+      "managerName": "ASG",
+      "teamName": "ASG's Team",
+      "url": "https://www.poker.org/fantasy/wsop/2026/team/asg-s-team/",
+      "error": "HTTP Error 403: Forbidden"
     },
     {
       "managerName": "Gus",
       "teamName": "mynameaintearl",
       "url": "https://www.poker.org/fantasy/wsop/2026/team/mynameaintearl/",
-      "players": [
-        {
-          "player": "Jerry Wong",
-          "points": 12.0
-        },
-        {
-          "player": "Nick Guagenti",
-          "points": 3.0
-        },
-        {
-          "player": "Danny Wong",
-          "points": 3.0
-        },
-        {
-          "player": "Dylan Smith",
-          "points": 3.0
-        },
-        {
-          "player": "Esther Taylor",
-          "points": 2.0
-        },
-        {
-          "player": "Matt Glantz",
-          "points": 1.0
-        },
-        {
-          "player": "Phillip Hui",
-          "points": 1.0
-        },
-        {
-          "player": "Allan Le",
-          "points": 0.0
-        }
-      ],
-      "totalPoints": 25.0,
-      "pointsChange": 0.0
-    },
-    {
-      "managerName": "realbmorekid",
-      "teamName": "Bmore\u2019s Brawlers",
-      "url": "https://www.poker.org/fantasy/wsop/2026/team/bmore-s-brawlers/",
-      "players": [
-        {
-          "player": "Jeremy Becker",
-          "points": 11.0
-        },
-        {
-          "player": "Christian Harder",
-          "points": 7.0
-        },
-        {
-          "player": "Esther Taylor",
-          "points": 2.0
-        },
-        {
-          "player": "Brock Wilson",
-          "points": 2.0
-        },
-        {
-          "player": "Cherish Andrews",
-          "points": 1.0
-        },
-        {
-          "player": "Shannon Shorr",
-          "points": 1.0
-        },
-        {
-          "player": "Shaun Deeb",
-          "points": 0.0
-        },
-        {
-          "player": "Joey Weissman",
-          "points": 0.0
-        }
-      ],
-      "totalPoints": 24.0,
-      "pointsChange": 0.0
+      "error": "HTTP Error 403: Forbidden"
     },
     {
       "managerName": "Ruben",
       "teamName": "wugwugwugwug",
       "url": "https://www.poker.org/fantasy/wsop/2026/team/wugwugwugwug/",
-      "players": [
-        {
-          "player": "Jerry Wong",
-          "points": 12.0
-        },
-        {
-          "player": "Maksim Pisarenko",
-          "points": 4.0
-        },
-        {
-          "player": "Ryan Hoenig",
-          "points": 2.0
-        },
-        {
-          "player": "Jim Collopy",
-          "points": 1.0
-        },
-        {
-          "player": "Ian Matakis",
-          "points": 1.0
-        },
-        {
-          "player": "Matt Vengrin",
-          "points": 1.0
-        },
-        {
-          "player": "Viktor Blom",
-          "points": 0.0
-        },
-        {
-          "player": "Brandon Shack-Harris",
-          "points": 0.0
-        }
-      ],
-      "totalPoints": 21.0,
-      "pointsChange": 0.0
+      "error": "HTTP Error 403: Forbidden"
     },
     {
-      "managerName": "Trampstamp",
-      "teamName": "lowerbackstamp",
-      "url": "https://www.poker.org/fantasy/wsop/2026/team/lowerbackstamp/",
-      "players": [
-        {
-          "player": "Patrick Leonard",
-          "points": 3.0
-        },
-        {
-          "player": "Esther Taylor",
-          "points": 2.0
-        },
-        {
-          "player": "Chance Kornuth",
-          "points": 1.0
-        },
-        {
-          "player": "Ben Lamb",
-          "points": 0.0
-        },
-        {
-          "player": "Viktor Blom",
-          "points": 0.0
-        },
-        {
-          "player": "Andrew Ostapchenko",
-          "points": 0.0
-        },
-        {
-          "player": "Jason Koon",
-          "points": 0.0
-        },
-        {
-          "player": "Andrew Lichtenberger",
-          "points": 0.0
-        }
-      ],
-      "totalPoints": 6.0,
-      "pointsChange": 0.0
+      "managerName": "JeffBNT",
+      "teamName": "Team Max Degen",
+      "url": "https://www.poker.org/fantasy/wsop/2026/team/team-max-degen/",
+      "error": "HTTP Error 403: Forbidden"
+    },
+    {
+      "managerName": "Turbo",
+      "teamName": "Turbolulz",
+      "url": "https://www.poker.org/fantasy/wsop/2026/team/turbolulz/",
+      "error": "HTTP Error 403: Forbidden"
+    },
+    {
+      "managerName": "realbmorekid",
+      "teamName": "Bmore\u2019s Brawlers",
+      "url": "https://www.poker.org/fantasy/wsop/2026/team/bmore-s-brawlers/",
+      "error": "HTTP Error 403: Forbidden"
+    },
+    {
+      "managerName": "Kush",
+      "teamName": "Kushstrain1",
+      "url": "https://www.poker.org/fantasy/wsop/2026/team/kushstrain1/",
+      "error": "HTTP Error 403: Forbidden"
     }
-  ],
-  "failures": []
+  ]
 }
