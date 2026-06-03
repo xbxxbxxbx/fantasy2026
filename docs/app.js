@@ -20,6 +20,14 @@ let toastTimeoutId = null;
 let currentPointsChangeLabel = "today";
 let revealAnimationTimeoutId = 0;
 
+function slugify(value) {
+  return String(value || "")
+    .trim()
+    .toLowerCase()
+    .replace(/[^a-z0-9]+/g, "-")
+    .replace(/^-+|-+$/g, "");
+}
+
 function triggerPanelReveal(content) {
   content.classList.remove("is-revealing");
   void content.offsetWidth;
@@ -125,6 +133,7 @@ function renderLeaderboard(managers) {
   elements.leaderboardBody.innerHTML = managers
     .map(
       (manager, index) => {
+        const rosterId = `roster-${slugify(manager.name)}`;
         const pointsDelta = parseNumber(manager.pointsChange);
         const deltaMarkup =
           pointsDelta === 0
@@ -149,7 +158,11 @@ function renderLeaderboard(managers) {
               }
             </span>
           </td>
-          <td>${manager.teamName ? escapeHtml(manager.teamName) : "-"}</td>
+          <td>${
+            manager.teamName
+              ? `<a class="roster-jump-link" href="#${rosterId}" data-roster-id="${rosterId}">${escapeHtml(manager.teamName)}</a>`
+              : "-"
+          }</td>
           <td class="view-link-cell">
             <a
               class="view-link"
@@ -179,7 +192,7 @@ function renderManagerCards(managers) {
   elements.managerCards.innerHTML = managers
     .map(
       (manager) => `
-        <article class="manager-card">
+        <article class="manager-card" id="roster-${slugify(manager.name)}">
           <div class="card-header">
             <div>
               <h3>${escapeHtml(manager.name)}</h3>
@@ -207,6 +220,38 @@ function renderManagerCards(managers) {
       `
     )
     .join("");
+}
+
+function initializeRosterJumpLinks() {
+  document.querySelectorAll(".roster-jump-link").forEach((link) => {
+    link.addEventListener("click", (event) => {
+      const rosterId = link.getAttribute("data-roster-id");
+      if (!rosterId) {
+        return;
+      }
+
+      const rostersSection = document.getElementById("rosters");
+      const rostersContent = rostersSection?.querySelector(".panel-content");
+      const rostersButton = rostersSection?.querySelector(".collapse-button");
+      const targetCard = document.getElementById(rosterId);
+      if (!rostersSection || !rostersContent || !rostersButton || !targetCard) {
+        return;
+      }
+
+      event.preventDefault();
+
+      if (rostersContent.classList.contains("is-collapsed")) {
+        expandPanelContent(rostersContent);
+        rostersButton.setAttribute("aria-expanded", "true");
+        rostersButton.textContent = "Collapse";
+      }
+
+      window.requestAnimationFrame(() => {
+        targetCard.scrollIntoView({ behavior: "smooth", block: "start" });
+        window.history.replaceState(null, "", `#${rosterId}`);
+      });
+    });
+  });
 }
 
 function formatPercent(value) {
@@ -621,6 +666,7 @@ async function loadLeaderboard({ manual = false } = {}) {
     });
     renderLeaderboard(managers);
     renderManagerCards(managers);
+    initializeRosterJumpLinks();
     renderOwnership(analytics.ownershipRows);
     renderOverlap(analytics.overlapRows);
     renderRouteLists(analytics.bestLeverageTeams, analytics.mostBlockedTeams);

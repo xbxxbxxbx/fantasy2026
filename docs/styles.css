@@ -349,6 +349,17 @@ h1 {
   background: rgba(255, 255, 255, 0.58);
 }
 
+.roster-jump-link {
+  color: var(--ink);
+  text-decoration: none;
+  border-bottom: 1px solid rgba(63, 46, 24, 0.18);
+}
+
+.roster-jump-link:hover {
+  color: var(--gold);
+  border-bottom-color: rgba(187, 125, 32, 0.45);
+}
+
 .rank-badge {
   display: inline-flex;
   align-items: center;
