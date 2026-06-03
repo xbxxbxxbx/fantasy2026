@@ -103,6 +103,17 @@ h1 {
   line-height: 1.5;
 }
 
+.hero-text a {
+  color: #6f89b6;
+  text-decoration-color: rgba(111, 137, 182, 0.4);
+  text-underline-offset: 0.14em;
+}
+
+.hero-text a:hover {
+  color: #5b78a8;
+  text-decoration-color: rgba(91, 120, 168, 0.6);
+}
+
 .hero-polling {
   margin-top: 12px;
   color: var(--muted);
