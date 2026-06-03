@@ -19,6 +19,8 @@ let lastSnapshotSignature = "";
 let toastTimeoutId = null;
 let currentPointsChangeLabel = "today";
 let revealAnimationTimeoutId = 0;
+let playerHistoryCache = null;
+let playerHistoryDismissInitialized = false;
 
 function slugify(value) {
   return String(value || "")
@@ -103,6 +105,20 @@ async function fetchSnapshot() {
   }
 
   return response.json();
+}
+
+async function fetchPlayerHistory() {
+  if (playerHistoryCache) {
+    return playerHistoryCache;
+  }
+
+  const response = await fetch("./25k-player-history.json", { cache: "no-store" });
+  if (!response.ok) {
+    throw new Error(`History request failed with ${response.status}`);
+  }
+
+  playerHistoryCache = await response.json();
+  return playerHistoryCache;
 }
 
 function renderHeaderStats() {
@@ -205,10 +221,10 @@ function renderManagerCards(managers) {
               .map(
                 (player) => `
                   <div class="player-row">
-                    <div>
-                      <div class="player-name">
+                    <div class="player-name-wrap">
+                      <button class="player-name player-history-trigger" type="button" data-player-name="${escapeHtml(player.player)}">
                         ${escapeHtml(player.player)}${player.isUnique ? '<span class="unique-player-mark" title="Unique to this roster" aria-label="Unique to this roster">*</span>' : ""}
-                      </div>
+                      </button>
                     </div>
                     <div class="player-points">${Math.round(player.points)}</div>
                   </div>
@@ -220,6 +236,101 @@ function renderManagerCards(managers) {
       `
     )
     .join("");
+}
+
+function closeAllPlayerHistoryWidgets() {
+  document.querySelectorAll(".player-history-widget").forEach((widget) => widget.remove());
+  document
+    .querySelectorAll(".player-history-trigger.is-open")
+    .forEach((trigger) => trigger.classList.remove("is-open"));
+}
+
+function buildPlayerHistoryWidget(playerName, historyByYear) {
+  const years = Object.keys(historyByYear || {}).sort((left, right) => Number(right) - Number(left));
+  const rows =
+    years.length === 0
+      ? '<div class="player-history-empty">No historical 25K data found.</div>'
+      : years
+          .map(
+            (year) => `
+              <div class="player-history-year-row">
+                <span>${year}</span>
+                <strong>${Math.round(parseNumber(historyByYear[year]))}</strong>
+              </div>
+            `
+          )
+          .join("");
+
+  return `
+    <div class="player-history-widget" role="dialog" aria-label="Historical points for ${escapeHtml(playerName)}">
+      <div class="player-history-header">
+        <span class="player-history-title">Historical points</span>
+        <button class="player-history-close" type="button" aria-label="Close historical points">×</button>
+      </div>
+      <div class="player-history-body">
+        ${rows}
+      </div>
+    </div>
+  `;
+}
+
+function initializePlayerHistoryWidgets() {
+  closeAllPlayerHistoryWidgets();
+
+  document.querySelectorAll(".player-history-trigger").forEach((trigger) => {
+    trigger.addEventListener("click", async (event) => {
+      event.stopPropagation();
+      const playerName = trigger.getAttribute("data-player-name");
+      const playerWrap = trigger.closest(".player-name-wrap");
+      if (!playerName || !playerWrap) {
+        return;
+      }
+
+      const existingWidget = playerWrap.querySelector(".player-history-widget");
+      if (existingWidget) {
+        existingWidget.remove();
+        trigger.classList.remove("is-open");
+        return;
+      }
+
+      closeAllPlayerHistoryWidgets();
+
+      try {
+        const history = await fetchPlayerHistory();
+        const historyByYear = history[playerName] || {};
+        playerWrap.insertAdjacentHTML("beforeend", buildPlayerHistoryWidget(playerName, historyByYear));
+        trigger.classList.add("is-open");
+
+        const closeButton = playerWrap.querySelector(".player-history-close");
+        closeButton?.addEventListener("click", (closeEvent) => {
+          closeEvent.stopPropagation();
+          playerWrap.querySelector(".player-history-widget")?.remove();
+          trigger.classList.remove("is-open");
+        });
+      } catch (error) {
+        playerWrap.insertAdjacentHTML(
+          "beforeend",
+          buildPlayerHistoryWidget(playerName, {})
+        );
+        trigger.classList.add("is-open");
+      }
+    });
+  });
+
+  if (!playerHistoryDismissInitialized) {
+    document.addEventListener("click", (event) => {
+      const target = event.target;
+      if (!(target instanceof Element)) {
+        closeAllPlayerHistoryWidgets();
+        return;
+      }
+
+      if (!target.closest(".player-name-wrap")) {
+        closeAllPlayerHistoryWidgets();
+      }
+    });
+    playerHistoryDismissInitialized = true;
+  }
 }
 
 function initializeRosterJumpLinks() {
@@ -667,6 +778,7 @@ async function loadLeaderboard({ manual = false } = {}) {
     renderLeaderboard(managers);
     renderManagerCards(managers);
     initializeRosterJumpLinks();
+    initializePlayerHistoryWidgets();
     renderOwnership(analytics.ownershipRows);
     renderOverlap(analytics.overlapRows);
     renderRouteLists(analytics.bestLeverageTeams, analytics.mostBlockedTeams);

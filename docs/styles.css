@@ -524,8 +524,23 @@ h1 {
   border-top: 1px solid var(--line);
 }
 
+.player-name-wrap {
+  min-width: 0;
+  flex: 1 1 auto;
+}
+
 .player-name {
+  display: inline-flex;
+  align-items: baseline;
+  gap: 0;
+  padding: 0;
+  border: 0;
+  background: transparent;
+  color: var(--ink);
+  font: inherit;
   font-weight: 500;
+  cursor: pointer;
+  text-align: left;
 }
 
 .unique-player-mark {
@@ -539,6 +554,68 @@ h1 {
 
 .player-points {
   font-family: "IBM Plex Mono", monospace;
+}
+
+.player-history-trigger:hover,
+.player-history-trigger.is-open {
+  color: var(--gold);
+}
+
+.player-history-widget {
+  margin-top: 10px;
+  padding: 12px;
+  border: 1px solid var(--line);
+  border-radius: 12px;
+  background: rgba(255, 250, 241, 0.96);
+  box-shadow: 0 10px 24px rgba(49, 32, 13, 0.08);
+}
+
+.player-history-header,
+.player-history-year-row {
+  display: flex;
+  justify-content: space-between;
+  gap: 12px;
+}
+
+.player-history-header {
+  align-items: center;
+  margin-bottom: 8px;
+}
+
+.player-history-title {
+  color: var(--muted);
+  font-size: 0.78rem;
+  font-weight: 700;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+}
+
+.player-history-close {
+  border: 0;
+  background: transparent;
+  color: var(--muted);
+  font: inherit;
+  font-size: 1rem;
+  line-height: 1;
+  cursor: pointer;
+}
+
+.player-history-body {
+  display: grid;
+  gap: 6px;
+}
+
+.player-history-year-row span {
+  color: var(--muted);
+}
+
+.player-history-year-row strong {
+  font-family: "IBM Plex Mono", monospace;
+}
+
+.player-history-empty {
+  color: var(--muted);
+  font-size: 0.92rem;
 }
 
 .ownership-pill {
