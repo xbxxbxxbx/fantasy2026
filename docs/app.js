@@ -509,6 +509,15 @@ function initializeCollapsiblePanels() {
       const isCollapsed = content.classList.toggle("is-collapsed");
       button.setAttribute("aria-expanded", String(!isCollapsed));
       button.textContent = isCollapsed ? "Expand" : "Collapse";
+
+      if (!isCollapsed) {
+        const section = button.closest(".collapsible-panel");
+        if (section) {
+          window.requestAnimationFrame(() => {
+            section.scrollIntoView({ behavior: "smooth", block: "start" });
+          });
+        }
+      }
     });
   });
 }
