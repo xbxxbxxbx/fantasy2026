@@ -129,7 +129,9 @@ function renderManagerCards(managers) {
                 (player) => `
                   <div class="player-row">
                     <div>
-                      <div class="player-name">${escapeHtml(player.player)}</div>
+                      <div class="player-name">
+                        ${escapeHtml(player.player)}${player.isUnique ? '<span class="unique-player-mark" title="Unique to this roster" aria-label="Unique to this roster">*</span>' : ""}
+                      </div>
                     </div>
                     <div class="player-points">${Math.round(player.points)}</div>
                   </div>
@@ -528,12 +530,22 @@ async function loadLeaderboard({ manual = false } = {}) {
       players: (manager.players || []).map((player) => ({
         player: canonicalPlayerName(player.player),
         points: parseNumber(player.points),
+        isUnique: false,
       })),
     }));
-
+    const analytics = buildAnalytics(managers);
+    const uniquePlayerSet = new Set(
+      analytics.ownershipRows
+        .filter((row) => row.ownerCount === 1)
+        .map((row) => canonicalPlayerName(row.player))
+    );
+    managers.forEach((manager) => {
+      manager.players.forEach((player) => {
+        player.isUnique = uniquePlayerSet.has(canonicalPlayerName(player.player));
+      });
+    });
     renderLeaderboard(managers);
     renderManagerCards(managers);
-    const analytics = buildAnalytics(managers);
     renderOwnership(analytics.ownershipRows);
     renderOverlap(analytics.overlapRows);
     renderRouteLists(analytics.bestLeverageTeams, analytics.mostBlockedTeams);
