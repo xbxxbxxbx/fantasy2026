@@ -4,19 +4,19 @@ Static GitHub Pages leaderboard for a WSOP fantasy draft.
 
 ## Current architecture
 
-- frontend: static HTML, CSS, and browser JS under `/Users/trstowell/Documents/fantasy/docs`
+- frontend: static HTML, CSS, and browser JS under `docs/`
 - primary score feed: `https://www.25kfantasy.com/players/`
 - active-sweat feed: `https://www.25kfantasy.com/sweat`
-- refresh script: `/Users/trstowell/Documents/fantasy/scripts/update_data.py`
+- refresh script: `scripts/update_data.py`
 - generated artifacts:
-  - `/Users/trstowell/Documents/fantasy/docs/data.json`
-  - `/Users/trstowell/Documents/fantasy/docs/active-players.json`
-  - `/Users/trstowell/Documents/fantasy/docs/history/*.json`
-  - `/Users/trstowell/Documents/fantasy/docs/25k-player-history.json`
+  - `docs/data.json`
+  - `docs/active-players.json`
+  - `docs/history/*.json`
+  - `docs/25k-player-history.json`
 
 ## Configure it
 
-Edit `/Users/trstowell/Documents/fantasy/docs/config.js`:
+Edit `docs/config.js`:
 
 - `leagueName`
 - `sourceLabel`
@@ -57,7 +57,7 @@ That updates:
 
 Workflow:
 
-- `/Users/trstowell/Documents/fantasy/.github/workflows/update-leaderboard.yml`
+- `.github/workflows/update-leaderboard.yml`
 
 Current schedule:
 
@@ -88,7 +88,7 @@ Do not use `file://.../docs/index.html`.
 
 ## Maintenance
 
-See `/Users/trstowell/Documents/fantasy/MAINTAINING.md` for:
+See `MAINTAINING.md` for:
 
 - rollback instructions
 - artifact contracts

@@ -4,7 +4,7 @@
 
 - default branch: `master`
 - GitHub Pages source: `master /docs`
-- workflow file: `/Users/trstowell/Documents/fantasy/.github/workflows/update-leaderboard.yml`
+- workflow file: `.github/workflows/update-leaderboard.yml`
 - workflow cadence: every 10 minutes
 
 ## Rollback handles
@@ -37,20 +37,20 @@ Do not use `file://.../docs/index.html`. The page fetches JSON assets and needs 
 
 Generated on the scheduled workflow and committed to the repo:
 
-- `/Users/trstowell/Documents/fantasy/docs/data.json`
-- `/Users/trstowell/Documents/fantasy/docs/active-players.json`
-- `/Users/trstowell/Documents/fantasy/docs/history/YYYY-MM-DD.json`
-- `/Users/trstowell/Documents/fantasy/docs/25k-player-history.json`
+- `docs/data.json`
+- `docs/active-players.json`
+- `docs/history/YYYY-MM-DD.json`
+- `docs/25k-player-history.json`
 
 Hand-maintained source files:
 
-- `/Users/trstowell/Documents/fantasy/docs/config.js`
-- `/Users/trstowell/Documents/fantasy/docs/index.html`
-- `/Users/trstowell/Documents/fantasy/docs/styles.css`
-- `/Users/trstowell/Documents/fantasy/docs/js/*.js`
-- `/Users/trstowell/Documents/fantasy/docs/app.js`
-- `/Users/trstowell/Documents/fantasy/scripts/update_data.py`
-- `/Users/trstowell/Documents/fantasy/scripts/update_data_lib/*.py`
+- `docs/config.js`
+- `docs/index.html`
+- `docs/styles.css`
+- `docs/js/*.js`
+- `docs/app.js`
+- `scripts/update_data.py`
+- `scripts/update_data_lib/*.py`
 
 ## Data sources
 
@@ -108,7 +108,7 @@ After merging to `master`:
 
 ## Cache busting
 
-Asset version query strings in `/Users/trstowell/Documents/fantasy/docs/index.html` are manual.
+Asset version query strings in `docs/index.html` are manual.
 
 When frontend assets change:
 
