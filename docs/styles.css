@@ -171,6 +171,10 @@ h1 {
   cursor: pointer;
 }
 
+.section-nav-link {
+  gap: 8px;
+}
+
 .section-nav-link:hover,
 .collapse-button:hover {
   background: rgba(255, 255, 255, 0.9);
@@ -570,7 +574,10 @@ h1 {
 }
 
 .player-row {
+  display: grid;
+  grid-template-columns: minmax(0, 1fr) auto;
   align-items: baseline;
+  column-gap: 12px;
   padding-top: 10px;
   border-top: 1px solid var(--line);
 }
@@ -578,6 +585,7 @@ h1 {
 .player-name-wrap {
   min-width: 0;
   flex: 1 1 auto;
+  width: 100%;
 }
 
 .player-name {
@@ -633,6 +641,13 @@ h1 {
   flex: 0 0 auto;
 }
 
+.live-sweats-nav-mark {
+  position: static;
+  transform: none;
+  margin-right: 0;
+  flex: 0 0 auto;
+}
+
 .unique-player-mark {
   position: relative;
   top: -3px;
@@ -653,11 +668,17 @@ h1 {
 
 .player-history-widget {
   margin-top: 10px;
+  width: 100%;
   padding: 12px;
   border: 1px solid var(--line);
   border-radius: 12px;
   background: rgba(255, 250, 241, 0.96);
   box-shadow: 0 10px 24px rgba(49, 32, 13, 0.08);
+}
+
+.player-history-slot {
+  grid-column: 1 / -1;
+  width: 100%;
 }
 
 .player-history-header,

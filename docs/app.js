@@ -5,6 +5,7 @@ const elements = {
   leagueDescription: document.querySelector("#league-description"),
   heroPolling: document.querySelector("#hero-polling"),
   liveSweatsNav: document.querySelector("#live-sweats-nav"),
+  liveSweatsNavIndicator: document.querySelector("#live-sweats-nav-indicator"),
   liveSweatsSection: document.querySelector("#live-sweats"),
   liveSweatsStatus: document.querySelector("#live-sweats-status"),
   liveSweatsCountdown: document.querySelector("#live-sweats-countdown"),
@@ -279,6 +280,9 @@ function renderLiveSweats(players) {
     if (elements.liveSweatsNav) {
       elements.liveSweatsNav.hidden = true;
     }
+    if (elements.liveSweatsNavIndicator) {
+      elements.liveSweatsNavIndicator.hidden = true;
+    }
     if (liveContent) {
       liveContent.hidden = true;
     }
@@ -292,6 +296,9 @@ function renderLiveSweats(players) {
   elements.liveSweatsStatus.hidden = true;
   if (elements.liveSweatsNav) {
     elements.liveSweatsNav.hidden = false;
+  }
+  if (elements.liveSweatsNavIndicator) {
+    elements.liveSweatsNavIndicator.hidden = players.length === 0;
   }
   if (liveContent) {
     liveContent.hidden = false;
@@ -374,6 +381,7 @@ function renderManagerCards(managers) {
                       </button>
                     </div>
                     <div class="player-points">${Math.round(player.points)}</div>
+                    <div class="player-history-slot"></div>
                   </div>
                 `
               )
@@ -429,11 +437,13 @@ function initializePlayerHistoryWidgets() {
       event.stopPropagation();
       const playerName = trigger.getAttribute("data-player-name");
       const playerWrap = trigger.closest(".player-name-wrap");
-      if (!playerName || !playerWrap) {
+      const playerRow = trigger.closest(".player-row");
+      const playerHistorySlot = playerRow?.querySelector(".player-history-slot");
+      if (!playerName || !playerWrap || !playerRow || !playerHistorySlot) {
         return;
       }
 
-      const existingWidget = playerWrap.querySelector(".player-history-widget");
+      const existingWidget = playerHistorySlot.querySelector(".player-history-widget");
       if (existingWidget) {
         existingWidget.remove();
         trigger.classList.remove("is-open");
@@ -445,20 +455,17 @@ function initializePlayerHistoryWidgets() {
       try {
         const history = await fetchPlayerHistory();
         const historyByYear = history[playerName] || {};
-        playerWrap.insertAdjacentHTML("beforeend", buildPlayerHistoryWidget(playerName, historyByYear));
+        playerHistorySlot.innerHTML = buildPlayerHistoryWidget(playerName, historyByYear);
         trigger.classList.add("is-open");
 
-        const closeButton = playerWrap.querySelector(".player-history-close");
+        const closeButton = playerHistorySlot.querySelector(".player-history-close");
         closeButton?.addEventListener("click", (closeEvent) => {
           closeEvent.stopPropagation();
-          playerWrap.querySelector(".player-history-widget")?.remove();
+          playerHistorySlot.querySelector(".player-history-widget")?.remove();
           trigger.classList.remove("is-open");
         });
       } catch (error) {
-        playerWrap.insertAdjacentHTML(
-          "beforeend",
-          buildPlayerHistoryWidget(playerName, {})
-        );
+        playerHistorySlot.innerHTML = buildPlayerHistoryWidget(playerName, {});
         trigger.classList.add("is-open");
       }
     });
