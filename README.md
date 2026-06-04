@@ -1,40 +1,45 @@
 # Poker Fantasy Leaderboard
 
-Static GitHub Pages leaderboard for a poker fantasy draft.
+Static GitHub Pages leaderboard for a WSOP fantasy draft.
 
-## What it does
+## Current architecture
 
-- Fetches Poker.org team pages with Python
-- Writes a static `docs/data.json` snapshot
-- Totals each fantasy manager's latest team score
-- Ranks managers on a clean leaderboard page
+- frontend: static HTML, CSS, and browser JS under `/Users/trstowell/Documents/fantasy/docs`
+- primary score feed: `https://www.25kfantasy.com/players/`
+- active-sweat feed: `https://www.25kfantasy.com/sweat`
+- refresh script: `/Users/trstowell/Documents/fantasy/scripts/update_data.py`
+- generated artifacts:
+  - `/Users/trstowell/Documents/fantasy/docs/data.json`
+  - `/Users/trstowell/Documents/fantasy/docs/active-players.json`
+  - `/Users/trstowell/Documents/fantasy/docs/history/*.json`
+  - `/Users/trstowell/Documents/fantasy/docs/25k-player-history.json`
 
 ## Configure it
 
-The current config is set up for Poker.org team pages.
+Edit `/Users/trstowell/Documents/fantasy/docs/config.js`:
 
-Edit `docs/config.js`:
+- `leagueName`
+- `sourceLabel`
+- `sourceUrl`
+- `updateCadenceLabel`
+- `scoreFeedUrl`
+- `scoreFeedTableId`
+- `scoreFeedPlayerColumn`
+- `scoreFeedPointsColumn`
+- `teamSources`
 
-- `leagueName` and `leagueDescription`
-- `teamSources`: each manager name, team name, and team URL
-- `teamPageTableSelector`: table selector on the team pages
-- `teamPagePlayerColumn` and `teamPagePointsColumn`
-
-### Team source shape
-
-Each team entry supports:
+Each roster entry uses this shape:
 
 ```js
 {
   managerName: "Trampstamp",
   teamName: "lowerbackstamp",
   url: "https://www.poker.org/fantasy/wsop/2026/team/lowerbackstamp/",
+  roster: ["Player One", "Player Two"],
 }
 ```
 
-The parser expects a table with columns like `PLAYER` and `SCORE`, which matches the sample you pasted.
-
-## Update the data
+## Update the published data
 
 Run:
 
@@ -42,25 +47,51 @@ Run:
 python3 scripts/update_data.py
 ```
 
-That fetches each configured team page and rewrites `docs/data.json`.
+That updates:
+
+- `docs/data.json`
+- `docs/active-players.json`
+- `docs/history/YYYY-MM-DD.json` when needed
 
 ## Automated refresh
 
-The repo includes a GitHub Actions workflow at `.github/workflows/update-leaderboard.yml`.
+Workflow:
 
-- Manual run: trigger `Update leaderboard data` from the Actions tab
-- Scheduled run: every 30 minutes
+- `/Users/trstowell/Documents/fantasy/.github/workflows/update-leaderboard.yml`
 
-For scheduled updates to work, the repo must be on GitHub with Actions enabled.
+Current schedule:
 
-## Publish to GitHub Pages
+- every 10 minutes
 
-1. Push this repo to GitHub.
-2. In the repo settings, open `Pages`.
-3. Set the deploy source to `Deploy from a branch`.
-4. Choose your main branch and the `/docs` folder.
-5. Save.
+The workflow commits generated data back to `master`.
+
+## GitHub Pages
+
+Use:
+
+- branch: `master`
+- folder: `/docs`
 
 ## Local preview
 
-Serve the repo root or the `docs` folder with a small static server, then open the page in a browser.
+Run:
+
+```bash
+python3 -m http.server 4181 --directory docs
+```
+
+Then open:
+
+- `http://localhost:4181`
+
+Do not use `file://.../docs/index.html`.
+
+## Maintenance
+
+See `/Users/trstowell/Documents/fantasy/MAINTAINING.md` for:
+
+- rollback instructions
+- artifact contracts
+- delta semantics
+- deploy verification
+- cache-busting policy
