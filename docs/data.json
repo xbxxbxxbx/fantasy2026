@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-06-04T02:16:18.593477+00:00",
+  "generatedAt": "2026-06-04T17:59:08.979206+00:00",
   "pointsChangeLabel": "today",
-  "pointsChangeComparisonDate": "2026-06-03",
+  "pointsChangeComparisonDate": "2026-06-04",
   "managers": [
     {
       "managerName": "ASG",
@@ -21,6 +21,10 @@
           "points": 15.0
         },
         {
+          "player": "Matt Vengrin",
+          "points": 3.0
+        },
+        {
           "player": "Bryce Yockey",
           "points": 2.0
         },
@@ -33,17 +37,13 @@
           "points": 1.0
         },
         {
-          "player": "Matt Vengrin",
-          "points": 1.0
-        },
-        {
           "player": "Jason Koon",
           "points": 0.0
         }
       ],
-      "totalPoints": 169.0,
-      "pointsChange": 0.0,
-      "pointsChangeSincePrevious": 0.0
+      "totalPoints": 171.0,
+      "pointsChange": 2.0,
+      "pointsChangeSincePrevious": 2.0
     },
     {
       "managerName": "Doinky",
@@ -59,12 +59,12 @@
           "points": 3.0
         },
         {
-          "player": "Sam Soverel",
-          "points": 2.0
+          "player": "Matt Vengrin",
+          "points": 3.0
         },
         {
-          "player": "Matt Vengrin",
-          "points": 1.0
+          "player": "Sam Soverel",
+          "points": 2.0
         },
         {
           "player": "Isaac Haxton",
@@ -83,9 +83,9 @@
           "points": 0.0
         }
       ],
-      "totalPoints": 143.0,
-      "pointsChange": 0.0,
-      "pointsChangeSincePrevious": 0.0
+      "totalPoints": 145.0,
+      "pointsChange": 2.0,
+      "pointsChangeSincePrevious": 2.0
     },
     {
       "managerName": "JeffBNT",
@@ -105,16 +105,16 @@
           "points": 5.0
         },
         {
+          "player": "Ben Yu",
+          "points": 5.0
+        },
+        {
           "player": "Brock Wilson",
           "points": 4.0
         },
         {
           "player": "Nicholas Seward",
           "points": 4.0
-        },
-        {
-          "player": "Ben Yu",
-          "points": 3.0
         },
         {
           "player": "Sam Soverel",
@@ -125,9 +125,9 @@
           "points": 1.0
         }
       ],
-      "totalPoints": 137.0,
-      "pointsChange": 1.0,
-      "pointsChangeSincePrevious": 0.0
+      "totalPoints": 139.0,
+      "pointsChange": 2.0,
+      "pointsChangeSincePrevious": 2.0
     },
     {
       "managerName": "Kush",
@@ -144,7 +144,7 @@
         },
         {
           "player": "Ben Yu",
-          "points": 3.0
+          "points": 5.0
         },
         {
           "player": "Martin Zamani",
@@ -167,9 +167,51 @@
           "points": 0.0
         }
       ],
-      "totalPoints": 137.0,
-      "pointsChange": 3.0,
-      "pointsChangeSincePrevious": 0.0
+      "totalPoints": 139.0,
+      "pointsChange": 2.0,
+      "pointsChangeSincePrevious": 2.0
+    },
+    {
+      "managerName": "Ruben",
+      "teamName": "wugwugwugwug",
+      "url": "https://www.poker.org/fantasy/wsop/2026/team/wugwugwugwug/",
+      "players": [
+        {
+          "player": "Brandon Shack-Harris",
+          "points": 47.0
+        },
+        {
+          "player": "Ryan Hoenig",
+          "points": 13.0
+        },
+        {
+          "player": "Jerry Wong",
+          "points": 12.0
+        },
+        {
+          "player": "Maksim Pisarenko",
+          "points": 6.0
+        },
+        {
+          "player": "Matt Vengrin",
+          "points": 3.0
+        },
+        {
+          "player": "Jim Collopy",
+          "points": 2.0
+        },
+        {
+          "player": "Ian Matakis",
+          "points": 2.0
+        },
+        {
+          "player": "Viktor Blom",
+          "points": 0.0
+        }
+      ],
+      "totalPoints": 85.0,
+      "pointsChange": 60.0,
+      "pointsChangeSincePrevious": 60.0
     },
     {
       "managerName": "Gus",
@@ -210,8 +252,8 @@
         }
       ],
       "totalPoints": 78.0,
-      "pointsChange": 2.0,
-      "pointsChangeSincePrevious": 1.0
+      "pointsChange": 0.0,
+      "pointsChangeSincePrevious": 0.0
     },
     {
       "managerName": "Turbo",
@@ -294,49 +336,7 @@
         }
       ],
       "totalPoints": 53.0,
-      "pointsChange": 3.0,
-      "pointsChangeSincePrevious": 0.0
-    },
-    {
-      "managerName": "Ruben",
-      "teamName": "wugwugwugwug",
-      "url": "https://www.poker.org/fantasy/wsop/2026/team/wugwugwugwug/",
-      "players": [
-        {
-          "player": "Jerry Wong",
-          "points": 12.0
-        },
-        {
-          "player": "Maksim Pisarenko",
-          "points": 6.0
-        },
-        {
-          "player": "Ryan Hoenig",
-          "points": 2.0
-        },
-        {
-          "player": "Jim Collopy",
-          "points": 2.0
-        },
-        {
-          "player": "Ian Matakis",
-          "points": 2.0
-        },
-        {
-          "player": "Matt Vengrin",
-          "points": 1.0
-        },
-        {
-          "player": "Viktor Blom",
-          "points": 0.0
-        },
-        {
-          "player": "Brandon Shack-Harris",
-          "points": 0.0
-        }
-      ],
-      "totalPoints": 25.0,
-      "pointsChange": 2.0,
+      "pointsChange": 0.0,
       "pointsChangeSincePrevious": 0.0
     },
     {
@@ -378,7 +378,7 @@
         }
       ],
       "totalPoints": 10.0,
-      "pointsChange": 3.0,
+      "pointsChange": 0.0,
       "pointsChangeSincePrevious": 0.0
     }
   ],
