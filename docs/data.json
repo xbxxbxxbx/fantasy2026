@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-04T07:21:23.828554+00:00",
+  "generatedAt": "2026-06-04T08:45:59.662006+00:00",
   "pointsChangeLabel": "today",
   "pointsChangeComparisonDate": "2026-06-04",
   "managers": [
@@ -211,7 +211,7 @@
       ],
       "totalPoints": 85.0,
       "pointsChange": 60.0,
-      "pointsChangeSincePrevious": 11.0
+      "pointsChangeSincePrevious": 0.0
     },
     {
       "managerName": "Gus",
