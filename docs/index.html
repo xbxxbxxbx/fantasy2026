@@ -45,7 +45,7 @@
       </header>
 
       <nav class="section-nav" aria-label="Section navigation">
-        <a class="section-nav-link" href="#live-sweats">Live Sweats</a>
+        <a id="live-sweats-nav" class="section-nav-link" href="#live-sweats">Live Sweats</a>
         <a class="section-nav-link" href="#leaderboard">Leaderboard</a>
         <a class="section-nav-link" href="#routes-to-victory">Routes to Victory</a>
         <a class="section-nav-link" href="#rosters">Rosters</a>
@@ -54,7 +54,7 @@
       </nav>
 
       <main class="content-grid">
-        <section id="live-sweats" class="panel panel-wide collapsible-panel" hidden>
+        <section id="live-sweats" class="panel panel-wide collapsible-panel">
           <div class="panel-heading">
             <div>
               <h2>Live Sweats</h2>
@@ -67,6 +67,10 @@
             >
               Collapse
             </button>
+          </div>
+          <div id="live-sweats-status" class="live-sweats-status">
+            <p class="live-sweats-note">Sweats will show after 6 PM EST</p>
+            <p id="live-sweats-countdown" class="live-sweats-countdown">Starting in -- hours -- minutes</p>
           </div>
           <div id="live-sweats-content" class="panel-content">
             <div class="table-wrap">

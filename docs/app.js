@@ -4,7 +4,10 @@ const elements = {
   leagueName: document.querySelector("#league-name"),
   leagueDescription: document.querySelector("#league-description"),
   heroPolling: document.querySelector("#hero-polling"),
+  liveSweatsNav: document.querySelector("#live-sweats-nav"),
   liveSweatsSection: document.querySelector("#live-sweats"),
+  liveSweatsStatus: document.querySelector("#live-sweats-status"),
+  liveSweatsCountdown: document.querySelector("#live-sweats-countdown"),
   liveSweatsBody: document.querySelector("#live-sweats-body"),
   leaderboardBody: document.querySelector("#leaderboard-body"),
   managerCards: document.querySelector("#manager-cards"),
@@ -23,6 +26,10 @@ let currentPointsChangeLabel = "today";
 let revealAnimationTimeoutId = 0;
 let playerHistoryCache = null;
 let playerHistoryDismissInitialized = false;
+let liveSweatsCountdownTimerId = 0;
+let latestManagers = [];
+let latestLiveSweats = [];
+let lastLiveSweatsAvailability = null;
 
 function slugify(value) {
   return String(value || "")
@@ -98,6 +105,31 @@ function parseNumber(value) {
     .replace(/[^\d.-]/g, "");
   const parsed = Number.parseFloat(cleaned);
   return Number.isFinite(parsed) ? parsed : 0;
+}
+
+function getNewYorkNow(now = new Date()) {
+  return new Date(now.toLocaleString("en-US", { timeZone: "America/New_York" }));
+}
+
+function getLiveSweatsAvailability() {
+  const nyNow = getNewYorkNow();
+  const target = new Date(nyNow);
+  target.setHours(18, 0, 0, 0);
+  const isLive = nyNow >= target;
+
+  if (isLive) {
+    return { isLive: true, countdownText: "" };
+  }
+
+  const diffMs = target.getTime() - nyNow.getTime();
+  const totalMinutes = Math.max(0, Math.floor(diffMs / 60000));
+  const hours = Math.floor(totalMinutes / 60);
+  const minutes = totalMinutes % 60;
+
+  return {
+    isLive: false,
+    countdownText: `Starting in ${hours} hour${hours === 1 ? "" : "s"} ${minutes} minute${minutes === 1 ? "" : "s"}`,
+  };
 }
 
 async function fetchSnapshot() {
@@ -216,17 +248,48 @@ function renderLeaderboard(managers) {
 }
 
 function renderLiveSweats(players) {
-  if (!elements.liveSweatsSection || !elements.liveSweatsBody) {
+  if (!elements.liveSweatsSection || !elements.liveSweatsBody || !elements.liveSweatsStatus) {
     return;
   }
 
-  if (!players.length) {
-    elements.liveSweatsSection.hidden = true;
+  const availability = getLiveSweatsAvailability();
+  const liveContent = document.getElementById("live-sweats-content");
+  const liveButton = elements.liveSweatsSection.querySelector(".collapse-button");
+
+  if (!availability.isLive) {
+    elements.liveSweatsStatus.hidden = false;
+    if (elements.liveSweatsCountdown) {
+      elements.liveSweatsCountdown.textContent = availability.countdownText;
+    }
+    if (elements.liveSweatsNav) {
+      elements.liveSweatsNav.hidden = true;
+    }
+    if (liveContent) {
+      liveContent.hidden = true;
+    }
+    if (liveButton) {
+      liveButton.hidden = true;
+    }
     elements.liveSweatsBody.innerHTML = "";
     return;
   }
 
-  elements.liveSweatsSection.hidden = false;
+  elements.liveSweatsStatus.hidden = true;
+  if (elements.liveSweatsNav) {
+    elements.liveSweatsNav.hidden = false;
+  }
+  if (liveContent) {
+    liveContent.hidden = false;
+  }
+  if (liveButton) {
+    liveButton.hidden = false;
+  }
+
+  if (!players.length) {
+    elements.liveSweatsBody.innerHTML = "";
+    return;
+  }
+
   elements.liveSweatsBody.innerHTML = players
     .map(
       (player) => `
@@ -244,7 +307,36 @@ function renderLiveSweats(players) {
     .join("");
 }
 
+function syncLiveSweatsAvailability(force = false) {
+  const availability = getLiveSweatsAvailability();
+  if (elements.liveSweatsCountdown && !availability.isLive) {
+    elements.liveSweatsCountdown.textContent = availability.countdownText;
+  }
+
+  if (force || lastLiveSweatsAvailability !== availability.isLive) {
+    lastLiveSweatsAvailability = availability.isLive;
+    if (latestManagers.length) {
+      renderManagerCards(latestManagers);
+      initializeRosterJumpLinks();
+      initializePlayerHistoryWidgets();
+    }
+    renderLiveSweats(latestLiveSweats);
+  }
+}
+
+function startLiveSweatsCountdown() {
+  if (liveSweatsCountdownTimerId) {
+    window.clearInterval(liveSweatsCountdownTimerId);
+  }
+
+  syncLiveSweatsAvailability(true);
+  liveSweatsCountdownTimerId = window.setInterval(() => {
+    syncLiveSweatsAvailability();
+  }, 60000);
+}
+
 function renderManagerCards(managers) {
+  const availability = getLiveSweatsAvailability();
   elements.managerCards.innerHTML = managers
     .map(
       (manager) => `
@@ -263,7 +355,7 @@ function renderManagerCards(managers) {
                   <div class="player-row">
                     <div class="player-name-wrap">
                       <button class="player-name player-history-trigger" type="button" data-player-name="${escapeHtml(player.player)}">
-                        ${player.isActive ? '<span class="live-player-mark" title="Currently live in sweat data" aria-label="Currently live in sweat data"></span>' : ""}${escapeHtml(player.player)}${player.isUnique ? '<span class="unique-player-mark" title="Unique to this roster" aria-label="Unique to this roster">*</span>' : ""}
+                        ${availability.isLive && player.isActive ? '<span class="live-player-mark" title="Currently live in sweat data" aria-label="Currently live in sweat data"></span>' : ""}${escapeHtml(player.player)}${player.isUnique ? '<span class="unique-player-mark" title="Unique to this roster" aria-label="Unique to this roster">*</span>' : ""}
                       </button>
                     </div>
                     <div class="player-points">${Math.round(player.points)}</div>
@@ -830,6 +922,8 @@ async function loadLeaderboard({ manual = false } = {}) {
         player.isActive = activePlayerSet.has(canonicalPlayerName(player.player));
       });
     });
+    latestManagers = managers;
+    latestLiveSweats = liveSweats;
     renderLiveSweats(liveSweats);
     renderLeaderboard(managers);
     renderManagerCards(managers);
@@ -854,6 +948,8 @@ async function loadLeaderboard({ manual = false } = {}) {
 
     lastSnapshotSignature = nextSignature;
   } catch (error) {
+    latestManagers = [];
+    latestLiveSweats = [];
     renderLiveSweats([]);
     renderLeaderboard([]);
     renderManagerCards([]);
@@ -892,4 +988,5 @@ document.querySelectorAll(".section-nav-link").forEach((link) => {
 });
 window.addEventListener("scroll", updateBackToTopVisibility, { passive: true });
 updateBackToTopVisibility();
+startLiveSweatsCountdown();
 loadLeaderboard();
