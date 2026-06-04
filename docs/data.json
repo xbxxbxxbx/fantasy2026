@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-04T01:33:48.134291+00:00",
+  "generatedAt": "2026-06-04T03:10:30.389722+00:00",
   "pointsChangeLabel": "today",
   "pointsChangeComparisonDate": "2026-06-03",
   "managers": [
@@ -193,12 +193,12 @@
           "points": 4.0
         },
         {
-          "player": "Esther Taylor",
+          "player": "Matt Glantz",
           "points": 3.0
         },
         {
-          "player": "Matt Glantz",
-          "points": 2.0
+          "player": "Esther Taylor",
+          "points": 3.0
         },
         {
           "player": "Phillip Hui",
@@ -209,9 +209,9 @@
           "points": 1.0
         }
       ],
-      "totalPoints": 77.0,
-      "pointsChange": 1.0,
-      "pointsChangeSincePrevious": 0.0
+      "totalPoints": 78.0,
+      "pointsChange": 2.0,
+      "pointsChangeSincePrevious": 1.0
     },
     {
       "managerName": "Turbo",
