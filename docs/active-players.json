@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-04T18:59:44.039289+00:00",
+  "generatedAt": "2026-06-04T19:46:41.791457+00:00",
   "league": "25k",
   "count": 15,
   "players": [
@@ -11,7 +11,7 @@
       "rank": "4 / 8",
       "chips": "7,625,000",
       "bb": "38.1 BB",
-      "bonus": "Top 6 56 PTS",
+      "bonus": "Locked 16 PTS",
       "points": 0.0
     },
     {
@@ -22,7 +22,7 @@
       "rank": "7 / 8",
       "chips": "4,310,000",
       "bb": "21.6 BB",
-      "bonus": "Top 6 56 PTS",
+      "bonus": "Locked 16 PTS",
       "points": 0.0
     },
     {
@@ -33,7 +33,7 @@
       "rank": "8 / 8",
       "chips": "1,910,000",
       "bb": "9.6 BB",
-      "bonus": "Top 6 56 PTS",
+      "bonus": "Locked 16 PTS",
       "points": 0.0
     },
     {
@@ -41,10 +41,10 @@
       "event": "Event #16: $1,700 U.S. Circuit Championship No-Limit Hold'em",
       "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-16/",
       "team": "2026 ODB Bonus Players",
-      "rank": "28 / 32",
+      "rank": "26 / 28",
       "chips": "1,065,000",
-      "bb": "17.8 BB",
-      "bonus": "Top 21 22 PTS",
+      "bb": "13.3 BB",
+      "bonus": "Locked 22 PTS",
       "points": 22.0
     },
     {
@@ -52,10 +52,10 @@
       "event": "Event #16: $1,700 U.S. Circuit Championship No-Limit Hold'em",
       "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-16/",
       "team": "2026 ODB Bonus Players",
-      "rank": "31 / 32",
+      "rank": "28 / 28",
       "chips": "880,000",
-      "bb": "14.7 BB",
-      "bonus": "Top 21 22 PTS",
+      "bb": "11.0 BB",
+      "bonus": "Locked 22 PTS",
       "points": 22.0
     },
     {
@@ -66,7 +66,7 @@
       "rank": "1 / 13",
       "chips": "1,530,000",
       "bb": "95.6 BB",
-      "bonus": "Top 1 126 PTS",
+      "bonus": "Locked 11 PTS",
       "points": 11.0
     },
     {
@@ -77,7 +77,7 @@
       "rank": "2 / 13",
       "chips": "1,271,000",
       "bb": "79.4 BB",
-      "bonus": "Top 1 126 PTS",
+      "bonus": "Locked 11 PTS",
       "points": 11.0
     },
     {
@@ -88,7 +88,7 @@
       "rank": "4 / 13",
       "chips": "1,040,000",
       "bb": "65.0 BB",
-      "bonus": "Top 1 126 PTS",
+      "bonus": "Locked 11 PTS",
       "points": 11.0
     },
     {
@@ -99,7 +99,7 @@
       "rank": "5 / 13",
       "chips": "955,000",
       "bb": "59.7 BB",
-      "bonus": "Top 1 126 PTS",
+      "bonus": "Locked 11 PTS",
       "points": 11.0
     },
     {
@@ -110,7 +110,7 @@
       "rank": "6 / 13",
       "chips": "945,000",
       "bb": "59.1 BB",
-      "bonus": "Top 1 126 PTS",
+      "bonus": "Locked 11 PTS",
       "points": 11.0
     },
     {
@@ -121,7 +121,7 @@
       "rank": "7 / 13",
       "chips": "875,000",
       "bb": "54.7 BB",
-      "bonus": "Top 1 126 PTS",
+      "bonus": "Locked 11 PTS",
       "points": 11.0
     },
     {
@@ -132,7 +132,7 @@
       "rank": "8 / 13",
       "chips": "797,000",
       "bb": "49.8 BB",
-      "bonus": "Top 1 126 PTS",
+      "bonus": "Locked 11 PTS",
       "points": 11.0
     },
     {
@@ -143,7 +143,7 @@
       "rank": "9 / 13",
       "chips": "785,000",
       "bb": "49.1 BB",
-      "bonus": "Top 1 126 PTS",
+      "bonus": "Locked 11 PTS",
       "points": 11.0
     },
     {
@@ -154,7 +154,7 @@
       "rank": "11 / 13",
       "chips": "626,000",
       "bb": "39.1 BB",
-      "bonus": "Top 1 126 PTS",
+      "bonus": "Locked 11 PTS",
       "points": 11.0
     },
     {
@@ -165,7 +165,7 @@
       "rank": "12 / 13",
       "chips": "620,000",
       "bb": "38.8 BB",
-      "bonus": "Top 1 126 PTS",
+      "bonus": "Locked 11 PTS",
       "points": 11.0
     }
   ]
