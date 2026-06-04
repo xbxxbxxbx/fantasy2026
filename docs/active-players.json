@@ -1,170 +1,148 @@
 {
-  "generatedAt": "2026-06-04T00:41:06.026101+00:00",
+  "generatedAt": "2026-06-04T01:33:48.337250+00:00",
   "league": "25k",
-  "count": 22,
+  "count": 18,
   "players": [
     {
       "player": "Michael Moncek",
       "event": "Event #11: GGMillion$ High Roller No-Limit Hold'em",
       "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-11/",
       "team": "Gators",
-      "rank": "4 / 21",
+      "rank": "4 / 18",
       "chips": "3,980,000",
-      "bb": "66.3 BB",
+      "bb": "49.8 BB",
       "bonus": "Top 6 56 PTS",
-      "points": 2.0
+      "points": 16.0
     },
     {
       "player": "Max Neugebauer",
       "event": "Event #11: GGMillion$ High Roller No-Limit Hold'em",
       "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-11/",
       "team": "Lucky",
-      "rank": "6 / 21",
+      "rank": "6 / 18",
       "chips": "3,310,000",
-      "bb": "55.2 BB",
+      "bb": "41.4 BB",
       "bonus": "Top 6 56 PTS",
-      "points": 2.0
+      "points": 16.0
     },
     {
       "player": "Terrance Reid",
       "event": "Event #11: GGMillion$ High Roller No-Limit Hold'em",
       "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-11/",
       "team": "Torching with TJ",
-      "rank": "11 / 21",
+      "rank": "11 / 18",
       "chips": "2,455,000",
-      "bb": "40.9 BB",
+      "bb": "30.7 BB",
       "bonus": "Top 6 56 PTS",
-      "points": 2.0
+      "points": 16.0
     },
     {
       "player": "Chris Brewer",
       "event": "Event #11: GGMillion$ High Roller No-Limit Hold'em",
       "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-11/",
       "team": "Blez/NGNF",
-      "rank": "12 / 21",
+      "rank": "12 / 18",
       "chips": "2,245,000",
-      "bb": "37.4 BB",
+      "bb": "28.1 BB",
       "bonus": "Top 6 56 PTS",
-      "points": 2.0
+      "points": 16.0
     },
     {
       "player": "Zdenek Zizka",
       "event": "Event #11: GGMillion$ High Roller No-Limit Hold'em",
       "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-11/",
       "team": "Lucky",
-      "rank": "15 / 21",
+      "rank": "14 / 18",
       "chips": "1,785,000",
-      "bb": "29.8 BB",
+      "bb": "22.3 BB",
       "bonus": "Top 6 56 PTS",
-      "points": 2.0
+      "points": 16.0
     },
     {
       "player": "Joey Weissman",
       "event": "Event #11: GGMillion$ High Roller No-Limit Hold'em",
       "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-11/",
       "team": "Chocolate Factory",
-      "rank": "16 / 21",
+      "rank": "15 / 18",
       "chips": "1,705,000",
-      "bb": "28.4 BB",
+      "bb": "21.3 BB",
       "bonus": "Top 6 56 PTS",
-      "points": 2.0
-    },
-    {
-      "player": "Thomas Eychenne",
-      "event": "Event #11: GGMillion$ High Roller No-Limit Hold'em",
-      "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-11/",
-      "team": "2026 ODB Bonus Players",
-      "rank": "17 / 21",
-      "chips": "1,605,000",
-      "bb": "26.8 BB",
-      "bonus": "Top 6 56 PTS",
-      "points": 2.0
+      "points": 16.0
     },
     {
       "player": "John Racener",
       "event": "Event #11: GGMillion$ High Roller No-Limit Hold'em",
       "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-11/",
       "team": "Noori",
-      "rank": "19 / 21",
+      "rank": "17 / 18",
       "chips": "1,265,000",
-      "bb": "21.1 BB",
+      "bb": "15.8 BB",
       "bonus": "Top 6 56 PTS",
-      "points": 2.0
+      "points": 16.0
     },
     {
       "player": "Brad Ruben",
       "event": "Event #14: $1,500 Mixed PLO Hi-Lo 8 / Omaha Hi Lo 8 / Big O",
       "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-14/",
       "team": "Verderamo",
-      "rank": "2 / 12",
+      "rank": "2 / 9",
       "chips": "4,550,000",
       "bb": "\u2014",
       "bonus": "Top 12 Locked",
-      "points": 17.0
+      "points": 0.0
     },
     {
       "player": "Justin Liberto",
       "event": "Event #14: $1,500 Mixed PLO Hi-Lo 8 / Omaha Hi Lo 8 / Big O",
       "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-14/",
       "team": "Blez/NGNF",
-      "rank": "3 / 12",
+      "rank": "3 / 9",
       "chips": "3,855,000",
       "bb": "\u2014",
       "bonus": "Top 12 Locked",
-      "points": 17.0
+      "points": 0.0
     },
     {
       "player": "Brandon Shack-Harris",
       "event": "Event #14: $1,500 Mixed PLO Hi-Lo 8 / Omaha Hi Lo 8 / Big O",
       "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-14/",
       "team": "Glaser",
-      "rank": "5 / 12",
+      "rank": "5 / 9",
       "chips": "2,925,000",
       "bb": "\u2014",
       "bonus": "Top 12 Locked",
-      "points": 17.0
-    },
-    {
-      "player": "Ariel Mantel",
-      "event": "Event #14: $1,500 Mixed PLO Hi-Lo 8 / Omaha Hi Lo 8 / Big O",
-      "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-14/",
-      "team": "Very Handsome Horses",
-      "rank": "6 / 12",
-      "chips": "2,445,000",
-      "bb": "\u2014",
-      "bonus": "Top 12 Locked",
-      "points": 17.0
+      "points": 0.0
     },
     {
       "player": "Brian Battistone",
       "event": "Event #14: $1,500 Mixed PLO Hi-Lo 8 / Omaha Hi Lo 8 / Big O",
       "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-14/",
       "team": "Torching with TJ",
-      "rank": "8 / 12",
+      "rank": "7 / 9",
       "chips": "2,005,000",
       "bb": "\u2014",
       "bonus": "Top 12 Locked",
-      "points": 17.0
-    },
-    {
-      "player": "Michael Wilklow",
-      "event": "Event #16: $1,700 U.S. Circuit Championship No-Limit Hold'em",
-      "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-16/",
-      "team": "2026 ODB Bonus Players",
-      "rank": "21 / 103",
-      "chips": "852,000",
-      "bb": "42.6 BB",
-      "bonus": "Top 21 22 PTS",
-      "points": 1.0
+      "points": 0.0
     },
     {
       "player": "Angela Jordison",
       "event": "Event #16: $1,700 U.S. Circuit Championship No-Limit Hold'em",
       "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-16/",
       "team": "2026 ODB Bonus Players",
-      "rank": "26 / 103",
-      "chips": "755,000",
-      "bb": "37.8 BB",
+      "rank": "10 / 79",
+      "chips": "1,160,000",
+      "bb": "46.4 BB",
+      "bonus": "Top 21 22 PTS",
+      "points": 1.0
+    },
+    {
+      "player": "Michael Wilklow",
+      "event": "Event #16: $1,700 U.S. Circuit Championship No-Limit Hold'em",
+      "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-16/",
+      "team": "2026 ODB Bonus Players",
+      "rank": "23 / 79",
+      "chips": "852,000",
+      "bb": "34.1 BB",
       "bonus": "Top 21 22 PTS",
       "points": 1.0
     },
@@ -173,9 +151,9 @@
       "event": "Event #16: $1,700 U.S. Circuit Championship No-Limit Hold'em",
       "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-16/",
       "team": "Dinkers",
-      "rank": "36 / 103",
+      "rank": "33 / 79",
       "chips": "594,000",
-      "bb": "29.7 BB",
+      "bb": "23.8 BB",
       "bonus": "Top 21 22 PTS",
       "points": 1.0
     },
@@ -184,20 +162,9 @@
       "event": "Event #16: $1,700 U.S. Circuit Championship No-Limit Hold'em",
       "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-16/",
       "team": "2026 ODB Bonus Players",
-      "rank": "40 / 103",
+      "rank": "36 / 79",
       "chips": "520,000",
-      "bb": "26.0 BB",
-      "bonus": "Top 21 22 PTS",
-      "points": 1.0
-    },
-    {
-      "player": "Josh McCully",
-      "event": "Event #16: $1,700 U.S. Circuit Championship No-Limit Hold'em",
-      "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-16/",
-      "team": "Chocolate Factory",
-      "rank": "46 / 103",
-      "chips": "421,000",
-      "bb": "21.1 BB",
+      "bb": "20.8 BB",
       "bonus": "Top 21 22 PTS",
       "points": 1.0
     },
@@ -206,9 +173,9 @@
       "event": "Event #16: $1,700 U.S. Circuit Championship No-Limit Hold'em",
       "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-16/",
       "team": "2026 ODB Bonus Players",
-      "rank": "78 / 103",
+      "rank": "64 / 79",
       "chips": "240,000",
-      "bb": "12.0 BB",
+      "bb": "9.6 BB",
       "bonus": "Top 21 22 PTS",
       "points": 1.0
     },
@@ -217,9 +184,9 @@
       "event": "Event #16: $1,700 U.S. Circuit Championship No-Limit Hold'em",
       "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-16/",
       "team": "2026 ODB Bonus Players",
-      "rank": "79 / 103",
+      "rank": "65 / 79",
       "chips": "230,000",
-      "bb": "11.5 BB",
+      "bb": "9.2 BB",
       "bonus": "Top 21 22 PTS",
       "points": 1.0
     },
@@ -228,20 +195,9 @@
       "event": "Event #16: $1,700 U.S. Circuit Championship No-Limit Hold'em",
       "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-16/",
       "team": "2026 ODB Bonus Players",
-      "rank": "82 / 103",
+      "rank": "67 / 79",
       "chips": "209,000",
-      "bb": "10.5 BB",
-      "bonus": "Top 21 22 PTS",
-      "points": 1.0
-    },
-    {
-      "player": "Jonathan Tamayo",
-      "event": "Event #16: $1,700 U.S. Circuit Championship No-Limit Hold'em",
-      "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-16/",
-      "team": "2026 ODB Bonus Players",
-      "rank": "97 / 103",
-      "chips": "65,000",
-      "bb": "3.3 BB",
+      "bb": "8.4 BB",
       "bonus": "Top 21 22 PTS",
       "points": 1.0
     }
