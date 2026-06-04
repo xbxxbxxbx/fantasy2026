@@ -13,10 +13,10 @@
   };
 
   app.renderLeaderboard = function renderLeaderboard(managers) {
-    const availability = app.getLiveSweatsAvailability();
+    const hasVisibleLiveSweats = managers.some((manager) => manager.hasActivePlayer);
     if (app.elements.leaderboardHelperLive) {
-      app.elements.leaderboardHelperLive.hidden = !availability.isLive;
-      app.elements.leaderboardHelperLive.style.display = availability.isLive ? "" : "none";
+      app.elements.leaderboardHelperLive.hidden = !hasVisibleLiveSweats;
+      app.elements.leaderboardHelperLive.style.display = hasVisibleLiveSweats ? "" : "none";
     }
     app.elements.leaderboardBody.innerHTML = managers
       .map((manager, index) => {
@@ -35,7 +35,7 @@
           <td>
             <span class="manager-name-shell">
               ${
-                availability.isLive && manager.hasActivePlayer
+                manager.hasActivePlayer
                   ? '<span class="live-player-mark manager-live-mark" title="Manager has an active live sweat" aria-label="Manager has an active live sweat"></span>'
                   : ""
               }
@@ -155,7 +155,7 @@
   };
 
   app.renderManagerCards = function renderManagerCards(managers) {
-    const availability = app.getLiveSweatsAvailability();
+    const hasVisibleLiveSweats = managers.some((manager) => manager.hasActivePlayer);
     app.elements.managerCards.innerHTML = managers
       .map(
         (manager) => `
@@ -174,7 +174,7 @@
                   <div class="player-row">
                     <div class="player-name-wrap">
                       <button class="player-name player-history-trigger" type="button" data-player-name="${app.escapeHtml(player.player)}">
-                        ${availability.isLive && player.isActive ? '<span class="live-player-mark" title="Currently live in sweat data" aria-label="Currently live in sweat data"></span>' : ""}${app.escapeHtml(player.player)}${player.isUnique ? '<span class="unique-player-mark" title="Unique to this roster" aria-label="Unique to this roster">*</span>' : ""}
+                        ${hasVisibleLiveSweats && player.isActive ? '<span class="live-player-mark" title="Currently live in sweat data" aria-label="Currently live in sweat data"></span>' : ""}${app.escapeHtml(player.player)}${player.isUnique ? '<span class="unique-player-mark" title="Unique to this roster" aria-label="Unique to this roster">*</span>' : ""}
                       </button>
                     </div>
                     <div class="player-points">${Math.round(player.points)}</div>
