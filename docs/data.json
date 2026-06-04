@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-04T17:59:08.979206+00:00",
+  "generatedAt": "2026-06-04T18:59:43.420502+00:00",
   "pointsChangeLabel": "today",
   "pointsChangeComparisonDate": "2026-06-04",
   "managers": [
@@ -43,7 +43,7 @@
       ],
       "totalPoints": 171.0,
       "pointsChange": 2.0,
-      "pointsChangeSincePrevious": 2.0
+      "pointsChangeSincePrevious": 0.0
     },
     {
       "managerName": "Doinky",
@@ -85,7 +85,7 @@
       ],
       "totalPoints": 145.0,
       "pointsChange": 2.0,
-      "pointsChangeSincePrevious": 2.0
+      "pointsChangeSincePrevious": 0.0
     },
     {
       "managerName": "JeffBNT",
@@ -127,7 +127,7 @@
       ],
       "totalPoints": 139.0,
       "pointsChange": 2.0,
-      "pointsChangeSincePrevious": 2.0
+      "pointsChangeSincePrevious": 0.0
     },
     {
       "managerName": "Kush",
@@ -169,7 +169,7 @@
       ],
       "totalPoints": 139.0,
       "pointsChange": 2.0,
-      "pointsChangeSincePrevious": 2.0
+      "pointsChangeSincePrevious": 0.0
     },
     {
       "managerName": "Ruben",
@@ -211,7 +211,7 @@
       ],
       "totalPoints": 85.0,
       "pointsChange": 60.0,
-      "pointsChangeSincePrevious": 60.0
+      "pointsChangeSincePrevious": 0.0
     },
     {
       "managerName": "Gus",
