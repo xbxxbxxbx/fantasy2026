@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-04T22:29:21.681759+00:00",
+  "generatedAt": "2026-06-04T22:57:21.251796+00:00",
   "pointsChangeLabel": "today",
   "pointsChangeComparisonDate": "2026-06-04",
   "managers": [
@@ -295,7 +295,7 @@
       ],
       "totalPoints": 79.0,
       "pointsChange": 1.0,
-      "pointsChangeSincePrevious": 1.0
+      "pointsChangeSincePrevious": 0.0
     },
     {
       "managerName": "Turbo",
