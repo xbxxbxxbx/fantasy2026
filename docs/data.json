@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-04T05:48:25.819994+00:00",
+  "generatedAt": "2026-06-04T07:21:23.828554+00:00",
   "pointsChangeLabel": "today",
   "pointsChangeComparisonDate": "2026-06-04",
   "managers": [
@@ -172,6 +172,48 @@
       "pointsChangeSincePrevious": 0.0
     },
     {
+      "managerName": "Ruben",
+      "teamName": "wugwugwugwug",
+      "url": "https://www.poker.org/fantasy/wsop/2026/team/wugwugwugwug/",
+      "players": [
+        {
+          "player": "Brandon Shack-Harris",
+          "points": 47.0
+        },
+        {
+          "player": "Ryan Hoenig",
+          "points": 13.0
+        },
+        {
+          "player": "Jerry Wong",
+          "points": 12.0
+        },
+        {
+          "player": "Maksim Pisarenko",
+          "points": 6.0
+        },
+        {
+          "player": "Matt Vengrin",
+          "points": 3.0
+        },
+        {
+          "player": "Jim Collopy",
+          "points": 2.0
+        },
+        {
+          "player": "Ian Matakis",
+          "points": 2.0
+        },
+        {
+          "player": "Viktor Blom",
+          "points": 0.0
+        }
+      ],
+      "totalPoints": 85.0,
+      "pointsChange": 60.0,
+      "pointsChangeSincePrevious": 11.0
+    },
+    {
       "managerName": "Gus",
       "teamName": "mynameaintearl",
       "url": "https://www.poker.org/fantasy/wsop/2026/team/mynameaintearl/",
@@ -212,48 +254,6 @@
       "totalPoints": 78.0,
       "pointsChange": 0.0,
       "pointsChangeSincePrevious": 0.0
-    },
-    {
-      "managerName": "Ruben",
-      "teamName": "wugwugwugwug",
-      "url": "https://www.poker.org/fantasy/wsop/2026/team/wugwugwugwug/",
-      "players": [
-        {
-          "player": "Brandon Shack-Harris",
-          "points": 47.0
-        },
-        {
-          "player": "Jerry Wong",
-          "points": 12.0
-        },
-        {
-          "player": "Maksim Pisarenko",
-          "points": 6.0
-        },
-        {
-          "player": "Matt Vengrin",
-          "points": 3.0
-        },
-        {
-          "player": "Ryan Hoenig",
-          "points": 2.0
-        },
-        {
-          "player": "Jim Collopy",
-          "points": 2.0
-        },
-        {
-          "player": "Ian Matakis",
-          "points": 2.0
-        },
-        {
-          "player": "Viktor Blom",
-          "points": 0.0
-        }
-      ],
-      "totalPoints": 74.0,
-      "pointsChange": 49.0,
-      "pointsChangeSincePrevious": 47.0
     },
     {
       "managerName": "Turbo",
