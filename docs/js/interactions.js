@@ -132,10 +132,15 @@
     if (app.elements.liveSweatsCountdown && !availability.isLive) {
       app.elements.liveSweatsCountdown.textContent = availability.countdownText;
     }
+    if (app.elements.leaderboardHelperLive) {
+      app.elements.leaderboardHelperLive.hidden = !availability.isLive;
+      app.elements.leaderboardHelperLive.style.display = availability.isLive ? "" : "none";
+    }
 
     if (force || app.state.lastLiveSweatsAvailability !== availability.isLive) {
       app.state.lastLiveSweatsAvailability = availability.isLive;
       if (app.state.latestManagers.length) {
+        app.renderLeaderboard(app.state.latestManagers);
         app.renderManagerCards(app.state.latestManagers);
         app.initializeRosterJumpLinks();
         app.initializePlayerHistoryWidgets();

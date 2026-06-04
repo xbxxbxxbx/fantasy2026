@@ -12,10 +12,15 @@ def main() -> int:
     try:
         config = load_config()
         snapshot = build_snapshot(config)
-        if snapshot.get("successCount", 0) == 0:
-            raise RuntimeError("All team scrapes failed; preserving previous snapshot.")
-        snapshot.pop("successCount", None)
-        OUTPUT_PATH.write_text(json.dumps(snapshot, indent=2) + "\n", encoding="utf-8")
+        score_snapshot_updated = snapshot.get("successCount", 0) > 0
+        if score_snapshot_updated:
+            snapshot.pop("successCount", None)
+            OUTPUT_PATH.write_text(json.dumps(snapshot, indent=2) + "\n", encoding="utf-8")
+        else:
+            print(
+                "Warning: all team scrapes failed; preserving previous data.json.",
+                file=sys.stderr,
+            )
 
         try:
             active_snapshot = fetch_active_players_snapshot()
@@ -29,7 +34,10 @@ def main() -> int:
         print(f"Failed to update data: {exc}", file=sys.stderr)
         return 1
 
-    print(f"Wrote {OUTPUT_PATH}")
+    if score_snapshot_updated:
+        print(f"Wrote {OUTPUT_PATH}")
+    else:
+        print(f"Preserved {OUTPUT_PATH}")
     if ACTIVE_OUTPUT_PATH.exists():
         print(f"Wrote {ACTIVE_OUTPUT_PATH}")
     return 0

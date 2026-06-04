@@ -14,6 +14,10 @@
 
   app.renderLeaderboard = function renderLeaderboard(managers) {
     const availability = app.getLiveSweatsAvailability();
+    if (app.elements.leaderboardHelperLive) {
+      app.elements.leaderboardHelperLive.hidden = !availability.isLive;
+      app.elements.leaderboardHelperLive.style.display = availability.isLive ? "" : "none";
+    }
     app.elements.leaderboardBody.innerHTML = managers
       .map((manager, index) => {
         const rosterId = `roster-${app.slugify(manager.name)}`;

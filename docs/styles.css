@@ -249,9 +249,10 @@ h1 {
 }
 
 .live-sweats-countdown {
-  margin-top: 6px;
-  font-family: "IBM Plex Mono", monospace;
+  margin-top: 14px;
+  font-family: "Space Grotesk", sans-serif;
   font-size: 0.92rem;
+  font-weight: 700;
 }
 
 .panel-content {
