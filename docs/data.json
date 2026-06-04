@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-04T21:53:15.418108+00:00",
+  "generatedAt": "2026-06-04T22:29:21.681759+00:00",
   "pointsChangeLabel": "today",
   "pointsChangeComparisonDate": "2026-06-04",
   "managers": [
@@ -270,7 +270,7 @@
         },
         {
           "player": "Nick Guagenti",
-          "points": 4.0
+          "points": 5.0
         },
         {
           "player": "Danny Wong",
@@ -293,9 +293,9 @@
           "points": 1.0
         }
       ],
-      "totalPoints": 78.0,
-      "pointsChange": 0.0,
-      "pointsChangeSincePrevious": 0.0
+      "totalPoints": 79.0,
+      "pointsChange": 1.0,
+      "pointsChangeSincePrevious": 1.0
     },
     {
       "managerName": "Turbo",
