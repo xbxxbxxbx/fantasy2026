@@ -2,7 +2,7 @@ window.LEADERBOARD_CONFIG = {
   leagueName: "WSOP Poker Fantasy Draft 2026",
   sourceLabel: "25KFantasy",
   sourceUrl: "https://www.25kfantasy.com/players/",
-  updateCadenceLabel: "every 30 minutes",
+  updateCadenceLabel: "every 10 minutes",
   scoringLabel: "Score",
   scoreFeedUrl: "https://www.25kfantasy.com/players/",
   scoreFeedTableId: "dataTable-main",
