@@ -376,6 +376,16 @@ h1 {
   border-bottom-color: rgba(187, 125, 32, 0.45);
 }
 
+.manager-name-shell {
+  display: inline-flex;
+  align-items: center;
+  position: relative;
+}
+
+.manager-name-text {
+  display: inline-block;
+}
+
 .live-event-link {
   color: var(--ink);
   text-decoration: none;
@@ -407,9 +417,23 @@ h1 {
 .points-cell-content {
   display: inline-flex;
   align-items: center;
-  gap: 8px;
   line-height: 1;
   white-space: nowrap;
+  position: relative;
+}
+
+.points-value-shell {
+  display: inline-flex;
+  align-items: center;
+  position: relative;
+  gap: 8px;
+}
+
+.points-total-slot {
+  display: inline-flex;
+  align-items: center;
+  justify-content: flex-end;
+  min-width: 38px;
 }
 
 .points-total {
@@ -580,6 +604,32 @@ h1 {
   animation: live-pulse 1.25s ease-in-out infinite;
   position: relative;
   top: -1px;
+  flex: 0 0 auto;
+}
+
+.manager-live-mark {
+  position: absolute;
+  left: -22px;
+  top: 50%;
+  margin-right: 0;
+  transform: translateY(-50%);
+}
+
+.leaderboard-helper {
+  margin-bottom: 20px;
+}
+
+.leaderboard-helper-live {
+  margin-top: 0.9rem;
+  display: flex;
+  align-items: center;
+  gap: 10px;
+}
+
+.leaderboard-helper-mark {
+  position: static;
+  transform: none;
+  margin-right: 0;
   flex: 0 0 auto;
 }
 

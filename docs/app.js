@@ -189,6 +189,7 @@ function formatUpdatedAt(value) {
 }
 
 function renderLeaderboard(managers) {
+  const availability = getLiveSweatsAvailability();
   elements.leaderboardBody.innerHTML = managers
     .map(
       (manager, index) => {
@@ -204,17 +205,31 @@ function renderLeaderboard(managers) {
         return `
         <tr>
           <td><span class="rank-badge">${index + 1}</span></td>
-          <td>${escapeHtml(manager.name)}</td>
-          <td class="points-cell">
-            <span class="points-cell-content">
-              <span class="points-total">${Math.round(manager.totalPoints)}</span>${
-                deltaMarkup
-                  ? deltaMarkup.replace(
-                      '<span class="points-delta ',
-                      `<span title="Points gained ${escapeHtml(currentPointsChangeLabel)}" aria-label="Points gained ${escapeHtml(currentPointsChangeLabel)}" class="points-delta `
-                    )
+          <td>
+            <span class="manager-name-shell">
+              ${
+                availability.isLive && manager.hasActivePlayer
+                  ? '<span class="live-player-mark manager-live-mark" title="Manager has an active live sweat" aria-label="Manager has an active live sweat"></span>'
                   : ""
               }
+              <span class="manager-name-text">${escapeHtml(manager.name)}</span>
+            </span>
+          </td>
+          <td class="points-cell">
+            <span class="points-cell-content">
+              <span class="points-value-shell">
+                <span class="points-total-slot">
+                  <span class="points-total">${Math.round(manager.totalPoints)}</span>
+                </span>
+                ${
+                  deltaMarkup
+                    ? deltaMarkup.replace(
+                        '<span class="points-delta ',
+                        `<span title="Points gained ${escapeHtml(currentPointsChangeLabel)}" aria-label="Points gained ${escapeHtml(currentPointsChangeLabel)}" class="points-delta `
+                      )
+                    : ""
+                }
+              </span>
             </span>
           </td>
           <td>${
@@ -917,9 +932,13 @@ async function loadLeaderboard({ manual = false } = {}) {
       liveSweats.map((player) => canonicalPlayerName(player.player))
     );
     managers.forEach((manager) => {
+      manager.hasActivePlayer = false;
       manager.players.forEach((player) => {
         player.isUnique = uniquePlayerSet.has(canonicalPlayerName(player.player));
         player.isActive = activePlayerSet.has(canonicalPlayerName(player.player));
+        if (player.isActive) {
+          manager.hasActivePlayer = true;
+        }
       });
     });
     latestManagers = managers;
