@@ -803,12 +803,6 @@ h1 {
   grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
 }
 
-.overlap-highlight {
-  font-family: "IBM Plex Mono", monospace;
-  font-size: 0.85rem;
-  color: var(--muted);
-}
-
 .overlap-list {
   display: grid;
   gap: 10px;
@@ -824,19 +818,12 @@ h1 {
 }
 
 .overlap-rival-name {
-  font-weight: 700;
+  font-weight: 500;
   color: var(--ink);
 }
 
 .overlap-shared-players {
   color: var(--muted);
-}
-
-.overlap-row.is-top-rival {
-  background: rgba(187, 125, 32, 0.08);
-  margin-inline: -8px;
-  padding: 10px 8px 0;
-  border-radius: 10px;
 }
 
 .overlap-count {

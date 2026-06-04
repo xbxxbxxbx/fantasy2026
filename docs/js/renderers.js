@@ -215,8 +215,6 @@
   app.renderOverlap = function renderOverlap(overlapRows) {
     app.elements.overlapGrid.innerHTML = overlapRows
       .map((row) => {
-        const bestRivalName = row.bestRival?.rivalName || "None";
-        const bestRivalCount = row.bestRival?.overlapCount || 0;
         return `
         <article class="overlap-card">
           <div class="card-header">
@@ -224,13 +222,12 @@
               <h3>${app.escapeHtml(row.team)}</h3>
               <p class="player-meta">${app.escapeHtml(row.teamName)}</p>
             </div>
-            <div class="overlap-highlight">${bestRivalCount} with ${app.escapeHtml(bestRivalName)}</div>
           </div>
           <div class="overlap-list">
             ${row.rivals
               .map(
                 (rival) => `
-                  <div class="overlap-row ${rival.rivalName === bestRivalName ? "is-top-rival" : ""}">
+                  <div class="overlap-row">
                     <div>
                       <div class="overlap-rival-name">${app.escapeHtml(rival.rivalName)}</div>
                       <div class="overlap-shared-players">${app.escapeHtml(
