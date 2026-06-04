@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-03T23:13:10.880834+00:00",
+  "generatedAt": "2026-06-04T00:08:30.877248+00:00",
   "pointsChangeLabel": "today",
   "pointsChangeComparisonDate": "2026-06-03",
   "managers": [
@@ -169,7 +169,7 @@
       ],
       "totalPoints": 137.0,
       "pointsChange": 3.0,
-      "pointsChangeSincePrevious": 2.0
+      "pointsChangeSincePrevious": 0.0
     },
     {
       "managerName": "Gus",
@@ -270,7 +270,7 @@
         },
         {
           "player": "Christian Harder",
-          "points": 8.0
+          "points": 9.0
         },
         {
           "player": "Brock Wilson",
@@ -293,9 +293,9 @@
           "points": 0.0
         }
       ],
-      "totalPoints": 52.0,
-      "pointsChange": 2.0,
-      "pointsChangeSincePrevious": 0.0
+      "totalPoints": 53.0,
+      "pointsChange": 3.0,
+      "pointsChangeSincePrevious": 1.0
     },
     {
       "managerName": "Ruben",
@@ -337,7 +337,7 @@
       ],
       "totalPoints": 25.0,
       "pointsChange": 2.0,
-      "pointsChangeSincePrevious": 1.0
+      "pointsChangeSincePrevious": 0.0
     },
     {
       "managerName": "Trampstamp",
@@ -379,7 +379,7 @@
       ],
       "totalPoints": 10.0,
       "pointsChange": 3.0,
-      "pointsChangeSincePrevious": 2.0
+      "pointsChangeSincePrevious": 0.0
     }
   ],
   "failures": []
