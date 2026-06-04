@@ -20,6 +20,7 @@ from zoneinfo import ZoneInfo
 ROOT = Path(__file__).resolve().parents[1]
 CONFIG_PATH = ROOT / "docs" / "config.js"
 OUTPUT_PATH = ROOT / "docs" / "data.json"
+ACTIVE_OUTPUT_PATH = ROOT / "docs" / "active-players.json"
 HISTORY_DIR = ROOT / "docs" / "history"
 DISPLAY_TIMEZONE = ZoneInfo("America/New_York")
 
@@ -41,6 +42,7 @@ class DraftTableParser(HTMLParser):
         super().__init__()
         self.expected_table_class = expected_table_class
         self.expected_table_id = expected_table_id
+        self.use_first_table = expected_table_class is None and expected_table_id is None
         self.in_target_table = False
         self.table_depth = 0
         self.capture_cell = False
@@ -54,7 +56,7 @@ class DraftTableParser(HTMLParser):
             classes = (attrs_dict.get("class") or "").split()
             matches_class = self.expected_table_class and self.expected_table_class in classes
             matches_id = self.expected_table_id and attrs_dict.get("id") == self.expected_table_id
-            if (matches_class or matches_id) and not self.in_target_table:
+            if (self.use_first_table or matches_class or matches_id) and not self.in_target_table:
                 self.in_target_table = True
                 self.table_depth = 1
                 return
@@ -83,6 +85,53 @@ class DraftTableParser(HTMLParser):
     def handle_data(self, data: str) -> None:
         if self.capture_cell:
             self.current_cell.append(data)
+
+
+class LinkedTableParser(HTMLParser):
+    def __init__(self) -> None:
+        super().__init__()
+        self.in_target_table = False
+        self.table_depth = 0
+        self.capture_cell = False
+        self.current_row: list[dict[str, str]] = []
+        self.current_cell_text: list[str] = []
+        self.current_cell_link = ""
+        self.rows: list[list[dict[str, str]]] = []
+
+    def handle_starttag(self, tag: str, attrs: list[tuple[str, str | None]]) -> None:
+        attrs_dict = dict(attrs)
+        if tag == "table" and not self.in_target_table:
+            self.in_target_table = True
+            self.table_depth = 1
+            return
+        if self.in_target_table and tag == "table":
+            self.table_depth += 1
+        elif self.in_target_table and tag == "tr":
+            self.current_row = []
+        elif self.in_target_table and tag in {"td", "th"}:
+            self.capture_cell = True
+            self.current_cell_text = []
+            self.current_cell_link = ""
+        elif self.capture_cell and tag == "a":
+            self.current_cell_link = attrs_dict.get("href") or ""
+
+    def handle_endtag(self, tag: str) -> None:
+        if self.in_target_table and tag in {"td", "th"} and self.capture_cell:
+            text = unescape("".join(self.current_cell_text))
+            text = re.sub(r"\s+", " ", text).strip()
+            self.current_row.append({"text": text, "href": self.current_cell_link})
+            self.capture_cell = False
+        elif self.in_target_table and tag == "tr" and self.current_row:
+            self.rows.append(self.current_row)
+            self.current_row = []
+        elif self.in_target_table and tag == "table":
+            self.table_depth -= 1
+            if self.table_depth <= 0:
+                self.in_target_table = False
+
+    def handle_data(self, data: str) -> None:
+        if self.capture_cell:
+            self.current_cell_text.append(data)
 
 
 def load_config() -> dict:
@@ -137,6 +186,29 @@ def fetch_html(url: str) -> str:
     if last_error:
         raise last_error
     raise RuntimeError(f"Failed to fetch {url}")
+
+
+def fetch_json(url: str, payload: dict, headers: dict[str, str] | None = None) -> dict:
+    parts = urlsplit(url)
+    referer = f"{parts.scheme}://{parts.netloc}/" if parts.scheme and parts.netloc else url
+    request_headers = {
+        "User-Agent": (
+            "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) "
+            "AppleWebKit/537.36 (KHTML, like Gecko) "
+            "Chrome/126.0 Safari/537.36"
+        ),
+        "Content-Type": "application/json",
+        "Accept": "application/json, text/plain, */*",
+        "X-Requested-With": "XMLHttpRequest",
+        "Referer": referer,
+    }
+    if headers:
+        request_headers.update(headers)
+
+    body = json.dumps(payload).encode("utf-8")
+    request = Request(url, data=body, headers=request_headers, method="POST")
+    with urlopen(request, timeout=30) as response:
+        return json.loads(response.read().decode("utf-8", errors="replace"))
 
 
 def load_previous_totals() -> dict[str, float]:
@@ -278,6 +350,72 @@ def parse_score_feed(
     return scores
 
 
+def extract_csrf_token(html: str) -> str:
+    match = re.search(r"CSRF_TOKEN\s*=\s*'([^']+)'", html)
+    if not match:
+        raise ValueError("Could not find CSRF token on sweat page")
+    return match.group(1)
+
+
+def fetch_active_players_snapshot() -> dict:
+    sweat_page_url = "https://www.25kfantasy.com/sweat"
+    sweat_api_url = "https://www.25kfantasy.com/process/sweat"
+    page_html = fetch_html(sweat_page_url)
+    csrf_token = extract_csrf_token(page_html)
+    response = fetch_json(
+        sweat_api_url,
+        {"q": "sweat_all_active", "league": "25k"},
+        headers={"X-CSRF-Token": csrf_token},
+    )
+
+    if response.get("status") != "success":
+        raise ValueError(response.get("message") or "Active players request failed")
+
+    results_html = response.get("data", {}).get("results", "")
+    parser = LinkedTableParser()
+    parser.feed(results_html)
+    if len(parser.rows) < 2:
+        raise ValueError("No rows found in active players table")
+
+    headers = [cell["text"] for cell in parser.rows[0]]
+    header_map = {header.lower(): index for index, header in enumerate(headers)}
+    players = []
+    for row in parser.rows[1:]:
+        if len(row) < len(headers):
+            continue
+
+        points_text = row[header_map["points"]]["text"].strip() if "points" in header_map else "0"
+        try:
+            points_value = float(points_text)
+        except ValueError:
+            points_value = 0.0
+
+        event_href = row[header_map["event"]]["href"].strip() if "event" in header_map else ""
+        if event_href.startswith("/"):
+            event_href = f"https://www.25kfantasy.com{event_href}"
+
+        player = {
+            "player": row[header_map["player"]]["text"].strip() if "player" in header_map else "",
+            "event": row[header_map["event"]]["text"].strip() if "event" in header_map else "",
+            "eventUrl": event_href,
+            "team": row[header_map["team"]]["text"].strip() if "team" in header_map else "",
+            "rank": row[header_map["rank"]]["text"].strip() if "rank" in header_map else "",
+            "chips": row[header_map["chips"]]["text"].strip() if "chips" in header_map else "",
+            "bb": row[header_map["bb"]]["text"].strip() if "bb" in header_map else "",
+            "bonus": row[header_map["bonus"]]["text"].strip() if "bonus" in header_map else "",
+            "points": points_value,
+        }
+        if player["player"]:
+            players.append(player)
+
+    return {
+        "generatedAt": datetime.now(timezone.utc).isoformat(),
+        "league": "25k",
+        "count": len(players),
+        "players": players,
+    }
+
+
 def build_snapshot(config: dict) -> dict:
     score_feed_url = config["scoreFeedUrl"]
     table_id = config.get("scoreFeedTableId", "dataTable-main")
@@ -387,11 +525,22 @@ def main() -> int:
             raise RuntimeError("All team scrapes failed; preserving previous snapshot.")
         snapshot.pop("successCount", None)
         OUTPUT_PATH.write_text(json.dumps(snapshot, indent=2) + "\n", encoding="utf-8")
+
+        try:
+            active_snapshot = fetch_active_players_snapshot()
+            ACTIVE_OUTPUT_PATH.write_text(
+                json.dumps(active_snapshot, indent=2) + "\n",
+                encoding="utf-8",
+            )
+        except Exception as exc:
+            print(f"Warning: failed to update active players snapshot: {exc}", file=sys.stderr)
     except Exception as exc:
         print(f"Failed to update data: {exc}", file=sys.stderr)
         return 1
 
     print(f"Wrote {OUTPUT_PATH}")
+    if ACTIVE_OUTPUT_PATH.exists():
+        print(f"Wrote {ACTIVE_OUTPUT_PATH}")
     return 0
 
 

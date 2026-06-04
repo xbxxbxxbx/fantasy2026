@@ -4,6 +4,8 @@ const elements = {
   leagueName: document.querySelector("#league-name"),
   leagueDescription: document.querySelector("#league-description"),
   heroPolling: document.querySelector("#hero-polling"),
+  liveSweatsSection: document.querySelector("#live-sweats"),
+  liveSweatsBody: document.querySelector("#live-sweats-body"),
   leaderboardBody: document.querySelector("#leaderboard-body"),
   managerCards: document.querySelector("#manager-cards"),
   ownershipBody: document.querySelector("#ownership-body"),
@@ -107,6 +109,15 @@ async function fetchSnapshot() {
   return response.json();
 }
 
+async function fetchActivePlayers() {
+  const response = await fetch("./active-players.json", { cache: "no-store" });
+  if (!response.ok) {
+    throw new Error(`Active players request failed with ${response.status}`);
+  }
+
+  return response.json();
+}
+
 async function fetchPlayerHistory() {
   if (playerHistoryCache) {
     return playerHistoryCache;
@@ -204,6 +215,35 @@ function renderLeaderboard(managers) {
     .join("");
 }
 
+function renderLiveSweats(players) {
+  if (!elements.liveSweatsSection || !elements.liveSweatsBody) {
+    return;
+  }
+
+  if (!players.length) {
+    elements.liveSweatsSection.hidden = true;
+    elements.liveSweatsBody.innerHTML = "";
+    return;
+  }
+
+  elements.liveSweatsSection.hidden = false;
+  elements.liveSweatsBody.innerHTML = players
+    .map(
+      (player) => `
+        <tr>
+          <td>${escapeHtml(player.player)}</td>
+          <td>${
+            player.eventUrl
+              ? `<a class="live-event-link" href="${escapeHtml(player.eventUrl)}" target="_blank" rel="noreferrer">${escapeHtml(player.event)}</a>`
+              : escapeHtml(player.event)
+          }</td>
+          <td>${escapeHtml(player.rank)}</td>
+        </tr>
+      `
+    )
+    .join("");
+}
+
 function renderManagerCards(managers) {
   elements.managerCards.innerHTML = managers
     .map(
@@ -223,7 +263,7 @@ function renderManagerCards(managers) {
                   <div class="player-row">
                     <div class="player-name-wrap">
                       <button class="player-name player-history-trigger" type="button" data-player-name="${escapeHtml(player.player)}">
-                        ${escapeHtml(player.player)}${player.isUnique ? '<span class="unique-player-mark" title="Unique to this roster" aria-label="Unique to this roster">*</span>' : ""}
+                        ${player.isActive ? '<span class="live-player-mark" title="Currently live in sweat data" aria-label="Currently live in sweat data"></span>' : ""}${escapeHtml(player.player)}${player.isUnique ? '<span class="unique-player-mark" title="Unique to this roster" aria-label="Unique to this roster">*</span>' : ""}
                       </button>
                     </div>
                     <div class="player-points">${Math.round(player.points)}</div>
@@ -748,7 +788,10 @@ function updateBackToTopVisibility() {
 
 async function loadLeaderboard({ manual = false } = {}) {
   try {
-    const snapshot = await fetchSnapshot();
+    const [snapshot, activeSnapshot] = await Promise.all([
+      fetchSnapshot(),
+      fetchActivePlayers().catch(() => ({ players: [] })),
+    ]);
     currentPointsChangeLabel = snapshot.pointsChangeLabel || "today";
     const nextSignature = snapshotSignature(snapshot);
     const hasChanged = lastSnapshotSignature !== "" && nextSignature !== lastSnapshotSignature;
@@ -770,11 +813,24 @@ async function loadLeaderboard({ manual = false } = {}) {
         .filter((row) => row.ownerCount === 1)
         .map((row) => canonicalPlayerName(row.player))
     );
+    const rosterPlayerSet = new Set(
+      managers.flatMap((manager) =>
+        manager.players.map((player) => canonicalPlayerName(player.player))
+      )
+    );
+    const liveSweats = (activeSnapshot.players || [])
+      .filter((player) => rosterPlayerSet.has(canonicalPlayerName(player.player)))
+      .sort((left, right) => left.player.localeCompare(right.player));
+    const activePlayerSet = new Set(
+      liveSweats.map((player) => canonicalPlayerName(player.player))
+    );
     managers.forEach((manager) => {
       manager.players.forEach((player) => {
         player.isUnique = uniquePlayerSet.has(canonicalPlayerName(player.player));
+        player.isActive = activePlayerSet.has(canonicalPlayerName(player.player));
       });
     });
+    renderLiveSweats(liveSweats);
     renderLeaderboard(managers);
     renderManagerCards(managers);
     initializeRosterJumpLinks();
@@ -798,6 +854,7 @@ async function loadLeaderboard({ manual = false } = {}) {
 
     lastSnapshotSignature = nextSignature;
   } catch (error) {
+    renderLiveSweats([]);
     renderLeaderboard([]);
     renderManagerCards([]);
     renderOwnership([]);

@@ -3,7 +3,7 @@ name: Update leaderboard data
 on:
   workflow_dispatch:
   schedule:
-    - cron: "*/30 * * * *"
+    - cron: "*/10 * * * *"
 
 permissions:
   contents: write
@@ -28,4 +28,4 @@ jobs:
         uses: stefanzweifel/git-auto-commit-action@v5
         with:
           commit_message: "Update leaderboard data"
-          file_pattern: docs/data.json docs/history/*.json
+          file_pattern: docs/data.json docs/active-players.json docs/history/*.json

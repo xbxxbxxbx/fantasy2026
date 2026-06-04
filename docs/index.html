@@ -23,7 +23,7 @@
       href="https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@400;500;700&family=IBM+Plex+Mono:wght@400;500&display=swap"
       rel="stylesheet"
     />
-    <link rel="stylesheet" href="./styles.css?v=25k1" />
+    <link rel="stylesheet" href="./styles.css?v=25k2" />
   </head>
   <body>
     <div id="top" class="page-shell">
@@ -45,6 +45,7 @@
       </header>
 
       <nav class="section-nav" aria-label="Section navigation">
+        <a class="section-nav-link" href="#live-sweats">Live Sweats</a>
         <a class="section-nav-link" href="#leaderboard">Leaderboard</a>
         <a class="section-nav-link" href="#routes-to-victory">Routes to Victory</a>
         <a class="section-nav-link" href="#rosters">Rosters</a>
@@ -53,6 +54,36 @@
       </nav>
 
       <main class="content-grid">
+        <section id="live-sweats" class="panel panel-wide collapsible-panel" hidden>
+          <div class="panel-heading">
+            <div>
+              <h2>Live Sweats</h2>
+            </div>
+            <button
+              class="collapse-button"
+              type="button"
+              data-target="live-sweats-content"
+              aria-expanded="true"
+            >
+              Collapse
+            </button>
+          </div>
+          <div id="live-sweats-content" class="panel-content">
+            <div class="table-wrap">
+              <table class="leaderboard-table">
+                <thead>
+                  <tr>
+                    <th>Player</th>
+                    <th>Event</th>
+                    <th>Rank</th>
+                  </tr>
+                </thead>
+                <tbody id="live-sweats-body"></tbody>
+              </table>
+            </div>
+          </div>
+        </section>
+
         <section id="leaderboard" class="panel panel-wide collapsible-panel">
           <div class="panel-heading">
             <div>
@@ -192,7 +223,7 @@
 
     <div id="refresh-toast" class="refresh-toast" aria-live="polite"></div>
 
-    <script src="./config.js?v=25k1"></script>
-    <script src="./app.js?v=25k1"></script>
+    <script src="./config.js?v=25k2"></script>
+    <script src="./app.js?v=25k2"></script>
   </body>
 </html>
