@@ -4,6 +4,10 @@
   };
 
   app.getLiveSweatsAvailability = function getLiveSweatsAvailability() {
+    if (!app.config.liveSweatsTimeGateEnabled) {
+      return { isLive: true, countdownText: "" };
+    }
+
     const nyNow = app.getNewYorkNow();
     const target = new Date(nyNow);
     target.setHours(18, 0, 0, 0);

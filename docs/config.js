@@ -3,6 +3,7 @@ window.LEADERBOARD_CONFIG = {
   sourceLabel: "25KFantasy",
   sourceUrl: "https://www.25kfantasy.com/players/",
   updateCadenceLabel: "every 10 minutes",
+  liveSweatsTimeGateEnabled: false,
   scoringLabel: "Score",
   scoreFeedUrl: "https://www.25kfantasy.com/players/",
   scoreFeedTableId: "dataTable-main",
