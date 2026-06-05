@@ -2,6 +2,24 @@
   "title": "Latest changes",
   "changes": [
     {
+      "commit": "d959ada",
+      "url": "https://github.com/xbxxbxxbx/fantasy2026/commit/d959ada",
+      "publishedAt": "2026-06-05T22:28:21Z",
+      "summary": [
+        "Remove the extra past-years helper line from Rosters"
+      ]
+    },
+    {
+      "commit": "f60eb90",
+      "url": "https://github.com/xbxxbxxbx/fantasy2026/commit/f60eb90",
+      "publishedAt": "2026-06-05T22:18:06Z",
+      "summary": [
+        "Move the live-status helper into Live Sweats",
+        "Put it above the table",
+        "Tighten the spacing around it"
+      ]
+    },
+    {
       "commit": "d391d5e",
       "url": "https://github.com/xbxxbxxbx/fantasy2026/commit/d391d5e",
       "publishedAt": "2026-06-05T21:00:00Z",
