@@ -596,7 +596,7 @@ h1 {
   padding: 0;
   border: 0;
   background: transparent;
-  color: var(--ink);
+  color: color-mix(in srgb, var(--ink) 82%, white 18%);
   font: inherit;
   font-weight: 500;
   cursor: pointer;
@@ -823,16 +823,17 @@ h1 {
 
 .overlap-rival-name {
   font-weight: 500;
-  color: var(--ink);
+  color: color-mix(in srgb, var(--ink) 82%, white 18%);
 }
 
 .overlap-shared-players {
-  color: var(--muted);
+  color: color-mix(in srgb, var(--muted) 82%, white 18%);
 }
 
 .overlap-count {
   font-family: "IBM Plex Mono", monospace;
   font-weight: 700;
+  color: color-mix(in srgb, var(--ink) 84%, white 16%);
 }
 
 .route-summary {
