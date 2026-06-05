@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-05T07:20:14.692897+00:00",
+  "generatedAt": "2026-06-05T07:30:15.241138+00:00",
   "league": "25k",
   "count": 9,
   "players": [
@@ -9,8 +9,8 @@
       "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-17/",
       "team": "Banana",
       "rank": "1 / 4",
-      "chips": "2,800,000",
-      "bb": "46.7 BB",
+      "chips": "5,275,000",
+      "bb": "65.9 BB",
       "bonus": "Locked 11 PTS",
       "points": 0.0
     },
@@ -21,7 +21,7 @@
       "team": "Spitework",
       "rank": "3 / 4",
       "chips": "1,365,000",
-      "bb": "22.8 BB",
+      "bb": "17.1 BB",
       "bonus": "Locked 11 PTS",
       "points": 0.0
     },
@@ -32,7 +32,7 @@
       "team": "2026 ODB Bonus Players",
       "rank": "4 / 4",
       "chips": "1,060,000",
-      "bb": "17.7 BB",
+      "bb": "13.3 BB",
       "bonus": "Locked 11 PTS",
       "points": 0.0
     },
