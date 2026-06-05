@@ -11,6 +11,8 @@
     liveSweatsSection: document.querySelector("#live-sweats"),
     liveSweatsStatus: document.querySelector("#live-sweats-status"),
     liveSweatsCountdown: document.querySelector("#live-sweats-countdown"),
+    liveSweatsEmpty: document.querySelector("#live-sweats-empty"),
+    liveSweatsTable: document.querySelector("#live-sweats-table"),
     liveSweatsBody: document.querySelector("#live-sweats-body"),
     leaderboardHelperLive: document.querySelector("#leaderboard-helper-live"),
     leaderboardBody: document.querySelector("#leaderboard-body"),
