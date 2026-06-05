@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-05T04:24:11.672709+00:00",
+  "generatedAt": "2026-06-05T05:04:33.039487+00:00",
   "leagueName": "WSOP Poker Fantasy Draft 2026",
   "sourceLabel": "25KFantasy",
   "sourceUrl": "https://www.25kfantasy.com/players/",
@@ -144,7 +144,7 @@
         },
         {
           "player": "David 'ODB' Baker",
-          "points": 24.0
+          "points": 25.0
         },
         {
           "player": "Ben Yu",
@@ -171,9 +171,9 @@
           "points": 0.0
         }
       ],
-      "totalPoints": 139.0,
-      "pointsChange": 0.0,
-      "pointsChangeSincePrevious": 0.0
+      "totalPoints": 140.0,
+      "pointsChange": 1.0,
+      "pointsChangeSincePrevious": 1.0
     },
     {
       "managerName": "Turbo",

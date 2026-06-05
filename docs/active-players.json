@@ -1,19 +1,8 @@
 {
-  "generatedAt": "2026-06-05T04:24:11.969162+00:00",
+  "generatedAt": "2026-06-05T05:04:33.381501+00:00",
   "league": "25k",
-  "count": 14,
+  "count": 11,
   "players": [
-    {
-      "player": "Shawn Daniels",
-      "event": "Event #16: $1,700 U.S. Circuit Championship No-Limit Hold'em",
-      "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-16/",
-      "team": "2026 ODB Bonus Players",
-      "rank": "1 / 7",
-      "chips": "19,675,000",
-      "bb": "49.2 BB",
-      "bonus": "Locked 22 PTS",
-      "points": 0.0
-    },
     {
       "player": "Daniel Shak",
       "event": "Event #17: $10,000 No-Limit 2-7 Lowball Draw Championship",
@@ -74,20 +63,9 @@
       "event": "Event #20: $1,500 Dealers Choice 7-Handed",
       "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-20/",
       "team": "Trump Power",
-      "rank": "3 / 25",
+      "rank": "4 / 22",
       "chips": "1,070,000",
-      "bb": "89.2 BB",
-      "bonus": "Top 18 11 PTS",
-      "points": 1.0
-    },
-    {
-      "player": "Michael Estes",
-      "event": "Event #20: $1,500 Dealers Choice 7-Handed",
-      "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-20/",
-      "team": "2026 ODB Bonus Players",
-      "rank": "6 / 25",
-      "chips": "806,000",
-      "bb": "67.2 BB",
+      "bb": "71.3 BB",
       "bonus": "Top 18 11 PTS",
       "points": 1.0
     },
@@ -96,9 +74,9 @@
       "event": "Event #20: $1,500 Dealers Choice 7-Handed",
       "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-20/",
       "team": "Glue Factory",
-      "rank": "7 / 25",
+      "rank": "7 / 22",
       "chips": "735,000",
-      "bb": "61.3 BB",
+      "bb": "49.0 BB",
       "bonus": "Top 18 11 PTS",
       "points": 1.0
     },
@@ -107,20 +85,9 @@
       "event": "Event #20: $1,500 Dealers Choice 7-Handed",
       "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-20/",
       "team": "Blades & Shades",
-      "rank": "11 / 25",
+      "rank": "11 / 22",
       "chips": "565,000",
-      "bb": "47.1 BB",
-      "bonus": "Top 18 11 PTS",
-      "points": 1.0
-    },
-    {
-      "player": "David 'ODB' Baker",
-      "event": "Event #20: $1,500 Dealers Choice 7-Handed",
-      "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-20/",
-      "team": "Stake Kings",
-      "rank": "12 / 25",
-      "chips": "538,000",
-      "bb": "44.8 BB",
+      "bb": "37.7 BB",
       "bonus": "Top 18 11 PTS",
       "points": 1.0
     },
@@ -129,9 +96,9 @@
       "event": "Event #20: $1,500 Dealers Choice 7-Handed",
       "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-20/",
       "team": "Banana",
-      "rank": "13 / 25",
+      "rank": "12 / 22",
       "chips": "529,000",
-      "bb": "44.1 BB",
+      "bb": "35.3 BB",
       "bonus": "Top 18 11 PTS",
       "points": 1.0
     },
@@ -140,9 +107,9 @@
       "event": "Event #20: $1,500 Dealers Choice 7-Handed",
       "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-20/",
       "team": "2026 ODB Bonus Players",
-      "rank": "19 / 25",
+      "rank": "17 / 22",
       "chips": "450,000",
-      "bb": "37.5 BB",
+      "bb": "30.0 BB",
       "bonus": "Top 18 11 PTS",
       "points": 1.0
     },
@@ -151,9 +118,9 @@
       "event": "Event #20: $1,500 Dealers Choice 7-Handed",
       "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-20/",
       "team": "2026 ODB Bonus Players",
-      "rank": "22 / 25",
+      "rank": "20 / 22",
       "chips": "409,000",
-      "bb": "34.1 BB",
+      "bb": "27.3 BB",
       "bonus": "Top 18 11 PTS",
       "points": 1.0
     }
