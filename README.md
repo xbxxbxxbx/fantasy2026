@@ -4,33 +4,107 @@ Static GitHub Pages leaderboard for a WSOP fantasy draft.
 
 ## Current architecture
 
-- frontend: static HTML, CSS, and browser JS under `docs/`
-- primary score feed: `https://www.25kfantasy.com/players/`
-- active-sweat feed: `https://www.25kfantasy.com/sweat`
-- refresh script: `scripts/update_data.py`
-- generated artifacts:
+- Frontend: static HTML, CSS, and browser JS under `docs/`
+- Refresh script: `scripts/update_data.py`
+- Generated artifacts:
   - `docs/data.json`
   - `docs/active-players.json`
   - `docs/history/*.json`
   - `docs/25k-player-history.json`
+  - `docs/latest-changes.json`
 
-## Configure it
+## Data sources
 
-Edit `league.json`:
+- Primary score feed: `https://www.25kfantasy.com/players/`
+- Active-sweat feed: `https://www.25kfantasy.com/sweat`
 
-- `leagueName`
-- `teams`
-- each team's:
+## Make your own league
+
+You do not need to understand the codebase to reuse this project.
+
+The simplest workflow is:
+
+1. Collect the league information
+2. Give that information to an LLM using the prompt below
+3. Have it update `league.json`
+4. Run `python3 scripts/update_data.py`
+
+### Collect this information
+
+For each league, collect:
+
+- The league name
+- Each manager name
+- Each team name
+- Each team link, if you have one
+- Each team's full player list
+
+### Prompt for an LLM
+
+Copy this prompt and replace the placeholders with your real league data:
+
+```text
+Update the file `league.json` for this repo.
+
+Rules:
+- Keep valid JSON
+- Do not change any files except `league.json`
+- Preserve the existing structure of the file
+- Replace the old league data with the new league data below
+- For each team, fill in:
   - `managerName`
   - `teamName`
   - `url`
   - `roster`
+- Keep roster player names exactly as written
 
-Shared app/source settings stay in `docs/config.js` and normally do not need to change.
+New league data:
 
-`league.json` is the one file you swap to reuse this project for another league.
+League name:
+<LEAGUE NAME>
 
-## Shared app settings
+Teams:
+1. Manager: <MANAGER 1>
+   Team name: <TEAM NAME 1>
+   URL: <TEAM URL 1 or leave blank>
+   Roster:
+   - <PLAYER 1>
+   - <PLAYER 2>
+   - <PLAYER 3>
+
+2. Manager: <MANAGER 2>
+   Team name: <TEAM NAME 2>
+   URL: <TEAM URL 2 or leave blank>
+   Roster:
+   - <PLAYER 1>
+   - <PLAYER 2>
+   - <PLAYER 3>
+
+Continue until all teams are included.
+```
+
+### Build the new snapshot
+
+After `league.json` is updated, run:
+
+```bash
+python3 scripts/update_data.py
+```
+
+That regenerates the site data for the new league.
+
+### What you usually do not need to change
+
+Most of the time, leave these alone:
+
+- `docs/config.js`
+- `docs/index.html`
+- `docs/styles.css`
+- `docs/js/*`
+
+For reuse, `league.json` is the main file you swap.
+
+## Technical config
 
 `docs/config.js` now contains only shared settings such as:
 
@@ -72,6 +146,7 @@ That updates:
 - `docs/data.json`
 - `docs/active-players.json`
 - `docs/history/YYYY-MM-DD.json` when needed
+- `docs/latest-changes.json` when you add a manual product update entry
 
 The generated `docs/data.json` also carries the league metadata needed by the frontend, so after editing `league.json` you only need to run:
 
@@ -87,16 +162,34 @@ Workflow:
 
 Current schedule:
 
-- every 10 minutes
+- Every 10 minutes at `:03, :13, :23, :33, :43, :53`
 
 The workflow commits generated data back to `master`.
+
+## Daily points semantics
+
+The displayed `+points` are not based on midnight ET.
+
+They reset at:
+
+- `10:00 AM ET`
+
+This means:
+
+- Overnight Vegas updates before 10 AM ET still count toward the previous poker day
+- The first successful scrape after 10 AM ET becomes the new baseline
+- Later updates keep accumulating from that baseline
+
+The UI label for this is:
+
+- `since restart`
 
 ## GitHub Pages
 
 Use:
 
-- branch: `master`
-- folder: `/docs`
+- Branch: `master`
+- Folder: `/docs`
 
 ## Local preview
 
@@ -121,3 +214,4 @@ See `MAINTAINING.md` for:
 - delta semantics
 - deploy verification
 - cache-busting policy
+- latest-changes modal update rules
