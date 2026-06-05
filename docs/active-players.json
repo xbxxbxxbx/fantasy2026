@@ -1,29 +1,18 @@
 {
-  "generatedAt": "2026-06-05T09:20:11.307352+00:00",
+  "generatedAt": "2026-06-05T09:30:13.579551+00:00",
   "league": "25k",
-  "count": 5,
+  "count": 4,
   "players": [
     {
       "player": "Naoya Kihara",
       "event": "Event #17: $10,000 No-Limit 2-7 Lowball Draw Championship",
       "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-17/",
       "team": "Banana",
-      "rank": "1 / 2",
+      "rank": "1 / 1",
       "chips": "7,570,000",
       "bb": "75.7 BB",
       "bonus": "Locked 11 PTS",
-      "points": 0.0
-    },
-    {
-      "player": "David Lin",
-      "event": "Event #17: $10,000 No-Limit 2-7 Lowball Draw Championship",
-      "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-17/",
-      "team": "2026 ODB Bonus Players",
-      "rank": "2 / 2",
-      "chips": "4,310,000",
-      "bb": "43.1 BB",
-      "bonus": "Locked 11 PTS",
-      "points": 0.0
+      "points": 126.0
     },
     {
       "player": "Dario Sammartino",
