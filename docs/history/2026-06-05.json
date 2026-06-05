@@ -1,11 +1,11 @@
 {
-  "generatedAt": "2026-06-05T04:24:11.672709+00:00",
+  "generatedAt": "2026-06-05T03:55:11.027969+00:00",
   "leagueName": "WSOP Poker Fantasy Draft 2026",
   "sourceLabel": "25KFantasy",
   "sourceUrl": "https://www.25kfantasy.com/players/",
   "updateCadenceLabel": "every 10 minutes",
   "pointsChangeLabel": "today",
-  "pointsChangeComparisonDate": "2026-06-05",
+  "pointsChangeComparisonDate": "2026-06-04",
   "managers": [
     {
       "managerName": "ASG",
@@ -46,7 +46,7 @@
         }
       ],
       "totalPoints": 171.0,
-      "pointsChange": 0.0,
+      "pointsChange": 2.0,
       "pointsChangeSincePrevious": 0.0
     },
     {
@@ -88,7 +88,7 @@
         }
       ],
       "totalPoints": 145.0,
-      "pointsChange": 0.0,
+      "pointsChange": 2.0,
       "pointsChangeSincePrevious": 0.0
     },
     {
@@ -130,7 +130,7 @@
         }
       ],
       "totalPoints": 140.0,
-      "pointsChange": 0.0,
+      "pointsChange": 3.0,
       "pointsChangeSincePrevious": 0.0
     },
     {
@@ -172,7 +172,7 @@
         }
       ],
       "totalPoints": 139.0,
-      "pointsChange": 0.0,
+      "pointsChange": 2.0,
       "pointsChangeSincePrevious": 0.0
     },
     {
@@ -214,7 +214,7 @@
         }
       ],
       "totalPoints": 129.0,
-      "pointsChange": 0.0,
+      "pointsChange": 66.0,
       "pointsChangeSincePrevious": 0.0
     },
     {
@@ -256,7 +256,7 @@
         }
       ],
       "totalPoints": 99.0,
-      "pointsChange": 0.0,
+      "pointsChange": 46.0,
       "pointsChangeSincePrevious": 0.0
     },
     {
@@ -298,7 +298,7 @@
         }
       ],
       "totalPoints": 85.0,
-      "pointsChange": 0.0,
+      "pointsChange": 60.0,
       "pointsChangeSincePrevious": 0.0
     },
     {
@@ -340,7 +340,7 @@
         }
       ],
       "totalPoints": 80.0,
-      "pointsChange": 0.0,
+      "pointsChange": 2.0,
       "pointsChangeSincePrevious": 0.0
     },
     {
