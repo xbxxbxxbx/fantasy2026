@@ -15,11 +15,6 @@
   };
 
   app.renderLeaderboard = function renderLeaderboard(managers) {
-    const hasVisibleLiveSweats = managers.some((manager) => manager.hasActivePlayer);
-    if (app.elements.leaderboardHelperLive) {
-      app.elements.leaderboardHelperLive.hidden = !hasVisibleLiveSweats;
-      app.elements.leaderboardHelperLive.style.display = hasVisibleLiveSweats ? "" : "none";
-    }
     app.elements.leaderboardBody.innerHTML = managers
       .map((manager, index) => {
         const rosterId = `roster-${app.slugify(manager.name)}`;
@@ -122,6 +117,10 @@
       if (app.elements.liveSweatsEmpty) {
         app.elements.liveSweatsEmpty.hidden = true;
       }
+      if (app.elements.liveSweatsHelperLive) {
+        app.elements.liveSweatsHelperLive.hidden = true;
+        app.elements.liveSweatsHelperLive.style.display = "none";
+      }
       app.elements.liveSweatsBody.innerHTML = "";
       return;
     }
@@ -132,6 +131,10 @@
     }
     if (app.elements.liveSweatsNavIndicator) {
       app.elements.liveSweatsNavIndicator.hidden = players.length === 0;
+    }
+    if (app.elements.liveSweatsHelperLive) {
+      app.elements.liveSweatsHelperLive.hidden = players.length === 0;
+      app.elements.liveSweatsHelperLive.style.display = players.length === 0 ? "none" : "";
     }
     if (liveContent) {
       liveContent.hidden = false;

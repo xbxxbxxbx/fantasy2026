@@ -19,7 +19,7 @@
     liveSweatsEmpty: document.querySelector("#live-sweats-empty"),
     liveSweatsTable: document.querySelector("#live-sweats-table"),
     liveSweatsBody: document.querySelector("#live-sweats-body"),
-    leaderboardHelperLive: document.querySelector("#leaderboard-helper-live"),
+    liveSweatsHelperLive: document.querySelector("#live-sweats-helper-live"),
     leaderboardBody: document.querySelector("#leaderboard-body"),
     managerCards: document.querySelector("#manager-cards"),
     ownershipBody: document.querySelector("#ownership-body"),
