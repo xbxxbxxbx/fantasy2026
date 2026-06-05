@@ -2,6 +2,16 @@
   "title": "Latest changes",
   "changes": [
     {
+      "commit": "6994a47",
+      "url": "https://github.com/xbxxbxxbx/fantasy2026/commit/6994a47",
+      "publishedAt": "2026-06-05T20:45:00Z",
+      "summary": [
+        "Turn the win easter egg into a Latest changes modal",
+        "Show a running list of recent updates with short plain-English bullets",
+        "Make the modal scrollable and document the update process"
+      ]
+    },
+    {
       "commit": "419f3d2",
       "url": "https://github.com/xbxxbxxbx/fantasy2026/commit/419f3d2",
       "publishedAt": "2026-06-05T20:17:00Z",
