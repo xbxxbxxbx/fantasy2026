@@ -116,6 +116,12 @@
       if (liveButton) {
         liveButton.hidden = true;
       }
+      if (app.elements.liveSweatsTable) {
+        app.elements.liveSweatsTable.hidden = true;
+      }
+      if (app.elements.liveSweatsEmpty) {
+        app.elements.liveSweatsEmpty.hidden = true;
+      }
       app.elements.liveSweatsBody.innerHTML = "";
       return;
     }
@@ -135,8 +141,21 @@
     }
 
     if (!players.length) {
+      if (app.elements.liveSweatsTable) {
+        app.elements.liveSweatsTable.hidden = true;
+      }
+      if (app.elements.liveSweatsEmpty) {
+        app.elements.liveSweatsEmpty.hidden = false;
+      }
       app.elements.liveSweatsBody.innerHTML = "";
       return;
+    }
+
+    if (app.elements.liveSweatsTable) {
+      app.elements.liveSweatsTable.hidden = false;
+    }
+    if (app.elements.liveSweatsEmpty) {
+      app.elements.liveSweatsEmpty.hidden = true;
     }
 
     app.elements.liveSweatsBody.innerHTML = players

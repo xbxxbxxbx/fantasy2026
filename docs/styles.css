@@ -255,6 +255,26 @@ h1 {
   font-weight: 700;
 }
 
+.live-sweats-helper {
+  margin-top: 28px;
+  margin-bottom: 0;
+}
+
+.live-sweats-empty {
+  margin-bottom: 10px;
+}
+
+.live-sweats-helper a {
+  color: #6f89b6;
+  text-decoration-color: rgba(111, 137, 182, 0.4);
+  text-underline-offset: 0.14em;
+}
+
+.live-sweats-helper a:hover {
+  color: #5b78a8;
+  text-decoration-color: rgba(91, 120, 168, 0.6);
+}
+
 .panel-content {
   overflow: hidden;
   transform: translateY(0);
