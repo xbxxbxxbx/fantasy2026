@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-05T08:00:20.411455+00:00",
+  "generatedAt": "2026-06-05T08:10:13.234182+00:00",
   "league": "25k",
   "count": 5,
   "players": [
@@ -26,24 +26,13 @@
       "points": 0.0
     },
     {
-      "player": "Jeff Madsen",
-      "event": "Event #20: $1,500 Dealers Choice 7-Handed",
-      "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-20/",
-      "team": "Trump Power",
-      "rank": "7 / 10",
-      "chips": "750,000",
-      "bb": "30.0 BB",
-      "bonus": "Locked 11 PTS",
-      "points": 0.0
-    },
-    {
       "player": "Dario Sammartino",
       "event": "Event #20: $1,500 Dealers Choice 7-Handed",
       "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-20/",
       "team": "Glue Factory",
-      "rank": "9 / 10",
-      "chips": "435,000",
-      "bb": "17.4 BB",
+      "rank": "2 / 10",
+      "chips": "2,030,000",
+      "bb": "81.2 BB",
       "bonus": "Locked 11 PTS",
       "points": 0.0
     },
@@ -52,9 +41,20 @@
       "event": "Event #20: $1,500 Dealers Choice 7-Handed",
       "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-20/",
       "team": "2026 ODB Bonus Players",
-      "rank": "10 / 10",
-      "chips": "165,000",
-      "bb": "6.6 BB",
+      "rank": "7 / 10",
+      "chips": "1,155,000",
+      "bb": "46.2 BB",
+      "bonus": "Locked 11 PTS",
+      "points": 0.0
+    },
+    {
+      "player": "Jeff Madsen",
+      "event": "Event #20: $1,500 Dealers Choice 7-Handed",
+      "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-20/",
+      "team": "Trump Power",
+      "rank": "8 / 10",
+      "chips": "750,000",
+      "bb": "30.0 BB",
       "bonus": "Locked 11 PTS",
       "points": 0.0
     }
