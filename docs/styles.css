@@ -439,6 +439,12 @@ h1 {
   font-weight: 500;
 }
 
+.odds-cell {
+  font-family: "IBM Plex Mono", monospace;
+  font-weight: 700;
+  white-space: nowrap;
+}
+
 .points-cell-content {
   display: inline-flex;
   align-items: center;

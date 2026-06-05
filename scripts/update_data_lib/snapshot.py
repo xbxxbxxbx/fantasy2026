@@ -4,6 +4,7 @@ from datetime import datetime, timezone
 from urllib.error import HTTPError, URLError
 
 from .config import TeamSource
+from .constants import PLAYER_HISTORY_PATH
 from .fetchers import fetch_html, fetch_json
 from .history import (
     load_daily_baseline,
@@ -11,6 +12,14 @@ from .history import (
     load_previous_totals,
     snapshot_totals,
     write_daily_baseline,
+)
+from .odds import (
+    SIMULATION_COUNT,
+    apply_title_odds,
+    copy_previous_odds,
+    load_player_history,
+    managers_have_odds,
+    snapshot_has_player_point_updates,
 )
 from .parsers import LinkedTableParser, extract_csrf_token, parse_score_feed
 
@@ -163,6 +172,14 @@ def build_snapshot(config: dict) -> dict:
 
     results.sort(key=lambda item: item["totalPoints"], reverse=True)
 
+    player_point_updates_detected = snapshot_has_player_point_updates(previous_snapshot, results)
+    should_recompute_title_odds = player_point_updates_detected or not managers_have_odds(results)
+
+    if should_recompute_title_odds:
+        apply_title_odds(results, load_player_history(PLAYER_HISTORY_PATH))
+    else:
+        copy_previous_odds(previous_snapshot, results)
+
     snapshot = {
         "generatedAt": datetime.now(timezone.utc).isoformat(),
         "leagueName": config.get("leagueName"),
@@ -171,6 +188,8 @@ def build_snapshot(config: dict) -> dict:
         "updateCadenceLabel": config.get("updateCadenceLabel"),
         "pointsChangeLabel": "today",
         "pointsChangeComparisonDate": comparison_date,
+        "titleOddsSimulationCount": SIMULATION_COUNT,
+        "titleOddsUpdated": should_recompute_title_odds,
         "managers": results,
         "failures": failures,
         "successCount": success_count,

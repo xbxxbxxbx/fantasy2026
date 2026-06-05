@@ -44,6 +44,16 @@
     return `${Math.round(value)}%`;
   };
 
+  app.formatAmericanOdds = function formatAmericanOdds(value) {
+    if (!Number.isFinite(value)) {
+      return "—";
+    }
+    if (value > 0) {
+      return `+${Math.round(value)}`;
+    }
+    return `${Math.round(value)}`;
+  };
+
   app.snapshotSignature = function snapshotSignature(snapshot) {
     return JSON.stringify({
       generatedAt: snapshot.generatedAt || null,
@@ -51,6 +61,11 @@
         managerName: manager.managerName,
         teamName: manager.teamName,
         totalPoints: app.parseNumber(manager.totalPoints),
+        titleWinProbability: app.parseNumber(manager.titleWinProbability),
+        titleAmericanOdds:
+          manager.titleAmericanOdds === null || manager.titleAmericanOdds === undefined
+            ? null
+            : app.parseNumber(manager.titleAmericanOdds),
         players: (manager.players || []).map((player) => ({
           player: app.canonicalPlayerName(player.player),
           points: app.parseNumber(player.points),

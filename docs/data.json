@@ -47,7 +47,9 @@
       ],
       "totalPoints": 171.0,
       "pointsChange": 0.0,
-      "pointsChangeSincePrevious": 0.0
+      "pointsChangeSincePrevious": 0.0,
+      "titleWinProbability": 0.1785,
+      "titleAmericanOdds": 460
     },
     {
       "managerName": "realbmorekid",
@@ -89,7 +91,9 @@
       ],
       "totalPoints": 160.0,
       "pointsChange": 61.0,
-      "pointsChangeSincePrevious": 0.0
+      "pointsChangeSincePrevious": 0.0,
+      "titleWinProbability": 0.108333,
+      "titleAmericanOdds": 823
     },
     {
       "managerName": "Doinky",
@@ -131,7 +135,9 @@
       ],
       "totalPoints": 145.0,
       "pointsChange": 0.0,
-      "pointsChangeSincePrevious": 0.0
+      "pointsChangeSincePrevious": 0.0,
+      "titleWinProbability": 0.186167,
+      "titleAmericanOdds": 437
     },
     {
       "managerName": "JeffBNT",
@@ -173,7 +179,9 @@
       ],
       "totalPoints": 140.0,
       "pointsChange": 0.0,
-      "pointsChangeSincePrevious": 0.0
+      "pointsChangeSincePrevious": 0.0,
+      "titleWinProbability": 0.124,
+      "titleAmericanOdds": 706
     },
     {
       "managerName": "Kush",
@@ -215,7 +223,9 @@
       ],
       "totalPoints": 140.0,
       "pointsChange": 1.0,
-      "pointsChangeSincePrevious": 0.0
+      "pointsChangeSincePrevious": 0.0,
+      "titleWinProbability": 0.118833,
+      "titleAmericanOdds": 742
     },
     {
       "managerName": "Turbo",
@@ -257,7 +267,9 @@
       ],
       "totalPoints": 129.0,
       "pointsChange": 0.0,
-      "pointsChangeSincePrevious": 0.0
+      "pointsChangeSincePrevious": 0.0,
+      "titleWinProbability": 0.097333,
+      "titleAmericanOdds": 927
     },
     {
       "managerName": "Gus",
@@ -299,7 +311,9 @@
       ],
       "totalPoints": 91.0,
       "pointsChange": 11.0,
-      "pointsChangeSincePrevious": 0.0
+      "pointsChangeSincePrevious": 0.0,
+      "titleWinProbability": 0.068333,
+      "titleAmericanOdds": 1363
     },
     {
       "managerName": "Ruben",
@@ -341,7 +355,9 @@
       ],
       "totalPoints": 85.0,
       "pointsChange": 0.0,
-      "pointsChangeSincePrevious": 0.0
+      "pointsChangeSincePrevious": 0.0,
+      "titleWinProbability": 0.066167,
+      "titleAmericanOdds": 1411
     },
     {
       "managerName": "Trampstamp",
@@ -383,8 +399,12 @@
       ],
       "totalPoints": 10.0,
       "pointsChange": 0.0,
-      "pointsChangeSincePrevious": 0.0
+      "pointsChangeSincePrevious": 0.0,
+      "titleWinProbability": 0.052333,
+      "titleAmericanOdds": 1811
     }
   ],
-  "failures": []
+  "failures": [],
+  "titleOddsSimulationCount": 6000,
+  "titleOddsUpdated": true
 }

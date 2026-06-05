@@ -194,6 +194,11 @@
       url: manager.url,
       totalPoints: app.parseNumber(manager.totalPoints),
       pointsChange: app.parseNumber(manager.pointsChange),
+      titleWinProbability: app.parseNumber(manager.titleWinProbability),
+      titleAmericanOdds:
+        manager.titleAmericanOdds === null || manager.titleAmericanOdds === undefined
+          ? null
+          : app.parseNumber(manager.titleAmericanOdds),
       players: (manager.players || []).map((player) => ({
         player: app.canonicalPlayerName(player.player),
         points: app.parseNumber(player.points),

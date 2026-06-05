@@ -8,4 +8,5 @@ LEAGUE_PATH = ROOT / "league.json"
 OUTPUT_PATH = ROOT / "docs" / "data.json"
 ACTIVE_OUTPUT_PATH = ROOT / "docs" / "active-players.json"
 HISTORY_DIR = ROOT / "docs" / "history"
+PLAYER_HISTORY_PATH = ROOT / "docs" / "25k-player-history.json"
 DISPLAY_TIMEZONE = ZoneInfo("America/New_York")

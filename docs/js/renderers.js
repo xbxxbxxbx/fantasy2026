@@ -61,6 +61,9 @@
               </span>
             </span>
           </td>
+          <td class="odds-cell" title="Model-estimated title odds">
+            ${app.formatAmericanOdds(manager.titleAmericanOdds)}
+          </td>
           <td>${
             manager.teamName
               ? `<a class="roster-jump-link" href="#${rosterId}" data-roster-id="${rosterId}">${app.escapeHtml(manager.teamName)}</a>`
@@ -299,6 +302,7 @@
           </div>
           <p class="route-summary">${app.escapeHtml(team.routeSummary)}</p>
           <div class="route-metrics">
+            <div class="route-metric"><span>Title odds</span><strong>${app.formatAmericanOdds(team.titleAmericanOdds)}</strong></div>
             <div class="route-metric"><span>Unique players</span><strong>${team.uniquePlayerCount}</strong></div>
             <div class="route-metric"><span>Shared players</span><strong>${team.sharedPlayerCount}</strong></div>
             <div class="route-metric"><span>Unique points</span><strong>${Math.round(team.uniquePoints)}</strong></div>
