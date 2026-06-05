@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-05T00:01:14.302224+00:00",
+  "generatedAt": "2026-06-05T02:09:26.041231+00:00",
   "pointsChangeLabel": "today",
   "pointsChangeComparisonDate": "2026-06-04",
   "managers": [
@@ -102,7 +102,7 @@
         },
         {
           "player": "Ari Engel",
-          "points": 5.0
+          "points": 6.0
         },
         {
           "player": "Ben Yu",
@@ -125,9 +125,9 @@
           "points": 1.0
         }
       ],
-      "totalPoints": 139.0,
-      "pointsChange": 2.0,
-      "pointsChangeSincePrevious": 0.0
+      "totalPoints": 140.0,
+      "pointsChange": 3.0,
+      "pointsChangeSincePrevious": 1.0
     },
     {
       "managerName": "Kush",
@@ -211,7 +211,7 @@
       ],
       "totalPoints": 129.0,
       "pointsChange": 66.0,
-      "pointsChangeSincePrevious": 66.0
+      "pointsChangeSincePrevious": 0.0
     },
     {
       "managerName": "realbmorekid",
@@ -337,7 +337,7 @@
       ],
       "totalPoints": 80.0,
       "pointsChange": 2.0,
-      "pointsChangeSincePrevious": 1.0
+      "pointsChangeSincePrevious": 0.0
     },
     {
       "managerName": "Trampstamp",
