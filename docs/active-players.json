@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-06-05T21:10:12.531568+00:00",
+  "generatedAt": "2026-06-05T21:20:10.415502+00:00",
   "league": "25k",
-  "count": 2,
+  "count": 30,
   "players": [
     {
       "player": "Dario Sammartino",
@@ -10,7 +10,7 @@
       "team": "Glue Factory",
       "rank": "3 / 9",
       "chips": "2,030,000",
-      "bb": "67.7 BB",
+      "bb": "50.8 BB",
       "bonus": "Locked 11 PTS",
       "points": 0.0
     },
@@ -21,9 +21,317 @@
       "team": "Trump Power",
       "rank": "7 / 9",
       "chips": "750,000",
-      "bb": "25.0 BB",
+      "bb": "18.8 BB",
       "bonus": "Locked 11 PTS",
       "points": 0.0
+    },
+    {
+      "player": "Ray Fishman",
+      "event": "Event #21: $1,500 Pot-Limit Omaha Hi-Lo 8 or Better",
+      "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-21/",
+      "team": "Browndog",
+      "rank": "12 / 155",
+      "chips": "327,000",
+      "bb": "\u2014",
+      "bonus": "Top 27 11 PTS",
+      "points": 1.0
+    },
+    {
+      "player": "Eli Elezra",
+      "event": "Event #21: $1,500 Pot-Limit Omaha Hi-Lo 8 or Better",
+      "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-21/",
+      "team": "DNegs",
+      "rank": "13 / 155",
+      "chips": "318,000",
+      "bb": "\u2014",
+      "bonus": "Top 27 11 PTS",
+      "points": 1.0
+    },
+    {
+      "player": "Justin Fawcett",
+      "event": "Event #21: $1,500 Pot-Limit Omaha Hi-Lo 8 or Better",
+      "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-21/",
+      "team": "Premiums Only",
+      "rank": "23 / 155",
+      "chips": "282,000",
+      "bb": "\u2014",
+      "bonus": "Top 27 11 PTS",
+      "points": 1.0
+    },
+    {
+      "player": "Nick Guagenti",
+      "event": "Event #21: $1,500 Pot-Limit Omaha Hi-Lo 8 or Better",
+      "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-21/",
+      "team": "Browndog",
+      "rank": "33 / 155",
+      "chips": "260,000",
+      "bb": "\u2014",
+      "bonus": "Top 27 11 PTS",
+      "points": 1.0
+    },
+    {
+      "player": "Josh Arieh",
+      "event": "Event #21: $1,500 Pot-Limit Omaha Hi-Lo 8 or Better",
+      "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-21/",
+      "team": "DNegs",
+      "rank": "36 / 155",
+      "chips": "244,000",
+      "bb": "\u2014",
+      "bonus": "Top 27 11 PTS",
+      "points": 1.0
+    },
+    {
+      "player": "Ryan Hoenig",
+      "event": "Event #21: $1,500 Pot-Limit Omaha Hi-Lo 8 or Better",
+      "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-21/",
+      "team": "Premiums Only",
+      "rank": "37 / 155",
+      "chips": "243,000",
+      "bb": "\u2014",
+      "bonus": "Top 27 11 PTS",
+      "points": 1.0
+    },
+    {
+      "player": "Tomasz Gluszko",
+      "event": "Event #21: $1,500 Pot-Limit Omaha Hi-Lo 8 or Better",
+      "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-21/",
+      "team": "Chocolate Factory",
+      "rank": "44 / 155",
+      "chips": "216,000",
+      "bb": "\u2014",
+      "bonus": "Top 27 11 PTS",
+      "points": 1.0
+    },
+    {
+      "player": "Tyler Brown",
+      "event": "Event #21: $1,500 Pot-Limit Omaha Hi-Lo 8 or Better",
+      "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-21/",
+      "team": "2026 ODB Bonus Players",
+      "rank": "48 / 155",
+      "chips": "209,000",
+      "bb": "\u2014",
+      "bonus": "Top 27 11 PTS",
+      "points": 1.0
+    },
+    {
+      "player": "Jim Collopy",
+      "event": "Event #21: $1,500 Pot-Limit Omaha Hi-Lo 8 or Better",
+      "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-21/",
+      "team": "Lang",
+      "rank": "48 / 155",
+      "chips": "209,000",
+      "bb": "\u2014",
+      "bonus": "Top 27 11 PTS",
+      "points": 1.0
+    },
+    {
+      "player": "Bryce Yockey",
+      "event": "Event #21: $1,500 Pot-Limit Omaha Hi-Lo 8 or Better",
+      "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-21/",
+      "team": "Very Handsome Horses",
+      "rank": "52 / 155",
+      "chips": "200,000",
+      "bb": "\u2014",
+      "bonus": "Top 27 11 PTS",
+      "points": 1.0
+    },
+    {
+      "player": "Robert Mizrachi",
+      "event": "Event #21: $1,500 Pot-Limit Omaha Hi-Lo 8 or Better",
+      "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-21/",
+      "team": "Very Handsome Horses",
+      "rank": "53 / 155",
+      "chips": "197,000",
+      "bb": "\u2014",
+      "bonus": "Top 27 11 PTS",
+      "points": 1.0
+    },
+    {
+      "player": "Thomas Taylor",
+      "event": "Event #21: $1,500 Pot-Limit Omaha Hi-Lo 8 or Better",
+      "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-21/",
+      "team": "Premiums Only",
+      "rank": "61 / 155",
+      "chips": "187,000",
+      "bb": "\u2014",
+      "bonus": "Top 27 11 PTS",
+      "points": 1.0
+    },
+    {
+      "player": "Dylan Smith",
+      "event": "Event #21: $1,500 Pot-Limit Omaha Hi-Lo 8 or Better",
+      "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-21/",
+      "team": "Spitework",
+      "rank": "70 / 155",
+      "chips": "167,000",
+      "bb": "\u2014",
+      "bonus": "Top 27 11 PTS",
+      "points": 1.0
+    },
+    {
+      "player": "Jon Turner",
+      "event": "Event #21: $1,500 Pot-Limit Omaha Hi-Lo 8 or Better",
+      "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-21/",
+      "team": "Wasserson",
+      "rank": "80 / 155",
+      "chips": "150,000",
+      "bb": "\u2014",
+      "bonus": "Top 27 11 PTS",
+      "points": 1.0
+    },
+    {
+      "player": "Anthony Zinno",
+      "event": "Event #21: $1,500 Pot-Limit Omaha Hi-Lo 8 or Better",
+      "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-21/",
+      "team": "Very Handsome Horses",
+      "rank": "85 / 155",
+      "chips": "143,000",
+      "bb": "\u2014",
+      "bonus": "Top 27 11 PTS",
+      "points": 1.0
+    },
+    {
+      "player": "Frederic Normand",
+      "event": "Event #21: $1,500 Pot-Limit Omaha Hi-Lo 8 or Better",
+      "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-21/",
+      "team": "Chocolate Factory",
+      "rank": "90 / 155",
+      "chips": "139,000",
+      "bb": "\u2014",
+      "bonus": "Top 27 11 PTS",
+      "points": 1.0
+    },
+    {
+      "player": "Danny Chang",
+      "event": "Event #21: $1,500 Pot-Limit Omaha Hi-Lo 8 or Better",
+      "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-21/",
+      "team": "2026 ODB Bonus Players",
+      "rank": "96 / 155",
+      "chips": "134,000",
+      "bb": "\u2014",
+      "bonus": "Top 27 11 PTS",
+      "points": 1.0
+    },
+    {
+      "player": "Gary Benson",
+      "event": "Event #21: $1,500 Pot-Limit Omaha Hi-Lo 8 or Better",
+      "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-21/",
+      "team": "Trump Power",
+      "rank": "105 / 155",
+      "chips": "114,000",
+      "bb": "\u2014",
+      "bonus": "Top 27 11 PTS",
+      "points": 1.0
+    },
+    {
+      "player": "Joey Couden",
+      "event": "Event #21: $1,500 Pot-Limit Omaha Hi-Lo 8 or Better",
+      "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-21/",
+      "team": "Browndog",
+      "rank": "108 / 155",
+      "chips": "111,000",
+      "bb": "\u2014",
+      "bonus": "Top 27 11 PTS",
+      "points": 1.0
+    },
+    {
+      "player": "Benny Glaser",
+      "event": "Event #21: $1,500 Pot-Limit Omaha Hi-Lo 8 or Better",
+      "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-21/",
+      "team": "Chocolate Factory",
+      "rank": "111 / 155",
+      "chips": "107,000",
+      "bb": "\u2014",
+      "bonus": "Top 27 11 PTS",
+      "points": 1.0
+    },
+    {
+      "player": "Nitesh Rawtani",
+      "event": "Event #21: $1,500 Pot-Limit Omaha Hi-Lo 8 or Better",
+      "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-21/",
+      "team": "2026 ODB Bonus Players",
+      "rank": "118 / 155",
+      "chips": "98,000",
+      "bb": "\u2014",
+      "bonus": "Top 27 11 PTS",
+      "points": 1.0
+    },
+    {
+      "player": "Ryan Riess",
+      "event": "Event #21: $1,500 Pot-Limit Omaha Hi-Lo 8 or Better",
+      "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-21/",
+      "team": "Verderamo",
+      "rank": "125 / 155",
+      "chips": "92,000",
+      "bb": "\u2014",
+      "bonus": "Top 27 11 PTS",
+      "points": 1.0
+    },
+    {
+      "player": "Donny Rubinstein",
+      "event": "Event #21: $1,500 Pot-Limit Omaha Hi-Lo 8 or Better",
+      "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-21/",
+      "team": "2026 ODB Bonus Players",
+      "rank": "126 / 155",
+      "chips": "91,000",
+      "bb": "\u2014",
+      "bonus": "Top 27 11 PTS",
+      "points": 1.0
+    },
+    {
+      "player": "Jerry Wong",
+      "event": "Event #21: $1,500 Pot-Limit Omaha Hi-Lo 8 or Better",
+      "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-21/",
+      "team": "Dinkers",
+      "rank": "132 / 155",
+      "chips": "73,000",
+      "bb": "\u2014",
+      "bonus": "Top 27 11 PTS",
+      "points": 1.0
+    },
+    {
+      "player": "Florian Pesce",
+      "event": "Event #21: $1,500 Pot-Limit Omaha Hi-Lo 8 or Better",
+      "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-21/",
+      "team": "2026 ODB Bonus Players",
+      "rank": "135 / 155",
+      "chips": "67,000",
+      "bb": "\u2014",
+      "bonus": "Top 27 11 PTS",
+      "points": 1.0
+    },
+    {
+      "player": "Brad Owen",
+      "event": "Event #21: $1,500 Pot-Limit Omaha Hi-Lo 8 or Better",
+      "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-21/",
+      "team": "Banana",
+      "rank": "147 / 155",
+      "chips": "47,000",
+      "bb": "\u2014",
+      "bonus": "Top 27 11 PTS",
+      "points": 1.0
+    },
+    {
+      "player": "Mark Gregorich",
+      "event": "Event #21: $1,500 Pot-Limit Omaha Hi-Lo 8 or Better",
+      "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-21/",
+      "team": "2026 ODB Bonus Players",
+      "rank": "148 / 155",
+      "chips": "45,000",
+      "bb": "\u2014",
+      "bonus": "Top 27 11 PTS",
+      "points": 1.0
+    },
+    {
+      "player": "Jordan Siegel",
+      "event": "Event #21: $1,500 Pot-Limit Omaha Hi-Lo 8 or Better",
+      "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-21/",
+      "team": "Noori",
+      "rank": "153 / 155",
+      "chips": "27,000",
+      "bb": "\u2014",
+      "bonus": "Top 27 11 PTS",
+      "points": 1.0
     }
   ]
 }
