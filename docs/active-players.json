@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-05T19:50:17.422796+00:00",
+  "generatedAt": "2026-06-05T20:00:14.470611+00:00",
   "league": "25k",
   "count": 3,
   "players": [
@@ -10,7 +10,7 @@
       "team": "Glue Factory",
       "rank": "2 / 10",
       "chips": "2,030,000",
-      "bb": "81.2 BB",
+      "bb": "10,150.0 BB",
       "bonus": "Locked 11 PTS",
       "points": 0.0
     },
@@ -21,7 +21,7 @@
       "team": "2026 ODB Bonus Players",
       "rank": "7 / 10",
       "chips": "1,155,000",
-      "bb": "46.2 BB",
+      "bb": "5,775.0 BB",
       "bonus": "Locked 11 PTS",
       "points": 0.0
     },
@@ -32,7 +32,7 @@
       "team": "Trump Power",
       "rank": "8 / 10",
       "chips": "750,000",
-      "bb": "30.0 BB",
+      "bb": "3,750.0 BB",
       "bonus": "Locked 11 PTS",
       "points": 0.0
     }
