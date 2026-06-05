@@ -243,6 +243,7 @@
               <h3>${app.escapeHtml(row.team)}</h3>
               <p class="player-meta">${app.escapeHtml(row.teamName)}</p>
             </div>
+            <div class="card-total">${Math.round(app.parseNumber(row.totalPoints))} pts</div>
           </div>
           <div class="overlap-list">
             ${row.rivals

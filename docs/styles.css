@@ -139,6 +139,120 @@ h1 {
   font-weight: 700;
 }
 
+.easter-egg-trigger {
+  appearance: none;
+  border: 0;
+  padding: 0;
+  background: transparent;
+  color: inherit;
+  font: inherit;
+  font-weight: inherit;
+  cursor: pointer;
+  text-decoration: none;
+}
+
+.easter-egg-trigger:hover,
+.easter-egg-trigger:focus-visible {
+  text-decoration: underline;
+  text-underline-offset: 0.1em;
+}
+
+.commit-modal[hidden] {
+  display: none;
+}
+
+.commit-modal {
+  position: fixed;
+  inset: 0;
+  z-index: 40;
+}
+
+.commit-modal-backdrop {
+  position: absolute;
+  inset: 0;
+  background: rgba(31, 29, 26, 0.46);
+  backdrop-filter: blur(6px);
+}
+
+.commit-modal-dialog {
+  position: relative;
+  width: min(520px, calc(100% - 32px));
+  margin: 12vh auto 0;
+  padding: 20px 22px;
+  border-radius: var(--radius-lg);
+  border: 1px solid rgba(255, 255, 255, 0.45);
+  background: var(--surface-strong);
+  box-shadow: var(--shadow);
+}
+
+.commit-modal-header {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 16px;
+}
+
+.commit-modal-close {
+  appearance: none;
+  border: 0;
+  padding: 0;
+  background: transparent;
+  color: var(--muted);
+  font: inherit;
+  font-size: 1.75rem;
+  line-height: 1;
+  cursor: pointer;
+}
+
+.commit-modal-close:hover {
+  color: var(--ink);
+}
+
+.commit-modal-body {
+  margin-top: 14px;
+  max-height: min(62vh, 640px);
+  overflow-y: auto;
+  padding-right: 4px;
+}
+
+.commit-change + .commit-change {
+  margin-top: 18px;
+  padding-top: 18px;
+  border-top: 1px solid var(--line);
+}
+
+.commit-modal-message {
+  color: var(--ink);
+  line-height: 1.45;
+}
+
+.commit-modal-meta,
+.commit-modal-loading {
+  margin-top: 10px;
+  color: var(--muted);
+}
+
+.commit-change-list {
+  margin: 10px 0 0;
+  padding-left: 20px;
+  color: var(--ink);
+}
+
+.commit-change-list li + li {
+  margin-top: 6px;
+}
+
+.commit-modal-link {
+  color: #6f89b6;
+  text-decoration-color: rgba(111, 137, 182, 0.4);
+  text-underline-offset: 0.14em;
+}
+
+.commit-modal-link:hover {
+  color: #5b78a8;
+  text-decoration-color: rgba(91, 120, 168, 0.6);
+}
+
 .content-grid {
   display: grid;
   grid-template-columns: 1.6fr 1fr;

@@ -71,6 +71,7 @@
       return {
         team: manager.name,
         teamName: manager.teamName,
+        totalPoints: manager.totalPoints,
         bestRival: rivals[0] || null,
         rivals,
       };

@@ -119,6 +119,26 @@ Then refresh the local preview and verify:
 - historical widget opens
 - daily deltas still render
 
+## Latest changes modal
+
+Before pushing a meaningful UI or product change:
+
+1. add a new entry at the top of `docs/latest-changes.json`
+2. keep the title as `Latest changes`
+3. keep summaries short and simple
+4. use at most 3 bullet points per entry
+5. do not mention minor spacing or implementation details unless they matter to users
+6. do not end summary lines with periods
+
+Each entry should include:
+
+- `commit`
+- `url`
+- `publishedAt`
+- `summary`
+
+This file is a running list. Do not trim it to the last 3 changes. The modal is scrollable and will show the full history.
+
 ## Verifying the next scheduled run
 
 After merging to `master`:

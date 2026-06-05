@@ -63,6 +63,7 @@
 
   function initializeApp() {
     app.renderHeaderStats();
+    app.initializeCommitEasterEgg();
     app.initializeCollapsiblePanels();
     app.initializeNavigation();
     app.startLiveSweatsCountdown();

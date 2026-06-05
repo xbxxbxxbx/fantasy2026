@@ -1,0 +1,35 @@
+{
+  "title": "Latest changes",
+  "changes": [
+    {
+      "commit": "419f3d2",
+      "url": "https://github.com/xbxxbxxbx/fantasy2026/commit/419f3d2",
+      "publishedAt": "2026-06-05T20:17:00Z",
+      "summary": [
+        "Hide the Live Sweats table when none of your players are active",
+        "Show a short empty message instead",
+        "Add a source link for the sweat feed"
+      ]
+    },
+    {
+      "commit": "9dc8dff",
+      "url": "https://github.com/xbxxbxxbx/fantasy2026/commit/9dc8dff",
+      "publishedAt": "2026-06-05T19:53:00Z",
+      "summary": [
+        "Make overlap rows lighter than the header",
+        "Make roster player names lighter too",
+        "Keep manager names the same"
+      ]
+    },
+    {
+      "commit": "bb381b9",
+      "url": "https://github.com/xbxxbxxbx/fantasy2026/commit/bb381b9",
+      "publishedAt": "2026-06-05T19:31:00Z",
+      "summary": [
+        "Hide teams with no shared players in Player Overlap",
+        "Let each overlap card keep its own height",
+        "Keep the layout cleaner"
+      ]
+    }
+  ]
+}

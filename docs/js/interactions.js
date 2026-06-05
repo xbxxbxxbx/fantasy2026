@@ -127,6 +127,83 @@
     });
   };
 
+  app.closeCommitEasterEggModal = function closeCommitEasterEggModal() {
+    if (app.elements.commitEasterEggModal) {
+      app.elements.commitEasterEggModal.hidden = true;
+    }
+  };
+
+  app.renderCommitEasterEggBody = function renderCommitEasterEggBody(payload) {
+    const changes = payload?.changes || [];
+    if (!changes.length) {
+      return `
+        <p class="commit-modal-message">Could not load the latest changes right now.</p>
+      `;
+    }
+
+    return changes
+      .map((change) => {
+        const shortSha = app.escapeHtml(String(change.commit || "").slice(0, 7));
+        const url = app.escapeHtml(change.url || "https://github.com/xbxxbxxbx/fantasy2026/commits/master");
+        const timestamp = app.escapeHtml(app.formatUpdatedAt(change.publishedAt));
+        const bullets = (change.summary || [])
+          .slice(0, 3)
+          .map((item) => `<li>${app.escapeHtml(item)}</li>`)
+          .join("");
+
+        return `
+          <article class="commit-change">
+            <p class="commit-modal-meta">
+              <a class="commit-modal-link" href="${url}" target="_blank" rel="noreferrer">${shortSha}</a>${timestamp ? ` · ${timestamp}` : ""}
+            </p>
+            <ul class="commit-change-list">
+              ${bullets}
+            </ul>
+          </article>
+        `;
+      })
+      .join("");
+  };
+
+  app.initializeCommitEasterEgg = function initializeCommitEasterEgg() {
+    if (app.state.commitEasterEggInitialized || !app.elements.commitEasterEggTrigger) {
+      return;
+    }
+
+    const openModal = async () => {
+      if (!app.elements.commitEasterEggModal || !app.elements.commitEasterEggBody) {
+        return;
+      }
+
+      app.elements.commitEasterEggModal.hidden = false;
+      app.elements.commitEasterEggBody.innerHTML =
+        '<p class="commit-modal-loading">Loading latest changes…</p>';
+
+      try {
+        const payload = await app.fetchLatestChanges();
+        const title = app.escapeHtml(payload?.title || "Latest changes");
+        const titleElement = document.getElementById("commit-modal-title");
+        if (titleElement) {
+          titleElement.textContent = title;
+        }
+        app.elements.commitEasterEggBody.innerHTML = app.renderCommitEasterEggBody(payload);
+      } catch (error) {
+        app.elements.commitEasterEggBody.innerHTML = app.renderCommitEasterEggBody(null);
+      }
+    };
+
+    app.elements.commitEasterEggTrigger.addEventListener("click", openModal);
+    app.elements.commitEasterEggClose?.addEventListener("click", app.closeCommitEasterEggModal);
+    app.elements.commitEasterEggBackdrop?.addEventListener("click", app.closeCommitEasterEggModal);
+    document.addEventListener("keydown", (event) => {
+      if (event.key === "Escape") {
+        app.closeCommitEasterEggModal();
+      }
+    });
+
+    app.state.commitEasterEggInitialized = true;
+  };
+
   app.syncLiveSweatsAvailability = function syncLiveSweatsAvailability(force = false) {
     const availability = app.getLiveSweatsAvailability();
     if (app.elements.liveSweatsCountdown && !availability.isLive) {

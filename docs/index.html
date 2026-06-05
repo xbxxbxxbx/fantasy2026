@@ -23,7 +23,7 @@
       href="https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@400;500;700&family=IBM+Plex+Mono:wght@400;500&display=swap"
       rel="stylesheet"
     />
-    <link rel="stylesheet" href="./styles.css?v=25k5" />
+    <link rel="stylesheet" href="./styles.css?v=25k7" />
   </head>
   <body>
     <div id="top" class="page-shell">
@@ -38,7 +38,7 @@
         <div class="hero-stats">
           <div class="stat-card">
             <span class="stat-label">Prize Pool</span>
-            <span class="stat-value">$50 to win $450</span>
+            <span class="stat-value">$50 to <button id="commit-easter-egg-trigger" class="easter-egg-trigger" type="button">win</button> $450</span>
             <p class="hero-text">Winner take all</p>
           </div>
         </div>
@@ -241,16 +241,28 @@
     <a id="back-to-top" class="back-to-top-link" href="#top">Back to Top</a>
 
     <div id="refresh-toast" class="refresh-toast" aria-live="polite"></div>
+    <div id="commit-easter-egg-modal" class="commit-modal" hidden>
+      <div id="commit-easter-egg-backdrop" class="commit-modal-backdrop"></div>
+      <div class="commit-modal-dialog" role="dialog" aria-modal="true" aria-labelledby="commit-modal-title">
+        <div class="commit-modal-header">
+          <h3 id="commit-modal-title">Latest changes</h3>
+          <button id="commit-easter-egg-close" class="commit-modal-close" type="button" aria-label="Close latest commit modal">×</button>
+        </div>
+        <div id="commit-easter-egg-body" class="commit-modal-body">
+          <p class="commit-modal-loading">Loading latest commit…</p>
+        </div>
+      </div>
+    </div>
 
-    <script src="./config.js?v=25k5"></script>
-    <script src="./js/core.js?v=25k5"></script>
-    <script src="./js/utils.js?v=25k5"></script>
-    <script src="./js/time.js?v=25k5"></script>
-    <script src="./js/data-loaders.js?v=25k5"></script>
-    <script src="./js/analytics.js?v=25k5"></script>
-    <script src="./js/ui-panels.js?v=25k5"></script>
-    <script src="./js/renderers.js?v=25k5"></script>
-    <script src="./js/interactions.js?v=25k5"></script>
-    <script src="./app.js?v=25k5"></script>
+    <script src="./config.js?v=25k8"></script>
+    <script src="./js/core.js?v=25k8"></script>
+    <script src="./js/utils.js?v=25k8"></script>
+    <script src="./js/time.js?v=25k8"></script>
+    <script src="./js/data-loaders.js?v=25k8"></script>
+    <script src="./js/analytics.js?v=25k8"></script>
+    <script src="./js/ui-panels.js?v=25k8"></script>
+    <script src="./js/renderers.js?v=25k8"></script>
+    <script src="./js/interactions.js?v=25k8"></script>
+    <script src="./app.js?v=25k8"></script>
   </body>
 </html>

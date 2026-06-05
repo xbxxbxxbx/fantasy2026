@@ -30,4 +30,18 @@
     app.state.playerHistoryCache = await response.json();
     return app.state.playerHistoryCache;
   };
+
+  app.fetchLatestChanges = async function fetchLatestChanges() {
+    if (app.state.latestChangesCache) {
+      return app.state.latestChangesCache;
+    }
+
+    const response = await fetch("./latest-changes.json", { cache: "no-store" });
+    if (!response.ok) {
+      throw new Error(`Latest changes request failed with ${response.status}`);
+    }
+
+    app.state.latestChangesCache = await response.json();
+    return app.state.latestChangesCache;
+  };
 })(window.FantasyLeaderboardApp);
