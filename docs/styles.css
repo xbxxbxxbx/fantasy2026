@@ -803,6 +803,10 @@ h1 {
   grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
 }
 
+.overlap-grid {
+  align-items: start;
+}
+
 .overlap-list {
   display: grid;
   gap: 10px;

@@ -227,19 +227,20 @@
           </div>
           <div class="overlap-list">
             ${row.rivals
-              .map(
-                (rival) => `
+              .filter((rival) => rival.overlapCount > 0)
+              .map((rival) => {
+                return `
                   <div class="overlap-row">
                     <div>
                       <div class="overlap-rival-name">${app.escapeHtml(rival.rivalName)}</div>
                       <div class="overlap-shared-players">${app.escapeHtml(
-                        rival.sharedPlayers.slice(0, 3).join(", ") || "No shared players"
+                        rival.sharedPlayers.slice(0, 3).join(", ")
                       )}</div>
                     </div>
                     <div class="overlap-count">${rival.overlapCount}</div>
                   </div>
-                `
-              )
+                `;
+              })
               .join("")}
           </div>
         </article>
