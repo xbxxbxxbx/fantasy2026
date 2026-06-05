@@ -1,27 +1,16 @@
 {
-  "generatedAt": "2026-06-05T07:50:11.630598+00:00",
+  "generatedAt": "2026-06-05T08:00:20.411455+00:00",
   "league": "25k",
-  "count": 8,
+  "count": 5,
   "players": [
     {
       "player": "Naoya Kihara",
       "event": "Event #17: $10,000 No-Limit 2-7 Lowball Draw Championship",
       "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-17/",
       "team": "Banana",
-      "rank": "1 / 4",
+      "rank": "1 / 3",
       "chips": "5,275,000",
       "bb": "65.9 BB",
-      "bonus": "Locked 11 PTS",
-      "points": 0.0
-    },
-    {
-      "player": "Ryutaro Suzuki",
-      "event": "Event #17: $10,000 No-Limit 2-7 Lowball Draw Championship",
-      "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-17/",
-      "team": "Spitework",
-      "rank": "3 / 4",
-      "chips": "1,365,000",
-      "bb": "17.1 BB",
       "bonus": "Locked 11 PTS",
       "points": 0.0
     },
@@ -30,7 +19,7 @@
       "event": "Event #17: $10,000 No-Limit 2-7 Lowball Draw Championship",
       "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-17/",
       "team": "2026 ODB Bonus Players",
-      "rank": "4 / 4",
+      "rank": "3 / 3",
       "chips": "1,060,000",
       "bb": "13.3 BB",
       "bonus": "Locked 11 PTS",
@@ -41,55 +30,33 @@
       "event": "Event #20: $1,500 Dealers Choice 7-Handed",
       "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-20/",
       "team": "Trump Power",
-      "rank": "1 / 12",
-      "chips": "2,500,095",
-      "bb": "100.0 BB",
+      "rank": "7 / 10",
+      "chips": "750,000",
+      "bb": "30.0 BB",
       "bonus": "Locked 11 PTS",
-      "points": 11.0
-    },
-    {
-      "player": "Allan Le",
-      "event": "Event #20: $1,500 Dealers Choice 7-Handed",
-      "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-20/",
-      "team": "Blades & Shades",
-      "rank": "8 / 12",
-      "chips": "785,000",
-      "bb": "31.4 BB",
-      "bonus": "Locked 11 PTS",
-      "points": 11.0
-    },
-    {
-      "player": "Ryan Hughes",
-      "event": "Event #20: $1,500 Dealers Choice 7-Handed",
-      "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-20/",
-      "team": "2026 ODB Bonus Players",
-      "rank": "10 / 12",
-      "chips": "510,000",
-      "bb": "20.4 BB",
-      "bonus": "Locked 11 PTS",
-      "points": 11.0
+      "points": 0.0
     },
     {
       "player": "Dario Sammartino",
       "event": "Event #20: $1,500 Dealers Choice 7-Handed",
       "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-20/",
       "team": "Glue Factory",
-      "rank": "11 / 12",
+      "rank": "9 / 10",
       "chips": "435,000",
       "bb": "17.4 BB",
       "bonus": "Locked 11 PTS",
-      "points": 11.0
+      "points": 0.0
     },
     {
       "player": "John Bunch",
       "event": "Event #20: $1,500 Dealers Choice 7-Handed",
       "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-20/",
       "team": "2026 ODB Bonus Players",
-      "rank": "12 / 12",
+      "rank": "10 / 10",
       "chips": "165,000",
       "bb": "6.6 BB",
       "bonus": "Locked 11 PTS",
-      "points": 11.0
+      "points": 0.0
     }
   ]
 }
