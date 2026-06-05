@@ -15,6 +15,7 @@
       app.state.latestLiveSweats = viewModel.liveSweats;
 
       app.renderLiveSweats(viewModel.liveSweats);
+      app.renderHeaderStats(viewModel.metadata);
       app.renderLeaderboard(viewModel.managers);
       app.renderManagerCards(viewModel.managers);
       app.initializeRosterJumpLinks();

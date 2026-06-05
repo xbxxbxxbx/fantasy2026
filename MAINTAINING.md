@@ -44,6 +44,7 @@ Generated on the scheduled workflow and committed to the repo:
 
 Hand-maintained source files:
 
+- `league.json`
 - `docs/config.js`
 - `docs/index.html`
 - `docs/styles.css`
@@ -71,6 +72,29 @@ It does **not** mean:
 - since the source site itself updated
 
 `pointsChangeSincePrevious` still exists in the snapshot for previous-run comparison, but the UI uses the daily baseline value.
+
+## League setup
+
+For a new league, only edit:
+
+- `league.json`
+
+Then run:
+
+```bash
+python3 scripts/update_data.py
+```
+
+The scraper reads:
+
+- `league.json` for league/team/roster data
+- `docs/config.js` for shared source and feature settings
+
+The frontend reads:
+
+- `docs/data.json`
+- `docs/active-players.json`
+- `docs/25k-player-history.json`
 
 ## Validation before merging
 

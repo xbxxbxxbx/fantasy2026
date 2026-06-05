@@ -4,7 +4,7 @@ import json
 import re
 from dataclasses import dataclass
 
-from .constants import CONFIG_PATH
+from .constants import CONFIG_PATH, LEAGUE_PATH
 
 
 class ConfigError(RuntimeError):
@@ -19,7 +19,7 @@ class TeamSource:
     roster: list[str]
 
 
-def load_config() -> dict:
+def _load_js_config() -> dict:
     text = CONFIG_PATH.read_text(encoding="utf-8")
     match = re.search(r"window\.LEADERBOARD_CONFIG\s*=\s*(\{.*\});?\s*$", text, re.S)
     if not match:
@@ -33,3 +33,21 @@ def load_config() -> dict:
     )
     config_text = re.sub(r",(\s*[}\]])", r"\1", config_text)
     return json.loads(config_text)
+
+
+def _load_league_config() -> dict:
+    try:
+        return json.loads(LEAGUE_PATH.read_text(encoding="utf-8"))
+    except FileNotFoundError as exc:
+        raise ConfigError(f"Missing league definition file: {LEAGUE_PATH}") from exc
+    except json.JSONDecodeError as exc:
+        raise ConfigError(f"Could not parse league definition from {LEAGUE_PATH}") from exc
+
+
+def load_config() -> dict:
+    app_config = _load_js_config()
+    league_config = _load_league_config()
+    merged = dict(app_config)
+    merged["leagueName"] = league_config.get("leagueName") or app_config.get("leagueName")
+    merged["teamSources"] = league_config.get("teams", [])
+    return merged

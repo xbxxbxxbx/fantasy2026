@@ -382,5 +382,9 @@
       "pointsChangeSincePrevious": 0.0
     }
   ],
-  "failures": []
+  "failures": [],
+  "leagueName": "WSOP Poker Fantasy Draft 2026",
+  "sourceLabel": "25KFantasy",
+  "sourceUrl": "https://www.25kfantasy.com/players/",
+  "updateCadenceLabel": "every 10 minutes"
 }

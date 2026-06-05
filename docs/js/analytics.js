@@ -236,6 +236,12 @@
       generatedAt: snapshot.generatedAt || null,
       liveSweats,
       managers,
+      metadata: {
+        leagueName: snapshot.leagueName || null,
+        sourceLabel: snapshot.sourceLabel || null,
+        sourceUrl: snapshot.sourceUrl || null,
+        updateCadenceLabel: snapshot.updateCadenceLabel || null,
+      },
       pointsChangeLabel: snapshot.pointsChangeLabel || "today",
       signature: app.snapshotSignature(snapshot),
     };

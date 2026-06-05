@@ -16,26 +16,46 @@ Static GitHub Pages leaderboard for a WSOP fantasy draft.
 
 ## Configure it
 
-Edit `docs/config.js`:
+Edit `league.json`:
 
 - `leagueName`
+- `teams`
+- each team's:
+  - `managerName`
+  - `teamName`
+  - `url`
+  - `roster`
+
+Shared app/source settings stay in `docs/config.js` and normally do not need to change.
+
+`league.json` is the one file you swap to reuse this project for another league.
+
+## Shared app settings
+
+`docs/config.js` now contains only shared settings such as:
+
 - `sourceLabel`
 - `sourceUrl`
 - `updateCadenceLabel`
+- `liveSweatsTimeGateEnabled`
 - `scoreFeedUrl`
 - `scoreFeedTableId`
 - `scoreFeedPlayerColumn`
 - `scoreFeedPointsColumn`
-- `teamSources`
 
-Each roster entry uses this shape:
+## League file shape
 
-```js
+```json
 {
-  managerName: "Trampstamp",
-  teamName: "lowerbackstamp",
-  url: "https://www.poker.org/fantasy/wsop/2026/team/lowerbackstamp/",
-  roster: ["Player One", "Player Two"],
+  "leagueName": "My Fantasy League",
+  "teams": [
+    {
+      "managerName": "Alice",
+      "teamName": "River Rats",
+      "url": "https://optional-team-link.example",
+      "roster": ["Player One", "Player Two"]
+    }
+  ]
 }
 ```
 
@@ -52,6 +72,12 @@ That updates:
 - `docs/data.json`
 - `docs/active-players.json`
 - `docs/history/YYYY-MM-DD.json` when needed
+
+The generated `docs/data.json` also carries the league metadata needed by the frontend, so after editing `league.json` you only need to run:
+
+```bash
+python3 scripts/update_data.py
+```
 
 ## Automated refresh
 

@@ -1,10 +1,12 @@
 (function (app, document, window) {
-  app.renderHeaderStats = function renderHeaderStats() {
-    app.elements.leagueName.textContent = app.config.leagueName;
+  app.renderHeaderStats = function renderHeaderStats(metadata = {}) {
+    app.elements.leagueName.textContent = metadata.leagueName || app.config.leagueName;
     if (app.elements.leagueDescription) {
-      const sourceLabel = app.escapeHtml(app.config.sourceLabel || "source");
-      const sourceUrl = app.escapeHtml(app.config.sourceUrl || "#");
-      const updateCadenceLabel = app.escapeHtml(app.config.updateCadenceLabel || "regularly");
+      const sourceLabel = app.escapeHtml(metadata.sourceLabel || app.config.sourceLabel || "source");
+      const sourceUrl = app.escapeHtml(metadata.sourceUrl || app.config.sourceUrl || "#");
+      const updateCadenceLabel = app.escapeHtml(
+        metadata.updateCadenceLabel || app.config.updateCadenceLabel || "regularly"
+      );
       app.elements.leagueDescription.innerHTML = `Live leaderboard from <a href="${sourceUrl}" target="_blank" rel="noreferrer">${sourceLabel}</a> updated ${updateCadenceLabel}`;
     }
     if (app.elements.heroPolling) {

@@ -12,7 +12,6 @@
     liveSweatsStatus: document.querySelector("#live-sweats-status"),
     liveSweatsCountdown: document.querySelector("#live-sweats-countdown"),
     liveSweatsBody: document.querySelector("#live-sweats-body"),
-    leaderboardHelperLive: document.querySelector(".leaderboard-helper-live"),
     leaderboardHelperLive: document.querySelector("#leaderboard-helper-live"),
     leaderboardBody: document.querySelector("#leaderboard-body"),
     managerCards: document.querySelector("#manager-cards"),

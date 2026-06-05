@@ -165,6 +165,10 @@ def build_snapshot(config: dict) -> dict:
 
     snapshot = {
         "generatedAt": datetime.now(timezone.utc).isoformat(),
+        "leagueName": config.get("leagueName"),
+        "sourceLabel": config.get("sourceLabel"),
+        "sourceUrl": config.get("sourceUrl"),
+        "updateCadenceLabel": config.get("updateCadenceLabel"),
         "pointsChangeLabel": "today",
         "pointsChangeComparisonDate": comparison_date,
         "managers": results,
