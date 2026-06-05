@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-05T08:30:18.108765+00:00",
+  "generatedAt": "2026-06-05T08:40:10.699118+00:00",
   "league": "25k",
   "count": 5,
   "players": [
@@ -9,8 +9,8 @@
       "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-17/",
       "team": "Banana",
       "rank": "1 / 2",
-      "chips": "5,275,000",
-      "bb": "65.9 BB",
+      "chips": "6,510,000",
+      "bb": "81.4 BB",
       "bonus": "Locked 11 PTS",
       "points": 0.0
     },
@@ -20,8 +20,8 @@
       "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-17/",
       "team": "2026 ODB Bonus Players",
       "rank": "2 / 2",
-      "chips": "1,060,000",
-      "bb": "13.3 BB",
+      "chips": "5,370,000",
+      "bb": "67.1 BB",
       "bonus": "Locked 11 PTS",
       "points": 0.0
     },
