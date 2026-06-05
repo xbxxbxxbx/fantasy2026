@@ -378,6 +378,10 @@ h1 {
   margin-bottom: 10px;
 }
 
+.live-sweats-helper-note {
+  margin: 0;
+}
+
 .live-sweats-helper a {
   color: #6f89b6;
   text-decoration-color: rgba(111, 137, 182, 0.4);
