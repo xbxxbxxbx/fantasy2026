@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-04T23:31:25.138024+00:00",
+  "generatedAt": "2026-06-05T00:01:14.302224+00:00",
   "pointsChangeLabel": "today",
   "pointsChangeComparisonDate": "2026-06-04",
   "managers": [
@@ -172,6 +172,48 @@
       "pointsChangeSincePrevious": 0.0
     },
     {
+      "managerName": "Turbo",
+      "teamName": "Turbolulz",
+      "url": "https://www.poker.org/fantasy/wsop/2026/team/turbolulz/",
+      "players": [
+        {
+          "player": "John Racener",
+          "points": 66.0
+        },
+        {
+          "player": "Scott Seiver",
+          "points": 46.0
+        },
+        {
+          "player": "Tyler Phillips",
+          "points": 15.0
+        },
+        {
+          "player": "Brad Owen",
+          "points": 1.0
+        },
+        {
+          "player": "Allen Kessler",
+          "points": 1.0
+        },
+        {
+          "player": "Erik Seidel",
+          "points": 0.0
+        },
+        {
+          "player": "Ben Lamb",
+          "points": 0.0
+        },
+        {
+          "player": "Jared Bleznick",
+          "points": 0.0
+        }
+      ],
+      "totalPoints": 129.0,
+      "pointsChange": 66.0,
+      "pointsChangeSincePrevious": 66.0
+    },
+    {
       "managerName": "realbmorekid",
       "teamName": "Bmore\u2019s Brawlers",
       "url": "https://www.poker.org/fantasy/wsop/2026/team/bmore-s-brawlers/",
@@ -262,7 +304,7 @@
       "players": [
         {
           "player": "Dylan Smith",
-          "points": 49.0
+          "points": 50.0
         },
         {
           "player": "Jerry Wong",
@@ -293,51 +335,9 @@
           "points": 1.0
         }
       ],
-      "totalPoints": 79.0,
-      "pointsChange": 1.0,
-      "pointsChangeSincePrevious": 0.0
-    },
-    {
-      "managerName": "Turbo",
-      "teamName": "Turbolulz",
-      "url": "https://www.poker.org/fantasy/wsop/2026/team/turbolulz/",
-      "players": [
-        {
-          "player": "Scott Seiver",
-          "points": 46.0
-        },
-        {
-          "player": "Tyler Phillips",
-          "points": 15.0
-        },
-        {
-          "player": "Brad Owen",
-          "points": 1.0
-        },
-        {
-          "player": "Allen Kessler",
-          "points": 1.0
-        },
-        {
-          "player": "Erik Seidel",
-          "points": 0.0
-        },
-        {
-          "player": "Ben Lamb",
-          "points": 0.0
-        },
-        {
-          "player": "Jared Bleznick",
-          "points": 0.0
-        },
-        {
-          "player": "John Racener",
-          "points": 0.0
-        }
-      ],
-      "totalPoints": 63.0,
-      "pointsChange": 0.0,
-      "pointsChangeSincePrevious": 0.0
+      "totalPoints": 80.0,
+      "pointsChange": 2.0,
+      "pointsChangeSincePrevious": 1.0
     },
     {
       "managerName": "Trampstamp",
