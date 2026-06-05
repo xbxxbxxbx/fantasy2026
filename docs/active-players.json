@@ -1,27 +1,16 @@
 {
-  "generatedAt": "2026-06-05T20:58:47.529833+00:00",
+  "generatedAt": "2026-06-05T21:00:16.542964+00:00",
   "league": "25k",
-  "count": 3,
+  "count": 2,
   "players": [
     {
       "player": "Dario Sammartino",
       "event": "Event #20: $1,500 Dealers Choice 7-Handed",
       "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-20/",
       "team": "Glue Factory",
-      "rank": "2 / 10",
+      "rank": "2 / 9",
       "chips": "2,030,000",
-      "bb": "101.5 BB",
-      "bonus": "Locked 11 PTS",
-      "points": 0.0
-    },
-    {
-      "player": "John Bunch",
-      "event": "Event #20: $1,500 Dealers Choice 7-Handed",
-      "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-20/",
-      "team": "2026 ODB Bonus Players",
-      "rank": "7 / 10",
-      "chips": "1,155,000",
-      "bb": "57.8 BB",
+      "bb": "67.7 BB",
       "bonus": "Locked 11 PTS",
       "points": 0.0
     },
@@ -30,9 +19,9 @@
       "event": "Event #20: $1,500 Dealers Choice 7-Handed",
       "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-20/",
       "team": "Trump Power",
-      "rank": "8 / 10",
+      "rank": "7 / 9",
       "chips": "750,000",
-      "bb": "37.5 BB",
+      "bb": "25.0 BB",
       "bonus": "Locked 11 PTS",
       "points": 0.0
     }
