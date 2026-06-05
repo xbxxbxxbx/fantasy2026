@@ -64,12 +64,18 @@ Hand-maintained source files:
 
 `pointsChange` in `docs/data.json` means:
 
-- points gained since the first successful scrape we have for the current New York calendar day
+- points gained since the first successful scrape after the 10 AM ET poker-day reset
 
 It does **not** mean:
 
 - since the last workflow run
+- since midnight ET
 - since the source site itself updated
+
+The reset rule is:
+
+- before 10:00 AM ET, new points still belong to the prior poker day
+- at or after 10:00 AM ET, the first successful scrape becomes the new baseline
 
 `pointsChangeSincePrevious` still exists in the snapshot for previous-run comparison, but the UI uses the daily baseline value.
 

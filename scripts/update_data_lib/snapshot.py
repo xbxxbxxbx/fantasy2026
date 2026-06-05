@@ -169,7 +169,7 @@ def build_snapshot(config: dict) -> dict:
         "sourceLabel": config.get("sourceLabel"),
         "sourceUrl": config.get("sourceUrl"),
         "updateCadenceLabel": config.get("updateCadenceLabel"),
-        "pointsChangeLabel": "today",
+        "pointsChangeLabel": "since restart",
         "pointsChangeComparisonDate": comparison_date,
         "managers": results,
         "failures": failures,
@@ -178,7 +178,7 @@ def build_snapshot(config: dict) -> dict:
     if success_count > 0:
         write_daily_baseline(
             comparison_date,
-            daily_baseline_snapshot or previous_snapshot or snapshot,
+            daily_baseline_snapshot or snapshot,
         )
 
     return snapshot

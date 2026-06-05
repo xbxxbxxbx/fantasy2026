@@ -1,11 +1,11 @@
 {
-  "generatedAt": "2026-06-05T03:55:11.027969+00:00",
+  "generatedAt": "2026-06-05T20:56:16.458524+00:00",
   "leagueName": "WSOP Poker Fantasy Draft 2026",
   "sourceLabel": "25KFantasy",
   "sourceUrl": "https://www.25kfantasy.com/players/",
   "updateCadenceLabel": "every 10 minutes",
-  "pointsChangeLabel": "today",
-  "pointsChangeComparisonDate": "2026-06-04",
+  "pointsChangeLabel": "since restart",
+  "pointsChangeComparisonDate": "2026-06-05",
   "managers": [
     {
       "managerName": "ASG",
@@ -46,7 +46,49 @@
         }
       ],
       "totalPoints": 171.0,
-      "pointsChange": 2.0,
+      "pointsChange": 0.0,
+      "pointsChangeSincePrevious": 0.0
+    },
+    {
+      "managerName": "realbmorekid",
+      "teamName": "Bmore\u2019s Brawlers",
+      "url": "https://www.poker.org/fantasy/wsop/2026/team/bmore-s-brawlers/",
+      "players": [
+        {
+          "player": "Shaun Deeb",
+          "points": 61.0
+        },
+        {
+          "player": "Joey Weissman",
+          "points": 46.0
+        },
+        {
+          "player": "Cherish Andrews",
+          "points": 24.0
+        },
+        {
+          "player": "Jeremy Becker",
+          "points": 11.0
+        },
+        {
+          "player": "Christian Harder",
+          "points": 9.0
+        },
+        {
+          "player": "Brock Wilson",
+          "points": 4.0
+        },
+        {
+          "player": "Esther Taylor",
+          "points": 3.0
+        },
+        {
+          "player": "Shannon Shorr",
+          "points": 2.0
+        }
+      ],
+      "totalPoints": 160.0,
+      "pointsChange": 0.0,
       "pointsChangeSincePrevious": 0.0
     },
     {
@@ -88,7 +130,7 @@
         }
       ],
       "totalPoints": 145.0,
-      "pointsChange": 2.0,
+      "pointsChange": 0.0,
       "pointsChangeSincePrevious": 0.0
     },
     {
@@ -130,7 +172,7 @@
         }
       ],
       "totalPoints": 140.0,
-      "pointsChange": 3.0,
+      "pointsChange": 0.0,
       "pointsChangeSincePrevious": 0.0
     },
     {
@@ -144,7 +186,7 @@
         },
         {
           "player": "David 'ODB' Baker",
-          "points": 24.0
+          "points": 25.0
         },
         {
           "player": "Ben Yu",
@@ -171,8 +213,8 @@
           "points": 0.0
         }
       ],
-      "totalPoints": 139.0,
-      "pointsChange": 2.0,
+      "totalPoints": 140.0,
+      "pointsChange": 0.0,
       "pointsChangeSincePrevious": 0.0
     },
     {
@@ -214,49 +256,49 @@
         }
       ],
       "totalPoints": 129.0,
-      "pointsChange": 66.0,
+      "pointsChange": 0.0,
       "pointsChangeSincePrevious": 0.0
     },
     {
-      "managerName": "realbmorekid",
-      "teamName": "Bmore\u2019s Brawlers",
-      "url": "https://www.poker.org/fantasy/wsop/2026/team/bmore-s-brawlers/",
+      "managerName": "Gus",
+      "teamName": "mynameaintearl",
+      "url": "https://www.poker.org/fantasy/wsop/2026/team/mynameaintearl/",
       "players": [
         {
-          "player": "Joey Weissman",
-          "points": 46.0
+          "player": "Dylan Smith",
+          "points": 50.0
         },
         {
-          "player": "Cherish Andrews",
-          "points": 24.0
+          "player": "Jerry Wong",
+          "points": 12.0
         },
         {
-          "player": "Jeremy Becker",
-          "points": 11.0
+          "player": "Allan Le",
+          "points": 12.0
         },
         {
-          "player": "Christian Harder",
-          "points": 9.0
+          "player": "Nick Guagenti",
+          "points": 5.0
         },
         {
-          "player": "Brock Wilson",
+          "player": "Danny Wong",
           "points": 4.0
+        },
+        {
+          "player": "Matt Glantz",
+          "points": 3.0
         },
         {
           "player": "Esther Taylor",
           "points": 3.0
         },
         {
-          "player": "Shannon Shorr",
+          "player": "Phillip Hui",
           "points": 2.0
-        },
-        {
-          "player": "Shaun Deeb",
-          "points": 0.0
         }
       ],
-      "totalPoints": 99.0,
-      "pointsChange": 46.0,
+      "totalPoints": 91.0,
+      "pointsChange": 0.0,
       "pointsChangeSincePrevious": 0.0
     },
     {
@@ -298,49 +340,7 @@
         }
       ],
       "totalPoints": 85.0,
-      "pointsChange": 60.0,
-      "pointsChangeSincePrevious": 0.0
-    },
-    {
-      "managerName": "Gus",
-      "teamName": "mynameaintearl",
-      "url": "https://www.poker.org/fantasy/wsop/2026/team/mynameaintearl/",
-      "players": [
-        {
-          "player": "Dylan Smith",
-          "points": 50.0
-        },
-        {
-          "player": "Jerry Wong",
-          "points": 12.0
-        },
-        {
-          "player": "Nick Guagenti",
-          "points": 5.0
-        },
-        {
-          "player": "Danny Wong",
-          "points": 4.0
-        },
-        {
-          "player": "Matt Glantz",
-          "points": 3.0
-        },
-        {
-          "player": "Esther Taylor",
-          "points": 3.0
-        },
-        {
-          "player": "Phillip Hui",
-          "points": 2.0
-        },
-        {
-          "player": "Allan Le",
-          "points": 1.0
-        }
-      ],
-      "totalPoints": 80.0,
-      "pointsChange": 2.0,
+      "pointsChange": 0.0,
       "pointsChangeSincePrevious": 0.0
     },
     {
@@ -386,5 +386,6 @@
       "pointsChangeSincePrevious": 0.0
     }
   ],
-  "failures": []
+  "failures": [],
+  "successCount": 9
 }

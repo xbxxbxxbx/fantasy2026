@@ -1,10 +1,12 @@
 from __future__ import annotations
 
 import json
-from datetime import datetime, timezone
+from datetime import datetime, time, timedelta, timezone
 from pathlib import Path
 
 from .constants import DISPLAY_TIMEZONE, HISTORY_DIR, OUTPUT_PATH
+
+POKER_DAY_RESET_HOUR = 10
 
 
 def load_json(path: Path) -> dict:
@@ -44,11 +46,23 @@ def snapshot_totals(snapshot: dict) -> dict[str, float]:
     return totals
 
 
-def current_local_date() -> str:
-    return datetime.now(timezone.utc).astimezone(DISPLAY_TIMEZONE).date().isoformat()
+def poker_day_key_for(timestamp: datetime) -> str:
+    local_timestamp = timestamp.astimezone(DISPLAY_TIMEZONE)
+    reset_boundary = datetime.combine(
+        local_timestamp.date(),
+        time(hour=POKER_DAY_RESET_HOUR),
+        tzinfo=DISPLAY_TIMEZONE,
+    )
+    if local_timestamp < reset_boundary:
+        local_timestamp -= timedelta(days=1)
+    return local_timestamp.date().isoformat()
 
 
-def snapshot_local_date(snapshot: dict) -> str | None:
+def current_poker_day_key() -> str:
+    return poker_day_key_for(datetime.now(timezone.utc))
+
+
+def snapshot_poker_day_key(snapshot: dict) -> str | None:
     generated_at = snapshot.get("generatedAt")
     if not generated_at:
         return None
@@ -61,7 +75,7 @@ def snapshot_local_date(snapshot: dict) -> str | None:
     if timestamp.tzinfo is None:
         timestamp = timestamp.replace(tzinfo=timezone.utc)
 
-    return timestamp.astimezone(DISPLAY_TIMEZONE).date().isoformat()
+    return poker_day_key_for(timestamp)
 
 
 def history_path_for(date_key: str) -> Path:
@@ -69,17 +83,11 @@ def history_path_for(date_key: str) -> Path:
 
 
 def load_daily_baseline(previous_snapshot: dict) -> tuple[dict, str]:
-    today_key = current_local_date()
+    today_key = current_poker_day_key()
     baseline_path = history_path_for(today_key)
     existing_baseline = load_json(baseline_path)
-    if existing_baseline:
+    if existing_baseline and snapshot_poker_day_key(existing_baseline) == today_key:
         return existing_baseline, today_key
-
-    previous_date = snapshot_local_date(previous_snapshot)
-    if previous_snapshot and previous_snapshot.get("managers"):
-        if previous_date != today_key:
-            return previous_snapshot, today_key
-        return previous_snapshot, today_key
 
     return {}, today_key
 
@@ -90,5 +98,6 @@ def write_daily_baseline(today_key: str, baseline_snapshot: dict) -> None:
 
     HISTORY_DIR.mkdir(parents=True, exist_ok=True)
     path = history_path_for(today_key)
-    if not path.exists():
+    existing_baseline = load_json(path)
+    if not existing_baseline or snapshot_poker_day_key(existing_baseline) != today_key:
         path.write_text(json.dumps(baseline_snapshot, indent=2) + "\n", encoding="utf-8")
