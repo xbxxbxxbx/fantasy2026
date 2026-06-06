@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-06-06T06:40:12.260702+00:00",
+  "generatedAt": "2026-06-06T06:50:12.229404+00:00",
   "league": "25k",
-  "count": 15,
+  "count": 14,
   "players": [
     {
       "player": "Philip Sternheimer",
@@ -114,22 +114,11 @@
       "points": 2.0
     },
     {
-      "player": "Jeff Madsen",
-      "event": "Event #20: $1,500 Dealers Choice 7-Handed",
-      "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-20/",
-      "team": "Trump Power",
-      "rank": "1 / 1",
-      "chips": "1,240,000",
-      "bb": "0.6 BB",
-      "bonus": "Locked 11 PTS",
-      "points": 81.0
-    },
-    {
       "player": "Ryan Hoenig",
       "event": "Event #21: $1,500 Pot-Limit Omaha Hi-Lo 8 or Better",
       "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-21/",
       "team": "Premiums Only",
-      "rank": "1 / 18",
+      "rank": "1 / 15",
       "chips": "3,400,000",
       "bb": "\u2014",
       "bonus": "Locked 11 PTS",
@@ -140,7 +129,7 @@
       "event": "Event #21: $1,500 Pot-Limit Omaha Hi-Lo 8 or Better",
       "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-21/",
       "team": "Chocolate Factory",
-      "rank": "6 / 18",
+      "rank": "5 / 15",
       "chips": "1,530,000",
       "bb": "\u2014",
       "bonus": "Locked 11 PTS",
@@ -151,7 +140,7 @@
       "event": "Event #21: $1,500 Pot-Limit Omaha Hi-Lo 8 or Better",
       "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-21/",
       "team": "Browndog",
-      "rank": "7 / 18",
+      "rank": "6 / 15",
       "chips": "1,250,000",
       "bb": "\u2014",
       "bonus": "Locked 11 PTS",
@@ -162,7 +151,7 @@
       "event": "Event #21: $1,500 Pot-Limit Omaha Hi-Lo 8 or Better",
       "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-21/",
       "team": "DNegs",
-      "rank": "12 / 18",
+      "rank": "11 / 15",
       "chips": "1,080,000",
       "bb": "\u2014",
       "bonus": "Locked 11 PTS",
