@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-06T08:10:10.786897+00:00",
+  "generatedAt": "2026-06-06T08:20:11.166200+00:00",
   "league": "25k",
   "count": 14,
   "players": [
@@ -114,12 +114,12 @@
       "points": 2.0
     },
     {
-      "player": "Ryan Hoenig",
+      "player": "Frederic Normand",
       "event": "Event #21: $1,500 Pot-Limit Omaha Hi-Lo 8 or Better",
       "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-21/",
-      "team": "Premiums Only",
+      "team": "Chocolate Factory",
       "rank": "1 / 13",
-      "chips": "3,400,000",
+      "chips": "3,915,000",
       "bb": "\u2014",
       "bonus": "Locked 11 PTS",
       "points": 15.0
@@ -129,19 +129,19 @@
       "event": "Event #21: $1,500 Pot-Limit Omaha Hi-Lo 8 or Better",
       "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-21/",
       "team": "DNegs",
-      "rank": "2 / 13",
-      "chips": "2,650,000",
+      "rank": "3 / 13",
+      "chips": "3,310,000",
       "bb": "\u2014",
       "bonus": "Locked 11 PTS",
       "points": 15.0
     },
     {
-      "player": "Frederic Normand",
+      "player": "Ryan Hoenig",
       "event": "Event #21: $1,500 Pot-Limit Omaha Hi-Lo 8 or Better",
       "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-21/",
-      "team": "Chocolate Factory",
-      "rank": "6 / 13",
-      "chips": "1,530,000",
+      "team": "Premiums Only",
+      "rank": "11 / 13",
+      "chips": "590,000",
       "bb": "\u2014",
       "bonus": "Locked 11 PTS",
       "points": 15.0
@@ -151,8 +151,8 @@
       "event": "Event #21: $1,500 Pot-Limit Omaha Hi-Lo 8 or Better",
       "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-21/",
       "team": "Browndog",
-      "rank": "7 / 13",
-      "chips": "1,250,000",
+      "rank": "12 / 13",
+      "chips": "510,000",
       "bb": "\u2014",
       "bonus": "Locked 11 PTS",
       "points": 15.0
