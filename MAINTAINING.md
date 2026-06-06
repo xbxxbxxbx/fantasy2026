@@ -46,6 +46,7 @@ Hand-maintained source files:
 
 - `league.json`
 - `docs/config.js`
+- `docs/config.json`
 - `docs/index.html`
 - `docs/styles.css`
 - `docs/js/*.js`
@@ -94,10 +95,11 @@ python3 scripts/update_data.py
 The scraper reads:
 
 - `league.json` for league/team/roster data
-- `docs/config.js` for shared source and feature settings
+- `docs/config.json` for shared source and feature settings
 
 The frontend reads:
 
+- `docs/config.json`
 - `docs/data.json`
 - `docs/active-players.json`
 - `docs/25k-player-history.json`

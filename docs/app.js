@@ -18,8 +18,6 @@
       app.renderHeaderStats(viewModel.metadata);
       app.renderLeaderboard(viewModel.managers);
       app.renderManagerCards(viewModel.managers);
-      app.initializeRosterJumpLinks();
-      app.initializePlayerHistoryWidgets();
       app.renderOwnership(viewModel.analytics.ownershipRows);
       app.renderOverlap(viewModel.analytics.overlapRows);
       app.renderRouteLists(
@@ -31,6 +29,7 @@
       if (app.elements.heroPolling && viewModel.generatedAt) {
         app.elements.heroPolling.textContent = `Updated ${app.formatUpdatedAt(viewModel.generatedAt)}`;
       }
+      app.setStatus();
 
       if (manual) {
         app.showRefreshToast(
@@ -61,11 +60,18 @@
     }
   }
 
-  function initializeApp() {
+  async function initializeApp() {
+    if (window.LEADERBOARD_CONFIG_READY) {
+      app.config = await window.LEADERBOARD_CONFIG_READY;
+    } else {
+      app.config = window.LEADERBOARD_CONFIG || app.config || {};
+    }
     app.renderHeaderStats();
     app.initializeCommitEasterEgg();
     app.initializeCollapsiblePanels();
     app.initializeNavigation();
+    app.initializeRosterJumpLinks();
+    app.initializePlayerHistoryWidgets();
     app.startLiveSweatsCountdown();
     loadLeaderboard();
   }

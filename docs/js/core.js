@@ -1,7 +1,7 @@
 (function (window, document) {
   const app = window.FantasyLeaderboardApp || {};
 
-  app.config = window.LEADERBOARD_CONFIG;
+  app.config = window.LEADERBOARD_CONFIG || {};
   app.elements = {
     leagueName: document.querySelector("#league-name"),
     leagueDescription: document.querySelector("#league-description"),
@@ -20,6 +20,7 @@
     liveSweatsTable: document.querySelector("#live-sweats-table"),
     liveSweatsBody: document.querySelector("#live-sweats-body"),
     liveSweatsHelperLive: document.querySelector("#live-sweats-helper-live"),
+    statusBanner: document.querySelector("#status-banner"),
     leaderboardBody: document.querySelector("#leaderboard-body"),
     managerCards: document.querySelector("#manager-cards"),
     ownershipBody: document.querySelector("#ownership-body"),
@@ -40,7 +41,9 @@
     liveSweatsCountdownTimerId: 0,
     playerHistoryCache: null,
     latestChangesCache: null,
+    playerHistoryWidgetsInitialized: false,
     playerHistoryDismissInitialized: false,
+    rosterJumpLinksInitialized: false,
     commitEasterEggInitialized: false,
     revealAnimationTimeoutId: 0,
     toastTimeoutId: null,

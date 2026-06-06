@@ -119,7 +119,6 @@
       }
       if (app.elements.liveSweatsHelperLive) {
         app.elements.liveSweatsHelperLive.hidden = true;
-        app.elements.liveSweatsHelperLive.style.display = "none";
       }
       app.elements.liveSweatsBody.innerHTML = "";
       return;
@@ -134,7 +133,6 @@
     }
     if (app.elements.liveSweatsHelperLive) {
       app.elements.liveSweatsHelperLive.hidden = players.length === 0;
-      app.elements.liveSweatsHelperLive.style.display = players.length === 0 ? "none" : "";
     }
     if (liveContent) {
       liveContent.hidden = false;
@@ -316,8 +314,14 @@
       .join("");
   };
 
-  app.setStatus = function setStatus(message, state) {
-    return { message, state };
+  app.setStatus = function setStatus(message = "", state = "") {
+    if (!app.elements.statusBanner) {
+      return;
+    }
+
+    app.elements.statusBanner.textContent = message;
+    app.elements.statusBanner.className = state ? `status-banner ${state}` : "status-banner";
+    app.elements.statusBanner.hidden = !message;
   };
 
   app.showRefreshToast = function showRefreshToast(message) {

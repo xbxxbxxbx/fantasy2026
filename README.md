@@ -97,7 +97,7 @@ That regenerates the site data for the new league.
 
 Most of the time, leave these alone:
 
-- `docs/config.js`
+- `docs/config.json`
 - `docs/index.html`
 - `docs/styles.css`
 - `docs/js/*`
@@ -106,7 +106,7 @@ For reuse, `league.json` is the main file you swap.
 
 ## Technical config
 
-`docs/config.js` now contains only shared settings such as:
+`docs/config.json` contains shared settings such as:
 
 - `sourceLabel`
 - `sourceUrl`

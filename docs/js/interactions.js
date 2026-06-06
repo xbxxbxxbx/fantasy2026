@@ -38,45 +38,56 @@
   };
 
   app.initializePlayerHistoryWidgets = function initializePlayerHistoryWidgets() {
-    app.closeAllPlayerHistoryWidgets();
+    if (app.state.playerHistoryWidgetsInitialized || !app.elements.managerCards) {
+      return;
+    }
 
-    document.querySelectorAll(".player-history-trigger").forEach((trigger) => {
-      trigger.addEventListener("click", async (event) => {
+    app.elements.managerCards.addEventListener("click", async (event) => {
+      const target = event.target;
+      if (!(target instanceof Element)) {
+        return;
+      }
+
+      const closeButton = target.closest(".player-history-close");
+      if (closeButton && app.elements.managerCards.contains(closeButton)) {
         event.stopPropagation();
-        const playerName = trigger.getAttribute("data-player-name");
-        const playerWrap = trigger.closest(".player-name-wrap");
-        const playerRow = trigger.closest(".player-row");
-        const playerHistorySlot = playerRow?.querySelector(".player-history-slot");
-        if (!playerName || !playerWrap || !playerRow || !playerHistorySlot) {
-          return;
-        }
+        const playerRow = closeButton.closest(".player-row");
+        playerRow?.querySelector(".player-history-widget")?.remove();
+        playerRow?.querySelector(".player-history-trigger")?.classList.remove("is-open");
+        return;
+      }
 
-        const existingWidget = playerHistorySlot.querySelector(".player-history-widget");
-        if (existingWidget) {
-          existingWidget.remove();
-          trigger.classList.remove("is-open");
-          return;
-        }
+      const trigger = target.closest(".player-history-trigger");
+      if (!trigger || !app.elements.managerCards.contains(trigger)) {
+        return;
+      }
 
-        app.closeAllPlayerHistoryWidgets();
+      event.stopPropagation();
+      const playerName = trigger.getAttribute("data-player-name");
+      const playerWrap = trigger.closest(".player-name-wrap");
+      const playerRow = trigger.closest(".player-row");
+      const playerHistorySlot = playerRow?.querySelector(".player-history-slot");
+      if (!playerName || !playerWrap || !playerRow || !playerHistorySlot) {
+        return;
+      }
 
-        try {
-          const history = await app.fetchPlayerHistory();
-          const historyByYear = history[playerName] || {};
-          playerHistorySlot.innerHTML = app.buildPlayerHistoryWidget(playerName, historyByYear);
-          trigger.classList.add("is-open");
+      const existingWidget = playerHistorySlot.querySelector(".player-history-widget");
+      if (existingWidget) {
+        existingWidget.remove();
+        trigger.classList.remove("is-open");
+        return;
+      }
 
-          const closeButton = playerHistorySlot.querySelector(".player-history-close");
-          closeButton?.addEventListener("click", (closeEvent) => {
-            closeEvent.stopPropagation();
-            playerHistorySlot.querySelector(".player-history-widget")?.remove();
-            trigger.classList.remove("is-open");
-          });
-        } catch (error) {
-          playerHistorySlot.innerHTML = app.buildPlayerHistoryWidget(playerName, {});
-          trigger.classList.add("is-open");
-        }
-      });
+      app.closeAllPlayerHistoryWidgets();
+
+      try {
+        const history = await app.fetchPlayerHistory();
+        const historyByYear = history[playerName] || {};
+        playerHistorySlot.innerHTML = app.buildPlayerHistoryWidget(playerName, historyByYear);
+      } catch (error) {
+        playerHistorySlot.innerHTML = app.buildPlayerHistoryWidget(playerName, {});
+      }
+      trigger.classList.add("is-open");
     });
 
     if (!app.state.playerHistoryDismissInitialized) {
@@ -93,38 +104,52 @@
       });
       app.state.playerHistoryDismissInitialized = true;
     }
+    app.state.playerHistoryWidgetsInitialized = true;
   };
 
   app.initializeRosterJumpLinks = function initializeRosterJumpLinks() {
-    document.querySelectorAll(".roster-jump-link").forEach((link) => {
-      link.addEventListener("click", (event) => {
-        const rosterId = link.getAttribute("data-roster-id");
-        if (!rosterId) {
-          return;
-        }
+    if (app.state.rosterJumpLinksInitialized || !app.elements.leaderboardBody) {
+      return;
+    }
 
-        const rostersSection = document.getElementById("rosters");
-        const rostersContent = rostersSection?.querySelector(".panel-content");
-        const rostersButton = rostersSection?.querySelector(".collapse-button");
-        const targetCard = document.getElementById(rosterId);
-        if (!rostersSection || !rostersContent || !rostersButton || !targetCard) {
-          return;
-        }
+    app.elements.leaderboardBody.addEventListener("click", (event) => {
+      const target = event.target;
+      if (!(target instanceof Element)) {
+        return;
+      }
 
-        event.preventDefault();
+      const link = target.closest(".roster-jump-link");
+      if (!link || !app.elements.leaderboardBody.contains(link)) {
+        return;
+      }
 
-        if (rostersContent.classList.contains("is-collapsed")) {
-          app.expandPanelContent(rostersContent);
-          rostersButton.setAttribute("aria-expanded", "true");
-          rostersButton.textContent = "Collapse";
-        }
+      const rosterId = link.getAttribute("data-roster-id");
+      if (!rosterId) {
+        return;
+      }
 
-        window.requestAnimationFrame(() => {
-          targetCard.scrollIntoView({ behavior: "smooth", block: "start" });
-          window.history.replaceState(null, "", `#${rosterId}`);
-        });
+      const rostersSection = document.getElementById("rosters");
+      const rostersContent = rostersSection?.querySelector(".panel-content");
+      const rostersButton = rostersSection?.querySelector(".collapse-button");
+      const targetCard = document.getElementById(rosterId);
+      if (!rostersSection || !rostersContent || !rostersButton || !targetCard) {
+        return;
+      }
+
+      event.preventDefault();
+
+      if (rostersContent.classList.contains("is-collapsed")) {
+        app.expandPanelContent(rostersContent);
+        rostersButton.setAttribute("aria-expanded", "true");
+        rostersButton.textContent = "Collapse";
+      }
+
+      window.requestAnimationFrame(() => {
+        targetCard.scrollIntoView({ behavior: "smooth", block: "start" });
+        window.history.replaceState(null, "", `#${rosterId}`);
       });
     });
+    app.state.rosterJumpLinksInitialized = true;
   };
 
   app.closeCommitEasterEggModal = function closeCommitEasterEggModal() {
@@ -209,9 +234,8 @@
     if (app.elements.liveSweatsCountdown && !availability.isLive) {
       app.elements.liveSweatsCountdown.textContent = availability.countdownText;
     }
-    if (app.elements.leaderboardHelperLive) {
-      app.elements.leaderboardHelperLive.hidden = !availability.isLive;
-      app.elements.leaderboardHelperLive.style.display = availability.isLive ? "" : "none";
+    if (app.elements.liveSweatsHelperLive && !availability.isLive) {
+      app.elements.liveSweatsHelperLive.hidden = true;
     }
 
     if (force || app.state.lastLiveSweatsAvailability !== availability.isLive) {
@@ -219,8 +243,6 @@
       if (app.state.latestManagers.length) {
         app.renderLeaderboard(app.state.latestManagers);
         app.renderManagerCards(app.state.latestManagers);
-        app.initializeRosterJumpLinks();
-        app.initializePlayerHistoryWidgets();
       }
       app.renderLiveSweats(app.state.latestLiveSweats);
     }
