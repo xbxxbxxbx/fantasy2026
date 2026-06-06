@@ -68,6 +68,12 @@ body::before {
   animation: rise-in 480ms ease;
 }
 
+.hero-copy,
+.hero-stats,
+.stat-card {
+  min-width: 0;
+}
+
 .section-kicker,
 .stat-label,
 .player-meta,
@@ -1063,13 +1069,64 @@ h1 {
 
 @media (max-width: 640px) {
   .page-shell {
-    width: min(100% - 20px, 1180px);
+    width: calc(100% - 20px);
     margin-top: 20px;
   }
 
   .hero,
   .panel {
     padding: 18px;
+  }
+
+  .hero {
+    overflow: hidden;
+  }
+
+  .league-title-main {
+    font-size: 32px;
+  }
+
+  .league-title-year {
+    font-size: 30px;
+  }
+
+  .stat-value {
+    font-size: 1.65rem;
+  }
+
+  #live-sweats-table {
+    min-width: 0;
+    table-layout: fixed;
+  }
+
+  #live-sweats-table th,
+  #live-sweats-table td {
+    width: auto;
+  }
+
+  #live-sweats-table th:nth-child(1),
+  #live-sweats-table td:nth-child(1) {
+    width: 32%;
+  }
+
+  #live-sweats-table th:nth-child(2),
+  #live-sweats-table td:nth-child(2) {
+    width: 48%;
+  }
+
+  #live-sweats-table th:nth-child(3),
+  #live-sweats-table td:nth-child(3) {
+    width: 20%;
+  }
+
+  #live-sweats-table td {
+    overflow-wrap: anywhere;
+  }
+
+  .manager-cards,
+  .overlap-grid,
+  .routes-grid {
+    grid-template-columns: minmax(0, 1fr);
   }
 
   .section-nav-toggle {
