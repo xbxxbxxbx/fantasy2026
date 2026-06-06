@@ -51,6 +51,7 @@ Hand-maintained source files:
 - `docs/styles.css`
 - `docs/js/*.js`
 - `docs/app.js`
+- `scripts/import_league.py`
 - `scripts/update_data.py`
 - `scripts/update_data_lib/*.py`
 
@@ -84,11 +85,12 @@ The reset rule is:
 
 For a new league, only edit:
 
-- `league.json`
+- a text file with one Poker.org team URL per line
 
 Then run:
 
 ```bash
+python3 scripts/import_league.py league-urls.txt
 python3 scripts/update_data.py
 ```
 
@@ -115,7 +117,7 @@ node --check docs/app.js
 Python:
 
 ```bash
-python3 -m py_compile scripts/update_data.py scripts/update_data_lib/*.py
+python3 -m py_compile scripts/import_league.py scripts/update_data.py scripts/update_data_lib/*.py
 python3 scripts/update_data.py
 ```
 

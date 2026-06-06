@@ -12,9 +12,11 @@ def main() -> int:
     try:
         config = load_config()
         snapshot = build_snapshot(config)
-        score_snapshot_updated = snapshot.get("successCount", 0) > 0
+        has_configured_teams = snapshot.get("configuredTeamCount", 0) > 0
+        score_snapshot_updated = snapshot.get("successCount", 0) > 0 or not has_configured_teams
         if score_snapshot_updated:
             snapshot.pop("successCount", None)
+            snapshot.pop("configuredTeamCount", None)
             OUTPUT_PATH.write_text(json.dumps(snapshot, indent=2) + "\n", encoding="utf-8")
         else:
             print(

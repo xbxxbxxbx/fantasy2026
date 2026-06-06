@@ -79,6 +79,7 @@ def build_snapshot(config: dict) -> dict:
     table_id = config.get("scoreFeedTableId", "dataTable-main")
     player_column = config.get("scoreFeedPlayerColumn", "Player")
     score_column = config.get("scoreFeedPointsColumn", "Score")
+    team_sources = config.get("teamSources", [])
     previous_snapshot = load_previous_snapshot()
     previous_totals = load_previous_totals()
     daily_baseline_snapshot, comparison_date = load_daily_baseline(previous_snapshot)
@@ -92,6 +93,21 @@ def build_snapshot(config: dict) -> dict:
     results = []
     failures = []
     success_count = 0
+
+    if not team_sources:
+        return {
+            "generatedAt": datetime.now(timezone.utc).isoformat(),
+            "leagueName": config.get("leagueName"),
+            "sourceLabel": config.get("sourceLabel"),
+            "sourceUrl": config.get("sourceUrl"),
+            "updateCadenceLabel": config.get("updateCadenceLabel"),
+            "pointsChangeLabel": "since restart",
+            "pointsChangeComparisonDate": comparison_date,
+            "managers": [],
+            "failures": [],
+            "successCount": 0,
+            "configuredTeamCount": 0,
+        }
 
     try:
         html = fetch_html(score_feed_url)
@@ -107,7 +123,7 @@ def build_snapshot(config: dict) -> dict:
         )
         score_map = None
 
-    for entry in config.get("teamSources", []):
+    for entry in team_sources:
         source = TeamSource(
             manager_name=entry["managerName"],
             team_name=entry["teamName"],
@@ -174,6 +190,7 @@ def build_snapshot(config: dict) -> dict:
         "managers": results,
         "failures": failures,
         "successCount": success_count,
+        "configuredTeamCount": len(team_sources),
     }
     if success_count > 0:
         write_daily_baseline(

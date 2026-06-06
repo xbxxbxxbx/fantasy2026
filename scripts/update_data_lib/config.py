@@ -30,10 +30,21 @@ def _load_app_config() -> dict:
 def _load_league_config() -> dict:
     try:
         return json.loads(LEAGUE_PATH.read_text(encoding="utf-8"))
-    except FileNotFoundError as exc:
-        raise ConfigError(f"Missing league definition file: {LEAGUE_PATH}") from exc
+    except FileNotFoundError:
+        return {}
     except json.JSONDecodeError as exc:
         raise ConfigError(f"Could not parse league definition from {LEAGUE_PATH}") from exc
+
+
+def _normalize_team_source(entry: dict) -> dict:
+    team_name = str(entry.get("teamName") or entry.get("managerName") or "").strip()
+    manager_name = str(entry.get("managerName") or team_name).strip()
+    return {
+        "managerName": manager_name,
+        "teamName": team_name or manager_name,
+        "url": str(entry.get("url") or "").strip(),
+        "roster": list(entry.get("roster") or []),
+    }
 
 
 def load_config() -> dict:
@@ -41,5 +52,9 @@ def load_config() -> dict:
     league_config = _load_league_config()
     merged = dict(app_config)
     merged["leagueName"] = league_config.get("leagueName") or app_config.get("leagueName")
-    merged["teamSources"] = league_config.get("teams", [])
+    merged["teamSources"] = [
+        _normalize_team_source(entry)
+        for entry in league_config.get("teams", [])
+        if entry.get("roster")
+    ]
     return merged
