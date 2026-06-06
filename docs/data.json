@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-06T04:50:12.374835+00:00",
+  "generatedAt": "2026-06-06T05:00:14.802758+00:00",
   "leagueName": "WSOP Poker Fantasy Draft 2026",
   "sourceLabel": "25KFantasy",
   "sourceUrl": "https://www.25kfantasy.com/players/",
@@ -269,16 +269,16 @@
           "points": 51.0
         },
         {
+          "player": "Nick Guagenti",
+          "points": 16.0
+        },
+        {
           "player": "Jerry Wong",
           "points": 13.0
         },
         {
           "player": "Allan Le",
           "points": 12.0
-        },
-        {
-          "player": "Nick Guagenti",
-          "points": 5.0
         },
         {
           "player": "Danny Wong",
@@ -297,9 +297,9 @@
           "points": 3.0
         }
       ],
-      "totalPoints": 94.0,
-      "pointsChange": 3.0,
-      "pointsChangeSincePrevious": 0.0
+      "totalPoints": 105.0,
+      "pointsChange": 14.0,
+      "pointsChangeSincePrevious": 11.0
     },
     {
       "managerName": "Ruben",
