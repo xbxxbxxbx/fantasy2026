@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-06T07:40:11.633564+00:00",
+  "generatedAt": "2026-06-06T07:50:09.624603+00:00",
   "league": "25k",
   "count": 14,
   "players": [
@@ -125,11 +125,22 @@
       "points": 15.0
     },
     {
+      "player": "Josh Arieh",
+      "event": "Event #21: $1,500 Pot-Limit Omaha Hi-Lo 8 or Better",
+      "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-21/",
+      "team": "DNegs",
+      "rank": "2 / 14",
+      "chips": "2,650,000",
+      "bb": "\u2014",
+      "bonus": "Locked 11 PTS",
+      "points": 15.0
+    },
+    {
       "player": "Frederic Normand",
       "event": "Event #21: $1,500 Pot-Limit Omaha Hi-Lo 8 or Better",
       "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-21/",
       "team": "Chocolate Factory",
-      "rank": "5 / 14",
+      "rank": "6 / 14",
       "chips": "1,530,000",
       "bb": "\u2014",
       "bonus": "Locked 11 PTS",
@@ -140,19 +151,8 @@
       "event": "Event #21: $1,500 Pot-Limit Omaha Hi-Lo 8 or Better",
       "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-21/",
       "team": "Browndog",
-      "rank": "6 / 14",
+      "rank": "7 / 14",
       "chips": "1,250,000",
-      "bb": "\u2014",
-      "bonus": "Locked 11 PTS",
-      "points": 15.0
-    },
-    {
-      "player": "Josh Arieh",
-      "event": "Event #21: $1,500 Pot-Limit Omaha Hi-Lo 8 or Better",
-      "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-21/",
-      "team": "DNegs",
-      "rank": "11 / 14",
-      "chips": "1,080,000",
       "bb": "\u2014",
       "bonus": "Locked 11 PTS",
       "points": 15.0
