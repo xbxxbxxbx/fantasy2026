@@ -145,7 +145,7 @@
       }
 
       window.requestAnimationFrame(() => {
-        targetCard.scrollIntoView({ behavior: "smooth", block: "start" });
+        targetCard.scrollIntoView({ behavior: app.getScrollBehavior(), block: "start" });
         window.history.replaceState(null, "", `#${rosterId}`);
       });
     });
@@ -273,7 +273,7 @@
           return;
         }
 
-        section.scrollIntoView({ behavior: "smooth", block: "start" });
+        section.scrollIntoView({ behavior: app.getScrollBehavior(), block: "start" });
         window.history.replaceState(null, "", hash);
       });
     });

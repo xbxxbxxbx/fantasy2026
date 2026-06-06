@@ -44,6 +44,16 @@
     return `${Math.round(value)}%`;
   };
 
+  app.getScrollBehavior = function getScrollBehavior() {
+    if (
+      typeof window !== "undefined" &&
+      window.matchMedia?.("(prefers-reduced-motion: reduce)").matches
+    ) {
+      return "auto";
+    }
+    return "smooth";
+  };
+
   app.snapshotSignature = function snapshotSignature(snapshot) {
     return JSON.stringify({
       generatedAt: snapshot.generatedAt || null,

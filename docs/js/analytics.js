@@ -35,6 +35,9 @@
     const playerOwnerCount = new Map(
       ownershipRows.map((row) => [app.canonicalPlayerName(row.player), row.ownerCount])
     );
+    const playerPointsByName = new Map(
+      ownershipRows.map((row) => [app.canonicalPlayerName(row.player), row.points])
+    );
     const leader = managers[0] || null;
     const leaderPlayers = new Set(
       (leader?.players || []).map((player) => app.canonicalPlayerName(player.player))
@@ -51,9 +54,8 @@
             .map((player) => app.canonicalPlayerName(player.player))
             .filter((playerName) => playerSet.has(playerName))
             .sort((left, right) => {
-              const leftPoints = ownershipRows.find((row) => row.player === left)?.points || 0;
-              const rightPoints =
-                ownershipRows.find((row) => row.player === right)?.points || 0;
+              const leftPoints = playerPointsByName.get(app.canonicalPlayerName(left)) || 0;
+              const rightPoints = playerPointsByName.get(app.canonicalPlayerName(right)) || 0;
               return rightPoints - leftPoints || left.localeCompare(right);
             });
           return {

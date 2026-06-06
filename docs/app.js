@@ -60,19 +60,23 @@
     }
   }
 
-  async function initializeApp() {
+  async function initializeConfig() {
     if (window.LEADERBOARD_CONFIG_READY) {
       app.config = await window.LEADERBOARD_CONFIG_READY;
     } else {
       app.config = window.LEADERBOARD_CONFIG || app.config || {};
     }
     app.renderHeaderStats();
+    app.startLiveSweatsCountdown();
+  }
+
+  function initializeApp() {
     app.initializeCommitEasterEgg();
     app.initializeCollapsiblePanels();
     app.initializeNavigation();
     app.initializeRosterJumpLinks();
     app.initializePlayerHistoryWidgets();
-    app.startLiveSweatsCountdown();
+    initializeConfig();
     loadLeaderboard();
   }
 
