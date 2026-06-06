@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-06T23:20:12.394845+00:00",
+  "generatedAt": "2026-06-06T23:30:11.790378+00:00",
   "league": "25k",
   "count": 12,
   "players": [
@@ -8,117 +8,117 @@
       "event": "Event #19: $25,000 High Roller No-Limit Hold\u2019em 8-Handed",
       "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-19/",
       "team": "Chocolate Factory",
-      "rank": "3 / 20",
+      "rank": "3 / 19",
       "chips": "3,290,000",
       "bb": "32.9 BB",
       "bonus": "Top 18 13 PTS",
-      "points": 2.0
+      "points": 0.0
     },
     {
       "player": "Kristen Foxen",
       "event": "Event #19: $25,000 High Roller No-Limit Hold\u2019em 8-Handed",
       "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-19/",
       "team": "Glaser",
-      "rank": "6 / 20",
+      "rank": "6 / 19",
       "chips": "2,815,000",
       "bb": "28.2 BB",
       "bonus": "Top 18 13 PTS",
-      "points": 2.0
+      "points": 0.0
     },
     {
       "player": "Jesse Lonis",
       "event": "Event #19: $25,000 High Roller No-Limit Hold\u2019em 8-Handed",
       "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-19/",
       "team": "Blades & Shades",
-      "rank": "8 / 20",
+      "rank": "8 / 19",
       "chips": "2,650,000",
       "bb": "26.5 BB",
       "bonus": "Top 18 13 PTS",
-      "points": 2.0
+      "points": 0.0
     },
     {
       "player": "Philip Sternheimer",
       "event": "Event #19: $25,000 High Roller No-Limit Hold\u2019em 8-Handed",
       "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-19/",
       "team": "Back Office",
-      "rank": "9 / 20",
+      "rank": "9 / 19",
       "chips": "2,455,000",
       "bb": "24.6 BB",
       "bonus": "Top 18 13 PTS",
-      "points": 2.0
+      "points": 0.0
     },
     {
       "player": "Zdenek Zizka",
       "event": "Event #19: $25,000 High Roller No-Limit Hold\u2019em 8-Handed",
       "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-19/",
       "team": "Lucky",
-      "rank": "11 / 20",
+      "rank": "11 / 19",
       "chips": "2,285,000",
       "bb": "22.9 BB",
       "bonus": "Top 18 13 PTS",
-      "points": 2.0
+      "points": 0.0
     },
     {
       "player": "Nick Schulman",
       "event": "Event #19: $25,000 High Roller No-Limit Hold\u2019em 8-Handed",
       "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-19/",
       "team": "Verderamo",
-      "rank": "13 / 20",
+      "rank": "12 / 19",
       "chips": "2,000,000",
       "bb": "20.0 BB",
       "bonus": "Top 18 13 PTS",
-      "points": 2.0
+      "points": 0.0
     },
     {
       "player": "Eric Wasserson",
       "event": "Event #19: $25,000 High Roller No-Limit Hold\u2019em 8-Handed",
       "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-19/",
       "team": "Blez/NGNF",
-      "rank": "14 / 20",
+      "rank": "13 / 19",
       "chips": "1,950,000",
       "bb": "19.5 BB",
       "bonus": "Top 18 13 PTS",
-      "points": 2.0
+      "points": 0.0
     },
     {
       "player": "Shannon Shorr",
       "event": "Event #19: $25,000 High Roller No-Limit Hold\u2019em 8-Handed",
       "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-19/",
       "team": "Wasserson",
-      "rank": "18 / 20",
+      "rank": "17 / 19",
       "chips": "1,370,000",
       "bb": "13.7 BB",
       "bonus": "Top 18 13 PTS",
-      "points": 2.0
+      "points": 0.0
     },
     {
       "player": "Brian Rast",
       "event": "Event #19: $25,000 High Roller No-Limit Hold\u2019em 8-Handed",
       "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-19/",
       "team": "Stake Kings",
-      "rank": "19 / 20",
+      "rank": "18 / 19",
       "chips": "875,000",
       "bb": "8.8 BB",
       "bonus": "Top 18 13 PTS",
-      "points": 2.0
+      "points": 0.0
     },
     {
       "player": "Biao Ding",
       "event": "Event #19: $25,000 High Roller No-Limit Hold\u2019em 8-Handed",
       "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-19/",
       "team": "Spitework",
-      "rank": "20 / 20",
+      "rank": "19 / 19",
       "chips": "245,000",
       "bb": "2.5 BB",
       "bonus": "Top 18 13 PTS",
-      "points": 2.0
+      "points": 0.0
     },
     {
       "player": "Frederic Normand",
       "event": "Event #21: $1,500 Pot-Limit Omaha Hi-Lo 8 or Better",
       "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-21/",
       "team": "Chocolate Factory",
-      "rank": "2 / 8",
+      "rank": "2 / 7",
       "chips": "5,315,000",
       "bb": "\u2014",
       "bonus": "Locked 11 PTS",
@@ -129,7 +129,7 @@
       "event": "Event #21: $1,500 Pot-Limit Omaha Hi-Lo 8 or Better",
       "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-21/",
       "team": "DNegs",
-      "rank": "6 / 8",
+      "rank": "6 / 7",
       "chips": "2,200,000",
       "bb": "\u2014",
       "bonus": "Locked 11 PTS",
