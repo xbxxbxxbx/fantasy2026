@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-06T21:50:10.032890+00:00",
+  "generatedAt": "2026-06-06T22:00:14.088731+00:00",
   "leagueName": "WSOP Poker Fantasy Draft 2026",
   "sourceLabel": "25KFantasy",
   "sourceUrl": "https://www.25kfantasy.com/players/",
@@ -311,11 +311,11 @@
           "points": 47.0
         },
         {
-          "player": "Jerry Wong",
-          "points": 13.0
+          "player": "Ryan Hoenig",
+          "points": 28.0
         },
         {
-          "player": "Ryan Hoenig",
+          "player": "Jerry Wong",
           "points": 13.0
         },
         {
@@ -339,9 +339,9 @@
           "points": 0.0
         }
       ],
-      "totalPoints": 87.0,
-      "pointsChange": 0.0,
-      "pointsChangeSincePrevious": 0.0
+      "totalPoints": 102.0,
+      "pointsChange": 15.0,
+      "pointsChangeSincePrevious": 15.0
     },
     {
       "managerName": "Trampstamp",
