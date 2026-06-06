@@ -2,6 +2,16 @@
   "title": "Latest changes",
   "changes": [
     {
+      "commit": "96d09ec",
+      "url": "https://github.com/xbxxbxxbx/fantasy2026/commit/96d09ec",
+      "publishedAt": "2026-06-06T01:00:16Z",
+      "summary": [
+        "Start loading leaderboard data sooner",
+        "Make section animations lighter",
+        "Improve scrolling for reduced-motion users"
+      ]
+    },
+    {
       "commit": "071f3e8",
       "url": "https://github.com/xbxxbxxbx/fantasy2026/commit/071f3e8",
       "publishedAt": "2026-06-06T00:43:55Z",
