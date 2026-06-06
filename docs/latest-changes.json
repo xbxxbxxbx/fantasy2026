@@ -2,6 +2,16 @@
   "title": "Latest changes",
   "changes": [
     {
+      "commit": "3311d6d",
+      "url": "https://github.com/xbxxbxxbx/fantasy2026/commit/3311d6d",
+      "publishedAt": "2026-06-06T07:31:44Z",
+      "summary": [
+        "Keep WSOP Fantasy Draft on one line",
+        "Show 2026 below it in dark red",
+        "Bump asset versions so the new title loads"
+      ]
+    },
+    {
       "commit": "37c4a74",
       "url": "https://github.com/xbxxbxxbx/fantasy2026/commit/37c4a74",
       "publishedAt": "2026-06-06T05:30:42Z",
