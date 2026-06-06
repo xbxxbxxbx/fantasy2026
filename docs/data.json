@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-06T00:50:09.800376+00:00",
+  "generatedAt": "2026-06-06T01:00:15.265915+00:00",
   "leagueName": "WSOP Poker Fantasy Draft 2026",
   "sourceLabel": "25KFantasy",
   "sourceUrl": "https://www.25kfantasy.com/players/",
@@ -236,7 +236,7 @@
         },
         {
           "player": "Brad Owen",
-          "points": 1.0
+          "points": 2.0
         },
         {
           "player": "Allen Kessler",
@@ -255,9 +255,9 @@
           "points": 0.0
         }
       ],
-      "totalPoints": 129.0,
-      "pointsChange": 0.0,
-      "pointsChangeSincePrevious": 0.0
+      "totalPoints": 130.0,
+      "pointsChange": 1.0,
+      "pointsChangeSincePrevious": 1.0
     },
     {
       "managerName": "Gus",
