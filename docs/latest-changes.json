@@ -2,6 +2,16 @@
   "title": "Latest changes",
   "changes": [
     {
+      "commit": "f561472",
+      "url": "https://github.com/xbxxbxxbx/fantasy2026/commit/f561472",
+      "publishedAt": "2026-06-06T17:10:56Z",
+      "summary": [
+        "Fix mobile cards so they fit the screen",
+        "Shrink the mobile hero title",
+        "Bump the stylesheet version so the fix loads"
+      ]
+    },
+    {
       "commit": "bd630e0",
       "url": "https://github.com/xbxxbxxbx/fantasy2026/commit/bd630e0",
       "publishedAt": "2026-06-06T07:48:51Z",
