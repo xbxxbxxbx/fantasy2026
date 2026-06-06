@@ -2,6 +2,16 @@
   "title": "Latest changes",
   "changes": [
     {
+      "commit": "088f4e5",
+      "url": "https://github.com/xbxxbxxbx/fantasy2026/commit/088f4e5",
+      "publishedAt": "2026-06-06T02:46:18Z",
+      "summary": [
+        "Generate the public site config during setup instead of fetching it in the browser",
+        "Start the page with the real league name",
+        "Remove the league-name flicker on refresh"
+      ]
+    },
+    {
       "commit": "22a0fab",
       "url": "https://github.com/xbxxbxxbx/fantasy2026/commit/22a0fab",
       "publishedAt": "2026-06-06T02:20:44Z",
