@@ -1,18 +1,11 @@
 (function (window) {
-  window.LEADERBOARD_CONFIG = {};
-  window.LEADERBOARD_CONFIG_READY = fetch("./config.json", { cache: "no-store" })
-    .then((response) => {
-      if (!response.ok) {
-        throw new Error(`Config request failed with ${response.status}`);
-      }
-      return response.json();
-    })
-    .then((config) => {
-      window.LEADERBOARD_CONFIG = config;
-      return config;
-    })
-    .catch((error) => {
-      console.error(error);
-      return window.LEADERBOARD_CONFIG;
-    });
+  window.LEADERBOARD_CONFIG = {
+    "leagueName": "WSOP Poker Fantasy Draft 2026",
+    "liveSweatsTimeGateEnabled": false,
+    "scoringLabel": "Score",
+    "sourceLabel": "25KFantasy",
+    "sourceUrl": "https://www.25kfantasy.com/players/",
+    "updateCadenceLabel": "every 10 minutes"
+  };
+  window.LEADERBOARD_CONFIG_READY = Promise.resolve(window.LEADERBOARD_CONFIG);
 })(window);

@@ -103,7 +103,7 @@ After you push changes to GitHub, GitHub Pages serves the files from `docs/`.
 
 ## 2. Where The Data Comes From
 
-The public website does not scrape Poker.org or 25KFantasy in a visitor's browser. It reads JSON files in `docs/`. The Python scripts create those JSON files.
+The public website does not scrape Poker.org or 25KFantasy in a visitor's browser. It reads generated files in `docs/`. The Python scripts create those files.
 
 | What you see or use | Comes from | Stored in |
 | --- | --- | --- |
@@ -117,6 +117,7 @@ The public website does not scrape Poker.org or 25KFantasy in a visitor's browse
 | Daily `+points` | Calculated from today's baseline versus current totals | `docs/data.json` and `docs/history/YYYY-MM-DD.json` |
 | Live Sweats | 25KFantasy active-player feed | `docs/active-players.json` |
 | Historical-points popup | Older 25KFantasy yearly player pages, fetched during setup if missing | `docs/25k-player-history.json` |
+| Site/source labels | `docs/config.json` during setup | `docs/config.js` and `docs/data.json` |
 | Latest-changes modal | Maintainer-written release notes | `docs/latest-changes.json` |
 
 ### Source Timing
@@ -133,8 +134,8 @@ Live sources:
 
 Local-only files:
 
-- `docs/config.json`: edited in the repo, not fetched.
-- `docs/latest-changes.json`: edited in the repo, not fetched.
+- `docs/config.json`: edited in the repo, not fetched by the browser. Setup hard-codes its public values into `docs/config.js`.
+- `docs/latest-changes.json`: edited in the repo and read locally by the browser when the latest-changes modal opens. It is not scraped from an external source.
 
 ### Data You Edit
 
@@ -195,7 +196,7 @@ If that file is missing, `scripts/update_data.py` fetches older 25KFantasy yearl
 ### Data Maintained Separately
 
 - `docs/latest-changes.json`: plain-English release notes shown in the latest-changes modal. This is maintained by whoever updates the project.
-- `docs/config.json`: site labels, score source settings, and display settings.
+- `docs/config.json`: score source settings and display settings used by setup/update scripts.
 
 ## 3. How Data Is Refreshed
 

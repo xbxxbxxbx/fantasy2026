@@ -1,6 +1,9 @@
 (function (app, document, window) {
   app.renderHeaderStats = function renderHeaderStats(metadata = {}) {
-    app.elements.leagueName.textContent = metadata.leagueName || app.config.leagueName;
+    const leagueName = metadata.leagueName || app.config.leagueName;
+    if (leagueName) {
+      app.elements.leagueName.textContent = leagueName;
+    }
     if (app.elements.leagueDescription) {
       const sourceLabel = app.escapeHtml(metadata.sourceLabel || app.config.sourceLabel || "source");
       const sourceUrl = app.escapeHtml(metadata.sourceUrl || app.config.sourceUrl || "#");

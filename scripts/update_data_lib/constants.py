@@ -4,6 +4,7 @@ from zoneinfo import ZoneInfo
 
 ROOT = Path(__file__).resolve().parents[2]
 CONFIG_PATH = ROOT / "docs" / "config.json"
+CONFIG_SCRIPT_PATH = ROOT / "docs" / "config.js"
 SETTINGS_PATH = ROOT / "league.ini"
 LEAGUE_PATH = ROOT / "league.json"
 OUTPUT_PATH = ROOT / "docs" / "data.json"

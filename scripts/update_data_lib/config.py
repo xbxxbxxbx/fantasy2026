@@ -3,7 +3,7 @@ from __future__ import annotations
 import json
 from dataclasses import dataclass
 
-from .constants import CONFIG_PATH, LEAGUE_PATH
+from .constants import CONFIG_PATH, CONFIG_SCRIPT_PATH, LEAGUE_PATH
 
 
 class ConfigError(RuntimeError):
@@ -16,6 +16,16 @@ class TeamSource:
     team_name: str
     url: str
     roster: list[str]
+
+
+PUBLIC_CONFIG_KEYS = (
+    "leagueName",
+    "sourceLabel",
+    "sourceUrl",
+    "updateCadenceLabel",
+    "liveSweatsTimeGateEnabled",
+    "scoringLabel",
+)
 
 
 def _load_app_config() -> dict:
@@ -58,3 +68,28 @@ def load_config() -> dict:
         if entry.get("roster")
     ]
     return merged
+
+
+def public_config(config: dict) -> dict:
+    return {key: config[key] for key in PUBLIC_CONFIG_KEYS if key in config}
+
+
+def build_config_script(config: dict) -> str:
+    payload = json.dumps(public_config(config), indent=2, sort_keys=True)
+    payload_lines = payload.splitlines()
+    formatted_payload = "\n".join(
+        [payload_lines[0], *(f"  {line}" for line in payload_lines[1:])]
+    )
+    return (
+        "(function (window) {\n"
+        f"  window.LEADERBOARD_CONFIG = {formatted_payload};\n"
+        "  window.LEADERBOARD_CONFIG_READY = Promise.resolve(window.LEADERBOARD_CONFIG);\n"
+        "})(window);\n"
+    )
+
+
+def write_config_script(config: dict) -> None:
+    script = build_config_script(config)
+    if CONFIG_SCRIPT_PATH.exists() and CONFIG_SCRIPT_PATH.read_text(encoding="utf-8") == script:
+        return
+    CONFIG_SCRIPT_PATH.write_text(script, encoding="utf-8")

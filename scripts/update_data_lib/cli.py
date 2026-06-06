@@ -3,7 +3,7 @@ from __future__ import annotations
 import json
 import sys
 
-from .config import load_config
+from .config import load_config, write_config_script
 from .constants import ACTIVE_OUTPUT_PATH, OUTPUT_PATH
 from .league_import import ensure_league_cache
 from .player_history import ensure_player_history
@@ -15,6 +15,7 @@ def main() -> int:
         ensure_league_cache()
         ensure_player_history()
         config = load_config()
+        write_config_script(config)
         snapshot = build_snapshot(config)
         has_configured_teams = snapshot.get("configuredTeamCount", 0) > 0
         score_snapshot_updated = snapshot.get("successCount", 0) > 0 or not has_configured_teams
