@@ -2,6 +2,16 @@
   "title": "Latest changes",
   "changes": [
     {
+      "commit": "d50f731",
+      "url": "https://github.com/xbxxbxxbx/fantasy2026/commit/d50f731",
+      "publishedAt": "2026-06-06T03:55:35Z",
+      "summary": [
+        "Replace the page gradient with a solid background color",
+        "Keep the page color stable when sections collapse or expand",
+        "Bump the stylesheet version so the background update loads immediately"
+      ]
+    },
+    {
       "commit": "bedf2c1",
       "url": "https://github.com/xbxxbxxbx/fantasy2026/commit/bedf2c1",
       "publishedAt": "2026-06-06T03:45:16Z",
