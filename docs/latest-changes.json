@@ -2,8 +2,8 @@
   "title": "Latest changes",
   "changes": [
     {
-      "commit": "824c8ab",
-      "url": "https://github.com/xbxxbxxbx/fantasy2026/commit/824c8ab",
+      "commit": "37c4a74",
+      "url": "https://github.com/xbxxbxxbx/fantasy2026/commit/37c4a74",
       "publishedAt": "2026-06-06T05:30:42Z",
       "summary": [
         "Add an automated Quick Start setup workflow and a matching GitHub Actions setup run",
