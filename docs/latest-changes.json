@@ -2,9 +2,9 @@
   "title": "Latest changes",
   "changes": [
     {
-      "commit": "aafe509",
-      "url": "https://github.com/xbxxbxxbx/fantasy2026/commit/aafe509",
-      "publishedAt": "2026-06-06T04:40:19Z",
+      "commit": "97e2228",
+      "url": "https://github.com/xbxxbxxbx/fantasy2026/commit/97e2228",
+      "publishedAt": "2026-06-06T04:41:00Z",
       "summary": [
         "Move cron-job.org setup back into the main README",
         "Keep the README focused on the practical league setup flow",
