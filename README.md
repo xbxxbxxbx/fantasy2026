@@ -97,9 +97,94 @@ In GitHub Pages settings, use:
 
 After you push changes to GitHub, GitHub Pages serves the files from `docs/`.
 
+### Set Up Automatic Refreshes With cron-job.org
+
+Use cron-job.org as the scheduler that tells GitHub to run the update workflow.
+
+What cron-job.org does:
+
+- wakes up on your schedule
+- sends an HTTP request to GitHub
+- GitHub runs the update workflow
+- the workflow updates generated data and commits it back to `master`
+
+#### 1. Create a GitHub token
+
+In GitHub, create a personal access token that can trigger Actions for this repository.
+
+For a fine-grained token, give it:
+
+- Repository access: this repository
+- Actions permission: read and write
+
+Do not put this token in your repository. It only belongs in cron-job.org.
+
+#### 2. Create a cron-job.org job
+
+In cron-job.org, create a new cron job.
+
+Use these settings:
+
+- URL: `https://api.github.com/repos/OWNER/REPO/actions/workflows/update-leaderboard.yml/dispatches`
+- Request method: `POST`
+- Schedule: whatever update cadence you want
+
+Replace:
+
+- `OWNER` with your GitHub username or organization
+- `REPO` with your repository name
+
+For this repository, the URL would be:
+
+```text
+https://api.github.com/repos/xbxxbxxbx/fantasy2026/actions/workflows/update-leaderboard.yml/dispatches
+```
+
+#### 3. Add request headers
+
+In cron-job.org, headers are not entered as one line each. Use the separate header name and header value input boxes.
+
+Add these three headers:
+
+| Header name | Header value |
+| --- | --- |
+| `Accept` | `application/vnd.github+json` |
+| `Authorization` | `Bearer YOUR_GITHUB_TOKEN` |
+| `Content-Type` | `application/json` |
+
+Replace `YOUR_GITHUB_TOKEN` with the token you created.
+
+#### 4. Add request body
+
+Use this request body:
+
+```json
+{"ref":"master"}
+```
+
+#### 5. Test it
+
+Run the cron-job.org job once manually.
+
+Then check GitHub:
+
+1. Open your repository.
+2. Go to the Actions tab.
+3. Open `Update leaderboard data`.
+4. Confirm a new run started.
+5. Confirm it committed updated data if scores changed.
+
+If the job fails, check:
+
+- the token has Actions read/write permission
+- the URL uses the correct owner and repo
+- the workflow file name is `update-leaderboard.yml`
+- the request method is `POST`
+- the body is valid JSON
+
 ## Technical Reference
 
-For data sources, refresh behavior, cron-job.org setup, generated files, and manual league-data details, see `TECHNICAL-REFERENCE.md`. Use that file when you are wiring up refresh automation or need the project internals.
+For data sources, refresh behavior, generated files, and manual league-data details, see `TECHNICAL-REFERENCE.md`. Use that file when you need the project internals.
 
 ## Maintainers
 
