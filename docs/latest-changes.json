@@ -2,6 +2,16 @@
   "title": "Latest changes",
   "changes": [
     {
+      "commit": "c005fd5",
+      "url": "https://github.com/xbxxbxxbx/fantasy2026/commit/c005fd5",
+      "publishedAt": "2026-06-06T03:03:39Z",
+      "summary": [
+        "Add a right-side nav control to collapse or expand every section",
+        "Match its labels to the per-section buttons",
+        "Align the control with the panel-level collapse buttons"
+      ]
+    },
+    {
       "commit": "51d7610",
       "url": "https://github.com/xbxxbxxbx/fantasy2026/commit/51d7610",
       "publishedAt": "2026-06-06T02:49:02Z",
