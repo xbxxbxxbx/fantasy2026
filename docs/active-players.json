@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-06T21:10:11.714168+00:00",
+  "generatedAt": "2026-06-06T21:20:10.749546+00:00",
   "league": "25k",
   "count": 14,
   "players": [
@@ -10,7 +10,7 @@
       "team": "Chocolate Factory",
       "rank": "3 / 22",
       "chips": "3,290,000",
-      "bb": "32.9 BB",
+      "bb": "41.1 BB",
       "bonus": "Top 18 13 PTS",
       "points": 2.0
     },
@@ -21,7 +21,7 @@
       "team": "Glaser",
       "rank": "6 / 22",
       "chips": "2,815,000",
-      "bb": "28.2 BB",
+      "bb": "35.2 BB",
       "bonus": "Top 18 13 PTS",
       "points": 2.0
     },
@@ -32,7 +32,7 @@
       "team": "Blades & Shades",
       "rank": "8 / 22",
       "chips": "2,650,000",
-      "bb": "26.5 BB",
+      "bb": "33.1 BB",
       "bonus": "Top 18 13 PTS",
       "points": 2.0
     },
@@ -43,7 +43,7 @@
       "team": "Back Office",
       "rank": "9 / 22",
       "chips": "2,455,000",
-      "bb": "24.6 BB",
+      "bb": "30.7 BB",
       "bonus": "Top 18 13 PTS",
       "points": 2.0
     },
@@ -54,7 +54,7 @@
       "team": "Lucky",
       "rank": "12 / 22",
       "chips": "2,285,000",
-      "bb": "22.9 BB",
+      "bb": "28.6 BB",
       "bonus": "Top 18 13 PTS",
       "points": 2.0
     },
@@ -65,7 +65,7 @@
       "team": "Verderamo",
       "rank": "14 / 22",
       "chips": "2,000,000",
-      "bb": "20.0 BB",
+      "bb": "25.0 BB",
       "bonus": "Top 18 13 PTS",
       "points": 2.0
     },
@@ -76,7 +76,7 @@
       "team": "Blez/NGNF",
       "rank": "15 / 22",
       "chips": "1,950,000",
-      "bb": "19.5 BB",
+      "bb": "24.4 BB",
       "bonus": "Top 18 13 PTS",
       "points": 2.0
     },
@@ -87,7 +87,7 @@
       "team": "Wasserson",
       "rank": "20 / 22",
       "chips": "1,370,000",
-      "bb": "13.7 BB",
+      "bb": "17.1 BB",
       "bonus": "Top 18 13 PTS",
       "points": 2.0
     },
@@ -98,7 +98,7 @@
       "team": "Stake Kings",
       "rank": "21 / 22",
       "chips": "875,000",
-      "bb": "8.8 BB",
+      "bb": "10.9 BB",
       "bonus": "Top 18 13 PTS",
       "points": 2.0
     },
@@ -109,7 +109,7 @@
       "team": "Spitework",
       "rank": "22 / 22",
       "chips": "245,000",
-      "bb": "2.5 BB",
+      "bb": "3.1 BB",
       "bonus": "Top 18 13 PTS",
       "points": 2.0
     },
