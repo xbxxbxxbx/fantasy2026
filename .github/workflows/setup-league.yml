@@ -1,0 +1,39 @@
+name: Setup league
+
+on:
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  setup:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Run setup
+        run: python scripts/quickstart_setup.py
+
+      - name: Show setup log on failure
+        if: failure()
+        run: |
+          if [ -f setup.log ]; then
+            echo "setup.log"
+            cat setup.log
+          fi
+
+      - name: Upload setup log
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: setup-log
+          path: setup.log
+          if-no-files-found: ignore

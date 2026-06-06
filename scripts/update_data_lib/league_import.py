@@ -7,6 +7,7 @@ import sys
 from dataclasses import dataclass
 from datetime import datetime, timezone
 from pathlib import Path
+from urllib.parse import urlsplit
 
 from .config import load_config
 from .constants import LEAGUE_PATH, SETTINGS_PATH
@@ -26,10 +27,21 @@ class ImportSettings:
 
 def validate_url(value: str, path: Path, line_number: int | None = None) -> str:
     url = value.strip()
+    for left_quote, right_quote in (('"', '"'), ("'", "'"), ("“", "”"), ("‘", "’")):
+        if url.startswith(left_quote) and url.endswith(right_quote) and len(url) >= 2:
+            url = url[1:-1].strip()
+            break
     if not url.startswith(("http://", "https://")):
         location = f"{path}:{line_number}" if line_number else str(path)
         raise ValueError(f"{location} is not a URL: {value}")
     return url
+
+
+def is_poker_org_team_url(url: str) -> bool:
+    parts = urlsplit(url)
+    host = parts.netloc.lower()
+    path = parts.path.lower().rstrip("/")
+    return host in {"poker.org", "www.poker.org"} and "/fantasy/" in path and "/team/" in path
 
 
 def read_urls(path: Path) -> list[str]:
@@ -60,7 +72,7 @@ def read_ini_settings(path: Path) -> ImportSettings:
     parser.optionxform = str
 
     try:
-        with path.open(encoding="utf-8") as settings_file:
+        with path.open(encoding="utf-8-sig") as settings_file:
             parser.read_file(settings_file)
     except configparser.Error as exc:
         raise ValueError(f"Could not parse {path}: {exc}") from exc

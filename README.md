@@ -15,29 +15,36 @@ You give the project a list of Poker.org team URLs. It imports the teams, builds
 
 You do not need to edit code to make your own league.
 
-## 1. Setup
+## Quick Start
 
-### Quick Start With Codex
+Quick Start is the automated setup workflow.
 
-This is the shortest setup path. It is 7 steps from cloned code to a live GitHub Pages site with automatic refreshes.
+Use this if you want Codex to validate your setup file, run the data import, stop on setup errors, and tell you exactly what to fix.
 
 1. Open Codex.
    Download it from [chatgpt.com/codex](https://chatgpt.com/codex/) if you do not have it yet.
 2. Ask Codex to clone or open this repository.
 3. Open `league.ini`.
 4. Set your league name and paste one Poker.org team URL per line under `[Poker.org URLs]`.
-5. Ask Codex to run:
+5. Ask Codex to follow `QUICKSTART.md`.
 
-```bash
-python3 scripts/update_data.py
-```
+The automated workflow will:
 
-6. Push the updated files to GitHub, then turn on GitHub Pages with:
-   - Branch: `master`
-   - Folder: `/docs`
-7. Set up cron-job.org so GitHub runs the update workflow automatically.
+- validate `league.ini`
+- run setup
+- write debug details to `setup.log`
+- stop and wait if something needs to be fixed
 
-After GitHub Pages finishes publishing and cron-job.org is set up, your league site is live and auto-refreshing.
+After Quick Start finishes, continue to:
+
+- `Publish With GitHub Pages`
+- `Set Up Automatic Refreshes With cron-job.org`
+
+Those later steps are still manual. The GitHub token and cron-job.org setup are required after either Quick Start or Manual Setup.
+
+## Manual Setup
+
+Use this if you do not want to use the automated workflow.
 
 ### Settings File
 
@@ -88,7 +95,14 @@ Then open:
 
 - `http://localhost:4182`
 
-### Publish With GitHub Pages
+After Manual Setup finishes, continue to:
+
+- `Publish With GitHub Pages`
+- `Set Up Automatic Refreshes With cron-job.org`
+
+Those later steps are still manual. The GitHub token and cron-job.org setup are required after either Quick Start or Manual Setup.
+
+## Publish With GitHub Pages
 
 In GitHub Pages settings, use:
 
@@ -97,7 +111,7 @@ In GitHub Pages settings, use:
 
 After you push changes to GitHub, GitHub Pages serves the files from `docs/`.
 
-### Set Up Automatic Refreshes With cron-job.org
+## Set Up Automatic Refreshes With cron-job.org
 
 Use cron-job.org as the scheduler that tells GitHub to run the update workflow.
 
@@ -116,6 +130,8 @@ For a fine-grained token, give it:
 
 - Repository access: this repository
 - Actions permission: read and write
+
+Save this token somewhere safe as soon as GitHub shows it. GitHub may only show the full token one time.
 
 Do not put this token in your repository. It only belongs in cron-job.org.
 
