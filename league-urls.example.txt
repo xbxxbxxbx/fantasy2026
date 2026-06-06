@@ -1,3 +1,0 @@
-# One Poker.org team URL per line.
-# Blank lines and comments are ignored.
-https://www.poker.org/fantasy/wsop/2026/team/example-team/

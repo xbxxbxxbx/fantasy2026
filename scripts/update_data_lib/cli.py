@@ -5,11 +5,15 @@ import sys
 
 from .config import load_config
 from .constants import ACTIVE_OUTPUT_PATH, OUTPUT_PATH
+from .league_import import ensure_league_cache
+from .player_history import ensure_player_history
 from .snapshot import build_snapshot, fetch_active_players_snapshot
 
 
 def main() -> int:
     try:
+        ensure_league_cache()
+        ensure_player_history()
         config = load_config()
         snapshot = build_snapshot(config)
         has_configured_teams = snapshot.get("configuredTeamCount", 0) > 0

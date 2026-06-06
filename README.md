@@ -9,7 +9,7 @@ You give the project a list of Poker.org team URLs. It imports the teams, builds
 - A GitHub account
 - A copy of this repository
 - Python 3.12 or newer
-- A text file with one Poker.org fantasy team URL per line
+- A settings file named `league.ini`
 - Codex, Terminal, or another way to run a few commands
 
 You do not need to edit code to make your own league.
@@ -22,18 +22,17 @@ Use this if you are not comfortable with command-line setup.
 
 1. Open Codex.
 2. Ask Codex to clone or open this repository.
-3. Create a file named `league-urls.txt`.
-4. Paste one Poker.org team URL per line.
+3. Open `league.ini`.
+4. Set your league name and paste one Poker.org team URL per line under `[Poker.org URLs]`.
 5. Ask Codex:
 
 ```text
-Import my league from league-urls.txt, update the data, and start a local preview.
+Update my league data from league.ini and start a local preview.
 ```
 
 Codex should run:
 
 ```bash
-python3 scripts/import_league.py league-urls.txt
 python3 scripts/update_data.py
 python3 -m http.server 4181 --directory docs
 ```
@@ -44,48 +43,34 @@ Then open:
 
 Do not open `docs/index.html` directly with `file://`. The site loads JSON files and needs a local web server.
 
-### Team URL File
+### Settings File
 
-Create `league-urls.txt` in the project root.
+Edit `league.ini` in the project root.
 
 Example:
 
-```text
+```ini
+[League]
+name = My Poker Fantasy League
+
+[Poker.org URLs]
 https://www.poker.org/fantasy/wsop/2026/team/example-team/
 https://www.poker.org/fantasy/wsop/2026/team/another-team/
 ```
 
-Blank lines are ignored. Lines starting with `#` are ignored.
+Blank lines are ignored. Lines starting with `#` are ignored. Do not put `-` before the URLs.
 
-### Import Your League
+### Update League Data
 
 Run:
 
 ```bash
-python3 scripts/import_league.py league-urls.txt
-```
-
-This fetches each Poker.org team page, extracts the team name and roster, and writes `league.json`.
-
-League name is optional. To set one:
-
-```bash
-python3 scripts/import_league.py --league-name "My Poker League" league-urls.txt
-```
-
-To preview the generated league JSON without writing it:
-
-```bash
-python3 scripts/import_league.py --dry-run league-urls.txt
-```
-
-### Preview The Site
-
-After importing the league, refresh the site data:
-
-```bash
 python3 scripts/update_data.py
 ```
+
+This is the only normal data command. It reads `league.ini`, refreshes `league.json` when the settings changed, updates scores, and writes the public site data in `docs/`.
+
+### Preview The Site
 
 Run:
 
@@ -122,26 +107,48 @@ The public website does not scrape Poker.org or 25KFantasy in a visitor's browse
 
 | What you see or use | Comes from | Stored in |
 | --- | --- | --- |
-| League title | `league.json` when set, otherwise `docs/config.json` | `docs/data.json` |
-| Team names | Poker.org team pages listed in `league-urls.txt` | `league.json`, then `docs/data.json` |
-| Team links | Poker.org team URLs from `league-urls.txt` | `league.json`, then `docs/data.json` |
+| League title | `[League] name` in `league.ini` | `league.json`, then `docs/data.json` |
+| Team names | Poker.org team pages listed in `league.ini` | `league.json`, then `docs/data.json` |
+| Team links | Poker.org team URLs from `league.ini` | `league.json`, then `docs/data.json` |
 | Manager names | Poker.org owner/manager text when available, otherwise the team name | `league.json`, then `docs/data.json` |
 | Rosters | Poker.org roster table on each team page | `league.json` |
 | Player scores | 25KFantasy score table configured in `docs/config.json` | `docs/data.json` |
 | Team standings | Calculated from rosters plus player scores | `docs/data.json` |
 | Daily `+points` | Calculated from today's baseline versus current totals | `docs/data.json` and `docs/history/YYYY-MM-DD.json` |
 | Live Sweats | 25KFantasy active-player feed | `docs/active-players.json` |
-| Historical-points popup | Older 25KFantasy yearly player pages | `docs/25k-player-history.json` |
+| Historical-points popup | Older 25KFantasy yearly player pages, fetched during setup if missing | `docs/25k-player-history.json` |
 | Latest-changes modal | Maintainer-written release notes | `docs/latest-changes.json` |
 
-### Data You Provide
+### Source Timing
 
-- `league-urls.txt`: a plain text file with one Poker.org fantasy team URL per line.
-- `league.json`: the generated league file. You can edit this manually if you already know the teams and rosters.
+Setup/static sources:
+
+- Poker.org team pages: fetched only when `league.ini` changes or `league.json` is missing.
+- Older 25KFantasy yearly pages: fetched only when `docs/25k-player-history.json` is missing.
+
+Live sources:
+
+- Current 25KFantasy scores: fetched every refresh.
+- Current 25KFantasy Live Sweats: fetched every refresh.
+
+Local-only files:
+
+- `docs/config.json`: edited in the repo, not fetched.
+- `docs/latest-changes.json`: edited in the repo, not fetched.
+
+### Data You Edit
+
+- `league.ini`: one settings file with your league name and Poker.org team URLs.
+
+### Generated League Cache
+
+- `league.json`: generated roster data built from `league.ini` and Poker.org team pages.
+
+Most owners should not edit `league.json`. If `league.ini` changes, `scripts/update_data.py` refreshes the cache automatically.
 
 ### Data Imported From Poker.org
 
-`scripts/import_league.py` reads each Poker.org team URL from `league-urls.txt`.
+`scripts/update_data.py` reads each Poker.org team URL from `[Poker.org URLs]` in `league.ini` when `league.json` is missing or stale.
 
 It imports:
 
@@ -152,7 +159,7 @@ It imports:
 
 It writes that information to `league.json`.
 
-The normal score refresh does not re-import Poker.org pages. If rosters change, run the import step again and push the updated `league.json`.
+Most score refreshes reuse `league.json` instead of reloading every Poker.org team page. If someone entered the wrong URL or needs to add/remove a team, update `league.ini`, run `python3 scripts/update_data.py`, and push the updated `league.ini`, `league.json`, and generated `docs/` files.
 
 ### Data Read From 25KFantasy
 
@@ -179,9 +186,14 @@ Live Sweats data comes from 25KFantasy too. The script reads the current active-
 
 Daily `+points` reset at 10:00 AM ET. Overnight Las Vegas results before 10:00 AM ET still count toward the previous poker day.
 
+### Setup-Time Historical Data
+
+`docs/25k-player-history.json` is used by the historical-points popup.
+
+If that file is missing, `scripts/update_data.py` fetches older 25KFantasy yearly player pages and creates it. Once it exists, normal score refreshes do not fetch historical years again.
+
 ### Data Maintained Separately
 
-- `docs/25k-player-history.json`: historical player scores from older 25KFantasy yearly pages. This is used by the historical-points popup and is not refreshed every 10 minutes.
 - `docs/latest-changes.json`: plain-English release notes shown in the latest-changes modal. This is maintained by whoever updates the project.
 - `docs/config.json`: site labels, score source settings, and display settings.
 
@@ -197,12 +209,14 @@ python3 scripts/update_data.py
 
 In plain English, that command:
 
-1. opens `league.json`
-2. downloads the current 25KFantasy score table
-3. matches player names from your rosters to the score table
-4. totals each team
-5. refreshes the Live Sweats file
-6. writes the new public JSON files in `docs/`
+1. opens `league.ini`
+2. refreshes `league.json` only if the settings changed or the cache is missing
+3. creates `docs/25k-player-history.json` only if the historical file is missing
+4. downloads the current 25KFantasy score table
+5. matches player names from your rosters to the score table
+6. totals each team
+7. refreshes the Live Sweats file
+8. writes the new public JSON files in `docs/`
 
 The website then reads the newest files from `docs/`.
 
@@ -218,7 +232,7 @@ Current schedule:
 
 If you do not want automatic updates, disable the workflow in GitHub Actions.
 
-The automatic refresh updates scores and Live Sweats. It does not rebuild rosters from Poker.org unless you also commit a new `league.json`.
+The automatic refresh updates scores and Live Sweats. It also rebuilds `league.json` when `league.ini` changes and creates `docs/25k-player-history.json` if the historical file is missing.
 
 ### Optional: Use cron-job.org
 
@@ -231,7 +245,7 @@ What cron-job.org does:
 - wakes up on your schedule
 - sends an HTTP request to GitHub
 - GitHub runs the update workflow
-- the workflow updates `docs/data.json` and commits it back to `master`
+- the workflow updates generated data and commits it back to `master`
 
 #### 1. Create a GitHub token
 
@@ -309,9 +323,12 @@ If the job fails, check:
 
 ## What Files Matter
 
-Most league owners only need:
+Most league owners only need to edit:
 
-- `league-urls.txt`: your input file with team URLs
+- `league.ini`: your league name and Poker.org team URLs
+
+Generated files you may see but usually should not edit:
+
 - `league.json`: generated league/roster file
 - `docs/data.json`: generated leaderboard data
 
