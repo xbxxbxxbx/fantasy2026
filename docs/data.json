@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-06T05:50:11.346738+00:00",
+  "generatedAt": "2026-06-06T06:00:15.624009+00:00",
   "leagueName": "WSOP Poker Fantasy Draft 2026",
   "sourceLabel": "25KFantasy",
   "sourceUrl": "https://www.25kfantasy.com/players/",
@@ -76,7 +76,7 @@
         },
         {
           "player": "Brock Wilson",
-          "points": 4.0
+          "points": 6.0
         },
         {
           "player": "Esther Taylor",
@@ -87,9 +87,9 @@
           "points": 2.0
         }
       ],
-      "totalPoints": 160.0,
-      "pointsChange": 0.0,
-      "pointsChangeSincePrevious": 0.0
+      "totalPoints": 162.0,
+      "pointsChange": 2.0,
+      "pointsChangeSincePrevious": 2.0
     },
     {
       "managerName": "Doinky",
@@ -151,12 +151,12 @@
           "points": 6.0
         },
         {
-          "player": "Ben Yu",
-          "points": 5.0
+          "player": "Brock Wilson",
+          "points": 6.0
         },
         {
-          "player": "Brock Wilson",
-          "points": 4.0
+          "player": "Ben Yu",
+          "points": 5.0
         },
         {
           "player": "Nicholas Seward",
@@ -171,9 +171,9 @@
           "points": 1.0
         }
       ],
-      "totalPoints": 143.0,
-      "pointsChange": 3.0,
-      "pointsChangeSincePrevious": 0.0
+      "totalPoints": 145.0,
+      "pointsChange": 5.0,
+      "pointsChangeSincePrevious": 2.0
     },
     {
       "managerName": "Kush",
