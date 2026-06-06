@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-06T02:14:18.656511+00:00",
+  "generatedAt": "2026-06-06T02:20:11.573826+00:00",
   "league": "25k",
   "count": 28,
   "players": [
@@ -246,34 +246,23 @@
       "points": 0.0
     },
     {
-      "player": "Josh Arieh",
-      "event": "Event #21: $1,500 Pot-Limit Omaha Hi-Lo 8 or Better",
-      "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-21/",
-      "team": "DNegs",
-      "rank": "1 / 39",
-      "chips": "1,700,000",
-      "bb": "\u2014",
-      "bonus": "Top 27 11 PTS",
-      "points": 1.0
-    },
-    {
       "player": "Frederic Normand",
       "event": "Event #21: $1,500 Pot-Limit Omaha Hi-Lo 8 or Better",
       "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-21/",
       "team": "Chocolate Factory",
-      "rank": "3 / 39",
-      "chips": "1,180,000",
+      "rank": "1 / 37",
+      "chips": "2,600,000",
       "bb": "\u2014",
       "bonus": "Top 27 11 PTS",
       "points": 1.0
     },
     {
-      "player": "Nick Guagenti",
+      "player": "Josh Arieh",
       "event": "Event #21: $1,500 Pot-Limit Omaha Hi-Lo 8 or Better",
       "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-21/",
-      "team": "Browndog",
-      "rank": "18 / 39",
-      "chips": "544,000",
+      "team": "DNegs",
+      "rank": "2 / 37",
+      "chips": "1,700,000",
       "bb": "\u2014",
       "bonus": "Top 27 11 PTS",
       "points": 1.0
@@ -283,7 +272,7 @@
       "event": "Event #21: $1,500 Pot-Limit Omaha Hi-Lo 8 or Better",
       "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-21/",
       "team": "2026 ODB Bonus Players",
-      "rank": "22 / 39",
+      "rank": "21 / 37",
       "chips": "490,000",
       "bb": "\u2014",
       "bonus": "Top 27 11 PTS",
@@ -294,7 +283,7 @@
       "event": "Event #21: $1,500 Pot-Limit Omaha Hi-Lo 8 or Better",
       "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-21/",
       "team": "Browndog",
-      "rank": "23 / 39",
+      "rank": "22 / 37",
       "chips": "480,000",
       "bb": "\u2014",
       "bonus": "Top 27 11 PTS",
@@ -305,8 +294,19 @@
       "event": "Event #21: $1,500 Pot-Limit Omaha Hi-Lo 8 or Better",
       "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-21/",
       "team": "Premiums Only",
-      "rank": "33 / 39",
+      "rank": "31 / 37",
       "chips": "275,000",
+      "bb": "\u2014",
+      "bonus": "Top 27 11 PTS",
+      "points": 1.0
+    },
+    {
+      "player": "Nick Guagenti",
+      "event": "Event #21: $1,500 Pot-Limit Omaha Hi-Lo 8 or Better",
+      "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-21/",
+      "team": "Browndog",
+      "rank": "33 / 37",
+      "chips": "250,000",
       "bb": "\u2014",
       "bonus": "Top 27 11 PTS",
       "points": 1.0
