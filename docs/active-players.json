@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-06T06:24:51.425547+00:00",
+  "generatedAt": "2026-06-06T06:30:14.623270+00:00",
   "league": "25k",
   "count": 15,
   "players": [
@@ -129,44 +129,44 @@
       "event": "Event #21: $1,500 Pot-Limit Omaha Hi-Lo 8 or Better",
       "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-21/",
       "team": "Premiums Only",
-      "rank": "1 / 20",
+      "rank": "1 / 19",
       "chips": "3,400,000",
       "bb": "\u2014",
       "bonus": "Locked 11 PTS",
-      "points": 11.0
+      "points": 0.0
     },
     {
       "player": "Josh Arieh",
       "event": "Event #21: $1,500 Pot-Limit Omaha Hi-Lo 8 or Better",
       "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-21/",
       "team": "DNegs",
-      "rank": "5 / 20",
+      "rank": "5 / 19",
       "chips": "2,000,000",
       "bb": "\u2014",
       "bonus": "Locked 11 PTS",
-      "points": 11.0
+      "points": 0.0
     },
     {
       "player": "Frederic Normand",
       "event": "Event #21: $1,500 Pot-Limit Omaha Hi-Lo 8 or Better",
       "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-21/",
       "team": "Chocolate Factory",
-      "rank": "7 / 20",
+      "rank": "7 / 19",
       "chips": "1,530,000",
       "bb": "\u2014",
       "bonus": "Locked 11 PTS",
-      "points": 11.0
+      "points": 0.0
     },
     {
       "player": "Ray Fishman",
       "event": "Event #21: $1,500 Pot-Limit Omaha Hi-Lo 8 or Better",
       "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-21/",
       "team": "Browndog",
-      "rank": "8 / 20",
+      "rank": "8 / 19",
       "chips": "1,250,000",
       "bb": "\u2014",
       "bonus": "Locked 11 PTS",
-      "points": 11.0
+      "points": 0.0
     }
   ]
 }
