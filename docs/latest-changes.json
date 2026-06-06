@@ -2,6 +2,16 @@
   "title": "Latest changes",
   "changes": [
     {
+      "commit": "22a0fab",
+      "url": "https://github.com/xbxxbxxbx/fantasy2026/commit/22a0fab",
+      "publishedAt": "2026-06-06T02:20:44Z",
+      "summary": [
+        "Use one league.ini setup file",
+        "Build roster and history files during setup",
+        "Keep live score and sweat refreshes separate"
+      ]
+    },
+    {
       "commit": "28ccd11",
       "url": "https://github.com/xbxxbxxbx/fantasy2026/commit/28ccd11",
       "publishedAt": "2026-06-06T01:33:34Z",
