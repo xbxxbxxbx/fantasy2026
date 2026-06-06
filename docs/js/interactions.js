@@ -139,9 +139,8 @@
       event.preventDefault();
 
       if (rostersContent.classList.contains("is-collapsed")) {
-        app.expandPanelContent(rostersContent);
-        rostersButton.setAttribute("aria-expanded", "true");
-        rostersButton.textContent = "Collapse";
+        app.setPanelCollapsed(rostersContent, rostersButton, false);
+        app.syncSectionNavToggle();
       }
 
       window.requestAnimationFrame(() => {

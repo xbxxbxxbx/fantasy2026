@@ -13,6 +13,7 @@
     commitEasterEggBody: document.querySelector("#commit-easter-egg-body"),
     liveSweatsNav: document.querySelector("#live-sweats-nav"),
     liveSweatsNavIndicator: document.querySelector("#live-sweats-nav-indicator"),
+    sectionNavToggle: document.querySelector("#section-nav-toggle"),
     liveSweatsSection: document.querySelector("#live-sweats"),
     liveSweatsStatus: document.querySelector("#live-sweats-status"),
     liveSweatsCountdown: document.querySelector("#live-sweats-countdown"),

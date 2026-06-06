@@ -93,6 +93,11 @@
       return;
     }
 
+    const syncSectionNavToggle = () => {
+      if (typeof app.syncSectionNavToggle === "function") {
+        app.syncSectionNavToggle();
+      }
+    };
     const availability = app.getLiveSweatsAvailability();
     const liveContent = document.getElementById("live-sweats-content");
     const liveButton = app.elements.liveSweatsSection.querySelector(".collapse-button");
@@ -124,6 +129,7 @@
         app.elements.liveSweatsHelperLive.hidden = true;
       }
       app.elements.liveSweatsBody.innerHTML = "";
+      syncSectionNavToggle();
       return;
     }
 
@@ -152,6 +158,7 @@
         app.elements.liveSweatsEmpty.hidden = false;
       }
       app.elements.liveSweatsBody.innerHTML = "";
+      syncSectionNavToggle();
       return;
     }
 
@@ -177,6 +184,7 @@
       `
       )
       .join("");
+    syncSectionNavToggle();
   };
 
   app.renderManagerCards = function renderManagerCards(managers) {

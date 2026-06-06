@@ -275,6 +275,7 @@ h1 {
 }
 
 .section-nav-link,
+.section-nav-toggle,
 .collapse-button {
   display: inline-flex;
   align-items: center;
@@ -296,8 +297,14 @@ h1 {
 }
 
 .section-nav-link:hover,
+.section-nav-toggle:hover,
 .collapse-button:hover {
   background: rgba(255, 255, 255, 0.9);
+}
+
+.section-nav-toggle {
+  margin-left: auto;
+  margin-right: 24px;
 }
 
 .back-to-top-link {
@@ -1032,6 +1039,10 @@ h1 {
   .hero,
   .panel {
     padding: 18px;
+  }
+
+  .section-nav-toggle {
+    margin-right: 18px;
   }
 
   .panel-heading,

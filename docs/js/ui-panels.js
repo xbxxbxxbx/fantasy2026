@@ -34,6 +34,43 @@
     content.addEventListener("transitionend", clearHeight);
   };
 
+  app.getVisibleCollapsiblePanels = function getVisibleCollapsiblePanels() {
+    return Array.from(document.querySelectorAll(".collapsible-panel"))
+      .map((section) => ({
+        content: section.querySelector(".panel-content"),
+        button: section.querySelector(".collapse-button"),
+      }))
+      .filter(({ content, button }) => content && button && !content.hidden && !button.hidden);
+  };
+
+  app.setPanelCollapsed = function setPanelCollapsed(content, button, shouldCollapse) {
+    const isCollapsed = content.classList.contains("is-collapsed");
+    if (shouldCollapse && !isCollapsed) {
+      app.collapsePanelContent(content);
+    } else if (!shouldCollapse && isCollapsed) {
+      app.expandPanelContent(content);
+    }
+
+    button.setAttribute("aria-expanded", String(!shouldCollapse));
+    button.textContent = shouldCollapse ? "Expand" : "Collapse";
+  };
+
+  app.syncSectionNavToggle = function syncSectionNavToggle() {
+    if (!app.elements.sectionNavToggle) {
+      return;
+    }
+
+    const panels = app.getVisibleCollapsiblePanels();
+    if (!panels.length) {
+      app.elements.sectionNavToggle.hidden = true;
+      return;
+    }
+
+    app.elements.sectionNavToggle.hidden = false;
+    const allCollapsed = panels.every(({ content }) => content.classList.contains("is-collapsed"));
+    app.elements.sectionNavToggle.textContent = allCollapsed ? "Expand" : "Collapse";
+  };
+
   app.initializeCollapsiblePanels = function initializeCollapsiblePanels() {
     document.querySelectorAll(".panel-content").forEach((content) => {
       content.style.maxHeight = "none";
@@ -48,16 +85,26 @@
         }
 
         const isCollapsed = content.classList.contains("is-collapsed");
-        if (isCollapsed) {
-          app.expandPanelContent(content);
-        } else {
-          app.collapsePanelContent(content);
-        }
-
-        button.setAttribute("aria-expanded", String(isCollapsed));
-        button.textContent = isCollapsed ? "Collapse" : "Expand";
+        app.setPanelCollapsed(content, button, !isCollapsed);
+        app.syncSectionNavToggle();
       });
     });
+
+    app.elements.sectionNavToggle?.addEventListener("click", () => {
+      const panels = app.getVisibleCollapsiblePanels();
+      if (!panels.length) {
+        return;
+      }
+
+      const allCollapsed = panels.every(({ content }) => content.classList.contains("is-collapsed"));
+      const shouldCollapse = !allCollapsed;
+      panels.forEach(({ content, button }) => {
+        app.setPanelCollapsed(content, button, shouldCollapse);
+      });
+      app.syncSectionNavToggle();
+    });
+
+    app.syncSectionNavToggle();
   };
 
   app.expandSectionFromNav = function expandSectionFromNav(hash) {
@@ -76,9 +123,8 @@
       return section;
     }
 
-    app.expandPanelContent(content);
-    button.setAttribute("aria-expanded", "true");
-    button.textContent = "Collapse";
+    app.setPanelCollapsed(content, button, false);
+    app.syncSectionNavToggle();
     return section;
   };
 
