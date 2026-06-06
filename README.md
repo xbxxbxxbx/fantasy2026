@@ -24,8 +24,8 @@ Use this if you want Codex to validate your setup file, run the data import, sto
 1. Open Codex.
    Download it from [chatgpt.com/codex](https://chatgpt.com/codex/) if you do not have it yet.
 2. Ask Codex to clone or open this repository.
-3. Open `league.ini`.
-4. Set your league name and paste one Poker.org team URL per line under `[Poker.org URLs]`.
+3. Ask Codex to open `league.ini`.
+4. Then enter your league name and paste one Poker.org team URL per line under `[Poker.org URLs]`.
 5. Ask Codex to follow `QUICKSTART.md`.
 
 The automated workflow will:
