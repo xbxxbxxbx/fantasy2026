@@ -2,6 +2,16 @@
   "title": "Latest changes",
   "changes": [
     {
+      "commit": "b024790",
+      "url": "https://github.com/xbxxbxxbx/fantasy2026/commit/b024790",
+      "publishedAt": "2026-06-06T04:29:26Z",
+      "summary": [
+        "Refocus the README on setting up and publishing your own league",
+        "Move project internals into a separate technical reference",
+        "Keep the customer-facing setup guide shorter and easier to follow"
+      ]
+    },
+    {
       "commit": "9cf54a5",
       "url": "https://github.com/xbxxbxxbx/fantasy2026/commit/9cf54a5",
       "publishedAt": "2026-06-06T03:56:11Z",
