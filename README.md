@@ -99,8 +99,8 @@ After you push changes to GitHub, GitHub Pages serves the files from `docs/`.
 
 ## Technical Reference
 
-For data sources, refresh behavior, cron-job.org setup, generated files, and manual league-data details, see [TECHNICAL-REFERENCE.md](/Users/trstowell/Documents/fantasy/TECHNICAL-REFERENCE.md). Use that file when you are wiring up refresh automation or need the project internals.
+For data sources, refresh behavior, cron-job.org setup, generated files, and manual league-data details, see `TECHNICAL-REFERENCE.md`. Use that file when you are wiring up refresh automation or need the project internals.
 
 ## Maintainers
 
-See [MAINTAINING.md](/Users/trstowell/Documents/fantasy/MAINTAINING.md) for rollback instructions, artifact contracts, deploy checks, cache-busting policy, and latest-changes modal rules.
+See `MAINTAINING.md` for rollback instructions, artifact contracts, deploy checks, cache-busting policy, and latest-changes modal rules.

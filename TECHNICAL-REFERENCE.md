@@ -267,4 +267,4 @@ Minimal shape:
 
 ## 6. Maintainers
 
-See [MAINTAINING.md](/Users/trstowell/Documents/fantasy/MAINTAINING.md) for rollback instructions, artifact contracts, deploy checks, cache-busting policy, and latest-changes modal rules.
+See `MAINTAINING.md` for rollback instructions, artifact contracts, deploy checks, cache-busting policy, and latest-changes modal rules.
