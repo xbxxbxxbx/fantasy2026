@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-06T06:10:12.406027+00:00",
+  "generatedAt": "2026-06-06T06:20:11.542740+00:00",
   "league": "25k",
   "count": 15,
   "players": [
@@ -19,9 +19,9 @@
       "event": "Event #19: $25,000 High Roller No-Limit Hold\u2019em 8-Handed",
       "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-19/",
       "team": "Chocolate Factory",
-      "rank": "7 / 24",
-      "chips": "2,420,000",
-      "bb": "40.3 BB",
+      "rank": "8 / 24",
+      "chips": "2,230,000",
+      "bb": "37.2 BB",
       "bonus": "Top 18 13 PTS",
       "points": 2.0
     },
@@ -59,17 +59,6 @@
       "points": 2.0
     },
     {
-      "player": "Brian Rast",
-      "event": "Event #19: $25,000 High Roller No-Limit Hold\u2019em 8-Handed",
-      "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-19/",
-      "team": "Stake Kings",
-      "rank": "12 / 24",
-      "chips": "1,730,000",
-      "bb": "28.8 BB",
-      "bonus": "Top 18 13 PTS",
-      "points": 2.0
-    },
-    {
       "player": "Shannon Shorr",
       "event": "Event #19: $25,000 High Roller No-Limit Hold\u2019em 8-Handed",
       "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-19/",
@@ -77,6 +66,17 @@
       "rank": "16 / 24",
       "chips": "1,465,000",
       "bb": "24.4 BB",
+      "bonus": "Top 18 13 PTS",
+      "points": 2.0
+    },
+    {
+      "player": "Brian Rast",
+      "event": "Event #19: $25,000 High Roller No-Limit Hold\u2019em 8-Handed",
+      "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-19/",
+      "team": "Stake Kings",
+      "rank": "19 / 24",
+      "chips": "1,175,000",
+      "bb": "19.6 BB",
       "bonus": "Top 18 13 PTS",
       "points": 2.0
     },
@@ -96,9 +96,9 @@
       "event": "Event #19: $25,000 High Roller No-Limit Hold\u2019em 8-Handed",
       "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-19/",
       "team": "Verderamo",
-      "rank": "23 / 24",
-      "chips": "925,000",
-      "bb": "15.4 BB",
+      "rank": "22 / 24",
+      "chips": "1,060,000",
+      "bb": "17.7 BB",
       "bonus": "Top 18 13 PTS",
       "points": 2.0
     },
@@ -118,18 +118,18 @@
       "event": "Event #20: $1,500 Dealers Choice 7-Handed",
       "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-20/",
       "team": "Trump Power",
-      "rank": "2 / 2",
+      "rank": "1 / 1",
       "chips": "1,240,000",
-      "bb": "8.3 BB",
+      "bb": "0.6 BB",
       "bonus": "Locked 11 PTS",
-      "points": 0.0
+      "points": 81.0
     },
     {
       "player": "Ryan Hoenig",
       "event": "Event #21: $1,500 Pot-Limit Omaha Hi-Lo 8 or Better",
       "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-21/",
       "team": "Premiums Only",
-      "rank": "1 / 21",
+      "rank": "1 / 20",
       "chips": "3,400,000",
       "bb": "\u2014",
       "bonus": "Locked 11 PTS",
@@ -140,7 +140,7 @@
       "event": "Event #21: $1,500 Pot-Limit Omaha Hi-Lo 8 or Better",
       "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-21/",
       "team": "DNegs",
-      "rank": "5 / 21",
+      "rank": "5 / 20",
       "chips": "2,000,000",
       "bb": "\u2014",
       "bonus": "Locked 11 PTS",
@@ -151,7 +151,7 @@
       "event": "Event #21: $1,500 Pot-Limit Omaha Hi-Lo 8 or Better",
       "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-21/",
       "team": "Chocolate Factory",
-      "rank": "7 / 21",
+      "rank": "7 / 20",
       "chips": "1,530,000",
       "bb": "\u2014",
       "bonus": "Locked 11 PTS",
@@ -162,7 +162,7 @@
       "event": "Event #21: $1,500 Pot-Limit Omaha Hi-Lo 8 or Better",
       "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-21/",
       "team": "Browndog",
-      "rank": "8 / 21",
+      "rank": "8 / 20",
       "chips": "1,250,000",
       "bb": "\u2014",
       "bonus": "Locked 11 PTS",
