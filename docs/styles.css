@@ -290,6 +290,7 @@ h1 {
   padding: 10px 14px;
   text-decoration: none;
   cursor: pointer;
+  white-space: nowrap;
 }
 
 .section-nav-link {
@@ -303,8 +304,13 @@ h1 {
 }
 
 .section-nav-toggle {
+  min-width: 86px;
   margin-left: auto;
   margin-right: 24px;
+}
+
+.collapse-button {
+  min-width: 86px;
 }
 
 .back-to-top-link {
@@ -1027,6 +1033,13 @@ h1 {
 
   .panel-wide {
     grid-column: auto;
+  }
+}
+
+@media (max-width: 760px) {
+  .section-nav-toggle {
+    margin-left: 0;
+    margin-right: 0;
   }
 }
 
