@@ -2,7 +2,11 @@
   app.renderHeaderStats = function renderHeaderStats(metadata = {}) {
     const leagueName = metadata.leagueName || app.config.leagueName;
     if (leagueName) {
-      app.elements.leagueName.textContent = leagueName;
+      const yearMatch = String(leagueName).match(/\b(20\d{2})\b/);
+      const leagueYear = yearMatch ? yearMatch[1] : "";
+      app.elements.leagueName.innerHTML = `<span class="league-title-main">WSOP Fantasy Draft</span>${
+        leagueYear ? `<span class="league-title-year">${app.escapeHtml(leagueYear)}</span>` : ""
+      }`;
     }
     if (app.elements.leagueDescription) {
       const sourceLabel = app.escapeHtml(metadata.sourceLabel || app.config.sourceLabel || "source");

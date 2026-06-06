@@ -93,7 +93,22 @@ p {
 h1 {
   font-size: clamp(2.2rem, 5vw, 4rem);
   line-height: 0.95;
-  max-width: 10ch;
+  max-width: none;
+}
+
+.league-title-main,
+.league-title-year {
+  display: block;
+}
+
+.league-title-main {
+  font-size: 51.2px;
+  white-space: nowrap;
+}
+
+.league-title-year {
+  font-size: 40.96px;
+  color: #8b0000;
 }
 
 .hero-text {
