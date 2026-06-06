@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-06T01:10:10.559961+00:00",
+  "generatedAt": "2026-06-06T01:20:10.864697+00:00",
   "leagueName": "WSOP Poker Fantasy Draft 2026",
   "sourceLabel": "25KFantasy",
   "sourceUrl": "https://www.25kfantasy.com/players/",
@@ -266,7 +266,7 @@
       "players": [
         {
           "player": "Dylan Smith",
-          "points": 50.0
+          "points": 51.0
         },
         {
           "player": "Jerry Wong",
@@ -297,9 +297,9 @@
           "points": 3.0
         }
       ],
-      "totalPoints": 93.0,
-      "pointsChange": 2.0,
-      "pointsChangeSincePrevious": 0.0
+      "totalPoints": 94.0,
+      "pointsChange": 3.0,
+      "pointsChangeSincePrevious": 1.0
     },
     {
       "managerName": "Ruben",
