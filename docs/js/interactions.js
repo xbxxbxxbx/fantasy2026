@@ -396,7 +396,48 @@
     }, 60000);
   };
 
+  app.scrollBackToTop = function scrollBackToTop() {
+    if (app.getScrollBehavior() === "auto") {
+      window.scrollTo({ top: 0, behavior: "auto" });
+      return;
+    }
+
+    const startY = window.scrollY;
+    if (startY <= 0) {
+      return;
+    }
+
+    if (app.state.backToTopAnimationFrameId) {
+      window.cancelAnimationFrame(app.state.backToTopAnimationFrameId);
+    }
+
+    const duration = 760;
+    const startTime = window.performance.now();
+
+    const step = (now) => {
+      const progress = Math.min((now - startTime) / duration, 1);
+      const easedProgress = 1 - Math.pow(1 - progress, 3);
+      window.scrollTo({ top: Math.round(startY * (1 - easedProgress)), behavior: "auto" });
+
+      if (progress < 1) {
+        app.state.backToTopAnimationFrameId = window.requestAnimationFrame(step);
+        return;
+      }
+
+      app.state.backToTopAnimationFrameId = 0;
+      window.scrollTo({ top: 0, behavior: "auto" });
+    };
+
+    app.state.backToTopAnimationFrameId = window.requestAnimationFrame(step);
+  };
+
   app.initializeNavigation = function initializeNavigation() {
+    app.elements.backToTop?.addEventListener("click", (event) => {
+      event.preventDefault();
+      app.scrollBackToTop();
+      window.history.replaceState(null, "", window.location.pathname + window.location.search);
+    });
+
     document.querySelectorAll(".section-nav-link").forEach((link) => {
       link.addEventListener("click", (event) => {
         const hash = link.getAttribute("href");

@@ -55,6 +55,7 @@
     commitEasterEggInitialized: false,
     pointContributorModalInitialized: false,
     revealAnimationTimeoutId: 0,
+    backToTopAnimationFrameId: 0,
     refreshIntervalId: 0,
     refreshStartTimeoutId: 0,
     refreshInFlight: false,
