@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-07T00:50:10.092088+00:00",
+  "generatedAt": "2026-06-07T01:00:13.771144+00:00",
   "leagueName": "WSOP Poker Fantasy Draft 2026",
   "sourceLabel": "25KFantasy",
   "sourceUrl": "https://www.25kfantasy.com/players/",
@@ -101,6 +101,10 @@
           "points": 139.0
         },
         {
+          "player": "Eric Wasserson",
+          "points": 13.0
+        },
+        {
           "player": "Sam Soverel",
           "points": 4.0
         },
@@ -117,10 +121,6 @@
           "points": 0.0
         },
         {
-          "player": "Eric Wasserson",
-          "points": 0.0
-        },
-        {
           "player": "Stephen Song",
           "points": 0.0
         },
@@ -129,9 +129,9 @@
           "points": 0.0
         }
       ],
-      "totalPoints": 149.0,
-      "pointsChange": 0.0,
-      "pointsChangeSincePrevious": 0.0
+      "totalPoints": 162.0,
+      "pointsChange": 13.0,
+      "pointsChangeSincePrevious": 13.0
     },
     {
       "managerName": "JeffBNT",
