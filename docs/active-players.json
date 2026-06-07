@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-07T00:10:10.157080+00:00",
+  "generatedAt": "2026-06-07T00:20:12.602280+00:00",
   "league": "25k",
   "count": 9,
   "players": [
@@ -10,7 +10,7 @@
       "team": "Chocolate Factory",
       "rank": "3 / 16",
       "chips": "3,290,000",
-      "bb": "32.9 BB",
+      "bb": "27.4 BB",
       "bonus": "Locked 13 PTS",
       "points": 13.0
     },
@@ -21,7 +21,7 @@
       "team": "Glaser",
       "rank": "6 / 16",
       "chips": "2,815,000",
-      "bb": "28.2 BB",
+      "bb": "23.5 BB",
       "bonus": "Locked 13 PTS",
       "points": 13.0
     },
@@ -32,7 +32,7 @@
       "team": "Blades & Shades",
       "rank": "8 / 16",
       "chips": "2,650,000",
-      "bb": "26.5 BB",
+      "bb": "22.1 BB",
       "bonus": "Locked 13 PTS",
       "points": 13.0
     },
@@ -43,7 +43,7 @@
       "team": "Lucky",
       "rank": "10 / 16",
       "chips": "2,285,000",
-      "bb": "22.9 BB",
+      "bb": "19.0 BB",
       "bonus": "Locked 13 PTS",
       "points": 13.0
     },
@@ -54,7 +54,7 @@
       "team": "Blez/NGNF",
       "rank": "11 / 16",
       "chips": "1,950,000",
-      "bb": "19.5 BB",
+      "bb": "16.3 BB",
       "bonus": "Locked 13 PTS",
       "points": 13.0
     },
@@ -65,7 +65,7 @@
       "team": "Stake Kings",
       "rank": "15 / 16",
       "chips": "875,000",
-      "bb": "8.8 BB",
+      "bb": "7.3 BB",
       "bonus": "Locked 13 PTS",
       "points": 13.0
     },
@@ -76,7 +76,7 @@
       "team": "Spitework",
       "rank": "16 / 16",
       "chips": "245,000",
-      "bb": "2.5 BB",
+      "bb": "2.0 BB",
       "bonus": "Locked 13 PTS",
       "points": 13.0
     },
