@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-07T06:10:11.795032+00:00",
+  "generatedAt": "2026-06-07T06:20:12.968941+00:00",
   "leagueName": "WSOP Poker Fantasy Draft 2026",
   "sourceLabel": "25KFantasy",
   "sourceUrl": "https://www.25kfantasy.com/players/",
@@ -350,7 +350,7 @@
       "players": [
         {
           "player": "Patrick Leonard",
-          "points": 4.0
+          "points": 15.0
         },
         {
           "player": "Esther Taylor",
@@ -381,9 +381,9 @@
           "points": 0.0
         }
       ],
-      "totalPoints": 10.0,
-      "pointsChange": 0.0,
-      "pointsChangeSincePrevious": 0.0
+      "totalPoints": 21.0,
+      "pointsChange": 11.0,
+      "pointsChangeSincePrevious": 11.0
     }
   ],
   "failures": []
