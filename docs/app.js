@@ -77,6 +77,7 @@
       ]);
       const viewModel = app.buildViewModel(snapshot, activeSnapshot);
       app.state.currentPointsChangeLabel = viewModel.pointsChangeLabel;
+      app.state.latestPointsChangeComparisonDate = viewModel.pointsChangeComparisonDate;
       const hasChanged =
         app.state.lastSnapshotSignature !== "" &&
         viewModel.signature !== app.state.lastSnapshotSignature;
@@ -198,6 +199,7 @@
     app.initializeCollapsiblePanels();
     app.initializeNavigation();
     app.initializeRosterJumpLinks();
+    app.initializePointContributorModal();
     app.initializePlayerHistoryWidgets();
     initializeRefreshToastTestTrigger();
     initializeConfig();

@@ -151,6 +151,144 @@
     app.state.rosterJumpLinksInitialized = true;
   };
 
+  app.closePointContributorModal = function closePointContributorModal() {
+    if (app.elements.pointContributorModal) {
+      app.elements.pointContributorModal.hidden = true;
+    }
+  };
+
+  app.getPointContributors = function getPointContributors(manager, comparisonSnapshot) {
+    const baselineManager = (comparisonSnapshot?.managers || []).find(
+      (entry) => app.normalizeName(entry.managerName) === app.normalizeName(manager.name)
+    );
+    if (!baselineManager) {
+      throw new Error("Comparison data for this team was not found.");
+    }
+
+    const baselinePointsByPlayer = new Map(
+      (baselineManager.players || []).map((player) => [
+        app.canonicalPlayerName(player.player),
+        app.parseNumber(player.points),
+      ])
+    );
+
+    return (manager.players || [])
+      .map((player) => {
+        const playerName = app.canonicalPlayerName(player.player);
+        const previousPoints = baselinePointsByPlayer.get(playerName) || 0;
+        const totalPoints = app.parseNumber(player.points);
+        return {
+          player: playerName,
+          pointsGained: totalPoints - previousPoints,
+          totalPoints,
+        };
+      })
+      .filter((player) => player.pointsGained > 0)
+      .sort(
+        (left, right) =>
+          right.pointsGained - left.pointsGained ||
+          right.totalPoints - left.totalPoints ||
+          left.player.localeCompare(right.player)
+      );
+  };
+
+  app.renderPointContributorBody = function renderPointContributorBody(manager, contributors) {
+    if (!contributors.length) {
+      return `
+        <p class="commit-modal-message">No individual player gains were found for ${app.escapeHtml(manager.name)}.</p>
+      `;
+    }
+
+    const rows = contributors
+      .map(
+        (contributor) => `
+          <div class="point-contributor-row">
+            <span>${app.escapeHtml(contributor.player)}</span>
+            <strong>+${Math.round(contributor.pointsGained)}</strong>
+          </div>
+        `
+      )
+      .join("");
+    const totalGained = contributors.reduce(
+      (sum, contributor) => sum + app.parseNumber(contributor.pointsGained),
+      0
+    );
+
+    return `
+      <div class="point-contributor-list">${rows}</div>
+      <div class="point-contributor-total">
+        <span>Total</span>
+        <strong>+${Math.round(totalGained)}</strong>
+      </div>
+    `;
+  };
+
+  app.initializePointContributorModal = function initializePointContributorModal() {
+    if (
+      app.state.pointContributorModalInitialized ||
+      !app.elements.leaderboardBody ||
+      !app.elements.pointContributorModal ||
+      !app.elements.pointContributorBody
+    ) {
+      return;
+    }
+
+    app.elements.leaderboardBody.addEventListener("click", async (event) => {
+      const target = event.target;
+      if (!(target instanceof Element)) {
+        return;
+      }
+
+      const trigger = target.closest(".points-delta-button");
+      if (!trigger || !app.elements.leaderboardBody.contains(trigger)) {
+        return;
+      }
+
+      event.preventDefault();
+      event.stopPropagation();
+
+      const managerName = trigger.getAttribute("data-manager-name");
+      const manager = app.state.latestManagers.find((entry) => entry.name === managerName);
+      if (!manager) {
+        return;
+      }
+
+      app.elements.pointContributorModal.hidden = false;
+      if (app.elements.pointContributorTitle) {
+        app.elements.pointContributorTitle.textContent = `${manager.name} +${Math.round(
+          app.parseNumber(manager.pointsChange)
+        )}`;
+      }
+      app.elements.pointContributorBody.innerHTML =
+        '<p class="commit-modal-loading">Loading point contributors…</p>';
+
+      try {
+        const comparisonSnapshot = await app.fetchComparisonSnapshot(
+          app.state.latestPointsChangeComparisonDate
+        );
+        const contributors = app.getPointContributors(manager, comparisonSnapshot);
+        app.elements.pointContributorBody.innerHTML = app.renderPointContributorBody(
+          manager,
+          contributors
+        );
+      } catch (error) {
+        app.elements.pointContributorBody.innerHTML = `
+          <p class="commit-modal-message">Could not load point contributors for ${app.escapeHtml(manager.name)}.</p>
+        `;
+      }
+    });
+
+    app.elements.pointContributorClose?.addEventListener("click", app.closePointContributorModal);
+    app.elements.pointContributorBackdrop?.addEventListener("click", app.closePointContributorModal);
+    document.addEventListener("keydown", (event) => {
+      if (event.key === "Escape") {
+        app.closePointContributorModal();
+      }
+    });
+
+    app.state.pointContributorModalInitialized = true;
+  };
+
   app.closeCommitEasterEggModal = function closeCommitEasterEggModal() {
     if (app.elements.commitEasterEggModal) {
       app.elements.commitEasterEggModal.hidden = true;

@@ -686,12 +686,55 @@ h1 {
   top: 1px;
 }
 
+.points-delta-button {
+  appearance: none;
+  border: 0;
+  background: transparent;
+  cursor: pointer;
+  font-family: inherit;
+  padding: 0;
+}
+
+.points-delta-button:hover,
+.points-delta-button:focus-visible {
+  text-decoration: underline;
+  text-underline-offset: 0.12em;
+}
+
 .points-delta-up {
   color: var(--green);
 }
 
 .points-delta-down {
   color: var(--red);
+}
+
+.point-contributor-list {
+  display: grid;
+  gap: 10px;
+}
+
+.point-contributor-row,
+.point-contributor-total {
+  display: grid;
+  grid-template-columns: minmax(0, 1fr) auto;
+  gap: 18px;
+  align-items: baseline;
+}
+
+.point-contributor-row span {
+  color: var(--muted);
+}
+
+.point-contributor-row strong,
+.point-contributor-total strong {
+  font-family: "IBM Plex Mono", monospace;
+}
+
+.point-contributor-total {
+  margin-top: 14px;
+  padding-top: 14px;
+  border-top: 1px solid var(--line);
 }
 
 .view-column-header,

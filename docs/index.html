@@ -25,7 +25,7 @@
     />
     <link rel="preload" href="./data.json" as="fetch" type="application/json" />
     <link rel="preload" href="./active-players.json" as="fetch" type="application/json" />
-    <link rel="stylesheet" href="./styles.css?v=25k20" />
+    <link rel="stylesheet" href="./styles.css?v=25k21" />
   </head>
   <body>
     <div id="top" class="page-shell">
@@ -257,16 +257,28 @@
         </div>
       </div>
     </div>
+    <div id="point-contributor-modal" class="commit-modal point-contributor-modal" hidden>
+      <div id="point-contributor-backdrop" class="commit-modal-backdrop"></div>
+      <div class="commit-modal-dialog" role="dialog" aria-modal="true" aria-labelledby="point-contributor-title">
+        <div class="commit-modal-header">
+          <h3 id="point-contributor-title">Points gained</h3>
+          <button id="point-contributor-close" class="commit-modal-close" type="button" aria-label="Close points contributor modal">×</button>
+        </div>
+        <div id="point-contributor-body" class="commit-modal-body">
+          <p class="commit-modal-loading">Loading point contributors…</p>
+        </div>
+      </div>
+    </div>
 
     <script src="./config.js?v=25k17"></script>
-    <script src="./js/core.js?v=25k18"></script>
+    <script src="./js/core.js?v=25k19"></script>
     <script src="./js/utils.js?v=25k17"></script>
     <script src="./js/time.js?v=25k17"></script>
-    <script src="./js/data-loaders.js?v=25k17"></script>
-    <script src="./js/analytics.js?v=25k17"></script>
+    <script src="./js/data-loaders.js?v=25k18"></script>
+    <script src="./js/analytics.js?v=25k18"></script>
     <script src="./js/ui-panels.js?v=25k17"></script>
-    <script src="./js/renderers.js?v=25k18"></script>
-    <script src="./js/interactions.js?v=25k17"></script>
-    <script src="./app.js?v=25k18"></script>
+    <script src="./js/renderers.js?v=25k19"></script>
+    <script src="./js/interactions.js?v=25k18"></script>
+    <script src="./app.js?v=25k19"></script>
   </body>
 </html>

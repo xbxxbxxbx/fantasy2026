@@ -246,6 +246,7 @@
         updateCadenceLabel: snapshot.updateCadenceLabel || null,
       },
       pointsChangeLabel: snapshot.pointsChangeLabel || "today",
+      pointsChangeComparisonDate: snapshot.pointsChangeComparisonDate || "",
       signature: app.snapshotSignature(snapshot),
     };
   };

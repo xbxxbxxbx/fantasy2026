@@ -29,9 +29,9 @@
         const deltaMarkup =
           pointsDelta === 0
             ? ""
-            : `<span class="points-delta ${pointsDelta > 0 ? "points-delta-up" : "points-delta-down"}">${
+            : `<button type="button" data-manager-name="${app.escapeHtml(manager.name)}" title="Show players who gained points ${app.escapeHtml(app.state.currentPointsChangeLabel)}" aria-label="Show players who gained points ${app.escapeHtml(app.state.currentPointsChangeLabel)} for ${app.escapeHtml(manager.name)}" class="points-delta points-delta-button ${pointsDelta > 0 ? "points-delta-up" : "points-delta-down"}">${
                 pointsDelta > 0 ? "+" : ""
-              }${Math.round(pointsDelta)}</span>`;
+              }${Math.round(pointsDelta)}</button>`;
 
         return `
         <tr>
@@ -52,14 +52,7 @@
                 <span class="points-total-slot">
                   <span class="points-total">${Math.round(manager.totalPoints)}</span>
                 </span>
-                ${
-                  deltaMarkup
-                    ? deltaMarkup.replace(
-                        '<span class="points-delta ',
-                        `<span title="Points gained ${app.escapeHtml(app.state.currentPointsChangeLabel)}" aria-label="Points gained ${app.escapeHtml(app.state.currentPointsChangeLabel)}" class="points-delta `
-                      )
-                    : ""
-                }
+                ${deltaMarkup}
               </span>
             </span>
           </td>
