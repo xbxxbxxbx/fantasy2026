@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-07T02:27:43.851523+00:00",
+  "generatedAt": "2026-06-07T02:30:13.002346+00:00",
   "league": "25k",
   "count": 4,
   "players": [
@@ -8,44 +8,44 @@
       "event": "Event #19: $25,000 High Roller No-Limit Hold\u2019em 8-Handed",
       "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-19/",
       "team": "Glaser",
-      "rank": "1 / 11",
+      "rank": "1 / 10",
       "chips": "11,350,000",
-      "bb": "94.6 BB",
+      "bb": "75.7 BB",
       "bonus": "Locked 13 PTS",
-      "points": 13.0
+      "points": 0.0
     },
     {
       "player": "Joey Weissman",
       "event": "Event #19: $25,000 High Roller No-Limit Hold\u2019em 8-Handed",
       "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-19/",
       "team": "Chocolate Factory",
-      "rank": "4 / 11",
+      "rank": "4 / 10",
       "chips": "5,160,000",
-      "bb": "43.0 BB",
+      "bb": "34.4 BB",
       "bonus": "Locked 13 PTS",
-      "points": 13.0
+      "points": 0.0
     },
     {
       "player": "Biao Ding",
       "event": "Event #19: $25,000 High Roller No-Limit Hold\u2019em 8-Handed",
       "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-19/",
       "team": "Spitework",
-      "rank": "9 / 11",
+      "rank": "9 / 10",
       "chips": "2,340,000",
-      "bb": "19.5 BB",
+      "bb": "15.6 BB",
       "bonus": "Locked 13 PTS",
-      "points": 13.0
+      "points": 0.0
     },
     {
       "player": "Zdenek Zizka",
       "event": "Event #19: $25,000 High Roller No-Limit Hold\u2019em 8-Handed",
       "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-19/",
       "team": "Lucky",
-      "rank": "11 / 11",
+      "rank": "10 / 10",
       "chips": "660,000",
-      "bb": "5.5 BB",
+      "bb": "4.4 BB",
       "bonus": "Locked 13 PTS",
-      "points": 13.0
+      "points": 0.0
     }
   ]
 }
