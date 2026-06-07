@@ -2,6 +2,16 @@
   "title": "Latest changes",
   "changes": [
     {
+      "commit": "dc41344",
+      "url": "https://github.com/xbxxbxxbx/fantasy2026/commit/dc41344",
+      "publishedAt": "2026-06-07T18:30:48Z",
+      "summary": [
+        "Make Back to Top scroll smoothly instead of jumping instantly",
+        "Keep reduced-motion users on the instant scroll behavior",
+        "Bump the script versions so the smoother scroll loads immediately"
+      ]
+    },
+    {
       "commit": "00f891f",
       "url": "https://github.com/xbxxbxxbx/fantasy2026/commit/00f891f",
       "publishedAt": "2026-06-07T02:15:01Z",
