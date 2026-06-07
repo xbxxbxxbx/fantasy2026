@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-07T06:20:12.968941+00:00",
+  "generatedAt": "2026-06-07T06:30:11.939928+00:00",
   "leagueName": "WSOP Poker Fantasy Draft 2026",
   "sourceLabel": "25KFantasy",
   "sourceUrl": "https://www.25kfantasy.com/players/",
@@ -383,7 +383,7 @@
       ],
       "totalPoints": 21.0,
       "pointsChange": 11.0,
-      "pointsChangeSincePrevious": 11.0
+      "pointsChangeSincePrevious": 0.0
     }
   ],
   "failures": []

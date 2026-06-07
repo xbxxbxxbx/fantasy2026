@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-07T06:20:13.548278+00:00",
+  "generatedAt": "2026-06-07T06:30:12.276640+00:00",
   "league": "25k",
   "count": 13,
   "players": [
@@ -48,24 +48,35 @@
       "points": 0.0
     },
     {
-      "player": "Chris Brewer",
-      "event": "Event #23: $10,000 Seven Card Stud Championship",
-      "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-23/",
-      "team": "Blez/NGNF",
-      "rank": "1 / 11",
-      "chips": "1,556,000",
-      "bb": "38.9 BB",
-      "bonus": "Locked 11 PTS",
-      "points": 11.0
-    },
-    {
       "player": "Michael Mizrachi",
       "event": "Event #23: $10,000 Seven Card Stud Championship",
       "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-23/",
       "team": "Fleyshman",
+      "rank": "1 / 11",
+      "chips": "1,429,000",
+      "bb": "35.7 BB",
+      "bonus": "Locked 11 PTS",
+      "points": 11.0
+    },
+    {
+      "player": "Chris Brewer",
+      "event": "Event #23: $10,000 Seven Card Stud Championship",
+      "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-23/",
+      "team": "Blez/NGNF",
       "rank": "2 / 11",
-      "chips": "1,250,000",
-      "bb": "31.3 BB",
+      "chips": "1,301,000",
+      "bb": "32.5 BB",
+      "bonus": "Locked 11 PTS",
+      "points": 11.0
+    },
+    {
+      "player": "Ryan Miller",
+      "event": "Event #23: $10,000 Seven Card Stud Championship",
+      "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-23/",
+      "team": "2026 ODB Bonus Players",
+      "rank": "4 / 11",
+      "chips": "845,000",
+      "bb": "21.1 BB",
       "bonus": "Locked 11 PTS",
       "points": 11.0
     },
@@ -74,9 +85,9 @@
       "event": "Event #23: $10,000 Seven Card Stud Championship",
       "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-23/",
       "team": "Banana",
-      "rank": "4 / 11",
-      "chips": "883,000",
-      "bb": "22.1 BB",
+      "rank": "5 / 11",
+      "chips": "702,000",
+      "bb": "17.6 BB",
       "bonus": "Locked 11 PTS",
       "points": 11.0
     },
@@ -86,30 +97,8 @@
       "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-23/",
       "team": "Lang",
       "rank": "5 / 11",
-      "chips": "710,000",
-      "bb": "17.8 BB",
-      "bonus": "Locked 11 PTS",
-      "points": 11.0
-    },
-    {
-      "player": "Maksim Pisarenko",
-      "event": "Event #23: $10,000 Seven Card Stud Championship",
-      "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-23/",
-      "team": "Glue Factory",
-      "rank": "6 / 11",
-      "chips": "499,000",
-      "bb": "12.5 BB",
-      "bonus": "Locked 11 PTS",
-      "points": 11.0
-    },
-    {
-      "player": "Ryan Miller",
-      "event": "Event #23: $10,000 Seven Card Stud Championship",
-      "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-23/",
-      "team": "2026 ODB Bonus Players",
-      "rank": "7 / 11",
-      "chips": "395,000",
-      "bb": "9.9 BB",
+      "chips": "702,000",
+      "bb": "17.6 BB",
       "bonus": "Locked 11 PTS",
       "points": 11.0
     },
@@ -118,20 +107,20 @@
       "event": "Event #23: $10,000 Seven Card Stud Championship",
       "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-23/",
       "team": "Lang",
-      "rank": "8 / 11",
-      "chips": "351,000",
-      "bb": "8.8 BB",
+      "rank": "7 / 11",
+      "chips": "582,000",
+      "bb": "14.6 BB",
       "bonus": "Locked 11 PTS",
       "points": 11.0
     },
     {
-      "player": "Brad Ruben",
+      "player": "Maksim Pisarenko",
       "event": "Event #23: $10,000 Seven Card Stud Championship",
       "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-23/",
-      "team": "Verderamo",
-      "rank": "9 / 11",
-      "chips": "332,000",
-      "bb": "8.3 BB",
+      "team": "Glue Factory",
+      "rank": "8 / 11",
+      "chips": "499,000",
+      "bb": "12.5 BB",
       "bonus": "Locked 11 PTS",
       "points": 11.0
     },
@@ -140,9 +129,20 @@
       "event": "Event #23: $10,000 Seven Card Stud Championship",
       "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-23/",
       "team": "Glue Factory",
+      "rank": "9 / 11",
+      "chips": "187,000",
+      "bb": "4.7 BB",
+      "bonus": "Locked 11 PTS",
+      "points": 11.0
+    },
+    {
+      "player": "Brad Ruben",
+      "event": "Event #23: $10,000 Seven Card Stud Championship",
+      "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-23/",
+      "team": "Verderamo",
       "rank": "10 / 11",
-      "chips": "296,000",
-      "bb": "7.4 BB",
+      "chips": "132,000",
+      "bb": "3.3 BB",
       "bonus": "Locked 11 PTS",
       "points": 11.0
     }
