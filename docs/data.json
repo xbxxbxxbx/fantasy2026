@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-07T20:50:09.373341+00:00",
+  "generatedAt": "2026-06-07T21:00:15.131478+00:00",
   "leagueName": "WSOP Poker Fantasy Draft 2026",
   "sourceLabel": "25KFantasy",
   "sourceUrl": "https://www.25kfantasy.com/players/",
@@ -224,7 +224,7 @@
       "players": [
         {
           "player": "John Racener",
-          "points": 66.0
+          "points": 67.0
         },
         {
           "player": "Scott Seiver",
@@ -255,9 +255,51 @@
           "points": 0.0
         }
       ],
-      "totalPoints": 130.0,
-      "pointsChange": 0.0,
-      "pointsChangeSincePrevious": 0.0
+      "totalPoints": 131.0,
+      "pointsChange": 1.0,
+      "pointsChangeSincePrevious": 1.0
+    },
+    {
+      "managerName": "Ruben",
+      "teamName": "wugwugwugwug",
+      "url": "https://www.poker.org/fantasy/wsop/2026/team/wugwugwugwug/",
+      "players": [
+        {
+          "player": "Brandon Shack-Harris",
+          "points": 47.0
+        },
+        {
+          "player": "Ryan Hoenig",
+          "points": 28.0
+        },
+        {
+          "player": "Maksim Pisarenko",
+          "points": 17.0
+        },
+        {
+          "player": "Jerry Wong",
+          "points": 13.0
+        },
+        {
+          "player": "Jim Collopy",
+          "points": 4.0
+        },
+        {
+          "player": "Matt Vengrin",
+          "points": 3.0
+        },
+        {
+          "player": "Ian Matakis",
+          "points": 2.0
+        },
+        {
+          "player": "Viktor Blom",
+          "points": 0.0
+        }
+      ],
+      "totalPoints": 114.0,
+      "pointsChange": 12.0,
+      "pointsChangeSincePrevious": 11.0
     },
     {
       "managerName": "Gus",
@@ -298,48 +340,6 @@
         }
       ],
       "totalPoints": 106.0,
-      "pointsChange": 1.0,
-      "pointsChangeSincePrevious": 0.0
-    },
-    {
-      "managerName": "Ruben",
-      "teamName": "wugwugwugwug",
-      "url": "https://www.poker.org/fantasy/wsop/2026/team/wugwugwugwug/",
-      "players": [
-        {
-          "player": "Brandon Shack-Harris",
-          "points": 47.0
-        },
-        {
-          "player": "Ryan Hoenig",
-          "points": 28.0
-        },
-        {
-          "player": "Jerry Wong",
-          "points": 13.0
-        },
-        {
-          "player": "Maksim Pisarenko",
-          "points": 6.0
-        },
-        {
-          "player": "Jim Collopy",
-          "points": 4.0
-        },
-        {
-          "player": "Matt Vengrin",
-          "points": 3.0
-        },
-        {
-          "player": "Ian Matakis",
-          "points": 2.0
-        },
-        {
-          "player": "Viktor Blom",
-          "points": 0.0
-        }
-      ],
-      "totalPoints": 103.0,
       "pointsChange": 1.0,
       "pointsChangeSincePrevious": 0.0
     },
