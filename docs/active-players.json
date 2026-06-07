@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-06-07T18:00:15.852464+00:00",
+  "generatedAt": "2026-06-07T18:10:10.730946+00:00",
   "league": "25k",
-  "count": 13,
+  "count": 34,
   "players": [
     {
       "player": "Kristen Foxen",
@@ -48,6 +48,237 @@
       "points": 0.0
     },
     {
+      "player": "Nicolas Milgrom",
+      "event": "Event #22: $1,500 Big O (Five Card PLO Hi-Lo 8 or Better)",
+      "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-22/",
+      "team": "Dinkers",
+      "rank": "1 / 161",
+      "chips": "816,000",
+      "bb": "\u2014",
+      "bonus": "Top 36 22 PTS",
+      "points": 1.0
+    },
+    {
+      "player": "Bruno Furth",
+      "event": "Event #22: $1,500 Big O (Five Card PLO Hi-Lo 8 or Better)",
+      "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-22/",
+      "team": "2026 ODB Bonus Players",
+      "rank": "3 / 161",
+      "chips": "557,000",
+      "bb": "\u2014",
+      "bonus": "Top 36 22 PTS",
+      "points": 1.0
+    },
+    {
+      "player": "Jon Shoreman",
+      "event": "Event #22: $1,500 Big O (Five Card PLO Hi-Lo 8 or Better)",
+      "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-22/",
+      "team": "2026 ODB Bonus Players",
+      "rank": "7 / 161",
+      "chips": "465,000",
+      "bb": "\u2014",
+      "bonus": "Top 36 22 PTS",
+      "points": 1.0
+    },
+    {
+      "player": "Dario Sammartino",
+      "event": "Event #22: $1,500 Big O (Five Card PLO Hi-Lo 8 or Better)",
+      "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-22/",
+      "team": "Glue Factory",
+      "rank": "10 / 161",
+      "chips": "424,000",
+      "bb": "\u2014",
+      "bonus": "Top 36 22 PTS",
+      "points": 1.0
+    },
+    {
+      "player": "Qiang Xu",
+      "event": "Event #22: $1,500 Big O (Five Card PLO Hi-Lo 8 or Better)",
+      "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-22/",
+      "team": "Trump Power",
+      "rank": "15 / 161",
+      "chips": "410,000",
+      "bb": "\u2014",
+      "bonus": "Top 36 22 PTS",
+      "points": 1.0
+    },
+    {
+      "player": "Steve Zolotow",
+      "event": "Event #22: $1,500 Big O (Five Card PLO Hi-Lo 8 or Better)",
+      "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-22/",
+      "team": "2026 ODB Bonus Players",
+      "rank": "30 / 161",
+      "chips": "289,000",
+      "bb": "\u2014",
+      "bonus": "Top 36 22 PTS",
+      "points": 1.0
+    },
+    {
+      "player": "Esther Taylor",
+      "event": "Event #22: $1,500 Big O (Five Card PLO Hi-Lo 8 or Better)",
+      "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-22/",
+      "team": "Lucky",
+      "rank": "41 / 161",
+      "chips": "249,000",
+      "bb": "\u2014",
+      "bonus": "Top 36 22 PTS",
+      "points": 1.0
+    },
+    {
+      "player": "Matthew Beinner",
+      "event": "Event #22: $1,500 Big O (Five Card PLO Hi-Lo 8 or Better)",
+      "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-22/",
+      "team": "Browndog",
+      "rank": "47 / 161",
+      "chips": "212,000",
+      "bb": "\u2014",
+      "bonus": "Top 36 22 PTS",
+      "points": 1.0
+    },
+    {
+      "player": "Bryce Yockey",
+      "event": "Event #22: $1,500 Big O (Five Card PLO Hi-Lo 8 or Better)",
+      "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-22/",
+      "team": "Very Handsome Horses",
+      "rank": "54 / 161",
+      "chips": "195,000",
+      "bb": "\u2014",
+      "bonus": "Top 36 22 PTS",
+      "points": 1.0
+    },
+    {
+      "player": "John Monnette",
+      "event": "Event #22: $1,500 Big O (Five Card PLO Hi-Lo 8 or Better)",
+      "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-22/",
+      "team": "Blades & Shades",
+      "rank": "59 / 161",
+      "chips": "189,000",
+      "bb": "\u2014",
+      "bonus": "Top 36 22 PTS",
+      "points": 1.0
+    },
+    {
+      "player": "Benjamin Miner",
+      "event": "Event #22: $1,500 Big O (Five Card PLO Hi-Lo 8 or Better)",
+      "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-22/",
+      "team": "Blez/NGNF",
+      "rank": "62 / 161",
+      "chips": "184,000",
+      "bb": "\u2014",
+      "bonus": "Top 36 22 PTS",
+      "points": 1.0
+    },
+    {
+      "player": "Frank Brannan",
+      "event": "Event #22: $1,500 Big O (Five Card PLO Hi-Lo 8 or Better)",
+      "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-22/",
+      "team": "Lucky",
+      "rank": "67 / 161",
+      "chips": "165,000",
+      "bb": "\u2014",
+      "bonus": "Top 36 22 PTS",
+      "points": 1.0
+    },
+    {
+      "player": "Jim Collopy",
+      "event": "Event #22: $1,500 Big O (Five Card PLO Hi-Lo 8 or Better)",
+      "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-22/",
+      "team": "Lang",
+      "rank": "71 / 161",
+      "chips": "160,000",
+      "bb": "\u2014",
+      "bonus": "Top 36 22 PTS",
+      "points": 1.0
+    },
+    {
+      "player": "Allan Le",
+      "event": "Event #22: $1,500 Big O (Five Card PLO Hi-Lo 8 or Better)",
+      "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-22/",
+      "team": "Blades & Shades",
+      "rank": "78 / 161",
+      "chips": "150,000",
+      "bb": "\u2014",
+      "bonus": "Top 36 22 PTS",
+      "points": 1.0
+    },
+    {
+      "player": "Kevin Yun Lam Choi",
+      "event": "Event #22: $1,500 Big O (Five Card PLO Hi-Lo 8 or Better)",
+      "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-22/",
+      "team": "Lady Gaga",
+      "rank": "85 / 161",
+      "chips": "138,000",
+      "bb": "\u2014",
+      "bonus": "Top 36 22 PTS",
+      "points": 1.0
+    },
+    {
+      "player": "Thomas Taylor",
+      "event": "Event #22: $1,500 Big O (Five Card PLO Hi-Lo 8 or Better)",
+      "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-22/",
+      "team": "Premiums Only",
+      "rank": "87 / 161",
+      "chips": "132,000",
+      "bb": "\u2014",
+      "bonus": "Top 36 22 PTS",
+      "points": 1.0
+    },
+    {
+      "player": "Chris Conrad",
+      "event": "Event #22: $1,500 Big O (Five Card PLO Hi-Lo 8 or Better)",
+      "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-22/",
+      "team": "2026 ODB Bonus Players",
+      "rank": "96 / 161",
+      "chips": "112,000",
+      "bb": "\u2014",
+      "bonus": "Top 36 22 PTS",
+      "points": 1.0
+    },
+    {
+      "player": "Ray Fishman",
+      "event": "Event #22: $1,500 Big O (Five Card PLO Hi-Lo 8 or Better)",
+      "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-22/",
+      "team": "Browndog",
+      "rank": "135 / 161",
+      "chips": "54,000",
+      "bb": "\u2014",
+      "bonus": "Top 36 22 PTS",
+      "points": 1.0
+    },
+    {
+      "player": "Jonathan Glendinning",
+      "event": "Event #22: $1,500 Big O (Five Card PLO Hi-Lo 8 or Better)",
+      "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-22/",
+      "team": "Dinkers",
+      "rank": "138 / 161",
+      "chips": "53,000",
+      "bb": "\u2014",
+      "bonus": "Top 36 22 PTS",
+      "points": 1.0
+    },
+    {
+      "player": "Brian Rast",
+      "event": "Event #22: $1,500 Big O (Five Card PLO Hi-Lo 8 or Better)",
+      "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-22/",
+      "team": "Stake Kings",
+      "rank": "140 / 161",
+      "chips": "48,000",
+      "bb": "\u2014",
+      "bonus": "Top 36 22 PTS",
+      "points": 1.0
+    },
+    {
+      "player": "Matt Wantman",
+      "event": "Event #22: $1,500 Big O (Five Card PLO Hi-Lo 8 or Better)",
+      "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-22/",
+      "team": "Glue Factory",
+      "rank": "154 / 161",
+      "chips": "28,000",
+      "bb": "\u2014",
+      "bonus": "Top 36 22 PTS",
+      "points": 1.0
+    },
+    {
       "player": "Michael Mizrachi",
       "event": "Event #23: $10,000 Seven Card Stud Championship",
       "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-23/",
@@ -81,10 +312,10 @@
       "points": 11.0
     },
     {
-      "player": "Naoya Kihara",
+      "player": "Jeremy Ausmus",
       "event": "Event #23: $10,000 Seven Card Stud Championship",
       "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-23/",
-      "team": "Banana",
+      "team": "Lang",
       "rank": "5 / 11",
       "chips": "702,000",
       "bb": "17.6 BB",
@@ -92,10 +323,10 @@
       "points": 11.0
     },
     {
-      "player": "Jeremy Ausmus",
+      "player": "Naoya Kihara",
       "event": "Event #23: $10,000 Seven Card Stud Championship",
       "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-23/",
-      "team": "Lang",
+      "team": "Banana",
       "rank": "5 / 11",
       "chips": "702,000",
       "bb": "17.6 BB",
