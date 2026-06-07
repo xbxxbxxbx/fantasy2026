@@ -47,6 +47,11 @@
     rosterJumpLinksInitialized: false,
     commitEasterEggInitialized: false,
     revealAnimationTimeoutId: 0,
+    refreshIntervalId: 0,
+    refreshStartTimeoutId: 0,
+    refreshInFlight: false,
+    refreshToastTestInitialized: false,
+    latestPlayerPointsByName: null,
     toastTimeoutId: null,
   };
 

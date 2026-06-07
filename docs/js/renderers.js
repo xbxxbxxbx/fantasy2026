@@ -339,20 +339,71 @@
     app.elements.statusBanner.hidden = !message;
   };
 
-  app.showRefreshToast = function showRefreshToast(message) {
+  app.hideRefreshToast = function hideRefreshToast() {
     if (!app.elements.refreshToast) {
       return;
     }
 
-    app.elements.refreshToast.textContent = message;
+    if (app.state.toastTimeoutId) {
+      window.clearTimeout(app.state.toastTimeoutId);
+      app.state.toastTimeoutId = null;
+    }
+
+    app.elements.refreshToast.classList.remove("is-visible");
+  };
+
+  app.showRefreshToast = function showRefreshToast(message, options = {}) {
+    if (!app.elements.refreshToast) {
+      return;
+    }
+
+    const html = options.html || `<p class="refresh-toast-message">${app.escapeHtml(message)}</p>`;
+    app.elements.refreshToast.innerHTML = `
+      <div class="refresh-toast-header">
+        <strong>${app.escapeHtml(options.title || "Leaderboard update")}</strong>
+        <button class="refresh-toast-dismiss" type="button" aria-label="Dismiss update notification">×</button>
+      </div>
+      <div class="refresh-toast-body">${html}</div>
+    `;
     app.elements.refreshToast.classList.add("is-visible");
+
+    const dismissButton = app.elements.refreshToast.querySelector(".refresh-toast-dismiss");
+    if (dismissButton) {
+      dismissButton.addEventListener("click", app.hideRefreshToast);
+    }
 
     if (app.state.toastTimeoutId) {
       window.clearTimeout(app.state.toastTimeoutId);
     }
 
     app.state.toastTimeoutId = window.setTimeout(() => {
-      app.elements.refreshToast.classList.remove("is-visible");
-    }, 2600);
+      app.hideRefreshToast();
+    }, options.duration || 10000);
+  };
+
+  app.showPointGainsToast = function showPointGainsToast(gains) {
+    if (!gains.length) {
+      return;
+    }
+
+    const rows = gains
+      .map(
+        (gain) => `
+          <li>
+            <span>${app.escapeHtml(gain.player)}</span>
+            <strong>
+              <span class="refresh-toast-gain">+${Math.round(gain.pointsGained)}</span>
+              <span class="refresh-toast-arrow">→</span>
+              <span class="refresh-toast-total">${Math.round(gain.totalPoints)}</span>
+            </strong>
+          </li>
+        `
+      )
+      .join("");
+
+    app.showRefreshToast("", {
+      title: "New points",
+      html: `<ul class="refresh-toast-list">${rows}</ul>`,
+    });
   };
 })(window.FantasyLeaderboardApp, document, window);
