@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-06-07T02:10:12.649957+00:00",
+  "generatedAt": "2026-06-07T02:20:11.444023+00:00",
   "league": "25k",
-  "count": 5,
+  "count": 4,
   "players": [
     {
       "player": "Kristen Foxen",
@@ -46,17 +46,6 @@
       "bb": "5.5 BB",
       "bonus": "Locked 13 PTS",
       "points": 13.0
-    },
-    {
-      "player": "Frederic Normand",
-      "event": "Event #21: $1,500 Pot-Limit Omaha Hi-Lo 8 or Better",
-      "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-21/",
-      "team": "Chocolate Factory",
-      "rank": "1 / 2",
-      "chips": "22,775,000",
-      "bb": "\u2014",
-      "bonus": "Locked 11 PTS",
-      "points": 0.0
     }
   ]
 }
