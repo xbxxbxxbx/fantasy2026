@@ -2,6 +2,16 @@
   "title": "Latest changes",
   "changes": [
     {
+      "commit": "00f891f",
+      "url": "https://github.com/xbxxbxxbx/fantasy2026/commit/00f891f",
+      "publishedAt": "2026-06-07T02:15:01Z",
+      "summary": [
+        "Make leaderboard plus points clickable",
+        "Show which players added those points",
+        "Load the matching history snapshot for the breakdown"
+      ]
+    },
+    {
       "commit": "50e7bd4",
       "url": "https://github.com/xbxxbxxbx/fantasy2026/commit/50e7bd4",
       "publishedAt": "2026-06-07T01:27:43Z",
