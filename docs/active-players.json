@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-07T03:30:12.059187+00:00",
+  "generatedAt": "2026-06-07T03:40:09.922640+00:00",
   "league": "25k",
   "count": 4,
   "players": [
@@ -10,7 +10,7 @@
       "team": "Glaser",
       "rank": "1 / 9",
       "chips": "11,350,000",
-      "bb": "75.7 BB",
+      "bb": "56.8 BB",
       "bonus": "Locked 13 PTS",
       "points": 0.0
     },
@@ -21,7 +21,7 @@
       "team": "Chocolate Factory",
       "rank": "3 / 9",
       "chips": "5,160,000",
-      "bb": "34.4 BB",
+      "bb": "25.8 BB",
       "bonus": "Locked 13 PTS",
       "points": 0.0
     },
@@ -32,7 +32,7 @@
       "team": "Spitework",
       "rank": "8 / 9",
       "chips": "2,340,000",
-      "bb": "15.6 BB",
+      "bb": "11.7 BB",
       "bonus": "Locked 13 PTS",
       "points": 0.0
     },
@@ -43,7 +43,7 @@
       "team": "Lucky",
       "rank": "9 / 9",
       "chips": "660,000",
-      "bb": "4.4 BB",
+      "bb": "3.3 BB",
       "bonus": "Locked 13 PTS",
       "points": 0.0
     }
