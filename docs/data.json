@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-08T23:10:10.401272+00:00",
+  "generatedAt": "2026-06-08T23:20:10.110041+00:00",
   "leagueName": "WSOP Poker Fantasy Draft 2026",
   "sourceLabel": "25KFantasy",
   "sourceUrl": "https://www.25kfantasy.com/players/",
@@ -92,48 +92,6 @@
       "pointsChangeSincePrevious": 0.0
     },
     {
-      "managerName": "Turbo",
-      "teamName": "Turbolulz",
-      "url": "https://www.poker.org/fantasy/wsop/2026/team/turbolulz/",
-      "players": [
-        {
-          "player": "Allen Kessler",
-          "points": 82.0
-        },
-        {
-          "player": "John Racener",
-          "points": 67.0
-        },
-        {
-          "player": "Scott Seiver",
-          "points": 46.0
-        },
-        {
-          "player": "Tyler Phillips",
-          "points": 15.0
-        },
-        {
-          "player": "Brad Owen",
-          "points": 2.0
-        },
-        {
-          "player": "Erik Seidel",
-          "points": 0.0
-        },
-        {
-          "player": "Ben Lamb",
-          "points": 0.0
-        },
-        {
-          "player": "Jared Bleznick",
-          "points": 0.0
-        }
-      ],
-      "totalPoints": 212.0,
-      "pointsChange": 0.0,
-      "pointsChangeSincePrevious": 0.0
-    },
-    {
       "managerName": "ASG",
       "teamName": "ASG's Team",
       "url": "https://www.poker.org/fantasy/wsop/2026/team/asg-s-team/",
@@ -141,6 +99,10 @@
         {
           "player": "Mike Leah",
           "points": 103.0
+        },
+        {
+          "player": "Chance Kornuth",
+          "points": 53.0
         },
         {
           "player": "Scott Seiver",
@@ -163,17 +125,55 @@
           "points": 1.0
         },
         {
-          "player": "Chance Kornuth",
-          "points": 1.0
-        },
-        {
           "player": "Jason Koon",
           "points": 0.0
         }
       ],
-      "totalPoints": 174.0,
-      "pointsChange": 0.0,
-      "pointsChangeSincePrevious": 0.0
+      "totalPoints": 226.0,
+      "pointsChange": 52.0,
+      "pointsChangeSincePrevious": 52.0
+    },
+    {
+      "managerName": "Turbo",
+      "teamName": "Turbolulz",
+      "url": "https://www.poker.org/fantasy/wsop/2026/team/turbolulz/",
+      "players": [
+        {
+          "player": "Allen Kessler",
+          "points": 82.0
+        },
+        {
+          "player": "John Racener",
+          "points": 67.0
+        },
+        {
+          "player": "Scott Seiver",
+          "points": 46.0
+        },
+        {
+          "player": "Tyler Phillips",
+          "points": 16.0
+        },
+        {
+          "player": "Brad Owen",
+          "points": 2.0
+        },
+        {
+          "player": "Erik Seidel",
+          "points": 0.0
+        },
+        {
+          "player": "Ben Lamb",
+          "points": 0.0
+        },
+        {
+          "player": "Jared Bleznick",
+          "points": 0.0
+        }
+      ],
+      "totalPoints": 213.0,
+      "pointsChange": 1.0,
+      "pointsChangeSincePrevious": 1.0
     },
     {
       "managerName": "Doinky",
@@ -349,6 +349,10 @@
       "url": "https://www.poker.org/fantasy/wsop/2026/team/lowerbackstamp/",
       "players": [
         {
+          "player": "Chance Kornuth",
+          "points": 53.0
+        },
+        {
           "player": "Patrick Leonard",
           "points": 16.0
         },
@@ -359,10 +363,6 @@
         {
           "player": "Andrew Lichtenberger",
           "points": 2.0
-        },
-        {
-          "player": "Chance Kornuth",
-          "points": 1.0
         },
         {
           "player": "Viktor Blom",
@@ -381,9 +381,9 @@
           "points": 0.0
         }
       ],
-      "totalPoints": 25.0,
-      "pointsChange": 2.0,
-      "pointsChangeSincePrevious": 0.0
+      "totalPoints": 77.0,
+      "pointsChange": 54.0,
+      "pointsChangeSincePrevious": 52.0
     }
   ],
   "failures": []
