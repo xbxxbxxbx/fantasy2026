@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-08T07:25:33.598029+00:00",
+  "generatedAt": "2026-06-08T07:30:17.249985+00:00",
   "league": "25k",
   "count": 13,
   "players": [
@@ -15,23 +15,23 @@
       "points": 22.0
     },
     {
-      "player": "John Holley",
+      "player": "Michael Estes",
       "event": "Event #22: $1,500 Big O (Five Card PLO Hi-Lo 8 or Better)",
       "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-22/",
       "team": "2026 ODB Bonus Players",
-      "rank": "6 / 30",
-      "chips": "2,500,000",
+      "rank": "8 / 30",
+      "chips": "2,070,000",
       "bb": "\u2014",
       "bonus": "Locked 22 PTS",
       "points": 22.0
     },
     {
-      "player": "Michael Estes",
+      "player": "John Holley",
       "event": "Event #22: $1,500 Big O (Five Card PLO Hi-Lo 8 or Better)",
       "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-22/",
       "team": "2026 ODB Bonus Players",
-      "rank": "9 / 30",
-      "chips": "2,070,000",
+      "rank": "13 / 30",
+      "chips": "1,800,000",
       "bb": "\u2014",
       "bonus": "Locked 22 PTS",
       "points": 22.0
