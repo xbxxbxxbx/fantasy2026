@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-08T07:10:13.282700+00:00",
+  "generatedAt": "2026-06-08T07:20:14.202680+00:00",
   "league": "25k",
   "count": 13,
   "players": [
@@ -30,7 +30,7 @@
       "event": "Event #22: $1,500 Big O (Five Card PLO Hi-Lo 8 or Better)",
       "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-22/",
       "team": "2026 ODB Bonus Players",
-      "rank": "10 / 30",
+      "rank": "9 / 30",
       "chips": "2,070,000",
       "bb": "\u2014",
       "bonus": "Locked 22 PTS",
@@ -41,7 +41,7 @@
       "event": "Event #22: $1,500 Big O (Five Card PLO Hi-Lo 8 or Better)",
       "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-22/",
       "team": "2026 ODB Bonus Players",
-      "rank": "15 / 30",
+      "rank": "14 / 30",
       "chips": "1,610,000",
       "bb": "\u2014",
       "bonus": "Locked 22 PTS",
@@ -52,7 +52,7 @@
       "event": "Event #22: $1,500 Big O (Five Card PLO Hi-Lo 8 or Better)",
       "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-22/",
       "team": "Dinkers",
-      "rank": "25 / 30",
+      "rank": "24 / 30",
       "chips": "705,000",
       "bb": "\u2014",
       "bonus": "Locked 22 PTS",
@@ -74,11 +74,11 @@
       "event": "Event #23: $10,000 Seven Card Stud Championship",
       "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-23/",
       "team": "Banana",
-      "rank": "1 / 2",
+      "rank": "1 / 1",
       "chips": "4,665,000",
       "bb": "23.3 BB",
       "bonus": "Locked 11 PTS",
-      "points": 0.0
+      "points": 126.0
     },
     {
       "player": "Sean Winter",
@@ -114,13 +114,13 @@
       "points": 0.0
     },
     {
-      "player": "Danny Chang",
+      "player": "Josh Reichard",
       "event": "Event #25: $500 Freezeout No-Limit Hold'em",
       "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-25/",
-      "team": "2026 ODB Bonus Players",
-      "rank": "35 / 162",
-      "chips": "550,000",
-      "bb": "22.0 BB",
+      "team": "Torching with TJ",
+      "rank": "11 / 162",
+      "chips": "1,355,000",
+      "bb": "54.2 BB",
       "bonus": "Top 54 42 PTS",
       "points": 1.0
     },
@@ -129,20 +129,20 @@
       "event": "Event #25: $500 Freezeout No-Limit Hold'em",
       "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-25/",
       "team": "Blades & Shades",
-      "rank": "35 / 162",
-      "chips": "550,000",
-      "bb": "22.0 BB",
+      "rank": "55 / 162",
+      "chips": "700,000",
+      "bb": "28.0 BB",
       "bonus": "Top 54 42 PTS",
       "points": 1.0
     },
     {
-      "player": "Josh Reichard",
+      "player": "Danny Chang",
       "event": "Event #25: $500 Freezeout No-Limit Hold'em",
       "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-25/",
-      "team": "Torching with TJ",
-      "rank": "98 / 162",
-      "chips": "240,000",
-      "bb": "9.6 BB",
+      "team": "2026 ODB Bonus Players",
+      "rank": "74 / 162",
+      "chips": "550,000",
+      "bb": "22.0 BB",
       "bonus": "Top 54 42 PTS",
       "points": 1.0
     }
