@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-08T03:10:11.770380+00:00",
+  "generatedAt": "2026-06-08T03:20:11.217540+00:00",
   "leagueName": "WSOP Poker Fantasy Draft 2026",
   "sourceLabel": "25KFantasy",
   "sourceUrl": "https://www.25kfantasy.com/players/",
@@ -7,6 +7,48 @@
   "pointsChangeLabel": "since restart",
   "pointsChangeComparisonDate": "2026-06-07",
   "managers": [
+    {
+      "managerName": "Kush",
+      "teamName": "Kushstrain1",
+      "url": "https://www.poker.org/fantasy/wsop/2026/team/kushstrain1/",
+      "players": [
+        {
+          "player": "Kristen Foxen",
+          "points": 130.0
+        },
+        {
+          "player": "Mike Leah",
+          "points": 103.0
+        },
+        {
+          "player": "David 'ODB' Baker",
+          "points": 25.0
+        },
+        {
+          "player": "Ben Yu",
+          "points": 6.0
+        },
+        {
+          "player": "Martin Zamani",
+          "points": 2.0
+        },
+        {
+          "player": "Andrew Lichtenberger",
+          "points": 2.0
+        },
+        {
+          "player": "Allen Kessler",
+          "points": 1.0
+        },
+        {
+          "player": "Viktor Blom",
+          "points": 0.0
+        }
+      ],
+      "totalPoints": 269.0,
+      "pointsChange": 129.0,
+      "pointsChangeSincePrevious": 128.0
+    },
     {
       "managerName": "realbmorekid",
       "teamName": "Bmore\u2019s Brawlers",
@@ -173,48 +215,6 @@
       ],
       "totalPoints": 147.0,
       "pointsChange": 2.0,
-      "pointsChangeSincePrevious": 0.0
-    },
-    {
-      "managerName": "Kush",
-      "teamName": "Kushstrain1",
-      "url": "https://www.poker.org/fantasy/wsop/2026/team/kushstrain1/",
-      "players": [
-        {
-          "player": "Mike Leah",
-          "points": 103.0
-        },
-        {
-          "player": "David 'ODB' Baker",
-          "points": 25.0
-        },
-        {
-          "player": "Ben Yu",
-          "points": 6.0
-        },
-        {
-          "player": "Martin Zamani",
-          "points": 2.0
-        },
-        {
-          "player": "Kristen Foxen",
-          "points": 2.0
-        },
-        {
-          "player": "Andrew Lichtenberger",
-          "points": 2.0
-        },
-        {
-          "player": "Allen Kessler",
-          "points": 1.0
-        },
-        {
-          "player": "Viktor Blom",
-          "points": 0.0
-        }
-      ],
-      "totalPoints": 141.0,
-      "pointsChange": 1.0,
       "pointsChangeSincePrevious": 0.0
     },
     {
