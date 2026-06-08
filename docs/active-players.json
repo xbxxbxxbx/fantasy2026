@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-08T02:50:12.100047+00:00",
+  "generatedAt": "2026-06-08T03:00:15.210300+00:00",
   "league": "25k",
   "count": 22,
   "players": [
@@ -107,7 +107,7 @@
       "event": "Event #22: $1,500 Big O (Five Card PLO Hi-Lo 8 or Better)",
       "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-22/",
       "team": "2026 ODB Bonus Players",
-      "rank": "27 / 59",
+      "rank": "28 / 59",
       "chips": "770,000",
       "bb": "\u2014",
       "bonus": "Top 36 22 PTS",
@@ -118,7 +118,7 @@
       "event": "Event #22: $1,500 Big O (Five Card PLO Hi-Lo 8 or Better)",
       "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-22/",
       "team": "2026 ODB Bonus Players",
-      "rank": "38 / 59",
+      "rank": "39 / 59",
       "chips": "550,000",
       "bb": "\u2014",
       "bonus": "Top 36 22 PTS",
@@ -129,7 +129,7 @@
       "event": "Event #22: $1,500 Big O (Five Card PLO Hi-Lo 8 or Better)",
       "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-22/",
       "team": "2026 ODB Bonus Players",
-      "rank": "43 / 59",
+      "rank": "44 / 59",
       "chips": "450,000",
       "bb": "\u2014",
       "bonus": "Top 36 22 PTS",
@@ -142,7 +142,7 @@
       "team": "Banana",
       "rank": "1 / 4",
       "chips": "2,325,000",
-      "bb": "23.3 BB",
+      "bb": "19.4 BB",
       "bonus": "Locked 11 PTS",
       "points": 0.0
     },
@@ -153,7 +153,7 @@
       "team": "Lang",
       "rank": "3 / 4",
       "chips": "1,785,000",
-      "bb": "17.9 BB",
+      "bb": "14.9 BB",
       "bonus": "Locked 11 PTS",
       "points": 0.0
     },
@@ -164,7 +164,7 @@
       "team": "Lang",
       "rank": "4 / 4",
       "chips": "1,400,000",
-      "bb": "14.0 BB",
+      "bb": "11.7 BB",
       "bonus": "Locked 11 PTS",
       "points": 0.0
     },
@@ -184,9 +184,9 @@
       "event": "Event #24: $25,000 High Roller No-Limit Hold\u2019em 6-Handed",
       "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-24/",
       "team": "Glaser",
-      "rank": "2 / 18",
-      "chips": "3,210,000",
-      "bb": "107.0 BB",
+      "rank": "3 / 18",
+      "chips": "2,525,000",
+      "bb": "84.2 BB",
       "bonus": "Locked 12 PTS",
       "points": 12.0
     },
