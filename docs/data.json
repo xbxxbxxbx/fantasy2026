@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-08T18:30:15.498295+00:00",
+  "generatedAt": "2026-06-08T18:40:13.760772+00:00",
   "leagueName": "WSOP Poker Fantasy Draft 2026",
   "sourceLabel": "25KFantasy",
   "sourceUrl": "https://www.25kfantasy.com/players/",
@@ -30,7 +30,7 @@
         },
         {
           "player": "Ben Yu",
-          "points": 6.0
+          "points": 7.0
         },
         {
           "player": "Martin Zamani",
@@ -45,9 +45,9 @@
           "points": 1.0
         }
       ],
-      "totalPoints": 351.0,
-      "pointsChange": 0.0,
-      "pointsChangeSincePrevious": 0.0
+      "totalPoints": 352.0,
+      "pointsChange": 1.0,
+      "pointsChangeSincePrevious": 1.0
     },
     {
       "managerName": "realbmorekid",
@@ -76,7 +76,7 @@
         },
         {
           "player": "Christian Harder",
-          "points": 9.0
+          "points": 10.0
         },
         {
           "player": "Brock Wilson",
@@ -84,12 +84,12 @@
         },
         {
           "player": "Esther Taylor",
-          "points": 4.0
+          "points": 5.0
         }
       ],
-      "totalPoints": 249.0,
-      "pointsChange": 0.0,
-      "pointsChangeSincePrevious": 0.0
+      "totalPoints": 251.0,
+      "pointsChange": 2.0,
+      "pointsChangeSincePrevious": 2.0
     },
     {
       "managerName": "Turbo",
@@ -190,7 +190,7 @@
         },
         {
           "player": "Adam Hendrix",
-          "points": 5.0
+          "points": 6.0
         },
         {
           "player": "Sam Soverel",
@@ -213,9 +213,9 @@
           "points": 0.0
         }
       ],
-      "totalPoints": 164.0,
-      "pointsChange": 0.0,
-      "pointsChangeSincePrevious": 0.0
+      "totalPoints": 165.0,
+      "pointsChange": 1.0,
+      "pointsChangeSincePrevious": 1.0
     },
     {
       "managerName": "JeffBNT",
@@ -236,7 +236,7 @@
         },
         {
           "player": "Ben Yu",
-          "points": 6.0
+          "points": 7.0
         },
         {
           "player": "Brock Wilson",
@@ -244,7 +244,7 @@
         },
         {
           "player": "Nicholas Seward",
-          "points": 4.0
+          "points": 5.0
         },
         {
           "player": "Sam Soverel",
@@ -255,9 +255,9 @@
           "points": 1.0
         }
       ],
-      "totalPoints": 147.0,
-      "pointsChange": 0.0,
-      "pointsChangeSincePrevious": 0.0
+      "totalPoints": 149.0,
+      "pointsChange": 2.0,
+      "pointsChangeSincePrevious": 2.0
     },
     {
       "managerName": "Gus",
@@ -266,7 +266,7 @@
       "players": [
         {
           "player": "Dylan Smith",
-          "points": 63.0
+          "points": 64.0
         },
         {
           "player": "Nick Guagenti",
@@ -286,20 +286,20 @@
         },
         {
           "player": "Esther Taylor",
+          "points": 5.0
+        },
+        {
+          "player": "Matt Glantz",
           "points": 4.0
         },
         {
           "player": "Phillip Hui",
           "points": 4.0
-        },
-        {
-          "player": "Matt Glantz",
-          "points": 3.0
         }
       ],
-      "totalPoints": 121.0,
-      "pointsChange": 0.0,
-      "pointsChangeSincePrevious": 0.0
+      "totalPoints": 124.0,
+      "pointsChange": 3.0,
+      "pointsChangeSincePrevious": 3.0
     },
     {
       "managerName": "Ruben",
@@ -327,21 +327,21 @@
           "points": 5.0
         },
         {
-          "player": "Matt Vengrin",
+          "player": "Ian Matakis",
           "points": 3.0
         },
         {
-          "player": "Ian Matakis",
-          "points": 2.0
+          "player": "Matt Vengrin",
+          "points": 3.0
         },
         {
           "player": "Viktor Blom",
           "points": 1.0
         }
       ],
-      "totalPoints": 117.0,
-      "pointsChange": 0.0,
-      "pointsChangeSincePrevious": 0.0
+      "totalPoints": 118.0,
+      "pointsChange": 1.0,
+      "pointsChangeSincePrevious": 1.0
     },
     {
       "managerName": "Trampstamp",
@@ -350,11 +350,11 @@
       "players": [
         {
           "player": "Patrick Leonard",
-          "points": 15.0
+          "points": 16.0
         },
         {
           "player": "Esther Taylor",
-          "points": 4.0
+          "points": 5.0
         },
         {
           "player": "Andrew Lichtenberger",
@@ -381,9 +381,9 @@
           "points": 0.0
         }
       ],
-      "totalPoints": 23.0,
-      "pointsChange": 0.0,
-      "pointsChangeSincePrevious": 0.0
+      "totalPoints": 25.0,
+      "pointsChange": 2.0,
+      "pointsChangeSincePrevious": 2.0
     }
   ],
   "failures": []
