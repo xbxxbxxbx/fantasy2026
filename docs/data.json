@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-08T05:30:14.842346+00:00",
+  "generatedAt": "2026-06-08T05:40:15.659249+00:00",
   "leagueName": "WSOP Poker Fantasy Draft 2026",
   "sourceLabel": "25KFantasy",
   "sourceUrl": "https://www.25kfantasy.com/players/",
@@ -316,7 +316,7 @@
         },
         {
           "player": "Maksim Pisarenko",
-          "points": 17.0
+          "points": 18.0
         },
         {
           "player": "Jerry Wong",
@@ -339,9 +339,9 @@
           "points": 1.0
         }
       ],
-      "totalPoints": 116.0,
-      "pointsChange": 14.0,
-      "pointsChangeSincePrevious": 0.0
+      "totalPoints": 117.0,
+      "pointsChange": 15.0,
+      "pointsChangeSincePrevious": 1.0
     },
     {
       "managerName": "Trampstamp",
