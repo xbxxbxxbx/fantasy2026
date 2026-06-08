@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-08T02:40:11.582527+00:00",
+  "generatedAt": "2026-06-08T02:50:12.100047+00:00",
   "league": "25k",
   "count": 22,
   "players": [
@@ -15,23 +15,23 @@
       "points": 128.0
     },
     {
-      "player": "Qiang Xu",
+      "player": "John Holley",
       "event": "Event #22: $1,500 Big O (Five Card PLO Hi-Lo 8 or Better)",
       "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-22/",
-      "team": "Trump Power",
+      "team": "2026 ODB Bonus Players",
       "rank": "1 / 59",
-      "chips": "2,620,000",
+      "chips": "2,700,000",
       "bb": "\u2014",
       "bonus": "Top 36 22 PTS",
       "points": 1.0
     },
     {
-      "player": "John Holley",
+      "player": "Qiang Xu",
       "event": "Event #22: $1,500 Big O (Five Card PLO Hi-Lo 8 or Better)",
       "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-22/",
-      "team": "2026 ODB Bonus Players",
+      "team": "Trump Power",
       "rank": "2 / 59",
-      "chips": "2,450,000",
+      "chips": "2,520,000",
       "bb": "\u2014",
       "bonus": "Top 36 22 PTS",
       "points": 1.0
@@ -41,8 +41,8 @@
       "event": "Event #22: $1,500 Big O (Five Card PLO Hi-Lo 8 or Better)",
       "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-22/",
       "team": "2026 ODB Bonus Players",
-      "rank": "3 / 59",
-      "chips": "2,100,000",
+      "rank": "4 / 59",
+      "chips": "1,950,000",
       "bb": "\u2014",
       "bonus": "Top 36 22 PTS",
       "points": 1.0
@@ -52,7 +52,7 @@
       "event": "Event #22: $1,500 Big O (Five Card PLO Hi-Lo 8 or Better)",
       "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-22/",
       "team": "2026 ODB Bonus Players",
-      "rank": "4 / 59",
+      "rank": "6 / 59",
       "chips": "1,935,000",
       "bb": "\u2014",
       "bonus": "Top 36 22 PTS",
@@ -63,19 +63,8 @@
       "event": "Event #22: $1,500 Big O (Five Card PLO Hi-Lo 8 or Better)",
       "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-22/",
       "team": "2026 ODB Bonus Players",
-      "rank": "6 / 59",
+      "rank": "8 / 59",
       "chips": "1,815,000",
-      "bb": "\u2014",
-      "bonus": "Top 36 22 PTS",
-      "points": 1.0
-    },
-    {
-      "player": "Nicolas Milgrom",
-      "event": "Event #22: $1,500 Big O (Five Card PLO Hi-Lo 8 or Better)",
-      "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-22/",
-      "team": "Dinkers",
-      "rank": "9 / 59",
-      "chips": "1,200,000",
       "bb": "\u2014",
       "bonus": "Top 36 22 PTS",
       "points": 1.0
@@ -85,19 +74,8 @@
       "event": "Event #22: $1,500 Big O (Five Card PLO Hi-Lo 8 or Better)",
       "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-22/",
       "team": "Wasserson",
-      "rank": "14 / 59",
-      "chips": "950,000",
-      "bb": "\u2014",
-      "bonus": "Top 36 22 PTS",
-      "points": 1.0
-    },
-    {
-      "player": "Jon Shoreman",
-      "event": "Event #22: $1,500 Big O (Five Card PLO Hi-Lo 8 or Better)",
-      "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-22/",
-      "team": "2026 ODB Bonus Players",
-      "rank": "20 / 59",
-      "chips": "840,000",
+      "rank": "13 / 59",
+      "chips": "1,360,000",
       "bb": "\u2014",
       "bonus": "Top 36 22 PTS",
       "points": 1.0
@@ -107,8 +85,30 @@
       "event": "Event #22: $1,500 Big O (Five Card PLO Hi-Lo 8 or Better)",
       "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-22/",
       "team": "Glue Factory",
-      "rank": "23 / 59",
-      "chips": "800,000",
+      "rank": "15 / 59",
+      "chips": "1,315,000",
+      "bb": "\u2014",
+      "bonus": "Top 36 22 PTS",
+      "points": 1.0
+    },
+    {
+      "player": "Nicolas Milgrom",
+      "event": "Event #22: $1,500 Big O (Five Card PLO Hi-Lo 8 or Better)",
+      "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-22/",
+      "team": "Dinkers",
+      "rank": "16 / 59",
+      "chips": "1,175,000",
+      "bb": "\u2014",
+      "bonus": "Top 36 22 PTS",
+      "points": 1.0
+    },
+    {
+      "player": "Jon Shoreman",
+      "event": "Event #22: $1,500 Big O (Five Card PLO Hi-Lo 8 or Better)",
+      "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-22/",
+      "team": "2026 ODB Bonus Players",
+      "rank": "27 / 59",
+      "chips": "770,000",
       "bb": "\u2014",
       "bonus": "Top 36 22 PTS",
       "points": 1.0
@@ -118,8 +118,8 @@
       "event": "Event #22: $1,500 Big O (Five Card PLO Hi-Lo 8 or Better)",
       "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-22/",
       "team": "2026 ODB Bonus Players",
-      "rank": "36 / 59",
-      "chips": "495,000",
+      "rank": "38 / 59",
+      "chips": "550,000",
       "bb": "\u2014",
       "bonus": "Top 36 22 PTS",
       "points": 1.0
@@ -129,8 +129,8 @@
       "event": "Event #22: $1,500 Big O (Five Card PLO Hi-Lo 8 or Better)",
       "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-22/",
       "team": "2026 ODB Bonus Players",
-      "rank": "44 / 59",
-      "chips": "316,000",
+      "rank": "43 / 59",
+      "chips": "450,000",
       "bb": "\u2014",
       "bonus": "Top 36 22 PTS",
       "points": 1.0
@@ -173,77 +173,77 @@
       "event": "Event #24: $25,000 High Roller No-Limit Hold\u2019em 6-Handed",
       "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-24/",
       "team": "Back Office",
-      "rank": "1 / 20",
+      "rank": "1 / 18",
       "chips": "5,500,000",
       "bb": "183.3 BB",
-      "bonus": "Top 18 12 PTS",
-      "points": 2.0
+      "bonus": "Locked 12 PTS",
+      "points": 12.0
     },
     {
       "player": "Sean Winter",
       "event": "Event #24: $25,000 High Roller No-Limit Hold\u2019em 6-Handed",
       "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-24/",
       "team": "Glaser",
-      "rank": "2 / 20",
+      "rank": "2 / 18",
       "chips": "3,210,000",
       "bb": "107.0 BB",
-      "bonus": "Top 18 12 PTS",
-      "points": 2.0
+      "bonus": "Locked 12 PTS",
+      "points": 12.0
     },
     {
       "player": "Chance Kornuth",
       "event": "Event #24: $25,000 High Roller No-Limit Hold\u2019em 6-Handed",
       "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-24/",
       "team": "Fleyshman",
-      "rank": "4 / 20",
+      "rank": "4 / 18",
       "chips": "2,240,000",
       "bb": "74.7 BB",
-      "bonus": "Top 18 12 PTS",
-      "points": 2.0
+      "bonus": "Locked 12 PTS",
+      "points": 12.0
     },
     {
       "player": "Michael Moncek",
       "event": "Event #24: $25,000 High Roller No-Limit Hold\u2019em 6-Handed",
       "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-24/",
       "team": "Gators",
-      "rank": "5 / 20",
+      "rank": "5 / 18",
       "chips": "2,175,000",
       "bb": "72.5 BB",
-      "bonus": "Top 18 12 PTS",
-      "points": 2.0
+      "bonus": "Locked 12 PTS",
+      "points": 12.0
     },
     {
       "player": "Dylan Smith",
       "event": "Event #24: $25,000 High Roller No-Limit Hold\u2019em 6-Handed",
       "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-24/",
       "team": "Spitework",
-      "rank": "7 / 20",
+      "rank": "7 / 18",
       "chips": "1,550,000",
       "bb": "51.7 BB",
-      "bonus": "Top 18 12 PTS",
-      "points": 2.0
+      "bonus": "Locked 12 PTS",
+      "points": 12.0
     },
     {
       "player": "Jun Obara",
       "event": "Event #24: $25,000 High Roller No-Limit Hold\u2019em 6-Handed",
       "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-24/",
       "team": "Lady Gaga",
-      "rank": "11 / 20",
+      "rank": "12 / 18",
       "chips": "1,085,000",
       "bb": "36.2 BB",
-      "bonus": "Top 18 12 PTS",
-      "points": 2.0
+      "bonus": "Locked 12 PTS",
+      "points": 12.0
     },
     {
       "player": "Danny Tang",
       "event": "Event #24: $25,000 High Roller No-Limit Hold\u2019em 6-Handed",
       "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-24/",
       "team": "Banana",
-      "rank": "13 / 20",
+      "rank": "14 / 18",
       "chips": "1,060,000",
       "bb": "35.3 BB",
-      "bonus": "Top 18 12 PTS",
-      "points": 2.0
+      "bonus": "Locked 12 PTS",
+      "points": 12.0
     }
   ]
 }
