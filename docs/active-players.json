@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-08T07:40:13.625729+00:00",
+  "generatedAt": "2026-06-08T07:50:15.710976+00:00",
   "league": "25k",
   "count": 12,
   "players": [
@@ -75,8 +75,8 @@
       "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-24/",
       "team": "Glaser",
       "rank": "1 / 7",
-      "chips": "9,655,000",
-      "bb": "96.6 BB",
+      "chips": "7,950,000",
+      "bb": "79.5 BB",
       "bonus": "Locked 12 PTS",
       "points": 0.0
     },
@@ -86,8 +86,8 @@
       "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-24/",
       "team": "Back Office",
       "rank": "2 / 7",
-      "chips": "6,000,000",
-      "bb": "60.0 BB",
+      "chips": "6,545,000",
+      "bb": "65.5 BB",
       "bonus": "Locked 12 PTS",
       "points": 0.0
     },
@@ -96,9 +96,9 @@
       "event": "Event #24: $25,000 High Roller No-Limit Hold\u2019em 6-Handed",
       "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-24/",
       "team": "Fleyshman",
-      "rank": "6 / 7",
-      "chips": "2,470,000",
-      "bb": "24.7 BB",
+      "rank": "7 / 7",
+      "chips": "835,000",
+      "bb": "8.4 BB",
       "bonus": "Locked 12 PTS",
       "points": 0.0
     },
