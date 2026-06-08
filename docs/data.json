@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-08T01:30:14.210704+00:00",
+  "generatedAt": "2026-06-08T01:40:10.699972+00:00",
   "leagueName": "WSOP Poker Fantasy Draft 2026",
   "sourceLabel": "25KFantasy",
   "sourceUrl": "https://www.25kfantasy.com/players/",
@@ -68,7 +68,7 @@
         },
         {
           "player": "Bryce Yockey",
-          "points": 3.0
+          "points": 4.0
         },
         {
           "player": "Matt Vengrin",
@@ -87,9 +87,9 @@
           "points": 0.0
         }
       ],
-      "totalPoints": 173.0,
-      "pointsChange": 0.0,
-      "pointsChangeSincePrevious": 0.0
+      "totalPoints": 174.0,
+      "pointsChange": 1.0,
+      "pointsChangeSincePrevious": 1.0
     },
     {
       "managerName": "Doinky",
