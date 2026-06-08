@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-08T00:50:12.641805+00:00",
+  "generatedAt": "2026-06-08T01:00:14.424398+00:00",
   "leagueName": "WSOP Poker Fantasy Draft 2026",
   "sourceLabel": "25KFantasy",
   "sourceUrl": "https://www.25kfantasy.com/players/",
@@ -42,12 +42,12 @@
         },
         {
           "player": "Esther Taylor",
-          "points": 3.0
+          "points": 4.0
         }
       ],
-      "totalPoints": 248.0,
-      "pointsChange": 73.0,
-      "pointsChangeSincePrevious": 0.0
+      "totalPoints": 249.0,
+      "pointsChange": 74.0,
+      "pointsChangeSincePrevious": 1.0
     },
     {
       "managerName": "ASG",
@@ -148,7 +148,7 @@
         },
         {
           "player": "Ari Engel",
-          "points": 6.0
+          "points": 7.0
         },
         {
           "player": "Brock Wilson",
@@ -171,9 +171,9 @@
           "points": 1.0
         }
       ],
-      "totalPoints": 145.0,
-      "pointsChange": 0.0,
-      "pointsChangeSincePrevious": 0.0
+      "totalPoints": 146.0,
+      "pointsChange": 1.0,
+      "pointsChangeSincePrevious": 1.0
     },
     {
       "managerName": "Kush",
@@ -327,21 +327,21 @@
           "points": 4.0
         },
         {
-          "player": "Matt Glantz",
-          "points": 3.0
-        },
-        {
           "player": "Esther Taylor",
-          "points": 3.0
+          "points": 4.0
         },
         {
           "player": "Phillip Hui",
+          "points": 4.0
+        },
+        {
+          "player": "Matt Glantz",
           "points": 3.0
         }
       ],
-      "totalPoints": 106.0,
-      "pointsChange": 1.0,
-      "pointsChangeSincePrevious": 0.0
+      "totalPoints": 108.0,
+      "pointsChange": 3.0,
+      "pointsChangeSincePrevious": 2.0
     },
     {
       "managerName": "Trampstamp",
@@ -354,7 +354,7 @@
         },
         {
           "player": "Esther Taylor",
-          "points": 3.0
+          "points": 4.0
         },
         {
           "player": "Andrew Lichtenberger",
@@ -381,9 +381,9 @@
           "points": 0.0
         }
       ],
-      "totalPoints": 21.0,
-      "pointsChange": 0.0,
-      "pointsChangeSincePrevious": 0.0
+      "totalPoints": 22.0,
+      "pointsChange": 1.0,
+      "pointsChangeSincePrevious": 1.0
     }
   ],
   "failures": []
