@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-08T04:30:12.266204+00:00",
+  "generatedAt": "2026-06-08T04:40:11.699364+00:00",
   "leagueName": "WSOP Poker Fantasy Draft 2026",
   "sourceLabel": "25KFantasy",
   "sourceUrl": "https://www.25kfantasy.com/players/",
@@ -324,7 +324,7 @@
         },
         {
           "player": "Jim Collopy",
-          "points": 4.0
+          "points": 5.0
         },
         {
           "player": "Matt Vengrin",
@@ -339,9 +339,9 @@
           "points": 0.0
         }
       ],
-      "totalPoints": 114.0,
-      "pointsChange": 12.0,
-      "pointsChangeSincePrevious": 0.0
+      "totalPoints": 115.0,
+      "pointsChange": 13.0,
+      "pointsChangeSincePrevious": 1.0
     },
     {
       "managerName": "Trampstamp",
