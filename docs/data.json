@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-08T05:10:12.376288+00:00",
+  "generatedAt": "2026-06-08T05:20:12.266445+00:00",
   "leagueName": "WSOP Poker Fantasy Draft 2026",
   "sourceLabel": "25KFantasy",
   "sourceUrl": "https://www.25kfantasy.com/players/",
@@ -37,17 +37,17 @@
           "points": 2.0
         },
         {
-          "player": "Allen Kessler",
+          "player": "Viktor Blom",
           "points": 1.0
         },
         {
-          "player": "Viktor Blom",
-          "points": 0.0
+          "player": "Allen Kessler",
+          "points": 1.0
         }
       ],
-      "totalPoints": 269.0,
-      "pointsChange": 129.0,
-      "pointsChangeSincePrevious": 0.0
+      "totalPoints": 270.0,
+      "pointsChange": 130.0,
+      "pointsChangeSincePrevious": 1.0
     },
     {
       "managerName": "realbmorekid",
@@ -336,12 +336,12 @@
         },
         {
           "player": "Viktor Blom",
-          "points": 0.0
+          "points": 1.0
         }
       ],
-      "totalPoints": 115.0,
-      "pointsChange": 13.0,
-      "pointsChangeSincePrevious": 0.0
+      "totalPoints": 116.0,
+      "pointsChange": 14.0,
+      "pointsChangeSincePrevious": 1.0
     },
     {
       "managerName": "Trampstamp",
@@ -365,11 +365,11 @@
           "points": 1.0
         },
         {
-          "player": "Ben Lamb",
-          "points": 0.0
+          "player": "Viktor Blom",
+          "points": 1.0
         },
         {
-          "player": "Viktor Blom",
+          "player": "Ben Lamb",
           "points": 0.0
         },
         {
@@ -381,9 +381,9 @@
           "points": 0.0
         }
       ],
-      "totalPoints": 22.0,
-      "pointsChange": 1.0,
-      "pointsChangeSincePrevious": 0.0
+      "totalPoints": 23.0,
+      "pointsChange": 2.0,
+      "pointsChangeSincePrevious": 1.0
     }
   ],
   "failures": []
