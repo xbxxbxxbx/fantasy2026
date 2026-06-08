@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-08T18:40:13.760772+00:00",
+  "generatedAt": "2026-06-08T18:50:12.248247+00:00",
   "leagueName": "WSOP Poker Fantasy Draft 2026",
   "sourceLabel": "25KFantasy",
   "sourceUrl": "https://www.25kfantasy.com/players/",
@@ -47,7 +47,7 @@
       ],
       "totalPoints": 352.0,
       "pointsChange": 1.0,
-      "pointsChangeSincePrevious": 1.0
+      "pointsChangeSincePrevious": 0.0
     },
     {
       "managerName": "realbmorekid",
@@ -89,7 +89,7 @@
       ],
       "totalPoints": 251.0,
       "pointsChange": 2.0,
-      "pointsChangeSincePrevious": 2.0
+      "pointsChangeSincePrevious": 0.0
     },
     {
       "managerName": "Turbo",
@@ -215,7 +215,7 @@
       ],
       "totalPoints": 165.0,
       "pointsChange": 1.0,
-      "pointsChangeSincePrevious": 1.0
+      "pointsChangeSincePrevious": 0.0
     },
     {
       "managerName": "JeffBNT",
@@ -257,7 +257,7 @@
       ],
       "totalPoints": 149.0,
       "pointsChange": 2.0,
-      "pointsChangeSincePrevious": 2.0
+      "pointsChangeSincePrevious": 0.0
     },
     {
       "managerName": "Gus",
@@ -299,7 +299,7 @@
       ],
       "totalPoints": 124.0,
       "pointsChange": 3.0,
-      "pointsChangeSincePrevious": 3.0
+      "pointsChangeSincePrevious": 0.0
     },
     {
       "managerName": "Ruben",
@@ -341,7 +341,7 @@
       ],
       "totalPoints": 118.0,
       "pointsChange": 1.0,
-      "pointsChangeSincePrevious": 1.0
+      "pointsChangeSincePrevious": 0.0
     },
     {
       "managerName": "Trampstamp",
@@ -383,7 +383,7 @@
       ],
       "totalPoints": 25.0,
       "pointsChange": 2.0,
-      "pointsChangeSincePrevious": 2.0
+      "pointsChangeSincePrevious": 0.0
     }
   ],
   "failures": []
