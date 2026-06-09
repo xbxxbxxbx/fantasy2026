@@ -1,14 +1,14 @@
 {
-  "generatedAt": "2026-06-09T20:30:18.759240+00:00",
+  "generatedAt": "2026-06-09T20:40:15.029773+00:00",
   "league": "25k",
-  "count": 22,
+  "count": 21,
   "players": [
     {
       "player": "Valentin Vornicu",
       "event": "Event #18: $1,500 MONSTER STACK No-Limit Hold'em",
       "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-18/",
       "team": "Fleyshman",
-      "rank": "1 / 48",
+      "rank": "1 / 46",
       "chips": "55,425,000",
       "bb": "138.6 BB",
       "bonus": "Locked 101 PTS",
@@ -19,7 +19,7 @@
       "event": "Event #18: $1,500 MONSTER STACK No-Limit Hold'em",
       "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-18/",
       "team": "Gators",
-      "rank": "4 / 48",
+      "rank": "4 / 46",
       "chips": "24,500,000",
       "bb": "61.3 BB",
       "bonus": "Locked 101 PTS",
@@ -30,7 +30,7 @@
       "event": "Event #18: $1,500 MONSTER STACK No-Limit Hold'em",
       "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-18/",
       "team": "2026 ODB Bonus Players",
-      "rank": "5 / 48",
+      "rank": "5 / 46",
       "chips": "22,530,000",
       "bb": "56.3 BB",
       "bonus": "Locked 101 PTS",
@@ -41,9 +41,9 @@
       "event": "Event #18: $1,500 MONSTER STACK No-Limit Hold'em",
       "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-18/",
       "team": "2026 ODB Bonus Players",
-      "rank": "7 / 48",
-      "chips": "20,300,000",
-      "bb": "50.8 BB",
+      "rank": "8 / 46",
+      "chips": "17,700,000",
+      "bb": "44.3 BB",
       "bonus": "Locked 101 PTS",
       "points": 101.0
     },
@@ -52,20 +52,9 @@
       "event": "Event #18: $1,500 MONSTER STACK No-Limit Hold'em",
       "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-18/",
       "team": "2026 ODB Bonus Players",
-      "rank": "19 / 48",
+      "rank": "18 / 46",
       "chips": "12,300,000",
       "bb": "30.8 BB",
-      "bonus": "Locked 101 PTS",
-      "points": 101.0
-    },
-    {
-      "player": "John Wasnock",
-      "event": "Event #18: $1,500 MONSTER STACK No-Limit Hold'em",
-      "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-18/",
-      "team": "Torching with TJ",
-      "rank": "38 / 48",
-      "chips": "6,200,000",
-      "bb": "15.5 BB",
       "bonus": "Locked 101 PTS",
       "points": 101.0
     },
@@ -74,7 +63,7 @@
       "event": "Event #18: $1,500 MONSTER STACK No-Limit Hold'em",
       "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-18/",
       "team": "Very Handsome Horses",
-      "rank": "42 / 48",
+      "rank": "41 / 46",
       "chips": "5,300,000",
       "bb": "13.3 BB",
       "bonus": "Locked 101 PTS",
@@ -85,7 +74,7 @@
       "event": "Event #18: $1,500 MONSTER STACK No-Limit Hold'em",
       "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-18/",
       "team": "2026 ODB Bonus Players",
-      "rank": "44 / 48",
+      "rank": "43 / 46",
       "chips": "4,443,000",
       "bb": "11.1 BB",
       "bonus": "Locked 101 PTS",
@@ -184,66 +173,66 @@
       "event": "Event #28: $600 Mixed No-Limit Hold'em / Pot-Limit Omaha Deepstack",
       "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-28/",
       "team": "Lady Gaga",
-      "rank": "1 / 48",
+      "rank": "1 / 43",
       "chips": "6,210,000",
       "bb": "\u2014",
-      "bonus": "Top 45 34 PTS",
-      "points": 1.0
+      "bonus": "Locked 34 PTS",
+      "points": 34.0
     },
     {
       "player": "John Holley",
       "event": "Event #28: $600 Mixed No-Limit Hold'em / Pot-Limit Omaha Deepstack",
       "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-28/",
       "team": "2026 ODB Bonus Players",
-      "rank": "2 / 48",
-      "chips": "4,310,000",
+      "rank": "2 / 43",
+      "chips": "5,100,000",
       "bb": "\u2014",
-      "bonus": "Top 45 34 PTS",
-      "points": 1.0
+      "bonus": "Locked 34 PTS",
+      "points": 34.0
     },
     {
       "player": "Josh Reichard",
       "event": "Event #28: $600 Mixed No-Limit Hold'em / Pot-Limit Omaha Deepstack",
       "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-28/",
       "team": "Torching with TJ",
-      "rank": "3 / 48",
+      "rank": "3 / 43",
       "chips": "4,040,000",
       "bb": "\u2014",
-      "bonus": "Top 45 34 PTS",
-      "points": 1.0
+      "bonus": "Locked 34 PTS",
+      "points": 34.0
     },
     {
       "player": "Kenneth Gregory",
       "event": "Event #28: $600 Mixed No-Limit Hold'em / Pot-Limit Omaha Deepstack",
       "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-28/",
       "team": "2026 ODB Bonus Players",
-      "rank": "6 / 48",
+      "rank": "6 / 43",
       "chips": "3,650,000",
       "bb": "\u2014",
-      "bonus": "Top 45 34 PTS",
-      "points": 1.0
+      "bonus": "Locked 34 PTS",
+      "points": 34.0
     },
     {
       "player": "Daniel Negreanu",
       "event": "Event #28: $600 Mixed No-Limit Hold'em / Pot-Limit Omaha Deepstack",
       "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-28/",
       "team": "DNegs",
-      "rank": "9 / 48",
+      "rank": "9 / 43",
       "chips": "3,040,000",
       "bb": "\u2014",
-      "bonus": "Top 45 34 PTS",
-      "points": 1.0
+      "bonus": "Locked 34 PTS",
+      "points": 34.0
     },
     {
       "player": "Calvin Anderson",
       "event": "Event #28: $600 Mixed No-Limit Hold'em / Pot-Limit Omaha Deepstack",
       "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-28/",
       "team": "Glue Factory",
-      "rank": "28 / 48",
+      "rank": "27 / 43",
       "chips": "1,185,000",
       "bb": "\u2014",
-      "bonus": "Top 45 34 PTS",
-      "points": 1.0
+      "bonus": "Locked 34 PTS",
+      "points": 34.0
     }
   ]
 }
