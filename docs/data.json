@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-09T07:10:10.953424+00:00",
+  "generatedAt": "2026-06-09T07:20:10.827505+00:00",
   "leagueName": "WSOP Poker Fantasy Draft 2026",
   "sourceLabel": "25KFantasy",
   "sourceUrl": "https://www.25kfantasy.com/players/",
@@ -37,17 +37,17 @@
           "points": 2.0
         },
         {
-          "player": "Andrew Lichtenberger",
+          "player": "Viktor Blom",
           "points": 2.0
         },
         {
-          "player": "Viktor Blom",
-          "points": 1.0
+          "player": "Andrew Lichtenberger",
+          "points": 2.0
         }
       ],
-      "totalPoints": 353.0,
-      "pointsChange": 2.0,
-      "pointsChangeSincePrevious": 0.0
+      "totalPoints": 354.0,
+      "pointsChange": 3.0,
+      "pointsChangeSincePrevious": 1.0
     },
     {
       "managerName": "realbmorekid",
@@ -299,7 +299,7 @@
       ],
       "totalPoints": 135.0,
       "pointsChange": 14.0,
-      "pointsChangeSincePrevious": 11.0
+      "pointsChangeSincePrevious": 0.0
     },
     {
       "managerName": "Ruben",
@@ -336,12 +336,12 @@
         },
         {
           "player": "Viktor Blom",
-          "points": 1.0
+          "points": 2.0
         }
       ],
-      "totalPoints": 129.0,
-      "pointsChange": 12.0,
-      "pointsChangeSincePrevious": 0.0
+      "totalPoints": 130.0,
+      "pointsChange": 13.0,
+      "pointsChangeSincePrevious": 1.0
     },
     {
       "managerName": "Trampstamp",
@@ -361,12 +361,12 @@
           "points": 5.0
         },
         {
-          "player": "Andrew Lichtenberger",
+          "player": "Viktor Blom",
           "points": 2.0
         },
         {
-          "player": "Viktor Blom",
-          "points": 1.0
+          "player": "Andrew Lichtenberger",
+          "points": 2.0
         },
         {
           "player": "Ben Lamb",
@@ -381,9 +381,9 @@
           "points": 0.0
         }
       ],
-      "totalPoints": 77.0,
-      "pointsChange": 54.0,
-      "pointsChangeSincePrevious": 0.0
+      "totalPoints": 78.0,
+      "pointsChange": 55.0,
+      "pointsChangeSincePrevious": 1.0
     }
   ],
   "failures": []
