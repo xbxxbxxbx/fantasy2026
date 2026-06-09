@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-09T05:30:15.962149+00:00",
+  "generatedAt": "2026-06-09T05:40:12.226813+00:00",
   "leagueName": "WSOP Poker Fantasy Draft 2026",
   "sourceLabel": "25KFantasy",
   "sourceUrl": "https://www.25kfantasy.com/players/",
@@ -22,7 +22,7 @@
         },
         {
           "player": "Allen Kessler",
-          "points": 82.0
+          "points": 83.0
         },
         {
           "player": "David 'ODB' Baker",
@@ -45,9 +45,9 @@
           "points": 1.0
         }
       ],
-      "totalPoints": 352.0,
-      "pointsChange": 1.0,
-      "pointsChangeSincePrevious": 0.0
+      "totalPoints": 353.0,
+      "pointsChange": 2.0,
+      "pointsChangeSincePrevious": 1.0
     },
     {
       "managerName": "realbmorekid",
@@ -106,7 +106,7 @@
         },
         {
           "player": "Scott Seiver",
-          "points": 46.0
+          "points": 48.0
         },
         {
           "player": "Jon Turner",
@@ -129,9 +129,9 @@
           "points": 0.0
         }
       ],
-      "totalPoints": 226.0,
-      "pointsChange": 52.0,
-      "pointsChangeSincePrevious": 0.0
+      "totalPoints": 228.0,
+      "pointsChange": 54.0,
+      "pointsChangeSincePrevious": 2.0
     },
     {
       "managerName": "Turbo",
@@ -140,7 +140,7 @@
       "players": [
         {
           "player": "Allen Kessler",
-          "points": 82.0
+          "points": 83.0
         },
         {
           "player": "John Racener",
@@ -148,7 +148,7 @@
         },
         {
           "player": "Scott Seiver",
-          "points": 46.0
+          "points": 48.0
         },
         {
           "player": "Tyler Phillips",
@@ -171,9 +171,9 @@
           "points": 0.0
         }
       ],
-      "totalPoints": 213.0,
-      "pointsChange": 1.0,
-      "pointsChangeSincePrevious": 0.0
+      "totalPoints": 216.0,
+      "pointsChange": 4.0,
+      "pointsChangeSincePrevious": 3.0
     },
     {
       "managerName": "Doinky",
