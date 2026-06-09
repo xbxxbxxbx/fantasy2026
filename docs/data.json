@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-09T14:00:22.794516+00:00",
+  "generatedAt": "2026-06-09T14:10:13.396965+00:00",
   "leagueName": "WSOP Poker Fantasy Draft 2026",
   "sourceLabel": "25KFantasy",
   "sourceUrl": "https://www.25kfantasy.com/players/",
@@ -92,6 +92,48 @@
       "pointsChangeSincePrevious": 0.0
     },
     {
+      "managerName": "Turbo",
+      "teamName": "Turbolulz",
+      "url": "https://www.poker.org/fantasy/wsop/2026/team/turbolulz/",
+      "players": [
+        {
+          "player": "Allen Kessler",
+          "points": 83.0
+        },
+        {
+          "player": "John Racener",
+          "points": 67.0
+        },
+        {
+          "player": "Scott Seiver",
+          "points": 48.0
+        },
+        {
+          "player": "Erik Seidel",
+          "points": 22.0
+        },
+        {
+          "player": "Tyler Phillips",
+          "points": 16.0
+        },
+        {
+          "player": "Brad Owen",
+          "points": 2.0
+        },
+        {
+          "player": "Ben Lamb",
+          "points": 0.0
+        },
+        {
+          "player": "Jared Bleznick",
+          "points": 0.0
+        }
+      ],
+      "totalPoints": 238.0,
+      "pointsChange": 22.0,
+      "pointsChangeSincePrevious": 22.0
+    },
+    {
       "managerName": "ASG",
       "teamName": "ASG's Team",
       "url": "https://www.poker.org/fantasy/wsop/2026/team/asg-s-team/",
@@ -130,48 +172,6 @@
         }
       ],
       "totalPoints": 228.0,
-      "pointsChange": 0.0,
-      "pointsChangeSincePrevious": 0.0
-    },
-    {
-      "managerName": "Turbo",
-      "teamName": "Turbolulz",
-      "url": "https://www.poker.org/fantasy/wsop/2026/team/turbolulz/",
-      "players": [
-        {
-          "player": "Allen Kessler",
-          "points": 83.0
-        },
-        {
-          "player": "John Racener",
-          "points": 67.0
-        },
-        {
-          "player": "Scott Seiver",
-          "points": 48.0
-        },
-        {
-          "player": "Tyler Phillips",
-          "points": 16.0
-        },
-        {
-          "player": "Brad Owen",
-          "points": 2.0
-        },
-        {
-          "player": "Erik Seidel",
-          "points": 0.0
-        },
-        {
-          "player": "Ben Lamb",
-          "points": 0.0
-        },
-        {
-          "player": "Jared Bleznick",
-          "points": 0.0
-        }
-      ],
-      "totalPoints": 216.0,
       "pointsChange": 0.0,
       "pointsChangeSincePrevious": 0.0
     },
