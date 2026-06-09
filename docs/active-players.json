@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-06-09T23:24:37.836496+00:00",
+  "generatedAt": "2026-06-09T23:30:12.838400+00:00",
   "league": "25k",
-  "count": 23,
+  "count": 22,
   "players": [
     {
       "player": "Valentin Vornicu",
@@ -65,7 +65,7 @@
       "team": "Very Handsome Horses",
       "rank": "1 / 7",
       "chips": "3,335,000",
-      "bb": "133.4 BB",
+      "bb": "111.2 BB",
       "bonus": "Locked 11 PTS",
       "points": 0.0
     },
@@ -76,7 +76,7 @@
       "team": "Dinkers",
       "rank": "2 / 7",
       "chips": "1,700,000",
-      "bb": "68.0 BB",
+      "bb": "56.7 BB",
       "bonus": "Locked 11 PTS",
       "points": 0.0
     },
@@ -87,7 +87,7 @@
       "team": "2026 ODB Bonus Players",
       "rank": "3 / 7",
       "chips": "1,505,000",
-      "bb": "60.2 BB",
+      "bb": "50.2 BB",
       "bonus": "Locked 11 PTS",
       "points": 0.0
     },
@@ -98,7 +98,7 @@
       "team": "Lang Gang",
       "rank": "4 / 7",
       "chips": "1,115,000",
-      "bb": "44.6 BB",
+      "bb": "37.2 BB",
       "bonus": "Locked 11 PTS",
       "points": 0.0
     },
@@ -109,7 +109,7 @@
       "team": "2026 ODB Bonus Players",
       "rank": "5 / 7",
       "chips": "810,000",
-      "bb": "32.4 BB",
+      "bb": "27.0 BB",
       "bonus": "Locked 11 PTS",
       "points": 0.0
     },
@@ -120,7 +120,7 @@
       "team": "Verderamo",
       "rank": "6 / 7",
       "chips": "655,000",
-      "bb": "26.2 BB",
+      "bb": "21.8 BB",
       "bonus": "Locked 11 PTS",
       "points": 0.0
     },
@@ -129,7 +129,7 @@
       "event": "Event #28: $600 Mixed No-Limit Hold'em / Pot-Limit Omaha Deepstack",
       "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-28/",
       "team": "Lady Gaga",
-      "rank": "1 / 17",
+      "rank": "1 / 16",
       "chips": "10,825,000",
       "bb": "\u2014",
       "bonus": "Locked 34 PTS",
@@ -140,19 +140,8 @@
       "event": "Event #28: $600 Mixed No-Limit Hold'em / Pot-Limit Omaha Deepstack",
       "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-28/",
       "team": "2026 ODB Bonus Players",
-      "rank": "2 / 17",
+      "rank": "2 / 16",
       "chips": "9,425,000",
-      "bb": "\u2014",
-      "bonus": "Locked 34 PTS",
-      "points": 36.0
-    },
-    {
-      "player": "Josh Reichard",
-      "event": "Event #28: $600 Mixed No-Limit Hold'em / Pot-Limit Omaha Deepstack",
-      "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-28/",
-      "team": "Torching with TJ",
-      "rank": "5 / 17",
-      "chips": "7,900,000",
       "bb": "\u2014",
       "bonus": "Locked 34 PTS",
       "points": 36.0
@@ -162,8 +151,19 @@
       "event": "Event #28: $600 Mixed No-Limit Hold'em / Pot-Limit Omaha Deepstack",
       "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-28/",
       "team": "2026 ODB Bonus Players",
-      "rank": "9 / 17",
-      "chips": "4,700,000",
+      "rank": "5 / 16",
+      "chips": "8,300,000",
+      "bb": "\u2014",
+      "bonus": "Locked 34 PTS",
+      "points": 36.0
+    },
+    {
+      "player": "Josh Reichard",
+      "event": "Event #28: $600 Mixed No-Limit Hold'em / Pot-Limit Omaha Deepstack",
+      "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-28/",
+      "team": "Torching with TJ",
+      "rank": "6 / 16",
+      "chips": "7,900,000",
       "bb": "\u2014",
       "bonus": "Locked 34 PTS",
       "points": 36.0
@@ -173,7 +173,7 @@
       "event": "Event #28: $600 Mixed No-Limit Hold'em / Pot-Limit Omaha Deepstack",
       "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-28/",
       "team": "DNegs",
-      "rank": "13 / 17",
+      "rank": "12 / 16",
       "chips": "2,400,000",
       "bb": "\u2014",
       "bonus": "Locked 34 PTS",
@@ -184,7 +184,7 @@
       "event": "Event #30: $1,500 Limit Hold'em 7-Handed",
       "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-30/",
       "team": "Noori",
-      "rank": "6 / 42",
+      "rank": "6 / 40",
       "chips": "438,000",
       "bb": "21.9 BB",
       "bonus": "Top 18 10 PTS",
@@ -195,9 +195,20 @@
       "event": "Event #30: $1,500 Limit Hold'em 7-Handed",
       "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-30/",
       "team": "Dinkers",
-      "rank": "14 / 42",
+      "rank": "14 / 40",
       "chips": "302,000",
       "bb": "15.1 BB",
+      "bonus": "Top 18 10 PTS",
+      "points": 1.0
+    },
+    {
+      "player": "Robert Mizrachi",
+      "event": "Event #30: $1,500 Limit Hold'em 7-Handed",
+      "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-30/",
+      "team": "Very Handsome Horses",
+      "rank": "16 / 40",
+      "chips": "296,000",
+      "bb": "14.8 BB",
       "bonus": "Top 18 10 PTS",
       "points": 1.0
     },
@@ -206,20 +217,9 @@
       "event": "Event #30: $1,500 Limit Hold'em 7-Handed",
       "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-30/",
       "team": "Lang Gang",
-      "rank": "17 / 42",
+      "rank": "18 / 40",
       "chips": "291,000",
       "bb": "14.6 BB",
-      "bonus": "Top 18 10 PTS",
-      "points": 1.0
-    },
-    {
-      "player": "Maxx Coleman",
-      "event": "Event #30: $1,500 Limit Hold'em 7-Handed",
-      "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-30/",
-      "team": "Browndog",
-      "rank": "18 / 42",
-      "chips": "286,000",
-      "bb": "14.3 BB",
       "bonus": "Top 18 10 PTS",
       "points": 1.0
     },
@@ -228,7 +228,7 @@
       "event": "Event #30: $1,500 Limit Hold'em 7-Handed",
       "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-30/",
       "team": "2026 ODB Bonus Players",
-      "rank": "19 / 42",
+      "rank": "19 / 40",
       "chips": "270,000",
       "bb": "13.5 BB",
       "bonus": "Top 18 10 PTS",
@@ -239,20 +239,9 @@
       "event": "Event #30: $1,500 Limit Hold'em 7-Handed",
       "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-30/",
       "team": "Blades & Shades",
-      "rank": "30 / 42",
+      "rank": "29 / 40",
       "chips": "163,000",
       "bb": "8.2 BB",
-      "bonus": "Top 18 10 PTS",
-      "points": 1.0
-    },
-    {
-      "player": "Robert Mizrachi",
-      "event": "Event #30: $1,500 Limit Hold'em 7-Handed",
-      "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-30/",
-      "team": "Very Handsome Horses",
-      "rank": "39 / 42",
-      "chips": "74,000",
-      "bb": "3.7 BB",
       "bonus": "Top 18 10 PTS",
       "points": 1.0
     }
