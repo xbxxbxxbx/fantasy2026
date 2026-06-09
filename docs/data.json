@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-09T21:30:37.831550+00:00",
+  "generatedAt": "2026-06-09T21:40:12.560209+00:00",
   "leagueName": "WSOP Poker Fantasy Draft 2026",
   "sourceLabel": "25KFantasy",
   "sourceUrl": "https://www.25kfantasy.com/players/",
@@ -72,7 +72,7 @@
         },
         {
           "player": "Jon Turner",
-          "points": 16.0
+          "points": 17.0
         },
         {
           "player": "Bryce Yockey",
@@ -87,9 +87,9 @@
           "points": 0.0
         }
       ],
-      "totalPoints": 263.0,
-      "pointsChange": 35.0,
-      "pointsChangeSincePrevious": 0.0
+      "totalPoints": 264.0,
+      "pointsChange": 36.0,
+      "pointsChangeSincePrevious": 1.0
     },
     {
       "managerName": "realbmorekid",
@@ -190,7 +190,7 @@
         },
         {
           "player": "Jon Turner",
-          "points": 16.0
+          "points": 17.0
         },
         {
           "player": "Ari Engel",
@@ -213,9 +213,9 @@
           "points": 4.0
         }
       ],
-      "totalPoints": 183.0,
-      "pointsChange": 34.0,
-      "pointsChangeSincePrevious": 0.0
+      "totalPoints": 184.0,
+      "pointsChange": 35.0,
+      "pointsChangeSincePrevious": 1.0
     },
     {
       "managerName": "Doinky",
