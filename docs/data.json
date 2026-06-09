@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-09T21:50:12.948115+00:00",
+  "generatedAt": "2026-06-09T22:00:16.423797+00:00",
   "leagueName": "WSOP Poker Fantasy Draft 2026",
   "sourceLabel": "25KFantasy",
   "sourceUrl": "https://www.25kfantasy.com/players/",
@@ -21,6 +21,10 @@
           "points": 103.0
         },
         {
+          "player": "Martin Zamani",
+          "points": 103.0
+        },
+        {
           "player": "Allen Kessler",
           "points": 83.0
         },
@@ -33,10 +37,6 @@
           "points": 7.0
         },
         {
-          "player": "Martin Zamani",
-          "points": 2.0
-        },
-        {
           "player": "Viktor Blom",
           "points": 2.0
         },
@@ -45,9 +45,9 @@
           "points": 2.0
         }
       ],
-      "totalPoints": 354.0,
-      "pointsChange": 0.0,
-      "pointsChangeSincePrevious": 0.0
+      "totalPoints": 455.0,
+      "pointsChange": 101.0,
+      "pointsChangeSincePrevious": 101.0
     },
     {
       "managerName": "ASG",
