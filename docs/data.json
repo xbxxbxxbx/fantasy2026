@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-10T00:30:14.378112+00:00",
+  "generatedAt": "2026-06-10T00:40:13.439908+00:00",
   "leagueName": "WSOP Poker Fantasy Draft 2026",
   "sourceLabel": "25KFantasy",
   "sourceUrl": "https://www.25kfantasy.com/players/",
@@ -121,17 +121,17 @@
           "points": 10.0
         },
         {
-          "player": "Brock Wilson",
+          "player": "Esther Taylor",
           "points": 6.0
         },
         {
-          "player": "Esther Taylor",
-          "points": 5.0
+          "player": "Brock Wilson",
+          "points": 6.0
         }
       ],
-      "totalPoints": 252.0,
-      "pointsChange": 0.0,
-      "pointsChangeSincePrevious": 0.0
+      "totalPoints": 253.0,
+      "pointsChange": 1.0,
+      "pointsChangeSincePrevious": 1.0
     },
     {
       "managerName": "Turbo",
@@ -285,11 +285,11 @@
           "points": 13.0
         },
         {
-          "player": "Danny Wong",
-          "points": 5.0
+          "player": "Esther Taylor",
+          "points": 6.0
         },
         {
-          "player": "Esther Taylor",
+          "player": "Danny Wong",
           "points": 5.0
         },
         {
@@ -297,9 +297,9 @@
           "points": 4.0
         }
       ],
-      "totalPoints": 135.0,
-      "pointsChange": 0.0,
-      "pointsChangeSincePrevious": 0.0
+      "totalPoints": 136.0,
+      "pointsChange": 1.0,
+      "pointsChangeSincePrevious": 1.0
     },
     {
       "managerName": "Ruben",
@@ -358,7 +358,7 @@
         },
         {
           "player": "Esther Taylor",
-          "points": 5.0
+          "points": 6.0
         },
         {
           "player": "Viktor Blom",
@@ -381,9 +381,9 @@
           "points": 0.0
         }
       ],
-      "totalPoints": 78.0,
-      "pointsChange": 0.0,
-      "pointsChangeSincePrevious": 0.0
+      "totalPoints": 79.0,
+      "pointsChange": 1.0,
+      "pointsChangeSincePrevious": 1.0
     }
   ],
   "failures": []
