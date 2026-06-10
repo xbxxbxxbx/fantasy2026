@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-10T07:10:14.962161+00:00",
+  "generatedAt": "2026-06-10T07:20:14.472618+00:00",
   "league": "25k",
   "count": 7,
   "players": [
@@ -63,9 +63,9 @@
       "event": "Event #31: $1,500 Super Turbo Bounty No-Limit Hold'em",
       "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-31/",
       "team": "2026 ODB Bonus Players",
-      "rank": "1 / 8",
-      "chips": "9,700,000",
-      "bb": "32.3 BB",
+      "rank": "2 / 8",
+      "chips": "9,000,000",
+      "bb": "30.0 BB",
       "bonus": "Locked 22 PTS",
       "points": 0.0
     },
@@ -74,9 +74,9 @@
       "event": "Event #31: $1,500 Super Turbo Bounty No-Limit Hold'em",
       "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-31/",
       "team": "Premiums Only",
-      "rank": "3 / 8",
-      "chips": "3,900,000",
-      "bb": "13.0 BB",
+      "rank": "5 / 8",
+      "chips": "6,000,000",
+      "bb": "20.0 BB",
       "bonus": "Locked 22 PTS",
       "points": 0.0
     }
