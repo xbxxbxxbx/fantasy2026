@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-10T20:10:13.143668+00:00",
+  "generatedAt": "2026-06-10T20:20:15.013401+00:00",
   "league": "25k",
   "count": 4,
   "players": [
@@ -10,7 +10,7 @@
       "team": "Blez/NGNF",
       "rank": "4 / 9",
       "chips": "7,300,000",
-      "bb": "48.7 BB",
+      "bb": "36.5 BB",
       "bonus": "Locked 11 PTS",
       "points": 0.0
     },
@@ -21,7 +21,7 @@
       "team": "Gators",
       "rank": "5 / 9",
       "chips": "4,600,000",
-      "bb": "30.7 BB",
+      "bb": "23.0 BB",
       "bonus": "Locked 11 PTS",
       "points": 0.0
     },
@@ -32,7 +32,7 @@
       "team": "2026 ODB Bonus Players",
       "rank": "8 / 9",
       "chips": "3,675,000",
-      "bb": "24.5 BB",
+      "bb": "18.4 BB",
       "bonus": "Locked 11 PTS",
       "points": 0.0
     },
