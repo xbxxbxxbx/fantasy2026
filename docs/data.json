@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-10T08:30:19.605045+00:00",
+  "generatedAt": "2026-06-10T08:40:17.123893+00:00",
   "leagueName": "WSOP Poker Fantasy Draft 2026",
   "sourceLabel": "25KFantasy",
   "sourceUrl": "https://www.25kfantasy.com/players/",
@@ -176,6 +176,48 @@
       "pointsChangeSincePrevious": 0.0
     },
     {
+      "managerName": "Doinky",
+      "teamName": "doinky",
+      "url": "https://www.poker.org/fantasy/wsop/2026/team/doinky/",
+      "players": [
+        {
+          "player": "Dylan Weisman",
+          "points": 139.0
+        },
+        {
+          "player": "Andrew Ostapchenko",
+          "points": 46.0
+        },
+        {
+          "player": "Eric Wasserson",
+          "points": 13.0
+        },
+        {
+          "player": "Adam Hendrix",
+          "points": 7.0
+        },
+        {
+          "player": "Matt Vengrin",
+          "points": 4.0
+        },
+        {
+          "player": "Sam Soverel",
+          "points": 4.0
+        },
+        {
+          "player": "Stephen Song",
+          "points": 1.0
+        },
+        {
+          "player": "Isaac Haxton",
+          "points": 0.0
+        }
+      ],
+      "totalPoints": 214.0,
+      "pointsChange": 47.0,
+      "pointsChangeSincePrevious": 46.0
+    },
+    {
       "managerName": "JeffBNT",
       "teamName": "Team Max Degen",
       "url": "https://www.poker.org/fantasy/wsop/2026/team/team-max-degen/",
@@ -215,48 +257,6 @@
       ],
       "totalPoints": 184.0,
       "pointsChange": 35.0,
-      "pointsChangeSincePrevious": 0.0
-    },
-    {
-      "managerName": "Doinky",
-      "teamName": "doinky",
-      "url": "https://www.poker.org/fantasy/wsop/2026/team/doinky/",
-      "players": [
-        {
-          "player": "Dylan Weisman",
-          "points": 139.0
-        },
-        {
-          "player": "Eric Wasserson",
-          "points": 13.0
-        },
-        {
-          "player": "Adam Hendrix",
-          "points": 7.0
-        },
-        {
-          "player": "Matt Vengrin",
-          "points": 4.0
-        },
-        {
-          "player": "Sam Soverel",
-          "points": 4.0
-        },
-        {
-          "player": "Stephen Song",
-          "points": 1.0
-        },
-        {
-          "player": "Isaac Haxton",
-          "points": 0.0
-        },
-        {
-          "player": "Andrew Ostapchenko",
-          "points": 0.0
-        }
-      ],
-      "totalPoints": 168.0,
-      "pointsChange": 1.0,
       "pointsChangeSincePrevious": 0.0
     },
     {
@@ -353,6 +353,10 @@
           "points": 53.0
         },
         {
+          "player": "Andrew Ostapchenko",
+          "points": 46.0
+        },
+        {
           "player": "Patrick Leonard",
           "points": 16.0
         },
@@ -373,17 +377,13 @@
           "points": 0.0
         },
         {
-          "player": "Andrew Ostapchenko",
-          "points": 0.0
-        },
-        {
           "player": "Jason Koon",
           "points": 0.0
         }
       ],
-      "totalPoints": 81.0,
-      "pointsChange": 3.0,
-      "pointsChangeSincePrevious": 0.0
+      "totalPoints": 127.0,
+      "pointsChange": 49.0,
+      "pointsChangeSincePrevious": 46.0
     }
   ],
   "failures": []
