@@ -1,40 +1,29 @@
 {
-  "generatedAt": "2026-06-10T02:20:12.578825+00:00",
+  "generatedAt": "2026-06-10T02:30:13.852088+00:00",
   "league": "25k",
-  "count": 28,
+  "count": 26,
   "players": [
     {
       "player": "Andrew Moreno",
       "event": "Event #18: $1,500 MONSTER STACK No-Limit Hold'em",
       "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-18/",
       "team": "2026 ODB Bonus Players",
-      "rank": "1 / 20",
+      "rank": "1 / 19",
       "chips": "53,000,000",
       "bb": "53.0 BB",
       "bonus": "Locked 101 PTS",
-      "points": 101.0
+      "points": 0.0
     },
     {
       "player": "Joao Simao Peres",
       "event": "Event #18: $1,500 MONSTER STACK No-Limit Hold'em",
       "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-18/",
       "team": "Very Handsome Horses",
-      "rank": "4 / 20",
+      "rank": "4 / 19",
       "chips": "37,300,000",
       "bb": "37.3 BB",
       "bonus": "Locked 101 PTS",
-      "points": 101.0
-    },
-    {
-      "player": "Valentin Vornicu",
-      "event": "Event #18: $1,500 MONSTER STACK No-Limit Hold'em",
-      "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-18/",
-      "team": "Fleyshman",
-      "rank": "19 / 20",
-      "chips": "9,800,000",
-      "bb": "9.8 BB",
-      "bonus": "Locked 101 PTS",
-      "points": 101.0
+      "points": 0.0
     },
     {
       "player": "Bryce Yockey",
@@ -147,68 +136,57 @@
       "points": 0.0
     },
     {
+      "player": "Robert Mizrachi",
+      "event": "Event #30: $1,500 Limit Hold'em 7-Handed",
+      "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-30/",
+      "team": "Very Handsome Horses",
+      "rank": "4 / 18",
+      "chips": "1,000,000",
+      "bb": "25.0 BB",
+      "bonus": "Locked 10 PTS",
+      "points": 10.0
+    },
+    {
       "player": "Dara Taherpour",
       "event": "Event #30: $1,500 Limit Hold'em 7-Handed",
       "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-30/",
       "team": "Noori",
-      "rank": "3 / 19",
+      "rank": "5 / 18",
       "chips": "885,000",
       "bb": "22.1 BB",
-      "bonus": "Top 18 10 PTS",
-      "points": 0.0
+      "bonus": "Locked 10 PTS",
+      "points": 10.0
     },
     {
       "player": "Patrick Leonard",
       "event": "Event #30: $1,500 Limit Hold'em 7-Handed",
       "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-30/",
       "team": "Dinkers",
-      "rank": "5 / 19",
+      "rank": "7 / 18",
       "chips": "760,000",
       "bb": "19.0 BB",
-      "bonus": "Top 18 10 PTS",
-      "points": 0.0
-    },
-    {
-      "player": "Robert Mizrachi",
-      "event": "Event #30: $1,500 Limit Hold'em 7-Handed",
-      "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-30/",
-      "team": "Very Handsome Horses",
-      "rank": "9 / 19",
-      "chips": "635,000",
-      "bb": "15.9 BB",
-      "bonus": "Top 18 10 PTS",
-      "points": 0.0
-    },
-    {
-      "player": "Christian Roberts",
-      "event": "Event #30: $1,500 Limit Hold'em 7-Handed",
-      "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-30/",
-      "team": "Blades & Shades",
-      "rank": "12 / 19",
-      "chips": "490,000",
-      "bb": "12.3 BB",
-      "bonus": "Top 18 10 PTS",
-      "points": 0.0
+      "bonus": "Locked 10 PTS",
+      "points": 10.0
     },
     {
       "player": "David Bach",
       "event": "Event #30: $1,500 Limit Hold'em 7-Handed",
       "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-30/",
       "team": "2026 ODB Bonus Players",
-      "rank": "16 / 19",
+      "rank": "16 / 18",
       "chips": "235,000",
       "bb": "5.9 BB",
-      "bonus": "Top 18 10 PTS",
-      "points": 0.0
+      "bonus": "Locked 10 PTS",
+      "points": 10.0
     },
     {
       "player": "Michael Holtz",
       "event": "Event #31: $1,500 Super Turbo Bounty No-Limit Hold'em",
       "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-31/",
       "team": "2026 ODB Bonus Players",
-      "rank": "4 / 117",
+      "rank": "4 / 113",
       "chips": "1,025,000",
-      "bb": "51.3 BB",
+      "bb": "41.0 BB",
       "bonus": "Top 36 22 PTS",
       "points": 1.0
     },
@@ -217,9 +195,9 @@
       "event": "Event #31: $1,500 Super Turbo Bounty No-Limit Hold'em",
       "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-31/",
       "team": "Trump Power",
-      "rank": "9 / 117",
+      "rank": "9 / 113",
       "chips": "880,000",
-      "bb": "44.0 BB",
+      "bb": "35.2 BB",
       "bonus": "Top 36 22 PTS",
       "points": 1.0
     },
@@ -228,75 +206,9 @@
       "event": "Event #31: $1,500 Super Turbo Bounty No-Limit Hold'em",
       "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-31/",
       "team": "Premiums Only",
-      "rank": "11 / 117",
+      "rank": "11 / 113",
       "chips": "870,000",
-      "bb": "43.5 BB",
-      "bonus": "Top 36 22 PTS",
-      "points": 1.0
-    },
-    {
-      "player": "Frank Brannan",
-      "event": "Event #31: $1,500 Super Turbo Bounty No-Limit Hold'em",
-      "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-31/",
-      "team": "Lucky",
-      "rank": "22 / 117",
-      "chips": "580,000",
-      "bb": "29.0 BB",
-      "bonus": "Top 36 22 PTS",
-      "points": 1.0
-    },
-    {
-      "player": "Matt Glantz",
-      "event": "Event #31: $1,500 Super Turbo Bounty No-Limit Hold'em",
-      "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-31/",
-      "team": "Dinkers",
-      "rank": "22 / 117",
-      "chips": "580,000",
-      "bb": "29.0 BB",
-      "bonus": "Top 36 22 PTS",
-      "points": 1.0
-    },
-    {
-      "player": "Christopher Vitch",
-      "event": "Event #31: $1,500 Super Turbo Bounty No-Limit Hold'em",
-      "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-31/",
-      "team": "Glue Factory",
-      "rank": "48 / 117",
-      "chips": "375,000",
-      "bb": "18.8 BB",
-      "bonus": "Top 36 22 PTS",
-      "points": 1.0
-    },
-    {
-      "player": "Daniel Rezaei",
-      "event": "Event #31: $1,500 Super Turbo Bounty No-Limit Hold'em",
-      "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-31/",
-      "team": "Very Handsome Horses",
-      "rank": "59 / 117",
-      "chips": "320,000",
-      "bb": "16.0 BB",
-      "bonus": "Top 36 22 PTS",
-      "points": 1.0
-    },
-    {
-      "player": "Renji Mao",
-      "event": "Event #31: $1,500 Super Turbo Bounty No-Limit Hold'em",
-      "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-31/",
-      "team": "Spitework",
-      "rank": "98 / 117",
-      "chips": "100,000",
-      "bb": "5.0 BB",
-      "bonus": "Top 36 22 PTS",
-      "points": 1.0
-    },
-    {
-      "player": "Renan Bruschi",
-      "event": "Event #31: $1,500 Super Turbo Bounty No-Limit Hold'em",
-      "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-31/",
-      "team": "Chocolate Factory",
-      "rank": "107 / 117",
-      "chips": "25,000",
-      "bb": "1.3 BB",
+      "bb": "34.8 BB",
       "bonus": "Top 36 22 PTS",
       "points": 1.0
     },
@@ -305,9 +217,75 @@
       "event": "Event #31: $1,500 Super Turbo Bounty No-Limit Hold'em",
       "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-31/",
       "team": "2026 ODB Bonus Players",
-      "rank": "107 / 117",
+      "rank": "17 / 113",
+      "chips": "685,000",
+      "bb": "27.4 BB",
+      "bonus": "Top 36 22 PTS",
+      "points": 1.0
+    },
+    {
+      "player": "Frank Brannan",
+      "event": "Event #31: $1,500 Super Turbo Bounty No-Limit Hold'em",
+      "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-31/",
+      "team": "Lucky",
+      "rank": "23 / 113",
+      "chips": "580,000",
+      "bb": "23.2 BB",
+      "bonus": "Top 36 22 PTS",
+      "points": 1.0
+    },
+    {
+      "player": "Matt Glantz",
+      "event": "Event #31: $1,500 Super Turbo Bounty No-Limit Hold'em",
+      "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-31/",
+      "team": "Dinkers",
+      "rank": "23 / 113",
+      "chips": "580,000",
+      "bb": "23.2 BB",
+      "bonus": "Top 36 22 PTS",
+      "points": 1.0
+    },
+    {
+      "player": "Christopher Vitch",
+      "event": "Event #31: $1,500 Super Turbo Bounty No-Limit Hold'em",
+      "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-31/",
+      "team": "Glue Factory",
+      "rank": "49 / 113",
+      "chips": "375,000",
+      "bb": "15.0 BB",
+      "bonus": "Top 36 22 PTS",
+      "points": 1.0
+    },
+    {
+      "player": "Daniel Rezaei",
+      "event": "Event #31: $1,500 Super Turbo Bounty No-Limit Hold'em",
+      "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-31/",
+      "team": "Very Handsome Horses",
+      "rank": "62 / 113",
+      "chips": "320,000",
+      "bb": "12.8 BB",
+      "bonus": "Top 36 22 PTS",
+      "points": 1.0
+    },
+    {
+      "player": "Renji Mao",
+      "event": "Event #31: $1,500 Super Turbo Bounty No-Limit Hold'em",
+      "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-31/",
+      "team": "Spitework",
+      "rank": "97 / 113",
+      "chips": "100,000",
+      "bb": "4.0 BB",
+      "bonus": "Top 36 22 PTS",
+      "points": 1.0
+    },
+    {
+      "player": "Renan Bruschi",
+      "event": "Event #31: $1,500 Super Turbo Bounty No-Limit Hold'em",
+      "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-31/",
+      "team": "Chocolate Factory",
+      "rank": "105 / 113",
       "chips": "25,000",
-      "bb": "1.3 BB",
+      "bb": "1.0 BB",
       "bonus": "Top 36 22 PTS",
       "points": 1.0
     }
