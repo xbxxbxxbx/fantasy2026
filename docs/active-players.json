@@ -1,27 +1,16 @@
 {
-  "generatedAt": "2026-06-10T22:50:14.195008+00:00",
+  "generatedAt": "2026-06-10T23:00:16.328400+00:00",
   "league": "25k",
-  "count": 3,
+  "count": 2,
   "players": [
     {
       "player": "Chris Brewer",
       "event": "Event #29: $50,000 High Roller No-Limit Hold'em 8-Handed",
       "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-29/",
       "team": "Blez/NGNF",
-      "rank": "3 / 6",
+      "rank": "3 / 5",
       "chips": "7,245,000",
       "bb": "30.2 BB",
-      "bonus": "Locked 11 PTS",
-      "points": 0.0
-    },
-    {
-      "player": "Brandon Wilson",
-      "event": "Event #29: $50,000 High Roller No-Limit Hold'em 8-Handed",
-      "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-29/",
-      "team": "Gators",
-      "rank": "6 / 6",
-      "chips": "1,120,000",
-      "bb": "4.7 BB",
       "bonus": "Locked 11 PTS",
       "points": 0.0
     },
