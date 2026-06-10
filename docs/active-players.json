@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-10T21:30:07.466235+00:00",
+  "generatedAt": "2026-06-10T21:40:14.014845+00:00",
   "league": "25k",
   "count": 3,
   "players": [
@@ -9,8 +9,8 @@
       "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-29/",
       "team": "Blez/NGNF",
       "rank": "3 / 6",
-      "chips": "6,745,000",
-      "bb": "33.7 BB",
+      "chips": "7,245,000",
+      "bb": "36.2 BB",
       "bonus": "Locked 11 PTS",
       "points": 0.0
     },
@@ -19,9 +19,9 @@
       "event": "Event #29: $50,000 High Roller No-Limit Hold'em 8-Handed",
       "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-29/",
       "team": "Gators",
-      "rank": "5 / 6",
-      "chips": "5,400,000",
-      "bb": "27.0 BB",
+      "rank": "6 / 6",
+      "chips": "1,120,000",
+      "bb": "5.6 BB",
       "bonus": "Locked 11 PTS",
       "points": 0.0
     },
