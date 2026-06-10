@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-10T23:40:56.383337+00:00",
+  "generatedAt": "2026-06-10T23:50:10.665214+00:00",
   "league": "25k",
   "count": 2,
   "players": [
@@ -9,8 +9,8 @@
       "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-29/",
       "team": "Blez/NGNF",
       "rank": "3 / 5",
-      "chips": "7,245,000",
-      "bb": "30.2 BB",
+      "chips": "6,625,000",
+      "bb": "27.6 BB",
       "bonus": "Locked 11 PTS",
       "points": 0.0
     },
