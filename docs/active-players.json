@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-10T22:40:11.797785+00:00",
+  "generatedAt": "2026-06-10T22:50:14.195008+00:00",
   "league": "25k",
   "count": 3,
   "players": [
@@ -10,7 +10,7 @@
       "team": "Blez/NGNF",
       "rank": "3 / 6",
       "chips": "7,245,000",
-      "bb": "36.2 BB",
+      "bb": "30.2 BB",
       "bonus": "Locked 11 PTS",
       "points": 0.0
     },
@@ -21,7 +21,7 @@
       "team": "Gators",
       "rank": "6 / 6",
       "chips": "1,120,000",
-      "bb": "5.6 BB",
+      "bb": "4.7 BB",
       "bonus": "Locked 11 PTS",
       "points": 0.0
     },
