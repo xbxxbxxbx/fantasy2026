@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-10T05:40:10.827196+00:00",
+  "generatedAt": "2026-06-10T05:50:15.115533+00:00",
   "league": "25k",
   "count": 15,
   "players": [
@@ -63,53 +63,9 @@
       "event": "Event #29: $50,000 High Roller No-Limit Hold'em 8-Handed",
       "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-29/",
       "team": "2026 ODB Bonus Players",
-      "rank": "4 / 21",
+      "rank": "3 / 20",
       "chips": "3,775,000",
       "bb": "47.2 BB",
-      "bonus": "Top 18 11 PTS",
-      "points": 2.0
-    },
-    {
-      "player": "Brandon Wilson",
-      "event": "Event #29: $50,000 High Roller No-Limit Hold'em 8-Handed",
-      "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-29/",
-      "team": "Gators",
-      "rank": "7 / 21",
-      "chips": "2,630,000",
-      "bb": "32.9 BB",
-      "bonus": "Top 18 11 PTS",
-      "points": 2.0
-    },
-    {
-      "player": "Biao Ding",
-      "event": "Event #29: $50,000 High Roller No-Limit Hold'em 8-Handed",
-      "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-29/",
-      "team": "Spitework",
-      "rank": "9 / 21",
-      "chips": "1,740,000",
-      "bb": "21.8 BB",
-      "bonus": "Top 18 11 PTS",
-      "points": 2.0
-    },
-    {
-      "player": "Brian Breck",
-      "event": "Event #29: $50,000 High Roller No-Limit Hold'em 8-Handed",
-      "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-29/",
-      "team": "2026 ODB Bonus Players",
-      "rank": "10 / 21",
-      "chips": "1,690,000",
-      "bb": "21.1 BB",
-      "bonus": "Top 18 11 PTS",
-      "points": 2.0
-    },
-    {
-      "player": "Adrian Mateos",
-      "event": "Event #29: $50,000 High Roller No-Limit Hold'em 8-Handed",
-      "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-29/",
-      "team": "Blez/NGNF",
-      "rank": "13 / 21",
-      "chips": "1,590,000",
-      "bb": "19.9 BB",
       "bonus": "Top 18 11 PTS",
       "points": 2.0
     },
@@ -118,9 +74,42 @@
       "event": "Event #29: $50,000 High Roller No-Limit Hold'em 8-Handed",
       "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-29/",
       "team": "Blez/NGNF",
-      "rank": "14 / 21",
-      "chips": "1,510,000",
-      "bb": "18.9 BB",
+      "rank": "4 / 20",
+      "chips": "3,560,000",
+      "bb": "44.5 BB",
+      "bonus": "Top 18 11 PTS",
+      "points": 2.0
+    },
+    {
+      "player": "Brandon Wilson",
+      "event": "Event #29: $50,000 High Roller No-Limit Hold'em 8-Handed",
+      "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-29/",
+      "team": "Gators",
+      "rank": "7 / 20",
+      "chips": "3,370,000",
+      "bb": "42.1 BB",
+      "bonus": "Top 18 11 PTS",
+      "points": 2.0
+    },
+    {
+      "player": "Brian Breck",
+      "event": "Event #29: $50,000 High Roller No-Limit Hold'em 8-Handed",
+      "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-29/",
+      "team": "2026 ODB Bonus Players",
+      "rank": "13 / 20",
+      "chips": "1,690,000",
+      "bb": "21.1 BB",
+      "bonus": "Top 18 11 PTS",
+      "points": 2.0
+    },
+    {
+      "player": "Biao Ding",
+      "event": "Event #29: $50,000 High Roller No-Limit Hold'em 8-Handed",
+      "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-29/",
+      "team": "Spitework",
+      "rank": "15 / 20",
+      "chips": "1,560,000",
+      "bb": "19.5 BB",
       "bonus": "Top 18 11 PTS",
       "points": 2.0
     },
@@ -129,9 +118,20 @@
       "event": "Event #29: $50,000 High Roller No-Limit Hold'em 8-Handed",
       "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-29/",
       "team": "Gators",
-      "rank": "16 / 21",
-      "chips": "1,415,000",
-      "bb": "17.7 BB",
+      "rank": "17 / 20",
+      "chips": "1,425,000",
+      "bb": "17.8 BB",
+      "bonus": "Top 18 11 PTS",
+      "points": 2.0
+    },
+    {
+      "player": "Adrian Mateos",
+      "event": "Event #29: $50,000 High Roller No-Limit Hold'em 8-Handed",
+      "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-29/",
+      "team": "Blez/NGNF",
+      "rank": "20 / 20",
+      "chips": "770,000",
+      "bb": "9.6 BB",
       "bonus": "Top 18 11 PTS",
       "points": 2.0
     },
@@ -151,22 +151,22 @@
       "event": "Event #31: $1,500 Super Turbo Bounty No-Limit Hold'em",
       "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-31/",
       "team": "2026 ODB Bonus Players",
-      "rank": "2 / 19",
+      "rank": "2 / 18",
       "chips": "5,000,000",
-      "bb": "41.7 BB",
+      "bb": "33.3 BB",
       "bonus": "Locked 22 PTS",
-      "points": 0.0
+      "points": 26.0
     },
     {
       "player": "Andrew Ostapchenko",
       "event": "Event #31: $1,500 Super Turbo Bounty No-Limit Hold'em",
       "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-31/",
       "team": "Premiums Only",
-      "rank": "3 / 19",
+      "rank": "3 / 18",
       "chips": "3,900,000",
-      "bb": "32.5 BB",
+      "bb": "26.0 BB",
       "bonus": "Locked 22 PTS",
-      "points": 0.0
+      "points": 26.0
     }
   ]
 }
