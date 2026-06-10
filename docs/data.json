@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-10T05:11:26.412812+00:00",
+  "generatedAt": "2026-06-10T05:20:16.000881+00:00",
   "leagueName": "WSOP Poker Fantasy Draft 2026",
   "sourceLabel": "25KFantasy",
   "sourceUrl": "https://www.25kfantasy.com/players/",
@@ -37,17 +37,17 @@
           "points": 7.0
         },
         {
-          "player": "Viktor Blom",
-          "points": 2.0
+          "player": "Andrew Lichtenberger",
+          "points": 4.0
         },
         {
-          "player": "Andrew Lichtenberger",
+          "player": "Viktor Blom",
           "points": 2.0
         }
       ],
-      "totalPoints": 455.0,
-      "pointsChange": 101.0,
-      "pointsChangeSincePrevious": 0.0
+      "totalPoints": 457.0,
+      "pointsChange": 103.0,
+      "pointsChangeSincePrevious": 2.0
     },
     {
       "managerName": "ASG",
@@ -361,11 +361,11 @@
           "points": 6.0
         },
         {
-          "player": "Viktor Blom",
-          "points": 2.0
+          "player": "Andrew Lichtenberger",
+          "points": 4.0
         },
         {
-          "player": "Andrew Lichtenberger",
+          "player": "Viktor Blom",
           "points": 2.0
         },
         {
@@ -381,9 +381,9 @@
           "points": 0.0
         }
       ],
-      "totalPoints": 79.0,
-      "pointsChange": 1.0,
-      "pointsChangeSincePrevious": 0.0
+      "totalPoints": 81.0,
+      "pointsChange": 3.0,
+      "pointsChangeSincePrevious": 2.0
     }
   ],
   "failures": []
