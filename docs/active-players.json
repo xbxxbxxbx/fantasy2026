@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-10T23:10:14.957429+00:00",
+  "generatedAt": "2026-06-10T23:20:11.739063+00:00",
   "league": "25k",
   "count": 2,
   "players": [
@@ -21,7 +21,7 @@
       "team": "Dinkers",
       "rank": "3 / 7",
       "chips": "2,040,000",
-      "bb": "10.2 BB",
+      "bb": "8.5 BB",
       "bonus": "Locked 10 PTS",
       "points": 0.0
     }
