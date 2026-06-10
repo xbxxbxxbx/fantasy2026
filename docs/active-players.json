@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-06-10T08:20:16.212784+00:00",
+  "generatedAt": "2026-06-10T08:30:20.082011+00:00",
   "league": "25k",
-  "count": 7,
+  "count": 6,
   "players": [
     {
       "player": "Brandon Wilson",
@@ -63,20 +63,9 @@
       "event": "Event #31: $1,500 Super Turbo Bounty No-Limit Hold'em",
       "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-31/",
       "team": "2026 ODB Bonus Players",
-      "rank": "2 / 6",
+      "rank": "2 / 5",
       "chips": "9,000,000",
-      "bb": "15.0 BB",
-      "bonus": "Locked 22 PTS",
-      "points": 0.0
-    },
-    {
-      "player": "Andrew Ostapchenko",
-      "event": "Event #31: $1,500 Super Turbo Bounty No-Limit Hold'em",
-      "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-31/",
-      "team": "Premiums Only",
-      "rank": "4 / 6",
-      "chips": "6,000,000",
-      "bb": "10.0 BB",
+      "bb": "11.3 BB",
       "bonus": "Locked 22 PTS",
       "points": 0.0
     }
