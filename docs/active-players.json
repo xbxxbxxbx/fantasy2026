@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-10T05:30:13.695190+00:00",
+  "generatedAt": "2026-06-10T05:40:10.827196+00:00",
   "league": "25k",
   "count": 15,
   "players": [
@@ -147,26 +147,26 @@
       "points": 10.0
     },
     {
-      "player": "Andrew Ostapchenko",
-      "event": "Event #31: $1,500 Super Turbo Bounty No-Limit Hold'em",
-      "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-31/",
-      "team": "Premiums Only",
-      "rank": "2 / 23",
-      "chips": "3,900,000",
-      "bb": "32.5 BB",
-      "bonus": "Locked 22 PTS",
-      "points": 22.0
-    },
-    {
       "player": "Michael Holtz",
       "event": "Event #31: $1,500 Super Turbo Bounty No-Limit Hold'em",
       "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-31/",
       "team": "2026 ODB Bonus Players",
-      "rank": "4 / 23",
-      "chips": "2,935,000",
-      "bb": "24.5 BB",
+      "rank": "2 / 19",
+      "chips": "5,000,000",
+      "bb": "41.7 BB",
       "bonus": "Locked 22 PTS",
-      "points": 22.0
+      "points": 0.0
+    },
+    {
+      "player": "Andrew Ostapchenko",
+      "event": "Event #31: $1,500 Super Turbo Bounty No-Limit Hold'em",
+      "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-31/",
+      "team": "Premiums Only",
+      "rank": "3 / 19",
+      "chips": "3,900,000",
+      "bb": "32.5 BB",
+      "bonus": "Locked 22 PTS",
+      "points": 0.0
     }
   ]
 }
