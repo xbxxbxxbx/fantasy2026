@@ -1,51 +1,40 @@
 {
-  "generatedAt": "2026-06-10T19:20:16.307198+00:00",
+  "generatedAt": "2026-06-10T19:30:24.002929+00:00",
   "league": "25k",
-  "count": 5,
+  "count": 4,
   "players": [
     {
       "player": "Brandon Wilson",
       "event": "Event #29: $50,000 High Roller No-Limit Hold'em 8-Handed",
       "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-29/",
       "team": "Gators",
-      "rank": "3 / 11",
+      "rank": "3 / 9",
       "chips": "5,235,000",
       "bb": "34.9 BB",
       "bonus": "Locked 11 PTS",
-      "points": 11.0
+      "points": 0.0
     },
     {
       "player": "Chris Brewer",
       "event": "Event #29: $50,000 High Roller No-Limit Hold'em 8-Handed",
       "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-29/",
       "team": "Blez/NGNF",
-      "rank": "4 / 11",
+      "rank": "4 / 9",
       "chips": "5,085,000",
       "bb": "33.9 BB",
       "bonus": "Locked 11 PTS",
-      "points": 11.0
-    },
-    {
-      "player": "Sergio Aido",
-      "event": "Event #29: $50,000 High Roller No-Limit Hold'em 8-Handed",
-      "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-29/",
-      "team": "2026 ODB Bonus Players",
-      "rank": "9 / 11",
-      "chips": "3,575,000",
-      "bb": "23.8 BB",
-      "bonus": "Locked 11 PTS",
-      "points": 11.0
+      "points": 0.0
     },
     {
       "player": "Brian Breck",
       "event": "Event #29: $50,000 High Roller No-Limit Hold'em 8-Handed",
       "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-29/",
       "team": "2026 ODB Bonus Players",
-      "rank": "11 / 11",
+      "rank": "9 / 9",
       "chips": "1,635,000",
       "bb": "10.9 BB",
       "bonus": "Locked 11 PTS",
-      "points": 11.0
+      "points": 0.0
     },
     {
       "player": "Patrick Leonard",
