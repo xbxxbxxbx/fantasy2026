@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-10T07:20:14.472618+00:00",
+  "generatedAt": "2026-06-10T07:30:18.944822+00:00",
   "league": "25k",
   "count": 7,
   "players": [
@@ -8,7 +8,7 @@
       "event": "Event #29: $50,000 High Roller No-Limit Hold'em 8-Handed",
       "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-29/",
       "team": "2026 ODB Bonus Players",
-      "rank": "2 / 14",
+      "rank": "2 / 13",
       "chips": "4,565,000",
       "bb": "38.0 BB",
       "bonus": "Locked 11 PTS",
@@ -19,7 +19,7 @@
       "event": "Event #29: $50,000 High Roller No-Limit Hold'em 8-Handed",
       "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-29/",
       "team": "Gators",
-      "rank": "6 / 14",
+      "rank": "6 / 13",
       "chips": "3,370,000",
       "bb": "28.1 BB",
       "bonus": "Locked 11 PTS",
@@ -30,7 +30,7 @@
       "event": "Event #29: $50,000 High Roller No-Limit Hold'em 8-Handed",
       "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-29/",
       "team": "Blez/NGNF",
-      "rank": "8 / 14",
+      "rank": "8 / 13",
       "chips": "3,160,000",
       "bb": "26.3 BB",
       "bonus": "Locked 11 PTS",
@@ -41,7 +41,7 @@
       "event": "Event #29: $50,000 High Roller No-Limit Hold'em 8-Handed",
       "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-29/",
       "team": "2026 ODB Bonus Players",
-      "rank": "13 / 14",
+      "rank": "12 / 13",
       "chips": "1,540,000",
       "bb": "12.8 BB",
       "bonus": "Locked 11 PTS",
@@ -65,7 +65,7 @@
       "team": "2026 ODB Bonus Players",
       "rank": "2 / 8",
       "chips": "9,000,000",
-      "bb": "30.0 BB",
+      "bb": "22.5 BB",
       "bonus": "Locked 22 PTS",
       "points": 0.0
     },
@@ -76,7 +76,7 @@
       "team": "Premiums Only",
       "rank": "5 / 8",
       "chips": "6,000,000",
-      "bb": "20.0 BB",
+      "bb": "15.0 BB",
       "bonus": "Locked 22 PTS",
       "points": 0.0
     }
