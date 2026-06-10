@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-10T03:10:14.792988+00:00",
+  "generatedAt": "2026-06-10T03:20:10.863339+00:00",
   "leagueName": "WSOP Poker Fantasy Draft 2026",
   "sourceLabel": "25KFantasy",
   "sourceUrl": "https://www.25kfantasy.com/players/",
@@ -274,7 +274,7 @@
         },
         {
           "player": "Matt Glantz",
-          "points": 15.0
+          "points": 16.0
         },
         {
           "player": "Jerry Wong",
@@ -297,9 +297,9 @@
           "points": 4.0
         }
       ],
-      "totalPoints": 136.0,
-      "pointsChange": 1.0,
-      "pointsChangeSincePrevious": 0.0
+      "totalPoints": 137.0,
+      "pointsChange": 2.0,
+      "pointsChangeSincePrevious": 1.0
     },
     {
       "managerName": "Ruben",
