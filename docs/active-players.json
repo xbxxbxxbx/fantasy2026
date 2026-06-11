@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-11T18:58:44.270222+00:00",
+  "generatedAt": "2026-06-11T19:00:20.121034+00:00",
   "league": "25k",
   "count": 25,
   "players": [
@@ -224,10 +224,10 @@
       "points": 2.0
     },
     {
-      "player": "Matt Vengrin",
+      "player": "Justin Liberto",
       "event": "Event #33: $10,000 Pot-Limit Omaha Hi-Lo 8 or Better Championship",
       "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-33/",
-      "team": "Glue Factory",
+      "team": "Blez/NGNF",
       "rank": "17 / 25",
       "chips": "510,000",
       "bb": "\u2014",
@@ -235,10 +235,10 @@
       "points": 2.0
     },
     {
-      "player": "Justin Liberto",
+      "player": "Matt Vengrin",
       "event": "Event #33: $10,000 Pot-Limit Omaha Hi-Lo 8 or Better Championship",
       "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-33/",
-      "team": "Blez/NGNF",
+      "team": "Glue Factory",
       "rank": "17 / 25",
       "chips": "510,000",
       "bb": "\u2014",
