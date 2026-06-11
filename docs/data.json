@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-11T06:30:12.761167+00:00",
+  "generatedAt": "2026-06-11T06:40:12.465604+00:00",
   "leagueName": "WSOP Poker Fantasy Draft 2026",
   "sourceLabel": "25KFantasy",
   "sourceUrl": "https://www.25kfantasy.com/players/",
@@ -248,16 +248,16 @@
         },
         {
           "player": "Nicholas Seward",
-          "points": 5.0
+          "points": 6.0
         },
         {
           "player": "Sam Soverel",
           "points": 4.0
         }
       ],
-      "totalPoints": 186.0,
-      "pointsChange": 2.0,
-      "pointsChangeSincePrevious": 0.0
+      "totalPoints": 187.0,
+      "pointsChange": 3.0,
+      "pointsChangeSincePrevious": 1.0
     },
     {
       "managerName": "Trampstamp",
