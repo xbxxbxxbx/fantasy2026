@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-11T00:13:22.106072+00:00",
+  "generatedAt": "2026-06-11T00:20:10.728031+00:00",
   "leagueName": "WSOP Poker Fantasy Draft 2026",
   "sourceLabel": "25KFantasy",
   "sourceUrl": "https://www.25kfantasy.com/players/",
@@ -260,6 +260,48 @@
       "pointsChangeSincePrevious": 0.0
     },
     {
+      "managerName": "Trampstamp",
+      "teamName": "lowerbackstamp",
+      "url": "https://www.poker.org/fantasy/wsop/2026/team/lowerbackstamp/",
+      "players": [
+        {
+          "player": "Chance Kornuth",
+          "points": 53.0
+        },
+        {
+          "player": "Patrick Leonard",
+          "points": 46.0
+        },
+        {
+          "player": "Andrew Ostapchenko",
+          "points": 46.0
+        },
+        {
+          "player": "Esther Taylor",
+          "points": 6.0
+        },
+        {
+          "player": "Andrew Lichtenberger",
+          "points": 4.0
+        },
+        {
+          "player": "Viktor Blom",
+          "points": 2.0
+        },
+        {
+          "player": "Ben Lamb",
+          "points": 0.0
+        },
+        {
+          "player": "Jason Koon",
+          "points": 0.0
+        }
+      ],
+      "totalPoints": 157.0,
+      "pointsChange": 30.0,
+      "pointsChangeSincePrevious": 30.0
+    },
+    {
       "managerName": "Gus",
       "teamName": "mynameaintearl",
       "url": "https://www.poker.org/fantasy/wsop/2026/team/mynameaintearl/",
@@ -340,48 +382,6 @@
         }
       ],
       "totalPoints": 131.0,
-      "pointsChange": 0.0,
-      "pointsChangeSincePrevious": 0.0
-    },
-    {
-      "managerName": "Trampstamp",
-      "teamName": "lowerbackstamp",
-      "url": "https://www.poker.org/fantasy/wsop/2026/team/lowerbackstamp/",
-      "players": [
-        {
-          "player": "Chance Kornuth",
-          "points": 53.0
-        },
-        {
-          "player": "Andrew Ostapchenko",
-          "points": 46.0
-        },
-        {
-          "player": "Patrick Leonard",
-          "points": 16.0
-        },
-        {
-          "player": "Esther Taylor",
-          "points": 6.0
-        },
-        {
-          "player": "Andrew Lichtenberger",
-          "points": 4.0
-        },
-        {
-          "player": "Viktor Blom",
-          "points": 2.0
-        },
-        {
-          "player": "Ben Lamb",
-          "points": 0.0
-        },
-        {
-          "player": "Jason Koon",
-          "points": 0.0
-        }
-      ],
-      "totalPoints": 127.0,
       "pointsChange": 0.0,
       "pointsChangeSincePrevious": 0.0
     }

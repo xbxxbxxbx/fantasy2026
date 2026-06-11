@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-06-11T00:13:22.507690+00:00",
+  "generatedAt": "2026-06-11T00:20:10.989715+00:00",
   "league": "25k",
-  "count": 2,
+  "count": 1,
   "players": [
     {
       "player": "Chris Brewer",
@@ -12,17 +12,6 @@
       "chips": "6,625,000",
       "bb": "22.1 BB",
       "bonus": "Locked 11 PTS",
-      "points": 0.0
-    },
-    {
-      "player": "Patrick Leonard",
-      "event": "Event #30: $1,500 Limit Hold'em 7-Handed",
-      "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-30/",
-      "team": "Dinkers",
-      "rank": "3 / 6",
-      "chips": "2,040,000",
-      "bb": "8.5 BB",
-      "bonus": "Locked 10 PTS",
       "points": 0.0
     }
   ]
