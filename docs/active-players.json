@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-11T21:49:13.432557+00:00",
+  "generatedAt": "2026-06-11T21:50:11.999160+00:00",
   "league": "25k",
   "count": 16,
   "players": [
@@ -70,22 +70,11 @@
       "points": 1.0
     },
     {
-      "player": "Nick Guagenti",
-      "event": "Event #33: $10,000 Pot-Limit Omaha Hi-Lo 8 or Better Championship",
-      "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-33/",
-      "team": "Browndog",
-      "rank": "1 / 17",
-      "chips": "2,000,000",
-      "bb": "\u2014",
-      "bonus": "Locked 13 PTS",
-      "points": 13.0
-    },
-    {
       "player": "Ryan Hughes",
       "event": "Event #33: $10,000 Pot-Limit Omaha Hi-Lo 8 or Better Championship",
       "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-33/",
       "team": "2026 ODB Bonus Players",
-      "rank": "2 / 17",
+      "rank": "1 / 17",
       "chips": "1,995,000",
       "bb": "\u2014",
       "bonus": "Locked 13 PTS",
@@ -96,7 +85,7 @@
       "event": "Event #33: $10,000 Pot-Limit Omaha Hi-Lo 8 or Better Championship",
       "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-33/",
       "team": "Gators",
-      "rank": "3 / 17",
+      "rank": "2 / 17",
       "chips": "1,925,000",
       "bb": "\u2014",
       "bonus": "Locked 13 PTS",
@@ -107,7 +96,7 @@
       "event": "Event #33: $10,000 Pot-Limit Omaha Hi-Lo 8 or Better Championship",
       "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-33/",
       "team": "Browndog",
-      "rank": "5 / 17",
+      "rank": "4 / 17",
       "chips": "1,615,000",
       "bb": "\u2014",
       "bonus": "Locked 13 PTS",
@@ -118,7 +107,18 @@
       "event": "Event #33: $10,000 Pot-Limit Omaha Hi-Lo 8 or Better Championship",
       "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-33/",
       "team": "Blez/NGNF",
-      "rank": "9 / 17",
+      "rank": "8 / 17",
+      "chips": "1,100,000",
+      "bb": "\u2014",
+      "bonus": "Locked 13 PTS",
+      "points": 13.0
+    },
+    {
+      "player": "Nick Guagenti",
+      "event": "Event #33: $10,000 Pot-Limit Omaha Hi-Lo 8 or Better Championship",
+      "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-33/",
+      "team": "Browndog",
+      "rank": "8 / 17",
       "chips": "1,100,000",
       "bb": "\u2014",
       "bonus": "Locked 13 PTS",
