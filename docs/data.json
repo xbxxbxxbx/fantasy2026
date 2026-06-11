@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-11T21:10:15.509048+00:00",
+  "generatedAt": "2026-06-11T21:20:12.092260+00:00",
   "leagueName": "WSOP Poker Fantasy Draft 2026",
   "sourceLabel": "25KFantasy",
   "sourceUrl": "https://www.25kfantasy.com/players/",
@@ -182,7 +182,7 @@
       "players": [
         {
           "player": "Dylan Weisman",
-          "points": 139.0
+          "points": 141.0
         },
         {
           "player": "Andrew Ostapchenko",
@@ -213,9 +213,9 @@
           "points": 0.0
         }
       ],
-      "totalPoints": 215.0,
-      "pointsChange": 0.0,
-      "pointsChangeSincePrevious": 0.0
+      "totalPoints": 217.0,
+      "pointsChange": 2.0,
+      "pointsChangeSincePrevious": 2.0
     },
     {
       "managerName": "JeffBNT",
