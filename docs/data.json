@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-11T06:10:13.589974+00:00",
+  "generatedAt": "2026-06-11T06:20:12.138814+00:00",
   "leagueName": "WSOP Poker Fantasy Draft 2026",
   "sourceLabel": "25KFantasy",
   "sourceUrl": "https://www.25kfantasy.com/players/",
@@ -26,7 +26,7 @@
         },
         {
           "player": "Allen Kessler",
-          "points": 83.0
+          "points": 85.0
         },
         {
           "player": "David 'ODB' Baker",
@@ -34,7 +34,7 @@
         },
         {
           "player": "Ben Yu",
-          "points": 7.0
+          "points": 9.0
         },
         {
           "player": "Andrew Lichtenberger",
@@ -45,9 +45,9 @@
           "points": 2.0
         }
       ],
-      "totalPoints": 457.0,
-      "pointsChange": 0.0,
-      "pointsChangeSincePrevious": 0.0
+      "totalPoints": 461.0,
+      "pointsChange": 4.0,
+      "pointsChangeSincePrevious": 4.0
     },
     {
       "managerName": "ASG",
@@ -68,7 +68,7 @@
         },
         {
           "player": "Scott Seiver",
-          "points": 48.0
+          "points": 50.0
         },
         {
           "player": "Calvin Anderson",
@@ -87,9 +87,9 @@
           "points": 0.0
         }
       ],
-      "totalPoints": 390.0,
-      "pointsChange": 0.0,
-      "pointsChangeSincePrevious": 0.0
+      "totalPoints": 392.0,
+      "pointsChange": 2.0,
+      "pointsChangeSincePrevious": 2.0
     },
     {
       "managerName": "realbmorekid",
@@ -140,7 +140,7 @@
       "players": [
         {
           "player": "Allen Kessler",
-          "points": 83.0
+          "points": 85.0
         },
         {
           "player": "John Racener",
@@ -148,7 +148,7 @@
         },
         {
           "player": "Scott Seiver",
-          "points": 48.0
+          "points": 50.0
         },
         {
           "player": "Erik Seidel",
@@ -171,9 +171,9 @@
           "points": 0.0
         }
       ],
-      "totalPoints": 238.0,
-      "pointsChange": 0.0,
-      "pointsChangeSincePrevious": 0.0
+      "totalPoints": 242.0,
+      "pointsChange": 4.0,
+      "pointsChangeSincePrevious": 4.0
     },
     {
       "managerName": "Doinky",
@@ -235,11 +235,11 @@
           "points": 17.0
         },
         {
-          "player": "Ari Engel",
-          "points": 7.0
+          "player": "Ben Yu",
+          "points": 9.0
         },
         {
-          "player": "Ben Yu",
+          "player": "Ari Engel",
           "points": 7.0
         },
         {
@@ -255,9 +255,9 @@
           "points": 4.0
         }
       ],
-      "totalPoints": 184.0,
-      "pointsChange": 0.0,
-      "pointsChangeSincePrevious": 0.0
+      "totalPoints": 186.0,
+      "pointsChange": 2.0,
+      "pointsChangeSincePrevious": 2.0
     },
     {
       "managerName": "Trampstamp",
