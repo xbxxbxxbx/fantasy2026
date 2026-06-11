@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-11T03:10:14.266401+00:00",
+  "generatedAt": "2026-06-11T03:20:10.859624+00:00",
   "leagueName": "WSOP Poker Fantasy Draft 2026",
   "sourceLabel": "25KFantasy",
   "sourceUrl": "https://www.25kfantasy.com/players/",
@@ -206,16 +206,16 @@
         },
         {
           "player": "Stephen Song",
-          "points": 1.0
+          "points": 2.0
         },
         {
           "player": "Isaac Haxton",
           "points": 0.0
         }
       ],
-      "totalPoints": 214.0,
-      "pointsChange": 0.0,
-      "pointsChangeSincePrevious": 0.0
+      "totalPoints": 215.0,
+      "pointsChange": 1.0,
+      "pointsChangeSincePrevious": 1.0
     },
     {
       "managerName": "JeffBNT",
