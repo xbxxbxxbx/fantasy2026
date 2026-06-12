@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-12T10:10:13.601036+00:00",
+  "generatedAt": "2026-06-12T10:20:14.439146+00:00",
   "league": "25k",
   "count": 12,
   "players": [
@@ -54,7 +54,7 @@
       "team": "Lady Gaga",
       "rank": "2 / 9",
       "chips": "11,800,000",
-      "bb": "59.0 BB",
+      "bb": "49.2 BB",
       "bonus": "Locked 0 PTS",
       "points": 0.0
     },
@@ -65,7 +65,7 @@
       "team": "Lucky",
       "rank": "6 / 9",
       "chips": "5,215,000",
-      "bb": "26.1 BB",
+      "bb": "21.7 BB",
       "bonus": "Locked 0 PTS",
       "points": 0.0
     },
@@ -76,7 +76,7 @@
       "team": "Spitework",
       "rank": "7 / 9",
       "chips": "4,750,000",
-      "bb": "23.8 BB",
+      "bb": "19.8 BB",
       "bonus": "Locked 0 PTS",
       "points": 0.0
     },
@@ -87,7 +87,7 @@
       "team": "Torching with TJ",
       "rank": "8 / 9",
       "chips": "3,420,000",
-      "bb": "17.1 BB",
+      "bb": "14.3 BB",
       "bonus": "Locked 0 PTS",
       "points": 0.0
     },
@@ -98,7 +98,7 @@
       "team": "Lady Gaga",
       "rank": "9 / 9",
       "chips": "2,220,000",
-      "bb": "11.1 BB",
+      "bb": "9.3 BB",
       "bonus": "Locked 0 PTS",
       "points": 0.0
     },
