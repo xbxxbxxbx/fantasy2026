@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-12T06:10:15.658515+00:00",
+  "generatedAt": "2026-06-12T06:20:11.588141+00:00",
   "league": "25k",
   "count": 16,
   "players": [
@@ -10,7 +10,7 @@
       "team": "Lang Gang",
       "rank": "7 / 8",
       "chips": "3,120,000",
-      "bb": "20.8 BB",
+      "bb": "15.6 BB",
       "bonus": "Locked 14 PTS",
       "points": 0.0
     },
@@ -129,7 +129,7 @@
       "event": "Event #37: $1,500 H.O.R.S.E.",
       "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-37/",
       "team": "Back Office",
-      "rank": "6 / 23",
+      "rank": "7 / 23",
       "chips": "1,300,000",
       "bb": "\u2014",
       "bonus": "Top 18 12 PTS",
