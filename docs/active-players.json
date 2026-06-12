@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-12T03:00:15.210231+00:00",
+  "generatedAt": "2026-06-12T03:10:12.102070+00:00",
   "league": "25k",
   "count": 12,
   "players": [
@@ -15,23 +15,23 @@
       "points": 18.0
     },
     {
-      "player": "Martin Zamani",
+      "player": "Justin Liberto",
       "event": "Event #33: $10,000 Pot-Limit Omaha Hi-Lo 8 or Better Championship",
       "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-33/",
-      "team": "Gators",
+      "team": "Blez/NGNF",
       "rank": "1 / 8",
-      "chips": "5,250,000",
+      "chips": "4,895,000",
       "bb": "\u2014",
       "bonus": "Locked 13 PTS",
       "points": 0.0
     },
     {
-      "player": "Justin Liberto",
+      "player": "Matthew Beinner",
       "event": "Event #33: $10,000 Pot-Limit Omaha Hi-Lo 8 or Better Championship",
       "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-33/",
-      "team": "Blez/NGNF",
-      "rank": "2 / 8",
-      "chips": "4,895,000",
+      "team": "Browndog",
+      "rank": "3 / 8",
+      "chips": "3,070,000",
       "bb": "\u2014",
       "bonus": "Locked 13 PTS",
       "points": 0.0
@@ -42,18 +42,18 @@
       "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-33/",
       "team": "Blez/NGNF",
       "rank": "5 / 8",
-      "chips": "1,735,000",
+      "chips": "2,545,000",
       "bb": "\u2014",
       "bonus": "Locked 13 PTS",
       "points": 0.0
     },
     {
-      "player": "Matthew Beinner",
+      "player": "Martin Zamani",
       "event": "Event #33: $10,000 Pot-Limit Omaha Hi-Lo 8 or Better Championship",
       "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-33/",
-      "team": "Browndog",
+      "team": "Gators",
       "rank": "7 / 8",
-      "chips": "1,420,000",
+      "chips": "1,480,000",
       "bb": "\u2014",
       "bonus": "Locked 13 PTS",
       "points": 0.0
@@ -64,7 +64,7 @@
       "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-33/",
       "team": "Banana",
       "rank": "8 / 8",
-      "chips": "1,400,000",
+      "chips": "840,000",
       "bb": "\u2014",
       "bonus": "Locked 13 PTS",
       "points": 0.0
