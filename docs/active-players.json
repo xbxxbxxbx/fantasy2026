@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-12T02:50:11.477336+00:00",
+  "generatedAt": "2026-06-12T03:00:15.210231+00:00",
   "league": "25k",
   "count": 12,
   "players": [
@@ -8,7 +8,7 @@
       "event": "Event #32: $3,000 No-Limit Hold'em",
       "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-32/",
       "team": "Lang Gang",
-      "rank": "4 / 14",
+      "rank": "4 / 13",
       "chips": "3,750,000",
       "bb": "37.5 BB",
       "bonus": "Locked 14 PTS",
@@ -74,8 +74,8 @@
       "event": "Event #37: $1,500 H.O.R.S.E.",
       "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-37/",
       "team": "Verderamo",
-      "rank": "1 / 34",
-      "chips": "11,000,020",
+      "rank": "4 / 34",
+      "chips": "1,100,020",
       "bb": "\u2014",
       "bonus": "Top 18 12 PTS",
       "points": 1.0
@@ -85,8 +85,8 @@
       "event": "Event #37: $1,500 H.O.R.S.E.",
       "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-37/",
       "team": "2026 ODB Bonus Players",
-      "rank": "3 / 34",
-      "chips": "850,000",
+      "rank": "5 / 34",
+      "chips": "900,000",
       "bb": "\u2014",
       "bonus": "Top 18 12 PTS",
       "points": 1.0
@@ -96,19 +96,8 @@
       "event": "Event #37: $1,500 H.O.R.S.E.",
       "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-37/",
       "team": "Back Office",
-      "rank": "4 / 34",
+      "rank": "6 / 34",
       "chips": "843,000",
-      "bb": "\u2014",
-      "bonus": "Top 18 12 PTS",
-      "points": 1.0
-    },
-    {
-      "player": "Brian Hastings",
-      "event": "Event #37: $1,500 H.O.R.S.E.",
-      "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-37/",
-      "team": "Banana",
-      "rank": "19 / 34",
-      "chips": "492,000",
       "bb": "\u2014",
       "bonus": "Top 18 12 PTS",
       "points": 1.0
@@ -118,8 +107,8 @@
       "event": "Event #37: $1,500 H.O.R.S.E.",
       "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-37/",
       "team": "Glaser",
-      "rank": "22 / 34",
-      "chips": "400,000",
+      "rank": "24 / 34",
+      "chips": "355,000",
       "bb": "\u2014",
       "bonus": "Top 18 12 PTS",
       "points": 1.0
@@ -129,8 +118,19 @@
       "event": "Event #37: $1,500 H.O.R.S.E.",
       "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-37/",
       "team": "2026 ODB Bonus Players",
-      "rank": "24 / 34",
-      "chips": "320,000",
+      "rank": "29 / 34",
+      "chips": "195,000",
+      "bb": "\u2014",
+      "bonus": "Top 18 12 PTS",
+      "points": 1.0
+    },
+    {
+      "player": "Brian Hastings",
+      "event": "Event #37: $1,500 H.O.R.S.E.",
+      "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-37/",
+      "team": "Banana",
+      "rank": "31 / 34",
+      "chips": "180,000",
       "bb": "\u2014",
       "bonus": "Top 18 12 PTS",
       "points": 1.0
