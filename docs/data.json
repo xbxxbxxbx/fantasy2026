@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-12T22:10:18.240402+00:00",
+  "generatedAt": "2026-06-12T22:20:22.274558+00:00",
   "leagueName": "WSOP Poker Fantasy Draft 2026",
   "sourceLabel": "25KFantasy",
   "sourceUrl": "https://www.25kfantasy.com/players/",
@@ -76,7 +76,7 @@
         },
         {
           "player": "Jon Turner",
-          "points": 18.0
+          "points": 19.0
         },
         {
           "player": "Matt Vengrin",
@@ -87,9 +87,9 @@
           "points": 0.0
         }
       ],
-      "totalPoints": 407.0,
-      "pointsChange": 1.0,
-      "pointsChangeSincePrevious": 0.0
+      "totalPoints": 408.0,
+      "pointsChange": 2.0,
+      "pointsChangeSincePrevious": 1.0
     },
     {
       "managerName": "realbmorekid",
@@ -232,7 +232,7 @@
         },
         {
           "player": "Jon Turner",
-          "points": 18.0
+          "points": 19.0
         },
         {
           "player": "Ben Yu",
@@ -255,9 +255,9 @@
           "points": 4.0
         }
       ],
-      "totalPoints": 192.0,
-      "pointsChange": 4.0,
-      "pointsChangeSincePrevious": 0.0
+      "totalPoints": 193.0,
+      "pointsChange": 5.0,
+      "pointsChangeSincePrevious": 1.0
     },
     {
       "managerName": "Trampstamp",
@@ -319,11 +319,11 @@
           "points": 16.0
         },
         {
-          "player": "Jerry Wong",
-          "points": 13.0
+          "player": "Allan Le",
+          "points": 14.0
         },
         {
-          "player": "Allan Le",
+          "player": "Jerry Wong",
           "points": 13.0
         },
         {
@@ -339,9 +339,9 @@
           "points": 5.0
         }
       ],
-      "totalPoints": 154.0,
-      "pointsChange": 2.0,
-      "pointsChangeSincePrevious": 0.0
+      "totalPoints": 155.0,
+      "pointsChange": 3.0,
+      "pointsChangeSincePrevious": 1.0
     },
     {
       "managerName": "Ruben",
