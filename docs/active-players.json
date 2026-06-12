@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-06-12T06:30:16.201336+00:00",
+  "generatedAt": "2026-06-12T06:40:13.954718+00:00",
   "league": "25k",
-  "count": 15,
+  "count": 14,
   "players": [
     {
       "player": "Jim Collopy",
@@ -52,7 +52,7 @@
       "event": "Event #36: $100,000 High Roller No-Limit Hold\u2019em",
       "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-36/",
       "team": "Lady Gaga",
-      "rank": "2 / 12",
+      "rank": "2 / 11",
       "chips": "8,175,000",
       "bb": "68.1 BB",
       "bonus": "Locked 0 PTS",
@@ -63,7 +63,7 @@
       "event": "Event #36: $100,000 High Roller No-Limit Hold\u2019em",
       "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-36/",
       "team": "Torching with TJ",
-      "rank": "5 / 12",
+      "rank": "5 / 11",
       "chips": "5,705,000",
       "bb": "47.5 BB",
       "bonus": "Locked 0 PTS",
@@ -74,7 +74,7 @@
       "event": "Event #36: $100,000 High Roller No-Limit Hold\u2019em",
       "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-36/",
       "team": "Lucky",
-      "rank": "6 / 12",
+      "rank": "6 / 11",
       "chips": "3,830,000",
       "bb": "31.9 BB",
       "bonus": "Locked 0 PTS",
@@ -85,7 +85,7 @@
       "event": "Event #36: $100,000 High Roller No-Limit Hold\u2019em",
       "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-36/",
       "team": "Spitework",
-      "rank": "7 / 12",
+      "rank": "7 / 11",
       "chips": "3,765,000",
       "bb": "31.4 BB",
       "bonus": "Locked 0 PTS",
@@ -96,7 +96,7 @@
       "event": "Event #36: $100,000 High Roller No-Limit Hold\u2019em",
       "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-36/",
       "team": "Blades & Shades",
-      "rank": "8 / 12",
+      "rank": "8 / 11",
       "chips": "3,450,000",
       "bb": "28.8 BB",
       "bonus": "Locked 0 PTS",
@@ -107,20 +107,9 @@
       "event": "Event #36: $100,000 High Roller No-Limit Hold\u2019em",
       "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-36/",
       "team": "Lady Gaga",
-      "rank": "9 / 12",
+      "rank": "9 / 11",
       "chips": "3,070,000",
       "bb": "25.6 BB",
-      "bonus": "Locked 0 PTS",
-      "points": 11.0
-    },
-    {
-      "player": "Sean Winter",
-      "event": "Event #36: $100,000 High Roller No-Limit Hold\u2019em",
-      "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-36/",
-      "team": "Glaser",
-      "rank": "10 / 12",
-      "chips": "2,980,000",
-      "bb": "24.8 BB",
       "bonus": "Locked 0 PTS",
       "points": 11.0
     },
@@ -129,44 +118,44 @@
       "event": "Event #37: $1,500 H.O.R.S.E.",
       "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-37/",
       "team": "Back Office",
-      "rank": "7 / 21",
+      "rank": "8 / 18",
       "chips": "1,300,000",
       "bb": "\u2014",
-      "bonus": "Top 18 12 PTS",
-      "points": 1.0
+      "bonus": "Locked 12 PTS",
+      "points": 12.0
     },
     {
       "player": "Matt Grapenthien",
       "event": "Event #37: $1,500 H.O.R.S.E.",
       "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-37/",
       "team": "2026 ODB Bonus Players",
-      "rank": "17 / 21",
+      "rank": "15 / 18",
       "chips": "580,000",
       "bb": "\u2014",
-      "bonus": "Top 18 12 PTS",
-      "points": 1.0
+      "bonus": "Locked 12 PTS",
+      "points": 12.0
     },
     {
       "player": "Nick Schulman",
       "event": "Event #37: $1,500 H.O.R.S.E.",
       "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-37/",
       "team": "Verderamo",
-      "rank": "20 / 21",
+      "rank": "17 / 18",
       "chips": "320,000",
       "bb": "\u2014",
-      "bonus": "Top 18 12 PTS",
-      "points": 1.0
+      "bonus": "Locked 12 PTS",
+      "points": 12.0
     },
     {
       "player": "Craig Chait",
       "event": "Event #37: $1,500 H.O.R.S.E.",
       "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-37/",
       "team": "Glaser",
-      "rank": "21 / 21",
+      "rank": "18 / 18",
       "chips": "100,000",
       "bb": "\u2014",
-      "bonus": "Top 18 12 PTS",
-      "points": 1.0
+      "bonus": "Locked 12 PTS",
+      "points": 12.0
     }
   ]
 }
