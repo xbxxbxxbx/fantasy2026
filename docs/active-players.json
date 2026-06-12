@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-12T09:20:14.076398+00:00",
+  "generatedAt": "2026-06-12T09:30:19.536157+00:00",
   "league": "25k",
   "count": 12,
   "players": [
@@ -52,7 +52,7 @@
       "event": "Event #36: $100,000 High Roller No-Limit Hold\u2019em",
       "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-36/",
       "team": "Lady Gaga",
-      "rank": "1 / 9",
+      "rank": "2 / 9",
       "chips": "11,800,000",
       "bb": "59.0 BB",
       "bonus": "Locked 0 PTS",
@@ -86,8 +86,8 @@
       "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-36/",
       "team": "Torching with TJ",
       "rank": "8 / 9",
-      "chips": "3,490,000",
-      "bb": "17.5 BB",
+      "chips": "3,420,000",
+      "bb": "17.1 BB",
       "bonus": "Locked 0 PTS",
       "points": 0.0
     },
