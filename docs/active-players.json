@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-06-12T16:40:11.479474+00:00",
+  "generatedAt": "2026-06-12T16:50:12.751390+00:00",
   "league": "25k",
-  "count": 12,
+  "count": 28,
   "players": [
     {
       "player": "Jim Collopy",
@@ -46,6 +46,182 @@
       "bb": "\u2014",
       "bonus": "Locked 13 PTS",
       "points": 0.0
+    },
+    {
+      "player": "Tyler Brown",
+      "event": "Event #35: $1,500 Pot-Limit Omaha 8-Handed",
+      "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-35/",
+      "team": "2026 ODB Bonus Players",
+      "rank": "3 / 130",
+      "chips": "810,000",
+      "bb": "\u2014",
+      "bonus": "Top 36 26 PTS",
+      "points": 1.0
+    },
+    {
+      "player": "Jon Turner",
+      "event": "Event #35: $1,500 Pot-Limit Omaha 8-Handed",
+      "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-35/",
+      "team": "Wasserson",
+      "rank": "5 / 130",
+      "chips": "803,000",
+      "bb": "\u2014",
+      "bonus": "Top 36 26 PTS",
+      "points": 1.0
+    },
+    {
+      "player": "Allan Le",
+      "event": "Event #35: $1,500 Pot-Limit Omaha 8-Handed",
+      "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-35/",
+      "team": "Blades & Shades",
+      "rank": "13 / 130",
+      "chips": "605,000",
+      "bb": "\u2014",
+      "bonus": "Top 36 26 PTS",
+      "points": 1.0
+    },
+    {
+      "player": "Maxx Coleman",
+      "event": "Event #35: $1,500 Pot-Limit Omaha 8-Handed",
+      "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-35/",
+      "team": "Browndog",
+      "rank": "14 / 130",
+      "chips": "596,000",
+      "bb": "\u2014",
+      "bonus": "Top 36 26 PTS",
+      "points": 1.0
+    },
+    {
+      "player": "Zdenek Zizka",
+      "event": "Event #35: $1,500 Pot-Limit Omaha 8-Handed",
+      "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-35/",
+      "team": "Lucky",
+      "rank": "27 / 130",
+      "chips": "477,000",
+      "bb": "\u2014",
+      "bonus": "Top 36 26 PTS",
+      "points": 1.0
+    },
+    {
+      "player": "Gabriel Andrade",
+      "event": "Event #35: $1,500 Pot-Limit Omaha 8-Handed",
+      "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-35/",
+      "team": "Verderamo",
+      "rank": "51 / 130",
+      "chips": "325,000",
+      "bb": "\u2014",
+      "bonus": "Top 36 26 PTS",
+      "points": 1.0
+    },
+    {
+      "player": "Esther Taylor",
+      "event": "Event #35: $1,500 Pot-Limit Omaha 8-Handed",
+      "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-35/",
+      "team": "Lucky",
+      "rank": "62 / 130",
+      "chips": "269,000",
+      "bb": "\u2014",
+      "bonus": "Top 36 26 PTS",
+      "points": 1.0
+    },
+    {
+      "player": "Ariel Mantel",
+      "event": "Event #35: $1,500 Pot-Limit Omaha 8-Handed",
+      "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-35/",
+      "team": "Very Handsome Horses",
+      "rank": "67 / 130",
+      "chips": "247,000",
+      "bb": "\u2014",
+      "bonus": "Top 36 26 PTS",
+      "points": 1.0
+    },
+    {
+      "player": "Brandon Shack-Harris",
+      "event": "Event #35: $1,500 Pot-Limit Omaha 8-Handed",
+      "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-35/",
+      "team": "Glaser",
+      "rank": "77 / 130",
+      "chips": "228,000",
+      "bb": "\u2014",
+      "bonus": "Top 36 26 PTS",
+      "points": 1.0
+    },
+    {
+      "player": "Nicholas Seward",
+      "event": "Event #35: $1,500 Pot-Limit Omaha 8-Handed",
+      "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-35/",
+      "team": "Stake Kings",
+      "rank": "82 / 130",
+      "chips": "203,000",
+      "bb": "\u2014",
+      "bonus": "Top 36 26 PTS",
+      "points": 1.0
+    },
+    {
+      "player": "Nick Palma",
+      "event": "Event #35: $1,500 Pot-Limit Omaha 8-Handed",
+      "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-35/",
+      "team": "2026 ODB Bonus Players",
+      "rank": "84 / 130",
+      "chips": "199,000",
+      "bb": "\u2014",
+      "bonus": "Top 36 26 PTS",
+      "points": 1.0
+    },
+    {
+      "player": "Christian Roberts",
+      "event": "Event #35: $1,500 Pot-Limit Omaha 8-Handed",
+      "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-35/",
+      "team": "Blades & Shades",
+      "rank": "90 / 130",
+      "chips": "185,000",
+      "bb": "\u2014",
+      "bonus": "Top 36 26 PTS",
+      "points": 1.0
+    },
+    {
+      "player": "Michael Estes",
+      "event": "Event #35: $1,500 Pot-Limit Omaha 8-Handed",
+      "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-35/",
+      "team": "2026 ODB Bonus Players",
+      "rank": "93 / 130",
+      "chips": "177,000",
+      "bb": "\u2014",
+      "bonus": "Top 36 26 PTS",
+      "points": 1.0
+    },
+    {
+      "player": "Chad Eveslage",
+      "event": "Event #35: $1,500 Pot-Limit Omaha 8-Handed",
+      "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-35/",
+      "team": "Dinkers",
+      "rank": "94 / 130",
+      "chips": "174,000",
+      "bb": "\u2014",
+      "bonus": "Top 36 26 PTS",
+      "points": 1.0
+    },
+    {
+      "player": "Christian Harder",
+      "event": "Event #35: $1,500 Pot-Limit Omaha 8-Handed",
+      "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-35/",
+      "team": "Fleyshman",
+      "rank": "96 / 130",
+      "chips": "158,000",
+      "bb": "\u2014",
+      "bonus": "Top 36 26 PTS",
+      "points": 1.0
+    },
+    {
+      "player": "Danny Wong",
+      "event": "Event #35: $1,500 Pot-Limit Omaha 8-Handed",
+      "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-35/",
+      "team": "Back Office",
+      "rank": "125 / 130",
+      "chips": "65,000",
+      "bb": "\u2014",
+      "bonus": "Top 36 26 PTS",
+      "points": 1.0
     },
     {
       "player": "Yuri Dzivielevski",
