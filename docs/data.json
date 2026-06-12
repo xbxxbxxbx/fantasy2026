@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-12T19:10:13.010772+00:00",
+  "generatedAt": "2026-06-12T19:20:15.712093+00:00",
   "leagueName": "WSOP Poker Fantasy Draft 2026",
   "sourceLabel": "25KFantasy",
   "sourceUrl": "https://www.25kfantasy.com/players/",
@@ -34,7 +34,7 @@
         },
         {
           "player": "Ben Yu",
-          "points": 9.0
+          "points": 10.0
         },
         {
           "player": "Andrew Lichtenberger",
@@ -45,9 +45,9 @@
           "points": 2.0
         }
       ],
-      "totalPoints": 461.0,
-      "pointsChange": 0.0,
-      "pointsChangeSincePrevious": 0.0
+      "totalPoints": 462.0,
+      "pointsChange": 1.0,
+      "pointsChangeSincePrevious": 1.0
     },
     {
       "managerName": "ASG",
@@ -72,7 +72,7 @@
         },
         {
           "player": "Calvin Anderson",
-          "points": 35.0
+          "points": 36.0
         },
         {
           "player": "Jon Turner",
@@ -87,9 +87,9 @@
           "points": 0.0
         }
       ],
-      "totalPoints": 406.0,
-      "pointsChange": 0.0,
-      "pointsChangeSincePrevious": 0.0
+      "totalPoints": 407.0,
+      "pointsChange": 1.0,
+      "pointsChangeSincePrevious": 1.0
     },
     {
       "managerName": "realbmorekid",
@@ -106,7 +106,7 @@
         },
         {
           "player": "Cherish Andrews",
-          "points": 25.0
+          "points": 26.0
         },
         {
           "player": "Shannon Shorr",
@@ -121,17 +121,17 @@
           "points": 10.0
         },
         {
-          "player": "Esther Taylor",
-          "points": 6.0
+          "player": "Brock Wilson",
+          "points": 7.0
         },
         {
-          "player": "Brock Wilson",
+          "player": "Esther Taylor",
           "points": 6.0
         }
       ],
-      "totalPoints": 253.0,
-      "pointsChange": 0.0,
-      "pointsChangeSincePrevious": 0.0
+      "totalPoints": 255.0,
+      "pointsChange": 2.0,
+      "pointsChangeSincePrevious": 2.0
     },
     {
       "managerName": "Turbo",
@@ -228,7 +228,7 @@
         },
         {
           "player": "Calvin Anderson",
-          "points": 35.0
+          "points": 36.0
         },
         {
           "player": "Jon Turner",
@@ -236,15 +236,15 @@
         },
         {
           "player": "Ben Yu",
-          "points": 9.0
+          "points": 10.0
         },
         {
           "player": "Ari Engel",
-          "points": 7.0
+          "points": 8.0
         },
         {
           "player": "Brock Wilson",
-          "points": 6.0
+          "points": 7.0
         },
         {
           "player": "Nicholas Seward",
@@ -255,9 +255,9 @@
           "points": 4.0
         }
       ],
-      "totalPoints": 188.0,
-      "pointsChange": 0.0,
-      "pointsChangeSincePrevious": 0.0
+      "totalPoints": 192.0,
+      "pointsChange": 4.0,
+      "pointsChangeSincePrevious": 4.0
     },
     {
       "managerName": "Trampstamp",
