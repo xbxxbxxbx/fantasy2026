@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-12T02:30:12.942687+00:00",
+  "generatedAt": "2026-06-12T02:40:11.000118+00:00",
   "league": "25k",
   "count": 12,
   "players": [
@@ -8,9 +8,9 @@
       "event": "Event #32: $3,000 No-Limit Hold'em",
       "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-32/",
       "team": "Lang Gang",
-      "rank": "4 / 16",
+      "rank": "4 / 15",
       "chips": "3,750,000",
-      "bb": "46.9 BB",
+      "bb": "37.5 BB",
       "bonus": "Locked 14 PTS",
       "points": 18.0
     },
@@ -96,7 +96,7 @@
       "event": "Event #37: $1,500 H.O.R.S.E.",
       "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-37/",
       "team": "Verderamo",
-      "rank": "10 / 36",
+      "rank": "11 / 36",
       "chips": "628,000",
       "bb": "\u2014",
       "bonus": "Top 18 12 PTS",
@@ -107,7 +107,7 @@
       "event": "Event #37: $1,500 H.O.R.S.E.",
       "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-37/",
       "team": "Banana",
-      "rank": "17 / 36",
+      "rank": "18 / 36",
       "chips": "492,000",
       "bb": "\u2014",
       "bonus": "Top 18 12 PTS",
@@ -118,8 +118,8 @@
       "event": "Event #37: $1,500 H.O.R.S.E.",
       "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-37/",
       "team": "Glaser",
-      "rank": "18 / 36",
-      "chips": "475,000",
+      "rank": "21 / 36",
+      "chips": "400,000",
       "bb": "\u2014",
       "bonus": "Top 18 12 PTS",
       "points": 1.0

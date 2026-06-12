@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-12T02:30:12.747220+00:00",
+  "generatedAt": "2026-06-12T02:40:10.791552+00:00",
   "leagueName": "WSOP Poker Fantasy Draft 2026",
   "sourceLabel": "25KFantasy",
   "sourceUrl": "https://www.25kfantasy.com/players/",
@@ -336,12 +336,12 @@
         },
         {
           "player": "Phillip Hui",
-          "points": 4.0
+          "points": 5.0
         }
       ],
-      "totalPoints": 151.0,
-      "pointsChange": 13.0,
-      "pointsChangeSincePrevious": 0.0
+      "totalPoints": 152.0,
+      "pointsChange": 14.0,
+      "pointsChangeSincePrevious": 1.0
     },
     {
       "managerName": "Ruben",
