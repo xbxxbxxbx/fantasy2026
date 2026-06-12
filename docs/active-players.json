@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-12T05:30:15.231087+00:00",
+  "generatedAt": "2026-06-12T05:40:12.513349+00:00",
   "league": "25k",
   "count": 18,
   "players": [
@@ -151,19 +151,8 @@
       "event": "Event #37: $1,500 H.O.R.S.E.",
       "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-37/",
       "team": "Verderamo",
-      "rank": "4 / 24",
+      "rank": "4 / 23",
       "chips": "1,120,000",
-      "bb": "\u2014",
-      "bonus": "Top 18 12 PTS",
-      "points": 1.0
-    },
-    {
-      "player": "Matt Grapenthien",
-      "event": "Event #37: $1,500 H.O.R.S.E.",
-      "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-37/",
-      "team": "2026 ODB Bonus Players",
-      "rank": "5 / 24",
-      "chips": "900,000",
       "bb": "\u2014",
       "bonus": "Top 18 12 PTS",
       "points": 1.0
@@ -173,7 +162,7 @@
       "event": "Event #37: $1,500 H.O.R.S.E.",
       "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-37/",
       "team": "Back Office",
-      "rank": "7 / 24",
+      "rank": "6 / 23",
       "chips": "843,000",
       "bb": "\u2014",
       "bonus": "Top 18 12 PTS",
@@ -184,8 +173,19 @@
       "event": "Event #37: $1,500 H.O.R.S.E.",
       "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-37/",
       "team": "Glaser",
-      "rank": "19 / 24",
+      "rank": "18 / 23",
       "chips": "450,000",
+      "bb": "\u2014",
+      "bonus": "Top 18 12 PTS",
+      "points": 1.0
+    },
+    {
+      "player": "Matt Grapenthien",
+      "event": "Event #37: $1,500 H.O.R.S.E.",
+      "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-37/",
+      "team": "2026 ODB Bonus Players",
+      "rank": "20 / 23",
+      "chips": "385,000",
       "bb": "\u2014",
       "bonus": "Top 18 12 PTS",
       "points": 1.0
@@ -195,7 +195,7 @@
       "event": "Event #37: $1,500 H.O.R.S.E.",
       "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-37/",
       "team": "Banana",
-      "rank": "24 / 24",
+      "rank": "23 / 23",
       "chips": "180,000",
       "bb": "\u2014",
       "bonus": "Top 18 12 PTS",
