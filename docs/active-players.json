@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-12T04:30:13.951954+00:00",
+  "generatedAt": "2026-06-12T04:40:12.830303+00:00",
   "league": "25k",
   "count": 21,
   "players": [
@@ -76,7 +76,7 @@
       "team": "Lady Gaga",
       "rank": "2 / 16",
       "chips": "8,175,000",
-      "bb": "102.2 BB",
+      "bb": "81.8 BB",
       "bonus": "Locked 0 PTS",
       "points": 11.0
     },
@@ -87,7 +87,7 @@
       "team": "Torching with TJ",
       "rank": "5 / 16",
       "chips": "5,705,000",
-      "bb": "71.3 BB",
+      "bb": "57.1 BB",
       "bonus": "Locked 0 PTS",
       "points": 11.0
     },
@@ -98,7 +98,7 @@
       "team": "Lucky",
       "rank": "6 / 16",
       "chips": "3,830,000",
-      "bb": "47.9 BB",
+      "bb": "38.3 BB",
       "bonus": "Locked 0 PTS",
       "points": 11.0
     },
@@ -109,7 +109,7 @@
       "team": "Spitework",
       "rank": "7 / 16",
       "chips": "3,765,000",
-      "bb": "47.1 BB",
+      "bb": "37.7 BB",
       "bonus": "Locked 0 PTS",
       "points": 11.0
     },
@@ -120,7 +120,7 @@
       "team": "Blades & Shades",
       "rank": "8 / 16",
       "chips": "3,450,000",
-      "bb": "43.1 BB",
+      "bb": "34.5 BB",
       "bonus": "Locked 0 PTS",
       "points": 11.0
     },
@@ -131,7 +131,7 @@
       "team": "Banana",
       "rank": "9 / 16",
       "chips": "3,365,000",
-      "bb": "42.1 BB",
+      "bb": "33.7 BB",
       "bonus": "Locked 0 PTS",
       "points": 11.0
     },
@@ -142,7 +142,7 @@
       "team": "Lady Gaga",
       "rank": "10 / 16",
       "chips": "3,070,000",
-      "bb": "38.4 BB",
+      "bb": "30.7 BB",
       "bonus": "Locked 0 PTS",
       "points": 11.0
     },
@@ -153,7 +153,7 @@
       "team": "Glaser",
       "rank": "11 / 16",
       "chips": "2,980,000",
-      "bb": "37.3 BB",
+      "bb": "29.8 BB",
       "bonus": "Locked 0 PTS",
       "points": 11.0
     },
@@ -164,7 +164,7 @@
       "team": "Lucky",
       "rank": "12 / 16",
       "chips": "1,710,000",
-      "bb": "21.4 BB",
+      "bb": "17.1 BB",
       "bonus": "Locked 0 PTS",
       "points": 11.0
     },
@@ -175,7 +175,7 @@
       "team": "Browndog",
       "rank": "15 / 16",
       "chips": "1,100,000",
-      "bb": "13.8 BB",
+      "bb": "11.0 BB",
       "bonus": "Locked 0 PTS",
       "points": 11.0
     },
@@ -184,7 +184,7 @@
       "event": "Event #37: $1,500 H.O.R.S.E.",
       "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-37/",
       "team": "Verderamo",
-      "rank": "4 / 27",
+      "rank": "4 / 26",
       "chips": "1,120,000",
       "bb": "\u2014",
       "bonus": "Top 18 12 PTS",
@@ -195,7 +195,7 @@
       "event": "Event #37: $1,500 H.O.R.S.E.",
       "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-37/",
       "team": "2026 ODB Bonus Players",
-      "rank": "5 / 27",
+      "rank": "5 / 26",
       "chips": "900,000",
       "bb": "\u2014",
       "bonus": "Top 18 12 PTS",
@@ -206,7 +206,7 @@
       "event": "Event #37: $1,500 H.O.R.S.E.",
       "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-37/",
       "team": "Back Office",
-      "rank": "6 / 27",
+      "rank": "6 / 26",
       "chips": "843,000",
       "bb": "\u2014",
       "bonus": "Top 18 12 PTS",
@@ -217,8 +217,8 @@
       "event": "Event #37: $1,500 H.O.R.S.E.",
       "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-37/",
       "team": "Glaser",
-      "rank": "23 / 27",
-      "chips": "355,000",
+      "rank": "19 / 26",
+      "chips": "450,000",
       "bb": "\u2014",
       "bonus": "Top 18 12 PTS",
       "points": 1.0
@@ -228,7 +228,7 @@
       "event": "Event #37: $1,500 H.O.R.S.E.",
       "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-37/",
       "team": "Banana",
-      "rank": "27 / 27",
+      "rank": "25 / 26",
       "chips": "180,000",
       "bb": "\u2014",
       "bonus": "Top 18 12 PTS",
