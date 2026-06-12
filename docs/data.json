@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-12T23:30:12.370024+00:00",
+  "generatedAt": "2026-06-12T23:40:12.370639+00:00",
   "leagueName": "WSOP Poker Fantasy Draft 2026",
   "sourceLabel": "25KFantasy",
   "sourceUrl": "https://www.25kfantasy.com/players/",
@@ -92,6 +92,48 @@
       "pointsChangeSincePrevious": 0.0
     },
     {
+      "managerName": "Doinky",
+      "teamName": "doinky",
+      "url": "https://www.poker.org/fantasy/wsop/2026/team/doinky/",
+      "players": [
+        {
+          "player": "Dylan Weisman",
+          "points": 141.0
+        },
+        {
+          "player": "Andrew Ostapchenko",
+          "points": 46.0
+        },
+        {
+          "player": "Sam Soverel",
+          "points": 35.0
+        },
+        {
+          "player": "Matt Vengrin",
+          "points": 17.0
+        },
+        {
+          "player": "Eric Wasserson",
+          "points": 13.0
+        },
+        {
+          "player": "Adam Hendrix",
+          "points": 7.0
+        },
+        {
+          "player": "Stephen Song",
+          "points": 2.0
+        },
+        {
+          "player": "Isaac Haxton",
+          "points": 0.0
+        }
+      ],
+      "totalPoints": 261.0,
+      "pointsChange": 31.0,
+      "pointsChangeSincePrevious": 31.0
+    },
+    {
       "managerName": "realbmorekid",
       "teamName": "Bmore\u2019s Brawlers",
       "url": "https://www.poker.org/fantasy/wsop/2026/team/bmore-s-brawlers/",
@@ -176,48 +218,6 @@
       "pointsChangeSincePrevious": 0.0
     },
     {
-      "managerName": "Doinky",
-      "teamName": "doinky",
-      "url": "https://www.poker.org/fantasy/wsop/2026/team/doinky/",
-      "players": [
-        {
-          "player": "Dylan Weisman",
-          "points": 141.0
-        },
-        {
-          "player": "Andrew Ostapchenko",
-          "points": 46.0
-        },
-        {
-          "player": "Matt Vengrin",
-          "points": 17.0
-        },
-        {
-          "player": "Eric Wasserson",
-          "points": 13.0
-        },
-        {
-          "player": "Adam Hendrix",
-          "points": 7.0
-        },
-        {
-          "player": "Sam Soverel",
-          "points": 4.0
-        },
-        {
-          "player": "Stephen Song",
-          "points": 2.0
-        },
-        {
-          "player": "Isaac Haxton",
-          "points": 0.0
-        }
-      ],
-      "totalPoints": 230.0,
-      "pointsChange": 0.0,
-      "pointsChangeSincePrevious": 0.0
-    },
-    {
       "managerName": "JeffBNT",
       "teamName": "Team Max Degen",
       "url": "https://www.poker.org/fantasy/wsop/2026/team/team-max-degen/",
@@ -229,6 +229,10 @@
         {
           "player": "Calvin Anderson",
           "points": 36.0
+        },
+        {
+          "player": "Sam Soverel",
+          "points": 35.0
         },
         {
           "player": "Jon Turner",
@@ -249,15 +253,11 @@
         {
           "player": "Nicholas Seward",
           "points": 6.0
-        },
-        {
-          "player": "Sam Soverel",
-          "points": 4.0
         }
       ],
-      "totalPoints": 193.0,
-      "pointsChange": 5.0,
-      "pointsChangeSincePrevious": 0.0
+      "totalPoints": 224.0,
+      "pointsChange": 36.0,
+      "pointsChangeSincePrevious": 31.0
     },
     {
       "managerName": "Ruben",

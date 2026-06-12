@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-06-12T23:30:12.492372+00:00",
+  "generatedAt": "2026-06-12T23:40:12.551062+00:00",
   "league": "25k",
-  "count": 17,
+  "count": 16,
   "players": [
     {
       "player": "Justin Liberto",
@@ -129,8 +129,8 @@
       "event": "Event #35: $1,500 Pot-Limit Omaha 8-Handed",
       "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-35/",
       "team": "2026 ODB Bonus Players",
-      "rank": "60 / 62",
-      "chips": "330,000",
+      "rank": "62 / 62",
+      "chips": "270,000",
       "bb": "\u2014",
       "bonus": "Top 36 26 PTS",
       "points": 1.0
@@ -140,7 +140,7 @@
       "event": "Event #36: $100,000 High Roller No-Limit Hold\u2019em",
       "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-36/",
       "team": "Lady Gaga",
-      "rank": "2 / 8",
+      "rank": "2 / 7",
       "chips": "11,800,000",
       "bb": "29.5 BB",
       "bonus": "Locked 0 PTS",
@@ -151,20 +151,9 @@
       "event": "Event #36: $100,000 High Roller No-Limit Hold\u2019em",
       "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-36/",
       "team": "Spitework",
-      "rank": "6 / 8",
+      "rank": "6 / 7",
       "chips": "4,750,000",
       "bb": "11.9 BB",
-      "bonus": "Locked 0 PTS",
-      "points": 0.0
-    },
-    {
-      "player": "Sam Soverel",
-      "event": "Event #36: $100,000 High Roller No-Limit Hold\u2019em",
-      "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-36/",
-      "team": "Torching with TJ",
-      "rank": "7 / 8",
-      "chips": "3,420,000",
-      "bb": "8.6 BB",
       "bonus": "Locked 0 PTS",
       "points": 0.0
     },
@@ -173,7 +162,7 @@
       "event": "Event #36: $100,000 High Roller No-Limit Hold\u2019em",
       "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-36/",
       "team": "Lady Gaga",
-      "rank": "8 / 8",
+      "rank": "7 / 7",
       "chips": "2,220,000",
       "bb": "5.6 BB",
       "bonus": "Locked 0 PTS",
