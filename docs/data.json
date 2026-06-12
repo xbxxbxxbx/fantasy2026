@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-12T23:15:32.546655+00:00",
+  "generatedAt": "2026-06-12T23:20:13.038276+00:00",
   "leagueName": "WSOP Poker Fantasy Draft 2026",
   "sourceLabel": "25KFantasy",
   "sourceUrl": "https://www.25kfantasy.com/players/",
@@ -260,6 +260,48 @@
       "pointsChangeSincePrevious": 0.0
     },
     {
+      "managerName": "Ruben",
+      "teamName": "wugwugwugwug",
+      "url": "https://www.poker.org/fantasy/wsop/2026/team/wugwugwugwug/",
+      "players": [
+        {
+          "player": "Jim Collopy",
+          "points": 53.0
+        },
+        {
+          "player": "Brandon Shack-Harris",
+          "points": 47.0
+        },
+        {
+          "player": "Ryan Hoenig",
+          "points": 39.0
+        },
+        {
+          "player": "Maksim Pisarenko",
+          "points": 18.0
+        },
+        {
+          "player": "Matt Vengrin",
+          "points": 17.0
+        },
+        {
+          "player": "Jerry Wong",
+          "points": 13.0
+        },
+        {
+          "player": "Ian Matakis",
+          "points": 3.0
+        },
+        {
+          "player": "Viktor Blom",
+          "points": 2.0
+        }
+      ],
+      "totalPoints": 192.0,
+      "pointsChange": 48.0,
+      "pointsChangeSincePrevious": 48.0
+    },
+    {
       "managerName": "Trampstamp",
       "teamName": "lowerbackstamp",
       "url": "https://www.poker.org/fantasy/wsop/2026/team/lowerbackstamp/",
@@ -341,48 +383,6 @@
       ],
       "totalPoints": 155.0,
       "pointsChange": 3.0,
-      "pointsChangeSincePrevious": 0.0
-    },
-    {
-      "managerName": "Ruben",
-      "teamName": "wugwugwugwug",
-      "url": "https://www.poker.org/fantasy/wsop/2026/team/wugwugwugwug/",
-      "players": [
-        {
-          "player": "Brandon Shack-Harris",
-          "points": 47.0
-        },
-        {
-          "player": "Ryan Hoenig",
-          "points": 39.0
-        },
-        {
-          "player": "Maksim Pisarenko",
-          "points": 18.0
-        },
-        {
-          "player": "Matt Vengrin",
-          "points": 17.0
-        },
-        {
-          "player": "Jerry Wong",
-          "points": 13.0
-        },
-        {
-          "player": "Jim Collopy",
-          "points": 5.0
-        },
-        {
-          "player": "Ian Matakis",
-          "points": 3.0
-        },
-        {
-          "player": "Viktor Blom",
-          "points": 2.0
-        }
-      ],
-      "totalPoints": 144.0,
-      "pointsChange": 0.0,
       "pointsChangeSincePrevious": 0.0
     }
   ],
