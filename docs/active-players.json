@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-06-12T07:00:19.083825+00:00",
+  "generatedAt": "2026-06-12T07:10:11.950708+00:00",
   "league": "25k",
-  "count": 14,
+  "count": 13,
   "players": [
     {
       "player": "Jim Collopy",
@@ -118,7 +118,7 @@
       "event": "Event #37: $1,500 H.O.R.S.E.",
       "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-37/",
       "team": "Back Office",
-      "rank": "8 / 18",
+      "rank": "8 / 16",
       "chips": "1,300,000",
       "bb": "\u2014",
       "bonus": "Locked 12 PTS",
@@ -129,8 +129,8 @@
       "event": "Event #37: $1,500 H.O.R.S.E.",
       "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-37/",
       "team": "2026 ODB Bonus Players",
-      "rank": "15 / 18",
-      "chips": "580,000",
+      "rank": "10 / 16",
+      "chips": "1,000,000",
       "bb": "\u2014",
       "bonus": "Locked 12 PTS",
       "points": 12.0
@@ -140,19 +140,8 @@
       "event": "Event #37: $1,500 H.O.R.S.E.",
       "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-37/",
       "team": "Verderamo",
-      "rank": "17 / 18",
+      "rank": "16 / 16",
       "chips": "320,000",
-      "bb": "\u2014",
-      "bonus": "Locked 12 PTS",
-      "points": 12.0
-    },
-    {
-      "player": "Craig Chait",
-      "event": "Event #37: $1,500 H.O.R.S.E.",
-      "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-37/",
-      "team": "Glaser",
-      "rank": "18 / 18",
-      "chips": "100,000",
       "bb": "\u2014",
       "bonus": "Locked 12 PTS",
       "points": 12.0
