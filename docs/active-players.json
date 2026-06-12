@@ -1,14 +1,14 @@
 {
-  "generatedAt": "2026-06-12T03:20:14.505542+00:00",
+  "generatedAt": "2026-06-12T03:30:13.594553+00:00",
   "league": "25k",
-  "count": 12,
+  "count": 23,
   "players": [
     {
       "player": "Jim Collopy",
       "event": "Event #32: $3,000 No-Limit Hold'em",
       "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-32/",
       "team": "Lang Gang",
-      "rank": "4 / 13",
+      "rank": "4 / 12",
       "chips": "3,750,000",
       "bb": "37.5 BB",
       "bonus": "Locked 14 PTS",
@@ -67,6 +67,127 @@
       "chips": "840,000",
       "bb": "\u2014",
       "bonus": "Locked 13 PTS",
+      "points": 0.0
+    },
+    {
+      "player": "Brandon Wilson",
+      "event": "Event #36: $100,000 High Roller No-Limit Hold\u2019em",
+      "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-36/",
+      "team": "Gators",
+      "rank": "1 / 18",
+      "chips": "7,125,000",
+      "bb": "89.1 BB",
+      "bonus": "Locked 0 PTS",
+      "points": 0.0
+    },
+    {
+      "player": "Sam Soverel",
+      "event": "Event #36: $100,000 High Roller No-Limit Hold\u2019em",
+      "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-36/",
+      "team": "Torching with TJ",
+      "rank": "2 / 18",
+      "chips": "5,775,000",
+      "bb": "72.2 BB",
+      "bonus": "Locked 0 PTS",
+      "points": 0.0
+    },
+    {
+      "player": "Biao Ding",
+      "event": "Event #36: $100,000 High Roller No-Limit Hold\u2019em",
+      "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-36/",
+      "team": "Spitework",
+      "rank": "6 / 18",
+      "chips": "3,650,000",
+      "bb": "45.6 BB",
+      "bonus": "Locked 0 PTS",
+      "points": 0.0
+    },
+    {
+      "player": "Alex Foxen",
+      "event": "Event #36: $100,000 High Roller No-Limit Hold\u2019em",
+      "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-36/",
+      "team": "Lady Gaga",
+      "rank": "7 / 18",
+      "chips": "3,350,000",
+      "bb": "41.9 BB",
+      "bonus": "Locked 0 PTS",
+      "points": 0.0
+    },
+    {
+      "player": "Sean Winter",
+      "event": "Event #36: $100,000 High Roller No-Limit Hold\u2019em",
+      "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-36/",
+      "team": "Glaser",
+      "rank": "8 / 18",
+      "chips": "3,055,000",
+      "bb": "38.2 BB",
+      "bonus": "Locked 0 PTS",
+      "points": 0.0
+    },
+    {
+      "player": "Martin Kabrhel",
+      "event": "Event #36: $100,000 High Roller No-Limit Hold\u2019em",
+      "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-36/",
+      "team": "Lucky",
+      "rank": "9 / 18",
+      "chips": "2,730,000",
+      "bb": "34.1 BB",
+      "bonus": "Locked 0 PTS",
+      "points": 0.0
+    },
+    {
+      "player": "Cary Katz",
+      "event": "Event #36: $100,000 High Roller No-Limit Hold\u2019em",
+      "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-36/",
+      "team": "Lucky",
+      "rank": "10 / 18",
+      "chips": "2,270,000",
+      "bb": "28.4 BB",
+      "bonus": "Locked 0 PTS",
+      "points": 0.0
+    },
+    {
+      "player": "Chris Hunichen",
+      "event": "Event #36: $100,000 High Roller No-Limit Hold\u2019em",
+      "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-36/",
+      "team": "Blades & Shades",
+      "rank": "12 / 18",
+      "chips": "2,130,000",
+      "bb": "26.6 BB",
+      "bonus": "Locked 0 PTS",
+      "points": 0.0
+    },
+    {
+      "player": "Yuri Dzivielevski",
+      "event": "Event #36: $100,000 High Roller No-Limit Hold\u2019em",
+      "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-36/",
+      "team": "Lady Gaga",
+      "rank": "13 / 18",
+      "chips": "1,675,000",
+      "bb": "20.9 BB",
+      "bonus": "Locked 0 PTS",
+      "points": 0.0
+    },
+    {
+      "player": "Justin Saliba",
+      "event": "Event #36: $100,000 High Roller No-Limit Hold\u2019em",
+      "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-36/",
+      "team": "Browndog",
+      "rank": "15 / 18",
+      "chips": "600,000",
+      "bb": "7.5 BB",
+      "bonus": "Locked 0 PTS",
+      "points": 0.0
+    },
+    {
+      "player": "Danny Tang",
+      "event": "Event #36: $100,000 High Roller No-Limit Hold\u2019em",
+      "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-36/",
+      "team": "Banana",
+      "rank": "15 / 18",
+      "chips": "600,000",
+      "bb": "7.5 BB",
+      "bonus": "Locked 0 PTS",
       "points": 0.0
     },
     {
