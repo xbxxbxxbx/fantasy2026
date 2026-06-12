@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-12T07:10:11.950708+00:00",
+  "generatedAt": "2026-06-12T07:20:12.534473+00:00",
   "league": "25k",
   "count": 13,
   "players": [
@@ -118,7 +118,7 @@
       "event": "Event #37: $1,500 H.O.R.S.E.",
       "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-37/",
       "team": "Back Office",
-      "rank": "8 / 16",
+      "rank": "8 / 15",
       "chips": "1,300,000",
       "bb": "\u2014",
       "bonus": "Locked 12 PTS",
@@ -129,7 +129,7 @@
       "event": "Event #37: $1,500 H.O.R.S.E.",
       "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-37/",
       "team": "2026 ODB Bonus Players",
-      "rank": "10 / 16",
+      "rank": "10 / 15",
       "chips": "1,000,000",
       "bb": "\u2014",
       "bonus": "Locked 12 PTS",
@@ -140,7 +140,7 @@
       "event": "Event #37: $1,500 H.O.R.S.E.",
       "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-37/",
       "team": "Verderamo",
-      "rank": "16 / 16",
+      "rank": "15 / 15",
       "chips": "320,000",
       "bb": "\u2014",
       "bonus": "Locked 12 PTS",
