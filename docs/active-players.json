@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-13T03:10:17.839475+00:00",
+  "generatedAt": "2026-06-13T03:20:12.331354+00:00",
   "league": "25k",
   "count": 9,
   "players": [
@@ -63,8 +63,8 @@
       "event": "Event #35: $1,500 Pot-Limit Omaha 8-Handed",
       "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-35/",
       "team": "2026 ODB Bonus Players",
-      "rank": "31 / 34",
-      "chips": "505,000",
+      "rank": "25 / 34",
+      "chips": "930,000",
       "bb": "\u2014",
       "bonus": "Locked 26 PTS",
       "points": 26.0
@@ -85,7 +85,7 @@
       "event": "Event #36: $100,000 High Roller No-Limit Hold\u2019em",
       "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-36/",
       "team": "Lady Gaga",
-      "rank": "2 / 4",
+      "rank": "2 / 3",
       "chips": "17,425,000",
       "bb": "21.8 BB",
       "bonus": "Locked 0 PTS",
