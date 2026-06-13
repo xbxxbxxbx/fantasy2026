@@ -1,19 +1,8 @@
 {
-  "generatedAt": "2026-06-13T07:50:12.687988+00:00",
+  "generatedAt": "2026-06-13T08:00:07.799084+00:00",
   "league": "25k",
-  "count": 9,
+  "count": 8,
   "players": [
-    {
-      "player": "Justin Liberto",
-      "event": "Event #33: $10,000 Pot-Limit Omaha Hi-Lo 8 or Better Championship",
-      "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-33/",
-      "team": "Blez/NGNF",
-      "rank": "2 / 2",
-      "chips": "11,375,000",
-      "bb": "\u2014",
-      "bonus": "Locked 13 PTS",
-      "points": 0.0
-    },
     {
       "player": "Maxx Coleman",
       "event": "Event #35: $1,500 Pot-Limit Omaha 8-Handed",
