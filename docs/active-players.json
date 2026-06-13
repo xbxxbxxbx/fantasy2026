@@ -1,26 +1,26 @@
 {
-  "generatedAt": "2026-06-13T23:30:19.863145+00:00",
+  "generatedAt": "2026-06-13T23:40:12.808944+00:00",
   "league": "25k",
   "count": 20,
   "players": [
+    {
+      "player": "Michael Estes",
+      "event": "Event #35: $1,500 Pot-Limit Omaha 8-Handed",
+      "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-35/",
+      "team": "2026 ODB Bonus Players",
+      "rank": "5 / 8",
+      "chips": "4,500,000",
+      "bb": "\u2014",
+      "bonus": "Locked 26 PTS",
+      "points": 0.0
+    },
     {
       "player": "Maxx Coleman",
       "event": "Event #35: $1,500 Pot-Limit Omaha 8-Handed",
       "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-35/",
       "team": "Browndog",
       "rank": "6 / 8",
-      "chips": "3,775,000",
-      "bb": "\u2014",
-      "bonus": "Locked 26 PTS",
-      "points": 0.0
-    },
-    {
-      "player": "Michael Estes",
-      "event": "Event #35: $1,500 Pot-Limit Omaha 8-Handed",
-      "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-35/",
-      "team": "2026 ODB Bonus Players",
-      "rank": "8 / 8",
-      "chips": "2,800,000",
+      "chips": "2,525,000",
       "bb": "\u2014",
       "bonus": "Locked 26 PTS",
       "points": 0.0
@@ -70,24 +70,24 @@
       "points": 0.0
     },
     {
-      "player": "Matt Grapenthien",
-      "event": "Event #40: $1,500 Razz",
-      "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-40/",
-      "team": "2026 ODB Bonus Players",
-      "rank": "4 / 47",
-      "chips": "506,000",
-      "bb": "21.1 BB",
-      "bonus": "Top 18 10 PTS",
-      "points": 1.0
-    },
-    {
       "player": "Jon Turner",
       "event": "Event #40: $1,500 Razz",
       "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-40/",
       "team": "Wasserson",
+      "rank": "2 / 47",
+      "chips": "615,000",
+      "bb": "25.6 BB",
+      "bonus": "Top 18 10 PTS",
+      "points": 1.0
+    },
+    {
+      "player": "Matt Grapenthien",
+      "event": "Event #40: $1,500 Razz",
+      "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-40/",
+      "team": "2026 ODB Bonus Players",
       "rank": "5 / 47",
-      "chips": "460,000",
-      "bb": "19.2 BB",
+      "chips": "506,000",
+      "bb": "21.1 BB",
       "bonus": "Top 18 10 PTS",
       "points": 1.0
     },
@@ -96,7 +96,7 @@
       "event": "Event #40: $1,500 Razz",
       "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-40/",
       "team": "Lucky",
-      "rank": "13 / 47",
+      "rank": "12 / 47",
       "chips": "325,000",
       "bb": "13.5 BB",
       "bonus": "Top 18 10 PTS",
