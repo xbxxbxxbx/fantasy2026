@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-13T06:30:15.048721+00:00",
+  "generatedAt": "2026-06-13T06:40:17.638421+00:00",
   "league": "25k",
   "count": 14,
   "players": [
@@ -63,11 +63,11 @@
       "event": "Event #37: $1,500 H.O.R.S.E.",
       "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-37/",
       "team": "Verderamo",
-      "rank": "1 / 2",
+      "rank": "1 / 1",
       "chips": "13,050,000",
       "bb": "\u2014",
       "bonus": "Locked 12 PTS",
-      "points": 0.0
+      "points": 82.0
     },
     {
       "player": "Dong Chen",
