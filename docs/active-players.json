@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-13T03:00:21.743959+00:00",
+  "generatedAt": "2026-06-13T03:10:17.839475+00:00",
   "league": "25k",
   "count": 9,
   "players": [
@@ -19,66 +19,66 @@
       "event": "Event #35: $1,500 Pot-Limit Omaha 8-Handed",
       "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-35/",
       "team": "Stake Kings",
-      "rank": "8 / 37",
+      "rank": "8 / 34",
       "chips": "2,165,000",
       "bb": "\u2014",
-      "bonus": "Top 36 26 PTS",
-      "points": 0.0
+      "bonus": "Locked 26 PTS",
+      "points": 26.0
     },
     {
       "player": "Michael Estes",
       "event": "Event #35: $1,500 Pot-Limit Omaha 8-Handed",
       "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-35/",
       "team": "2026 ODB Bonus Players",
-      "rank": "18 / 37",
+      "rank": "18 / 34",
       "chips": "1,625,000",
       "bb": "\u2014",
-      "bonus": "Top 36 26 PTS",
-      "points": 0.0
+      "bonus": "Locked 26 PTS",
+      "points": 26.0
     },
     {
       "player": "Zdenek Zizka",
       "event": "Event #35: $1,500 Pot-Limit Omaha 8-Handed",
       "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-35/",
       "team": "Lucky",
-      "rank": "20 / 37",
+      "rank": "20 / 34",
       "chips": "1,275,000",
       "bb": "\u2014",
-      "bonus": "Top 36 26 PTS",
-      "points": 0.0
+      "bonus": "Locked 26 PTS",
+      "points": 26.0
     },
     {
       "player": "Maxx Coleman",
       "event": "Event #35: $1,500 Pot-Limit Omaha 8-Handed",
       "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-35/",
       "team": "Browndog",
-      "rank": "23 / 37",
+      "rank": "22 / 34",
       "chips": "1,090,000",
       "bb": "\u2014",
-      "bonus": "Top 36 26 PTS",
-      "points": 0.0
+      "bonus": "Locked 26 PTS",
+      "points": 26.0
     },
     {
       "player": "Nick Palma",
       "event": "Event #35: $1,500 Pot-Limit Omaha 8-Handed",
       "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-35/",
       "team": "2026 ODB Bonus Players",
-      "rank": "34 / 37",
+      "rank": "31 / 34",
       "chips": "505,000",
       "bb": "\u2014",
-      "bonus": "Top 36 26 PTS",
-      "points": 0.0
+      "bonus": "Locked 26 PTS",
+      "points": 26.0
     },
     {
       "player": "Ankush Mandavia",
       "event": "Event #35: $1,500 Pot-Limit Omaha 8-Handed",
       "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-35/",
       "team": "2026 ODB Bonus Players",
-      "rank": "36 / 37",
+      "rank": "33 / 34",
       "chips": "375,000",
       "bb": "\u2014",
-      "bonus": "Top 36 26 PTS",
-      "points": 0.0
+      "bonus": "Locked 26 PTS",
+      "points": 26.0
     },
     {
       "player": "Yuri Dzivielevski",
@@ -87,7 +87,7 @@
       "team": "Lady Gaga",
       "rank": "2 / 4",
       "chips": "17,425,000",
-      "bb": "29.0 BB",
+      "bb": "21.8 BB",
       "bonus": "Locked 0 PTS",
       "points": 0.0
     },
