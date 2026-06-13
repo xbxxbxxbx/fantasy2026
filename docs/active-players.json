@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-13T08:00:07.799084+00:00",
+  "generatedAt": "2026-06-13T08:10:13.084538+00:00",
   "league": "25k",
   "count": 8,
   "players": [
@@ -26,24 +26,24 @@
       "points": 30.0
     },
     {
-      "player": "Dong Chen",
-      "event": "Event #38: $10,000 Limit Hold'em Championship 7-Handed",
-      "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-38/",
-      "team": "DNegs",
-      "rank": "1 / 7",
-      "chips": "2,105,000",
-      "bb": "35.1 BB",
-      "bonus": "Locked 11 PTS",
-      "points": 0.0
-    },
-    {
       "player": "Benny Glaser",
       "event": "Event #38: $10,000 Limit Hold'em Championship 7-Handed",
       "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-38/",
       "team": "Chocolate Factory",
+      "rank": "1 / 7",
+      "chips": "2,255,000",
+      "bb": "37.6 BB",
+      "bonus": "Locked 11 PTS",
+      "points": 0.0
+    },
+    {
+      "player": "Dong Chen",
+      "event": "Event #38: $10,000 Limit Hold'em Championship 7-Handed",
+      "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-38/",
+      "team": "DNegs",
       "rank": "2 / 7",
-      "chips": "1,865,000",
-      "bb": "31.1 BB",
+      "chips": "2,185,000",
+      "bb": "36.4 BB",
       "bonus": "Locked 11 PTS",
       "points": 0.0
     },
@@ -52,9 +52,9 @@
       "event": "Event #38: $10,000 Limit Hold'em Championship 7-Handed",
       "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-38/",
       "team": "Lang Gang",
-      "rank": "3 / 7",
-      "chips": "1,145,000",
-      "bb": "19.1 BB",
+      "rank": "4 / 7",
+      "chips": "590,000",
+      "bb": "9.8 BB",
       "bonus": "Locked 11 PTS",
       "points": 0.0
     },
@@ -63,20 +63,9 @@
       "event": "Event #38: $10,000 Limit Hold'em Championship 7-Handed",
       "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-38/",
       "team": "Blades & Shades",
-      "rank": "4 / 7",
-      "chips": "545,000",
-      "bb": "9.1 BB",
-      "bonus": "Locked 11 PTS",
-      "points": 0.0
-    },
-    {
-      "player": "Jerry Wong",
-      "event": "Event #38: $10,000 Limit Hold'em Championship 7-Handed",
-      "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-38/",
-      "team": "Dinkers",
       "rank": "5 / 7",
-      "chips": "405,000",
-      "bb": "6.8 BB",
+      "chips": "440,000",
+      "bb": "7.3 BB",
       "bonus": "Locked 11 PTS",
       "points": 0.0
     },
@@ -85,9 +74,20 @@
       "event": "Event #38: $10,000 Limit Hold'em Championship 7-Handed",
       "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-38/",
       "team": "Spitework",
+      "rank": "6 / 7",
+      "chips": "305,000",
+      "bb": "5.1 BB",
+      "bonus": "Locked 11 PTS",
+      "points": 0.0
+    },
+    {
+      "player": "Jerry Wong",
+      "event": "Event #38: $10,000 Limit Hold'em Championship 7-Handed",
+      "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-38/",
+      "team": "Dinkers",
       "rank": "7 / 7",
-      "chips": "325,000",
-      "bb": "5.4 BB",
+      "chips": "180,000",
+      "bb": "3.0 BB",
       "bonus": "Locked 11 PTS",
       "points": 0.0
     }
