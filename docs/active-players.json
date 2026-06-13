@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-06-13T07:30:16.540890+00:00",
+  "generatedAt": "2026-06-13T07:40:14.895507+00:00",
   "league": "25k",
-  "count": 10,
+  "count": 9,
   "players": [
     {
       "player": "Justin Liberto",
@@ -35,17 +35,6 @@
       "bb": "\u2014",
       "bonus": "Locked 26 PTS",
       "points": 30.0
-    },
-    {
-      "player": "Yuri Dzivielevski",
-      "event": "Event #36: $100,000 High Roller No-Limit Hold\u2019em",
-      "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-36/",
-      "team": "Lady Gaga",
-      "rank": "1 / 2",
-      "chips": "35,725,000",
-      "bb": "29.8 BB",
-      "bonus": "Locked 0 PTS",
-      "points": 0.0
     },
     {
       "player": "Dong Chen",
