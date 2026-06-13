@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-13T05:50:11.449977+00:00",
+  "generatedAt": "2026-06-13T06:00:15.551805+00:00",
   "league": "25k",
   "count": 14,
   "players": [
@@ -19,33 +19,33 @@
       "event": "Event #35: $1,500 Pot-Limit Omaha 8-Handed",
       "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-35/",
       "team": "Browndog",
-      "rank": "8 / 21",
+      "rank": "6 / 19",
       "chips": "2,605,000",
       "bb": "\u2014",
       "bonus": "Locked 26 PTS",
-      "points": 26.0
+      "points": 0.0
     },
     {
       "player": "Nicholas Seward",
       "event": "Event #35: $1,500 Pot-Limit Omaha 8-Handed",
       "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-35/",
       "team": "Stake Kings",
-      "rank": "11 / 21",
+      "rank": "9 / 19",
       "chips": "2,165,000",
       "bb": "\u2014",
       "bonus": "Locked 26 PTS",
-      "points": 26.0
+      "points": 0.0
     },
     {
       "player": "Michael Estes",
       "event": "Event #35: $1,500 Pot-Limit Omaha 8-Handed",
       "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-35/",
       "team": "2026 ODB Bonus Players",
-      "rank": "12 / 21",
+      "rank": "11 / 19",
       "chips": "1,995,000",
       "bb": "\u2014",
       "bonus": "Locked 26 PTS",
-      "points": 26.0
+      "points": 0.0
     },
     {
       "player": "Yuri Dzivielevski",
