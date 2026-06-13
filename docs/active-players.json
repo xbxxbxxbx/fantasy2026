@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-13T01:30:13.039918+00:00",
+  "generatedAt": "2026-06-13T01:40:11.836982+00:00",
   "league": "25k",
   "count": 10,
   "players": [
@@ -26,23 +26,23 @@
       "points": 0.0
     },
     {
-      "player": "Zdenek Zizka",
+      "player": "Michael Estes",
       "event": "Event #35: $1,500 Pot-Limit Omaha 8-Handed",
       "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-35/",
-      "team": "Lucky",
-      "rank": "6 / 41",
-      "chips": "1,885,000",
+      "team": "2026 ODB Bonus Players",
+      "rank": "13 / 41",
+      "chips": "1,700,000",
       "bb": "\u2014",
       "bonus": "Top 36 26 PTS",
       "points": 1.0
     },
     {
-      "player": "Michael Estes",
+      "player": "Zdenek Zizka",
       "event": "Event #35: $1,500 Pot-Limit Omaha 8-Handed",
       "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-35/",
-      "team": "2026 ODB Bonus Players",
-      "rank": "11 / 41",
-      "chips": "1,700,000",
+      "team": "Lucky",
+      "rank": "19 / 41",
+      "chips": "1,275,000",
       "bb": "\u2014",
       "bonus": "Top 36 26 PTS",
       "points": 1.0
@@ -52,30 +52,8 @@
       "event": "Event #35: $1,500 Pot-Limit Omaha 8-Handed",
       "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-35/",
       "team": "Stake Kings",
-      "rank": "21 / 41",
+      "rank": "20 / 41",
       "chips": "1,190,000",
-      "bb": "\u2014",
-      "bonus": "Top 36 26 PTS",
-      "points": 1.0
-    },
-    {
-      "player": "Nick Palma",
-      "event": "Event #35: $1,500 Pot-Limit Omaha 8-Handed",
-      "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-35/",
-      "team": "2026 ODB Bonus Players",
-      "rank": "22 / 41",
-      "chips": "1,175,000",
-      "bb": "\u2014",
-      "bonus": "Top 36 26 PTS",
-      "points": 1.0
-    },
-    {
-      "player": "Ankush Mandavia",
-      "event": "Event #35: $1,500 Pot-Limit Omaha 8-Handed",
-      "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-35/",
-      "team": "2026 ODB Bonus Players",
-      "rank": "35 / 41",
-      "chips": "640,000",
       "bb": "\u2014",
       "bonus": "Top 36 26 PTS",
       "points": 1.0
@@ -85,8 +63,30 @@
       "event": "Event #35: $1,500 Pot-Limit Omaha 8-Handed",
       "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-35/",
       "team": "Browndog",
-      "rank": "37 / 41",
-      "chips": "420,000",
+      "rank": "23 / 41",
+      "chips": "1,090,000",
+      "bb": "\u2014",
+      "bonus": "Top 36 26 PTS",
+      "points": 1.0
+    },
+    {
+      "player": "Ankush Mandavia",
+      "event": "Event #35: $1,500 Pot-Limit Omaha 8-Handed",
+      "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-35/",
+      "team": "2026 ODB Bonus Players",
+      "rank": "36 / 41",
+      "chips": "640,000",
+      "bb": "\u2014",
+      "bonus": "Top 36 26 PTS",
+      "points": 1.0
+    },
+    {
+      "player": "Nick Palma",
+      "event": "Event #35: $1,500 Pot-Limit Omaha 8-Handed",
+      "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-35/",
+      "team": "2026 ODB Bonus Players",
+      "rank": "40 / 41",
+      "chips": "505,000",
       "bb": "\u2014",
       "bonus": "Top 36 26 PTS",
       "points": 1.0
