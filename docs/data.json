@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-13T06:50:11.833212+00:00",
+  "generatedAt": "2026-06-13T07:00:16.176828+00:00",
   "leagueName": "WSOP Poker Fantasy Draft 2026",
   "sourceLabel": "25KFantasy",
   "sourceUrl": "https://www.25kfantasy.com/players/",
@@ -227,6 +227,10 @@
           "points": 103.0
         },
         {
+          "player": "Nicholas Seward",
+          "points": 36.0
+        },
+        {
           "player": "Calvin Anderson",
           "points": 36.0
         },
@@ -249,15 +253,11 @@
         {
           "player": "Brock Wilson",
           "points": 7.0
-        },
-        {
-          "player": "Nicholas Seward",
-          "points": 6.0
         }
       ],
-      "totalPoints": 224.0,
-      "pointsChange": 36.0,
-      "pointsChangeSincePrevious": 0.0
+      "totalPoints": 254.0,
+      "pointsChange": 66.0,
+      "pointsChangeSincePrevious": 30.0
     },
     {
       "managerName": "Ruben",
