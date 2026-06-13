@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-06-13T05:30:13.799050+00:00",
+  "generatedAt": "2026-06-13T05:40:11.150125+00:00",
   "league": "25k",
-  "count": 16,
+  "count": 15,
   "players": [
     {
       "player": "Justin Liberto",
@@ -19,7 +19,7 @@
       "event": "Event #35: $1,500 Pot-Limit Omaha 8-Handed",
       "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-35/",
       "team": "Browndog",
-      "rank": "7 / 23",
+      "rank": "8 / 21",
       "chips": "2,605,000",
       "bb": "\u2014",
       "bonus": "Locked 26 PTS",
@@ -30,7 +30,7 @@
       "event": "Event #35: $1,500 Pot-Limit Omaha 8-Handed",
       "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-35/",
       "team": "Stake Kings",
-      "rank": "11 / 23",
+      "rank": "11 / 21",
       "chips": "2,165,000",
       "bb": "\u2014",
       "bonus": "Locked 26 PTS",
@@ -41,19 +41,8 @@
       "event": "Event #35: $1,500 Pot-Limit Omaha 8-Handed",
       "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-35/",
       "team": "2026 ODB Bonus Players",
-      "rank": "12 / 23",
+      "rank": "12 / 21",
       "chips": "1,995,000",
-      "bb": "\u2014",
-      "bonus": "Locked 26 PTS",
-      "points": 26.0
-    },
-    {
-      "player": "Ankush Mandavia",
-      "event": "Event #35: $1,500 Pot-Limit Omaha 8-Handed",
-      "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-35/",
-      "team": "2026 ODB Bonus Players",
-      "rank": "20 / 23",
-      "chips": "1,010,000",
       "bb": "\u2014",
       "bonus": "Locked 26 PTS",
       "points": 26.0
@@ -74,8 +63,8 @@
       "event": "Event #37: $1,500 H.O.R.S.E.",
       "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-37/",
       "team": "Verderamo",
-      "rank": "2 / 2",
-      "chips": "6,325,000",
+      "rank": "1 / 2",
+      "chips": "13,050,000",
       "bb": "\u2014",
       "bonus": "Locked 12 PTS",
       "points": 0.0
