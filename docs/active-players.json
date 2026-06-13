@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-13T21:20:16.861675+00:00",
+  "generatedAt": "2026-06-13T21:30:20.978886+00:00",
   "league": "25k",
   "count": 7,
   "players": [
@@ -8,22 +8,22 @@
       "event": "Event #35: $1,500 Pot-Limit Omaha 8-Handed",
       "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-35/",
       "team": "Browndog",
-      "rank": "6 / 11",
+      "rank": "6 / 10",
       "chips": "3,775,000",
       "bb": "\u2014",
       "bonus": "Locked 26 PTS",
-      "points": 30.0
+      "points": 0.0
     },
     {
       "player": "Michael Estes",
       "event": "Event #35: $1,500 Pot-Limit Omaha 8-Handed",
       "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-35/",
       "team": "2026 ODB Bonus Players",
-      "rank": "10 / 11",
+      "rank": "9 / 10",
       "chips": "2,800,000",
       "bb": "\u2014",
       "bonus": "Locked 26 PTS",
-      "points": 30.0
+      "points": 0.0
     },
     {
       "player": "Benny Glaser",
