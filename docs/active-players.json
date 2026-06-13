@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-13T01:40:11.836982+00:00",
+  "generatedAt": "2026-06-13T01:50:12.953897+00:00",
   "league": "25k",
   "count": 10,
   "players": [
@@ -26,12 +26,23 @@
       "points": 0.0
     },
     {
+      "player": "Nicholas Seward",
+      "event": "Event #35: $1,500 Pot-Limit Omaha 8-Handed",
+      "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-35/",
+      "team": "Stake Kings",
+      "rank": "8 / 41",
+      "chips": "2,165,000",
+      "bb": "\u2014",
+      "bonus": "Top 36 26 PTS",
+      "points": 1.0
+    },
+    {
       "player": "Michael Estes",
       "event": "Event #35: $1,500 Pot-Limit Omaha 8-Handed",
       "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-35/",
       "team": "2026 ODB Bonus Players",
-      "rank": "13 / 41",
-      "chips": "1,700,000",
+      "rank": "18 / 41",
+      "chips": "1,625,000",
       "bb": "\u2014",
       "bonus": "Top 36 26 PTS",
       "points": 1.0
@@ -41,19 +52,8 @@
       "event": "Event #35: $1,500 Pot-Limit Omaha 8-Handed",
       "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-35/",
       "team": "Lucky",
-      "rank": "19 / 41",
-      "chips": "1,275,000",
-      "bb": "\u2014",
-      "bonus": "Top 36 26 PTS",
-      "points": 1.0
-    },
-    {
-      "player": "Nicholas Seward",
-      "event": "Event #35: $1,500 Pot-Limit Omaha 8-Handed",
-      "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-35/",
-      "team": "Stake Kings",
       "rank": "20 / 41",
-      "chips": "1,190,000",
+      "chips": "1,275,000",
       "bb": "\u2014",
       "bonus": "Top 36 26 PTS",
       "points": 1.0
@@ -63,19 +63,8 @@
       "event": "Event #35: $1,500 Pot-Limit Omaha 8-Handed",
       "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-35/",
       "team": "Browndog",
-      "rank": "23 / 41",
+      "rank": "24 / 41",
       "chips": "1,090,000",
-      "bb": "\u2014",
-      "bonus": "Top 36 26 PTS",
-      "points": 1.0
-    },
-    {
-      "player": "Ankush Mandavia",
-      "event": "Event #35: $1,500 Pot-Limit Omaha 8-Handed",
-      "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-35/",
-      "team": "2026 ODB Bonus Players",
-      "rank": "36 / 41",
-      "chips": "640,000",
       "bb": "\u2014",
       "bonus": "Top 36 26 PTS",
       "points": 1.0
@@ -85,8 +74,19 @@
       "event": "Event #35: $1,500 Pot-Limit Omaha 8-Handed",
       "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-35/",
       "team": "2026 ODB Bonus Players",
-      "rank": "40 / 41",
+      "rank": "36 / 41",
       "chips": "505,000",
+      "bb": "\u2014",
+      "bonus": "Top 36 26 PTS",
+      "points": 1.0
+    },
+    {
+      "player": "Ankush Mandavia",
+      "event": "Event #35: $1,500 Pot-Limit Omaha 8-Handed",
+      "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-35/",
+      "team": "2026 ODB Bonus Players",
+      "rank": "39 / 41",
+      "chips": "375,000",
       "bb": "\u2014",
       "bonus": "Top 36 26 PTS",
       "points": 1.0
@@ -98,7 +98,7 @@
       "team": "Lady Gaga",
       "rank": "3 / 4",
       "chips": "13,850,000",
-      "bb": "27.7 BB",
+      "bb": "23.1 BB",
       "bonus": "Locked 0 PTS",
       "points": 0.0
     },
