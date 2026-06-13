@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-13T20:05:46.180217+00:00",
+  "generatedAt": "2026-06-13T20:10:17.701192+00:00",
   "league": "25k",
   "count": 8,
   "players": [
@@ -8,7 +8,7 @@
       "event": "Event #35: $1,500 Pot-Limit Omaha 8-Handed",
       "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-35/",
       "team": "Browndog",
-      "rank": "3 / 13",
+      "rank": "3 / 12",
       "chips": "6,080,000",
       "bb": "\u2014",
       "bonus": "Locked 26 PTS",
@@ -19,8 +19,8 @@
       "event": "Event #35: $1,500 Pot-Limit Omaha 8-Handed",
       "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-35/",
       "team": "2026 ODB Bonus Players",
-      "rank": "12 / 13",
-      "chips": "1,600,000",
+      "rank": "9 / 12",
+      "chips": "2,400,000",
       "bb": "\u2014",
       "bonus": "Locked 26 PTS",
       "points": 30.0
