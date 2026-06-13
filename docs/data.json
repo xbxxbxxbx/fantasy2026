@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-13T00:30:14.339897+00:00",
+  "generatedAt": "2026-06-13T00:40:12.524585+00:00",
   "leagueName": "WSOP Poker Fantasy Draft 2026",
   "sourceLabel": "25KFantasy",
   "sourceUrl": "https://www.25kfantasy.com/players/",
@@ -270,7 +270,7 @@
         },
         {
           "player": "Brandon Shack-Harris",
-          "points": 47.0
+          "points": 48.0
         },
         {
           "player": "Ryan Hoenig",
@@ -297,9 +297,9 @@
           "points": 2.0
         }
       ],
-      "totalPoints": 192.0,
-      "pointsChange": 48.0,
-      "pointsChangeSincePrevious": 0.0
+      "totalPoints": 193.0,
+      "pointsChange": 49.0,
+      "pointsChangeSincePrevious": 1.0
     },
     {
       "managerName": "Trampstamp",
