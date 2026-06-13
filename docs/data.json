@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-13T02:17:02.342154+00:00",
+  "generatedAt": "2026-06-13T02:20:11.125041+00:00",
   "leagueName": "WSOP Poker Fantasy Draft 2026",
   "sourceLabel": "25KFantasy",
   "sourceUrl": "https://www.25kfantasy.com/players/",
@@ -13,15 +13,15 @@
       "url": "https://www.poker.org/fantasy/wsop/2026/team/kushstrain1/",
       "players": [
         {
+          "player": "Martin Zamani",
+          "points": 176.0
+        },
+        {
           "player": "Kristen Foxen",
           "points": 130.0
         },
         {
           "player": "Mike Leah",
-          "points": 103.0
-        },
-        {
-          "player": "Martin Zamani",
           "points": 103.0
         },
         {
@@ -45,9 +45,9 @@
           "points": 2.0
         }
       ],
-      "totalPoints": 462.0,
-      "pointsChange": 1.0,
-      "pointsChangeSincePrevious": 0.0
+      "totalPoints": 535.0,
+      "pointsChange": 74.0,
+      "pointsChangeSincePrevious": 73.0
     },
     {
       "managerName": "ASG",
