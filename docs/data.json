@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-12T23:56:44.756547+00:00",
+  "generatedAt": "2026-06-13T00:00:16.126903+00:00",
   "leagueName": "WSOP Poker Fantasy Draft 2026",
   "sourceLabel": "25KFantasy",
   "sourceUrl": "https://www.25kfantasy.com/players/",
@@ -160,7 +160,7 @@
         },
         {
           "player": "Christian Harder",
-          "points": 10.0
+          "points": 11.0
         },
         {
           "player": "Esther Taylor",
@@ -171,9 +171,9 @@
           "points": 7.0
         }
       ],
-      "totalPoints": 256.0,
-      "pointsChange": 3.0,
-      "pointsChangeSincePrevious": 0.0
+      "totalPoints": 257.0,
+      "pointsChange": 4.0,
+      "pointsChangeSincePrevious": 1.0
     },
     {
       "managerName": "Turbo",
