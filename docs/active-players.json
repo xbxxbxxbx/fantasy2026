@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-13T19:50:18.761247+00:00",
+  "generatedAt": "2026-06-13T20:00:16.971284+00:00",
   "league": "25k",
   "count": 8,
   "players": [
@@ -19,8 +19,8 @@
       "event": "Event #35: $1,500 Pot-Limit Omaha 8-Handed",
       "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-35/",
       "team": "2026 ODB Bonus Players",
-      "rank": "10 / 13",
-      "chips": "2,300,000",
+      "rank": "12 / 13",
+      "chips": "1,600,000",
       "bb": "\u2014",
       "bonus": "Locked 26 PTS",
       "points": 30.0
@@ -32,7 +32,7 @@
       "team": "Chocolate Factory",
       "rank": "1 / 7",
       "chips": "2,255,000",
-      "bb": "37.6 BB",
+      "bb": "28.2 BB",
       "bonus": "Locked 11 PTS",
       "points": 0.0
     },
@@ -43,7 +43,7 @@
       "team": "DNegs",
       "rank": "2 / 7",
       "chips": "2,185,000",
-      "bb": "36.4 BB",
+      "bb": "27.3 BB",
       "bonus": "Locked 11 PTS",
       "points": 0.0
     },
@@ -54,7 +54,7 @@
       "team": "Lang Gang",
       "rank": "4 / 7",
       "chips": "590,000",
-      "bb": "9.8 BB",
+      "bb": "7.4 BB",
       "bonus": "Locked 11 PTS",
       "points": 0.0
     },
@@ -65,7 +65,7 @@
       "team": "Blades & Shades",
       "rank": "5 / 7",
       "chips": "440,000",
-      "bb": "7.3 BB",
+      "bb": "5.5 BB",
       "bonus": "Locked 11 PTS",
       "points": 0.0
     },
@@ -76,7 +76,7 @@
       "team": "Spitework",
       "rank": "6 / 7",
       "chips": "305,000",
-      "bb": "5.1 BB",
+      "bb": "3.8 BB",
       "bonus": "Locked 11 PTS",
       "points": 0.0
     },
@@ -87,7 +87,7 @@
       "team": "Dinkers",
       "rank": "7 / 7",
       "chips": "180,000",
-      "bb": "3.0 BB",
+      "bb": "2.3 BB",
       "bonus": "Locked 11 PTS",
       "points": 0.0
     }
