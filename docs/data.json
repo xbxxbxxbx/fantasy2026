@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-13T04:30:13.332631+00:00",
+  "generatedAt": "2026-06-13T04:40:10.794536+00:00",
   "leagueName": "WSOP Poker Fantasy Draft 2026",
   "sourceLabel": "25KFantasy",
   "sourceUrl": "https://www.25kfantasy.com/players/",
@@ -92,6 +92,48 @@
       "pointsChangeSincePrevious": 0.0
     },
     {
+      "managerName": "realbmorekid",
+      "teamName": "Bmore\u2019s Brawlers",
+      "url": "https://www.poker.org/fantasy/wsop/2026/team/bmore-s-brawlers/",
+      "players": [
+        {
+          "player": "Joey Weissman",
+          "points": 119.0
+        },
+        {
+          "player": "Shaun Deeb",
+          "points": 61.0
+        },
+        {
+          "player": "Cherish Andrews",
+          "points": 26.0
+        },
+        {
+          "player": "Esther Taylor",
+          "points": 18.0
+        },
+        {
+          "player": "Shannon Shorr",
+          "points": 15.0
+        },
+        {
+          "player": "Jeremy Becker",
+          "points": 11.0
+        },
+        {
+          "player": "Christian Harder",
+          "points": 11.0
+        },
+        {
+          "player": "Brock Wilson",
+          "points": 7.0
+        }
+      ],
+      "totalPoints": 268.0,
+      "pointsChange": 15.0,
+      "pointsChangeSincePrevious": 11.0
+    },
+    {
       "managerName": "Doinky",
       "teamName": "doinky",
       "url": "https://www.poker.org/fantasy/wsop/2026/team/doinky/",
@@ -131,48 +173,6 @@
       ],
       "totalPoints": 261.0,
       "pointsChange": 31.0,
-      "pointsChangeSincePrevious": 0.0
-    },
-    {
-      "managerName": "realbmorekid",
-      "teamName": "Bmore\u2019s Brawlers",
-      "url": "https://www.poker.org/fantasy/wsop/2026/team/bmore-s-brawlers/",
-      "players": [
-        {
-          "player": "Joey Weissman",
-          "points": 119.0
-        },
-        {
-          "player": "Shaun Deeb",
-          "points": 61.0
-        },
-        {
-          "player": "Cherish Andrews",
-          "points": 26.0
-        },
-        {
-          "player": "Shannon Shorr",
-          "points": 15.0
-        },
-        {
-          "player": "Jeremy Becker",
-          "points": 11.0
-        },
-        {
-          "player": "Christian Harder",
-          "points": 11.0
-        },
-        {
-          "player": "Esther Taylor",
-          "points": 7.0
-        },
-        {
-          "player": "Brock Wilson",
-          "points": 7.0
-        }
-      ],
-      "totalPoints": 257.0,
-      "pointsChange": 4.0,
       "pointsChangeSincePrevious": 0.0
     },
     {
@@ -320,7 +320,7 @@
         },
         {
           "player": "Esther Taylor",
-          "points": 7.0
+          "points": 18.0
         },
         {
           "player": "Andrew Lichtenberger",
@@ -339,9 +339,9 @@
           "points": 0.0
         }
       ],
-      "totalPoints": 158.0,
-      "pointsChange": 1.0,
-      "pointsChangeSincePrevious": 0.0
+      "totalPoints": 169.0,
+      "pointsChange": 12.0,
+      "pointsChangeSincePrevious": 11.0
     },
     {
       "managerName": "Gus",
@@ -355,6 +355,10 @@
         {
           "player": "Nick Guagenti",
           "points": 29.0
+        },
+        {
+          "player": "Esther Taylor",
+          "points": 18.0
         },
         {
           "player": "Matt Glantz",
@@ -373,17 +377,13 @@
           "points": 7.0
         },
         {
-          "player": "Esther Taylor",
-          "points": 7.0
-        },
-        {
           "player": "Phillip Hui",
           "points": 5.0
         }
       ],
-      "totalPoints": 155.0,
-      "pointsChange": 3.0,
-      "pointsChangeSincePrevious": 0.0
+      "totalPoints": 166.0,
+      "pointsChange": 14.0,
+      "pointsChangeSincePrevious": 11.0
     }
   ],
   "failures": []
