@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-13T03:38:59.237788+00:00",
+  "generatedAt": "2026-06-13T03:40:17.173229+00:00",
   "league": "25k",
   "count": 22,
   "players": [
@@ -19,7 +19,7 @@
       "event": "Event #35: $1,500 Pot-Limit Omaha 8-Handed",
       "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-35/",
       "team": "Stake Kings",
-      "rank": "8 / 32",
+      "rank": "9 / 32",
       "chips": "2,165,000",
       "bb": "\u2014",
       "bonus": "Locked 26 PTS",
@@ -109,7 +109,7 @@
       "team": "Lang Gang",
       "rank": "1 / 19",
       "chips": "834,000",
-      "bb": "34.8 BB",
+      "bb": "27.8 BB",
       "bonus": "Top 18 11 PTS",
       "points": 0.0
     },
@@ -120,7 +120,7 @@
       "team": "Chocolate Factory",
       "rank": "2 / 19",
       "chips": "741,000",
-      "bb": "30.9 BB",
+      "bb": "24.7 BB",
       "bonus": "Top 18 11 PTS",
       "points": 0.0
     },
@@ -131,7 +131,7 @@
       "team": "2026 ODB Bonus Players",
       "rank": "3 / 19",
       "chips": "587,000",
-      "bb": "24.5 BB",
+      "bb": "19.6 BB",
       "bonus": "Top 18 11 PTS",
       "points": 0.0
     },
@@ -142,7 +142,7 @@
       "team": "Blades & Shades",
       "rank": "4 / 19",
       "chips": "525,000",
-      "bb": "21.9 BB",
+      "bb": "17.5 BB",
       "bonus": "Top 18 11 PTS",
       "points": 0.0
     },
@@ -153,7 +153,7 @@
       "team": "DNegs",
       "rank": "5 / 19",
       "chips": "508,000",
-      "bb": "21.2 BB",
+      "bb": "16.9 BB",
       "bonus": "Top 18 11 PTS",
       "points": 0.0
     },
@@ -164,7 +164,7 @@
       "team": "DNegs",
       "rank": "6 / 19",
       "chips": "402,000",
-      "bb": "16.8 BB",
+      "bb": "13.4 BB",
       "bonus": "Top 18 11 PTS",
       "points": 0.0
     },
@@ -175,7 +175,7 @@
       "team": "DNegs",
       "rank": "9 / 19",
       "chips": "322,000",
-      "bb": "13.4 BB",
+      "bb": "10.7 BB",
       "bonus": "Top 18 11 PTS",
       "points": 0.0
     },
@@ -186,7 +186,7 @@
       "team": "Lucky",
       "rank": "10 / 19",
       "chips": "302,000",
-      "bb": "12.6 BB",
+      "bb": "10.1 BB",
       "bonus": "Top 18 11 PTS",
       "points": 0.0
     },
@@ -197,7 +197,7 @@
       "team": "Spitework",
       "rank": "11 / 19",
       "chips": "301,000",
-      "bb": "12.5 BB",
+      "bb": "10.0 BB",
       "bonus": "Top 18 11 PTS",
       "points": 0.0
     },
@@ -208,7 +208,7 @@
       "team": "Dinkers",
       "rank": "12 / 19",
       "chips": "278,000",
-      "bb": "11.6 BB",
+      "bb": "9.3 BB",
       "bonus": "Top 18 11 PTS",
       "points": 0.0
     },
@@ -219,7 +219,7 @@
       "team": "Noori",
       "rank": "16 / 19",
       "chips": "246,000",
-      "bb": "10.3 BB",
+      "bb": "8.2 BB",
       "bonus": "Top 18 11 PTS",
       "points": 0.0
     },
@@ -230,7 +230,7 @@
       "team": "Very Handsome Horses",
       "rank": "17 / 19",
       "chips": "229,000",
-      "bb": "9.5 BB",
+      "bb": "7.6 BB",
       "bonus": "Top 18 11 PTS",
       "points": 0.0
     },
@@ -241,7 +241,7 @@
       "team": "Verderamo",
       "rank": "18 / 19",
       "chips": "206,000",
-      "bb": "8.6 BB",
+      "bb": "6.9 BB",
       "bonus": "Top 18 11 PTS",
       "points": 0.0
     }
