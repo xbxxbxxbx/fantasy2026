@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-13T20:30:13.246323+00:00",
+  "generatedAt": "2026-06-13T20:40:12.145444+00:00",
   "leagueName": "WSOP Poker Fantasy Draft 2026",
   "sourceLabel": "25KFantasy",
   "sourceUrl": "https://www.25kfantasy.com/players/",
@@ -260,6 +260,48 @@
       "pointsChangeSincePrevious": 0.0
     },
     {
+      "managerName": "Gus",
+      "teamName": "mynameaintearl",
+      "url": "https://www.poker.org/fantasy/wsop/2026/team/mynameaintearl/",
+      "players": [
+        {
+          "player": "Dylan Smith",
+          "points": 105.0
+        },
+        {
+          "player": "Nick Guagenti",
+          "points": 29.0
+        },
+        {
+          "player": "Esther Taylor",
+          "points": 18.0
+        },
+        {
+          "player": "Matt Glantz",
+          "points": 16.0
+        },
+        {
+          "player": "Allan Le",
+          "points": 14.0
+        },
+        {
+          "player": "Jerry Wong",
+          "points": 13.0
+        },
+        {
+          "player": "Danny Wong",
+          "points": 7.0
+        },
+        {
+          "player": "Phillip Hui",
+          "points": 5.0
+        }
+      ],
+      "totalPoints": 207.0,
+      "pointsChange": 41.0,
+      "pointsChangeSincePrevious": 41.0
+    },
+    {
       "managerName": "Ruben",
       "teamName": "wugwugwugwug",
       "url": "https://www.poker.org/fantasy/wsop/2026/team/wugwugwugwug/",
@@ -340,48 +382,6 @@
         }
       ],
       "totalPoints": 169.0,
-      "pointsChange": 0.0,
-      "pointsChangeSincePrevious": 0.0
-    },
-    {
-      "managerName": "Gus",
-      "teamName": "mynameaintearl",
-      "url": "https://www.poker.org/fantasy/wsop/2026/team/mynameaintearl/",
-      "players": [
-        {
-          "player": "Dylan Smith",
-          "points": 64.0
-        },
-        {
-          "player": "Nick Guagenti",
-          "points": 29.0
-        },
-        {
-          "player": "Esther Taylor",
-          "points": 18.0
-        },
-        {
-          "player": "Matt Glantz",
-          "points": 16.0
-        },
-        {
-          "player": "Allan Le",
-          "points": 14.0
-        },
-        {
-          "player": "Jerry Wong",
-          "points": 13.0
-        },
-        {
-          "player": "Danny Wong",
-          "points": 7.0
-        },
-        {
-          "player": "Phillip Hui",
-          "points": 5.0
-        }
-      ],
-      "totalPoints": 166.0,
       "pointsChange": 0.0,
       "pointsChangeSincePrevious": 0.0
     }
