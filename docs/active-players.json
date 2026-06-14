@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-06-14T02:50:12.444991+00:00",
+  "generatedAt": "2026-06-14T03:00:21.254169+00:00",
   "league": "25k",
-  "count": 8,
+  "count": 14,
   "players": [
     {
       "player": "Dong Chen",
@@ -24,6 +24,72 @@
       "bb": "18.5 BB",
       "bonus": "Locked 11 PTS",
       "points": 0.0
+    },
+    {
+      "player": "Brian Green",
+      "event": "Event #39: $5,000 Seniors High Roller No-Limit Hold'em",
+      "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-39/",
+      "team": "2026 ODB Bonus Players",
+      "rank": "72 / 127",
+      "chips": "198,000",
+      "bb": "19.8 BB",
+      "bonus": "Top 18 16 PTS",
+      "points": 2.0
+    },
+    {
+      "player": "Gary Benson",
+      "event": "Event #39: $5,000 Seniors High Roller No-Limit Hold'em",
+      "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-39/",
+      "team": "Trump Power",
+      "rank": "74 / 127",
+      "chips": "194,000",
+      "bb": "19.4 BB",
+      "bonus": "Top 18 16 PTS",
+      "points": 2.0
+    },
+    {
+      "player": "Angela Jordison",
+      "event": "Event #39: $5,000 Seniors High Roller No-Limit Hold'em",
+      "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-39/",
+      "team": "2026 ODB Bonus Players",
+      "rank": "83 / 127",
+      "chips": "162,000",
+      "bb": "16.2 BB",
+      "bonus": "Top 18 16 PTS",
+      "points": 2.0
+    },
+    {
+      "player": "John Holley",
+      "event": "Event #39: $5,000 Seniors High Roller No-Limit Hold'em",
+      "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-39/",
+      "team": "2026 ODB Bonus Players",
+      "rank": "96 / 127",
+      "chips": "126,000",
+      "bb": "12.6 BB",
+      "bonus": "Top 18 16 PTS",
+      "points": 2.0
+    },
+    {
+      "player": "Matt Salsberg",
+      "event": "Event #39: $5,000 Seniors High Roller No-Limit Hold'em",
+      "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-39/",
+      "team": "2026 ODB Bonus Players",
+      "rank": "109 / 127",
+      "chips": "84,000",
+      "bb": "8.4 BB",
+      "bonus": "Top 18 16 PTS",
+      "points": 2.0
+    },
+    {
+      "player": "Eli Elezra",
+      "event": "Event #39: $5,000 Seniors High Roller No-Limit Hold'em",
+      "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-39/",
+      "team": "DNegs",
+      "rank": "117 / 127",
+      "chips": "61,000",
+      "bb": "6.1 BB",
+      "bonus": "Top 18 16 PTS",
+      "points": 2.0
     },
     {
       "player": "Jon Turner",
