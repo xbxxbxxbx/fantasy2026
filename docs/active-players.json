@@ -1,16 +1,16 @@
 {
-  "generatedAt": "2026-06-14T04:30:15.125510+00:00",
+  "generatedAt": "2026-06-14T04:40:14.794043+00:00",
   "league": "25k",
-  "count": 7,
+  "count": 6,
   "players": [
     {
       "player": "Angela Jordison",
       "event": "Event #39: $5,000 Seniors High Roller No-Limit Hold'em",
       "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-39/",
       "team": "2026 ODB Bonus Players",
-      "rank": "34 / 85",
-      "chips": "458,000",
-      "bb": "38.2 BB",
+      "rank": "40 / 83",
+      "chips": "397,000",
+      "bb": "33.1 BB",
       "bonus": "Top 18 16 PTS",
       "points": 2.0
     },
@@ -19,20 +19,9 @@
       "event": "Event #39: $5,000 Seniors High Roller No-Limit Hold'em",
       "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-39/",
       "team": "2026 ODB Bonus Players",
-      "rank": "42 / 85",
+      "rank": "41 / 83",
       "chips": "396,000",
       "bb": "33.0 BB",
-      "bonus": "Top 18 16 PTS",
-      "points": 2.0
-    },
-    {
-      "player": "Gary Benson",
-      "event": "Event #39: $5,000 Seniors High Roller No-Limit Hold'em",
-      "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-39/",
-      "team": "Trump Power",
-      "rank": "66 / 85",
-      "chips": "194,000",
-      "bb": "16.2 BB",
       "bonus": "Top 18 16 PTS",
       "points": 2.0
     },
@@ -41,7 +30,7 @@
       "event": "Event #40: $1,500 Razz",
       "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-40/",
       "team": "Wasserson",
-      "rank": "3 / 15",
+      "rank": "4 / 15",
       "chips": "1,250,000",
       "bb": "25.0 BB",
       "bonus": "Locked 10 PTS",
