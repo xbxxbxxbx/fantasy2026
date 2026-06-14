@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-14T22:50:11.051841+00:00",
+  "generatedAt": "2026-06-14T23:00:14.833218+00:00",
   "leagueName": "WSOP Poker Fantasy Draft 2026",
   "sourceLabel": "25KFantasy",
   "sourceUrl": "https://www.25kfantasy.com/players/",
@@ -63,6 +63,10 @@
           "points": 103.0
         },
         {
+          "player": "Jon Turner",
+          "points": 54.0
+        },
+        {
           "player": "Chance Kornuth",
           "points": 53.0
         },
@@ -79,17 +83,55 @@
           "points": 27.0
         },
         {
-          "player": "Jon Turner",
-          "points": 19.0
-        },
-        {
           "player": "Jason Koon",
           "points": 0.0
         }
       ],
-      "totalPoints": 418.0,
-      "pointsChange": 0.0,
-      "pointsChangeSincePrevious": 0.0
+      "totalPoints": 453.0,
+      "pointsChange": 35.0,
+      "pointsChangeSincePrevious": 35.0
+    },
+    {
+      "managerName": "JeffBNT",
+      "teamName": "Team Max Degen",
+      "url": "https://www.poker.org/fantasy/wsop/2026/team/team-max-degen/",
+      "players": [
+        {
+          "player": "Arthur Morris",
+          "points": 103.0
+        },
+        {
+          "player": "Jon Turner",
+          "points": 54.0
+        },
+        {
+          "player": "Nicholas Seward",
+          "points": 36.0
+        },
+        {
+          "player": "Calvin Anderson",
+          "points": 36.0
+        },
+        {
+          "player": "Sam Soverel",
+          "points": 35.0
+        },
+        {
+          "player": "Ben Yu",
+          "points": 10.0
+        },
+        {
+          "player": "Ari Engel",
+          "points": 8.0
+        },
+        {
+          "player": "Brock Wilson",
+          "points": 7.0
+        }
+      ],
+      "totalPoints": 289.0,
+      "pointsChange": 35.0,
+      "pointsChangeSincePrevious": 35.0
     },
     {
       "managerName": "Doinky",
@@ -298,48 +340,6 @@
         }
       ],
       "totalPoints": 256.0,
-      "pointsChange": 0.0,
-      "pointsChangeSincePrevious": 0.0
-    },
-    {
-      "managerName": "JeffBNT",
-      "teamName": "Team Max Degen",
-      "url": "https://www.poker.org/fantasy/wsop/2026/team/team-max-degen/",
-      "players": [
-        {
-          "player": "Arthur Morris",
-          "points": 103.0
-        },
-        {
-          "player": "Nicholas Seward",
-          "points": 36.0
-        },
-        {
-          "player": "Calvin Anderson",
-          "points": 36.0
-        },
-        {
-          "player": "Sam Soverel",
-          "points": 35.0
-        },
-        {
-          "player": "Jon Turner",
-          "points": 19.0
-        },
-        {
-          "player": "Ben Yu",
-          "points": 10.0
-        },
-        {
-          "player": "Ari Engel",
-          "points": 8.0
-        },
-        {
-          "player": "Brock Wilson",
-          "points": 7.0
-        }
-      ],
-      "totalPoints": 254.0,
       "pointsChange": 0.0,
       "pointsChangeSincePrevious": 0.0
     },
