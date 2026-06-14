@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-06-14T03:40:13.243281+00:00",
+  "generatedAt": "2026-06-14T03:50:11.570384+00:00",
   "league": "25k",
-  "count": 12,
+  "count": 11,
   "players": [
     {
       "player": "Dong Chen",
@@ -30,9 +30,9 @@
       "event": "Event #39: $5,000 Seniors High Roller No-Limit Hold'em",
       "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-39/",
       "team": "2026 ODB Bonus Players",
-      "rank": "64 / 98",
-      "chips": "239,000",
-      "bb": "23.9 BB",
+      "rank": "41 / 95",
+      "chips": "403,000",
+      "bb": "40.3 BB",
       "bonus": "Top 18 16 PTS",
       "points": 2.0
     },
@@ -41,7 +41,7 @@
       "event": "Event #39: $5,000 Seniors High Roller No-Limit Hold'em",
       "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-39/",
       "team": "2026 ODB Bonus Players",
-      "rank": "70 / 98",
+      "rank": "69 / 95",
       "chips": "198,000",
       "bb": "19.8 BB",
       "bonus": "Top 18 16 PTS",
@@ -52,7 +52,7 @@
       "event": "Event #39: $5,000 Seniors High Roller No-Limit Hold'em",
       "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-39/",
       "team": "Trump Power",
-      "rank": "72 / 98",
+      "rank": "71 / 95",
       "chips": "194,000",
       "bb": "19.4 BB",
       "bonus": "Top 18 16 PTS",
@@ -63,7 +63,7 @@
       "event": "Event #39: $5,000 Seniors High Roller No-Limit Hold'em",
       "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-39/",
       "team": "DNegs",
-      "rank": "94 / 98",
+      "rank": "91 / 95",
       "chips": "61,000",
       "bb": "6.1 BB",
       "bonus": "Top 18 16 PTS",
@@ -74,66 +74,55 @@
       "event": "Event #40: $1,500 Razz",
       "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-40/",
       "team": "Wasserson",
-      "rank": "7 / 19",
+      "rank": "7 / 18",
       "chips": "826,000",
-      "bb": "20.7 BB",
-      "bonus": "Top 18 10 PTS",
-      "points": 0.0
+      "bb": "16.5 BB",
+      "bonus": "Locked 10 PTS",
+      "points": 10.0
     },
     {
       "player": "Donny Rubinstein",
       "event": "Event #40: $1,500 Razz",
       "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-40/",
       "team": "2026 ODB Bonus Players",
-      "rank": "10 / 19",
+      "rank": "10 / 18",
       "chips": "693,000",
-      "bb": "17.3 BB",
-      "bonus": "Top 18 10 PTS",
-      "points": 0.0
+      "bb": "13.9 BB",
+      "bonus": "Locked 10 PTS",
+      "points": 10.0
     },
     {
       "player": "Vladas Tamasauskas",
       "event": "Event #40: $1,500 Razz",
       "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-40/",
       "team": "Dinkers",
-      "rank": "14 / 19",
+      "rank": "14 / 18",
       "chips": "347,000",
-      "bb": "8.7 BB",
-      "bonus": "Top 18 10 PTS",
-      "points": 0.0
+      "bb": "6.9 BB",
+      "bonus": "Locked 10 PTS",
+      "points": 10.0
     },
     {
       "player": "Ariel Mantel",
       "event": "Event #40: $1,500 Razz",
       "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-40/",
       "team": "Very Handsome Horses",
-      "rank": "15 / 19",
+      "rank": "15 / 18",
       "chips": "346,000",
-      "bb": "8.7 BB",
-      "bonus": "Top 18 10 PTS",
-      "points": 0.0
+      "bb": "6.9 BB",
+      "bonus": "Locked 10 PTS",
+      "points": 10.0
     },
     {
       "player": "Matt Vengrin",
       "event": "Event #40: $1,500 Razz",
       "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-40/",
       "team": "Glue Factory",
-      "rank": "17 / 19",
+      "rank": "17 / 18",
       "chips": "201,000",
-      "bb": "5.0 BB",
-      "bonus": "Top 18 10 PTS",
-      "points": 0.0
-    },
-    {
-      "player": "Robert Mizrachi",
-      "event": "Event #40: $1,500 Razz",
-      "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-40/",
-      "team": "Very Handsome Horses",
-      "rank": "19 / 19",
-      "chips": "58,000",
-      "bb": "1.5 BB",
-      "bonus": "Top 18 10 PTS",
-      "points": 0.0
+      "bb": "4.0 BB",
+      "bonus": "Locked 10 PTS",
+      "points": 10.0
     }
   ]
 }
