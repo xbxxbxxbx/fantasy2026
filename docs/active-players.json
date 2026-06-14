@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-14T22:20:11.274228+00:00",
+  "generatedAt": "2026-06-14T22:30:21.477669+00:00",
   "league": "25k",
   "count": 1,
   "players": [
@@ -10,7 +10,7 @@
       "team": "Wasserson",
       "rank": "2 / 5",
       "chips": "3,485,000",
-      "bb": "21.8 BB",
+      "bb": "17.4 BB",
       "bonus": "Locked 10 PTS",
       "points": 0.0
     }
