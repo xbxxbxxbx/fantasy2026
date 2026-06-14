@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-14T05:50:12.476197+00:00",
+  "generatedAt": "2026-06-14T06:00:25.596369+00:00",
   "league": "25k",
   "count": 5,
   "players": [
@@ -37,24 +37,24 @@
       "points": 10.0
     },
     {
-      "player": "Donny Rubinstein",
-      "event": "Event #40: $1,500 Razz",
-      "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-40/",
-      "team": "2026 ODB Bonus Players",
-      "rank": "9 / 11",
-      "chips": "693,000",
-      "bb": "11.6 BB",
-      "bonus": "Locked 10 PTS",
-      "points": 10.0
-    },
-    {
       "player": "Vladas Tamasauskas",
       "event": "Event #40: $1,500 Razz",
       "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-40/",
       "team": "Dinkers",
       "rank": "10 / 11",
-      "chips": "347,000",
-      "bb": "5.8 BB",
+      "chips": "195,000",
+      "bb": "3.3 BB",
+      "bonus": "Locked 10 PTS",
+      "points": 10.0
+    },
+    {
+      "player": "Donny Rubinstein",
+      "event": "Event #40: $1,500 Razz",
+      "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-40/",
+      "team": "2026 ODB Bonus Players",
+      "rank": "11 / 11",
+      "chips": "115,000",
+      "bb": "1.9 BB",
       "bonus": "Locked 10 PTS",
       "points": 10.0
     }
