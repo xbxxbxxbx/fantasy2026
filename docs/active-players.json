@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-14T07:00:19.631368+00:00",
+  "generatedAt": "2026-06-14T07:10:15.910274+00:00",
   "league": "25k",
   "count": 1,
   "players": [
@@ -8,9 +8,9 @@
       "event": "Event #40: $1,500 Razz",
       "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-40/",
       "team": "Wasserson",
-      "rank": "4 / 8",
-      "chips": "1,810,000",
-      "bb": "22.6 BB",
+      "rank": "2 / 7",
+      "chips": "2,600,000",
+      "bb": "26.0 BB",
       "bonus": "Locked 10 PTS",
       "points": 0.0
     }
