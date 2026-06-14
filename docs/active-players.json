@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-14T08:00:25.011732+00:00",
+  "generatedAt": "2026-06-14T08:10:11.936054+00:00",
   "league": "25k",
   "count": 1,
   "players": [
@@ -9,8 +9,8 @@
       "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-40/",
       "team": "Wasserson",
       "rank": "1 / 6",
-      "chips": "4,400,000",
-      "bb": "44.0 BB",
+      "chips": "4,335,000",
+      "bb": "43.4 BB",
       "bonus": "Locked 10 PTS",
       "points": 0.0
     }
