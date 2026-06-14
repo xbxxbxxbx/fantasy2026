@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-14T00:18:53.123321+00:00",
+  "generatedAt": "2026-06-14T00:20:18.504235+00:00",
   "league": "25k",
   "count": 19,
   "players": [
@@ -8,7 +8,7 @@
       "event": "Event #35: $1,500 Pot-Limit Omaha 8-Handed",
       "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-35/",
       "team": "2026 ODB Bonus Players",
-      "rank": "5 / 8",
+      "rank": "5 / 6",
       "chips": "4,500,000",
       "bb": "\u2014",
       "bonus": "Locked 26 PTS",
@@ -19,7 +19,7 @@
       "event": "Event #35: $1,500 Pot-Limit Omaha 8-Handed",
       "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-35/",
       "team": "Browndog",
-      "rank": "6 / 8",
+      "rank": "6 / 6",
       "chips": "2,525,000",
       "bb": "\u2014",
       "bonus": "Locked 26 PTS",
@@ -70,24 +70,24 @@
       "points": 0.0
     },
     {
-      "player": "Jon Turner",
-      "event": "Event #40: $1,500 Razz",
-      "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-40/",
-      "team": "Wasserson",
-      "rank": "2 / 39",
-      "chips": "615,000",
-      "bb": "25.6 BB",
-      "bonus": "Top 18 10 PTS",
-      "points": 1.0
-    },
-    {
       "player": "Matt Grapenthien",
       "event": "Event #40: $1,500 Razz",
       "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-40/",
       "team": "2026 ODB Bonus Players",
-      "rank": "5 / 39",
-      "chips": "506,000",
-      "bb": "21.1 BB",
+      "rank": "1 / 39",
+      "chips": "707,000",
+      "bb": "29.5 BB",
+      "bonus": "Top 18 10 PTS",
+      "points": 1.0
+    },
+    {
+      "player": "Jon Turner",
+      "event": "Event #40: $1,500 Razz",
+      "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-40/",
+      "team": "Wasserson",
+      "rank": "3 / 39",
+      "chips": "615,000",
+      "bb": "25.6 BB",
       "bonus": "Top 18 10 PTS",
       "points": 1.0
     },
@@ -96,7 +96,7 @@
       "event": "Event #40: $1,500 Razz",
       "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-40/",
       "team": "Lucky",
-      "rank": "10 / 39",
+      "rank": "11 / 39",
       "chips": "325,000",
       "bb": "13.5 BB",
       "bonus": "Top 18 10 PTS",
@@ -158,24 +158,24 @@
       "points": 1.0
     },
     {
-      "player": "Ariel Mantel",
-      "event": "Event #40: $1,500 Razz",
-      "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-40/",
-      "team": "Very Handsome Horses",
-      "rank": "28 / 39",
-      "chips": "177,000",
-      "bb": "7.4 BB",
-      "bonus": "Top 18 10 PTS",
-      "points": 1.0
-    },
-    {
       "player": "Justin Fawcett",
       "event": "Event #40: $1,500 Razz",
       "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-40/",
       "team": "Premiums Only",
+      "rank": "28 / 39",
+      "chips": "179,000",
+      "bb": "7.5 BB",
+      "bonus": "Top 18 10 PTS",
+      "points": 1.0
+    },
+    {
+      "player": "Ariel Mantel",
+      "event": "Event #40: $1,500 Razz",
+      "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-40/",
+      "team": "Very Handsome Horses",
       "rank": "29 / 39",
-      "chips": "161,000",
-      "bb": "6.7 BB",
+      "chips": "177,000",
+      "bb": "7.4 BB",
       "bonus": "Top 18 10 PTS",
       "points": 1.0
     },
