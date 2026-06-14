@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-14T06:10:17.938589+00:00",
+  "generatedAt": "2026-06-14T06:20:19.755637+00:00",
   "league": "25k",
   "count": 3,
   "players": [
@@ -8,9 +8,9 @@
       "event": "Event #39: $5,000 Seniors High Roller No-Limit Hold'em",
       "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-39/",
       "team": "2026 ODB Bonus Players",
-      "rank": "29 / 61",
-      "chips": "500,000",
-      "bb": "25.0 BB",
+      "rank": "42 / 59",
+      "chips": "380,000",
+      "bb": "19.0 BB",
       "bonus": "Top 18 16 PTS",
       "points": 2.0
     },
@@ -20,8 +20,8 @@
       "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-40/",
       "team": "Wasserson",
       "rank": "4 / 9",
-      "chips": "1,640,000",
-      "bb": "20.5 BB",
+      "chips": "1,810,000",
+      "bb": "22.6 BB",
       "bonus": "Locked 10 PTS",
       "points": 0.0
     },
