@@ -1,38 +1,16 @@
 {
-  "generatedAt": "2026-06-14T06:20:19.755637+00:00",
+  "generatedAt": "2026-06-14T06:30:19.611236+00:00",
   "league": "25k",
-  "count": 3,
+  "count": 1,
   "players": [
-    {
-      "player": "Angela Jordison",
-      "event": "Event #39: $5,000 Seniors High Roller No-Limit Hold'em",
-      "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-39/",
-      "team": "2026 ODB Bonus Players",
-      "rank": "42 / 59",
-      "chips": "380,000",
-      "bb": "19.0 BB",
-      "bonus": "Top 18 16 PTS",
-      "points": 2.0
-    },
     {
       "player": "Jon Turner",
       "event": "Event #40: $1,500 Razz",
       "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-40/",
       "team": "Wasserson",
-      "rank": "4 / 9",
+      "rank": "4 / 8",
       "chips": "1,810,000",
       "bb": "22.6 BB",
-      "bonus": "Locked 10 PTS",
-      "points": 0.0
-    },
-    {
-      "player": "Vladas Tamasauskas",
-      "event": "Event #40: $1,500 Razz",
-      "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-40/",
-      "team": "Dinkers",
-      "rank": "9 / 9",
-      "chips": "195,000",
-      "bb": "2.4 BB",
       "bonus": "Locked 10 PTS",
       "points": 0.0
     }
