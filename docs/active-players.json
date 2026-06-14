@@ -1,27 +1,16 @@
 {
-  "generatedAt": "2026-06-14T06:00:25.596369+00:00",
+  "generatedAt": "2026-06-14T06:10:17.938589+00:00",
   "league": "25k",
-  "count": 5,
+  "count": 3,
   "players": [
     {
       "player": "Angela Jordison",
       "event": "Event #39: $5,000 Seniors High Roller No-Limit Hold'em",
       "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-39/",
       "team": "2026 ODB Bonus Players",
-      "rank": "28 / 65",
+      "rank": "29 / 61",
       "chips": "500,000",
-      "bb": "33.3 BB",
-      "bonus": "Top 18 16 PTS",
-      "points": 2.0
-    },
-    {
-      "player": "Brian Green",
-      "event": "Event #39: $5,000 Seniors High Roller No-Limit Hold'em",
-      "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-39/",
-      "team": "2026 ODB Bonus Players",
-      "rank": "43 / 65",
-      "chips": "350,000",
-      "bb": "23.3 BB",
+      "bb": "25.0 BB",
       "bonus": "Top 18 16 PTS",
       "points": 2.0
     },
@@ -30,33 +19,22 @@
       "event": "Event #40: $1,500 Razz",
       "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-40/",
       "team": "Wasserson",
-      "rank": "4 / 11",
+      "rank": "4 / 9",
       "chips": "1,640,000",
-      "bb": "27.3 BB",
+      "bb": "20.5 BB",
       "bonus": "Locked 10 PTS",
-      "points": 10.0
+      "points": 0.0
     },
     {
       "player": "Vladas Tamasauskas",
       "event": "Event #40: $1,500 Razz",
       "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-40/",
       "team": "Dinkers",
-      "rank": "10 / 11",
+      "rank": "9 / 9",
       "chips": "195,000",
-      "bb": "3.3 BB",
+      "bb": "2.4 BB",
       "bonus": "Locked 10 PTS",
-      "points": 10.0
-    },
-    {
-      "player": "Donny Rubinstein",
-      "event": "Event #40: $1,500 Razz",
-      "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-40/",
-      "team": "2026 ODB Bonus Players",
-      "rank": "11 / 11",
-      "chips": "115,000",
-      "bb": "1.9 BB",
-      "bonus": "Locked 10 PTS",
-      "points": 10.0
+      "points": 0.0
     }
   ]
 }
