@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-15T23:00:22.115925+00:00",
+  "generatedAt": "2026-06-15T23:10:18.923060+00:00",
   "leagueName": "WSOP Poker Fantasy Draft 2026",
   "sourceLabel": "25KFantasy",
   "sourceUrl": "https://www.25kfantasy.com/players/",
@@ -47,7 +47,7 @@
       ],
       "totalPoints": 630.0,
       "pointsChange": 15.0,
-      "pointsChangeSincePrevious": 14.0
+      "pointsChangeSincePrevious": 0.0
     },
     {
       "managerName": "ASG",
@@ -173,7 +173,7 @@
       ],
       "totalPoints": 278.0,
       "pointsChange": 14.0,
-      "pointsChangeSincePrevious": 14.0
+      "pointsChangeSincePrevious": 0.0
     },
     {
       "managerName": "Doinky",
@@ -383,7 +383,7 @@
       ],
       "totalPoints": 186.0,
       "pointsChange": 15.0,
-      "pointsChangeSincePrevious": 14.0
+      "pointsChangeSincePrevious": 0.0
     }
   ],
   "failures": []
