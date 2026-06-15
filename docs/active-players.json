@@ -1,8 +1,63 @@
 {
-  "generatedAt": "2026-06-15T10:50:20.215195+00:00",
+  "generatedAt": "2026-06-15T11:00:17.515849+00:00",
   "league": "25k",
-  "count": 21,
+  "count": 26,
   "players": [
+    {
+      "player": "Ryan Leng",
+      "event": "Event #34: $500 COLOSSUS No-Limit Hold\u2019em",
+      "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-34/",
+      "team": "Gators",
+      "rank": "4 / 109",
+      "chips": "7,085,000",
+      "bb": "70.9 BB",
+      "bonus": "Top 81 101 PTS",
+      "points": 1.0
+    },
+    {
+      "player": "Eric Baldwin",
+      "event": "Event #34: $500 COLOSSUS No-Limit Hold\u2019em",
+      "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-34/",
+      "team": "2026 ODB Bonus Players",
+      "rank": "10 / 109",
+      "chips": "5,570,000",
+      "bb": "55.7 BB",
+      "bonus": "Top 81 101 PTS",
+      "points": 1.0
+    },
+    {
+      "player": "Dara Taherpour",
+      "event": "Event #34: $500 COLOSSUS No-Limit Hold\u2019em",
+      "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-34/",
+      "team": "Noori",
+      "rank": "52 / 109",
+      "chips": "2,125,000",
+      "bb": "21.3 BB",
+      "bonus": "Top 81 101 PTS",
+      "points": 1.0
+    },
+    {
+      "player": "Ross Krause",
+      "event": "Event #34: $500 COLOSSUS No-Limit Hold\u2019em",
+      "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-34/",
+      "team": "2026 ODB Bonus Players",
+      "rank": "90 / 109",
+      "chips": "1,225,000",
+      "bb": "12.3 BB",
+      "bonus": "Top 81 101 PTS",
+      "points": 1.0
+    },
+    {
+      "player": "Paul Fehlig",
+      "event": "Event #34: $500 COLOSSUS No-Limit Hold\u2019em",
+      "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-34/",
+      "team": "2026 ODB Bonus Players",
+      "rank": "91 / 109",
+      "chips": "1,220,000",
+      "bb": "12.2 BB",
+      "bonus": "Top 81 101 PTS",
+      "points": 1.0
+    },
     {
       "player": "Bryn Kenney",
       "event": "Event #41: $250,000 Super High Roller No-Limit Hold'em",
