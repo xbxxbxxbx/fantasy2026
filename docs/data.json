@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-15T02:50:17.602320+00:00",
+  "generatedAt": "2026-06-15T03:00:16.849625+00:00",
   "leagueName": "WSOP Poker Fantasy Draft 2026",
   "sourceLabel": "25KFantasy",
   "sourceUrl": "https://www.25kfantasy.com/players/",
@@ -194,7 +194,7 @@
         },
         {
           "player": "Esther Taylor",
-          "points": 18.0
+          "points": 20.0
         },
         {
           "player": "Matt Glantz",
@@ -213,9 +213,9 @@
           "points": 5.0
         }
       ],
-      "totalPoints": 268.0,
-      "pointsChange": 0.0,
-      "pointsChangeSincePrevious": 0.0
+      "totalPoints": 270.0,
+      "pointsChange": 2.0,
+      "pointsChangeSincePrevious": 2.0
     },
     {
       "managerName": "realbmorekid",
@@ -236,7 +236,7 @@
         },
         {
           "player": "Esther Taylor",
-          "points": 18.0
+          "points": 20.0
         },
         {
           "player": "Shannon Shorr",
@@ -255,9 +255,9 @@
           "points": 7.0
         }
       ],
-      "totalPoints": 268.0,
-      "pointsChange": 0.0,
-      "pointsChangeSincePrevious": 0.0
+      "totalPoints": 270.0,
+      "pointsChange": 2.0,
+      "pointsChangeSincePrevious": 2.0
     },
     {
       "managerName": "Ruben",
@@ -362,7 +362,7 @@
         },
         {
           "player": "Esther Taylor",
-          "points": 18.0
+          "points": 20.0
         },
         {
           "player": "Andrew Lichtenberger",
@@ -381,9 +381,9 @@
           "points": 0.0
         }
       ],
-      "totalPoints": 169.0,
-      "pointsChange": 0.0,
-      "pointsChangeSincePrevious": 0.0
+      "totalPoints": 171.0,
+      "pointsChange": 2.0,
+      "pointsChangeSincePrevious": 2.0
     }
   ],
   "failures": []
