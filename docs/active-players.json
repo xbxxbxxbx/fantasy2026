@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-15T04:15:11.232533+00:00",
+  "generatedAt": "2026-06-15T04:20:18.448434+00:00",
   "league": "25k",
   "count": 6,
   "players": [
@@ -8,9 +8,9 @@
       "event": "Event #44: $10,000 Super Turbo Bounty No-Limit Hold'em 8-Handed",
       "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-44/",
       "team": "Gators",
-      "rank": "2 / 41",
+      "rank": "2 / 40",
       "chips": "1,435,000",
-      "bb": "57.4 BB",
+      "bb": "47.8 BB",
       "bonus": "Top 18 14 PTS",
       "points": 2.0
     },
@@ -19,9 +19,9 @@
       "event": "Event #44: $10,000 Super Turbo Bounty No-Limit Hold'em 8-Handed",
       "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-44/",
       "team": "Lucky",
-      "rank": "11 / 41",
+      "rank": "11 / 40",
       "chips": "810,000",
-      "bb": "32.4 BB",
+      "bb": "27.0 BB",
       "bonus": "Top 18 14 PTS",
       "points": 2.0
     },
@@ -30,9 +30,9 @@
       "event": "Event #44: $10,000 Super Turbo Bounty No-Limit Hold'em 8-Handed",
       "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-44/",
       "team": "Dinkers",
-      "rank": "12 / 41",
+      "rank": "12 / 40",
       "chips": "800,000",
-      "bb": "32.0 BB",
+      "bb": "26.7 BB",
       "bonus": "Top 18 14 PTS",
       "points": 2.0
     },
@@ -41,9 +41,9 @@
       "event": "Event #44: $10,000 Super Turbo Bounty No-Limit Hold'em 8-Handed",
       "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-44/",
       "team": "Glue Factory",
-      "rank": "17 / 41",
+      "rank": "17 / 40",
       "chips": "665,000",
-      "bb": "26.6 BB",
+      "bb": "22.2 BB",
       "bonus": "Top 18 14 PTS",
       "points": 2.0
     },
@@ -52,9 +52,9 @@
       "event": "Event #44: $10,000 Super Turbo Bounty No-Limit Hold'em 8-Handed",
       "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-44/",
       "team": "2026 ODB Bonus Players",
-      "rank": "27 / 41",
+      "rank": "27 / 40",
       "chips": "435,000",
-      "bb": "17.4 BB",
+      "bb": "14.5 BB",
       "bonus": "Top 18 14 PTS",
       "points": 2.0
     },
@@ -63,9 +63,9 @@
       "event": "Event #44: $10,000 Super Turbo Bounty No-Limit Hold'em 8-Handed",
       "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-44/",
       "team": "Lady Gaga",
-      "rank": "38 / 41",
+      "rank": "36 / 40",
       "chips": "280,000",
-      "bb": "11.2 BB",
+      "bb": "9.3 BB",
       "bonus": "Top 18 14 PTS",
       "points": 2.0
     }
