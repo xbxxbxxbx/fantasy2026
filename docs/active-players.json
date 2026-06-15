@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-15T23:30:15.574403+00:00",
+  "generatedAt": "2026-06-15T23:40:19.345002+00:00",
   "league": "25k",
   "count": 13,
   "players": [
@@ -8,7 +8,7 @@
       "event": "Event #34: $500 COLOSSUS No-Limit Hold\u2019em",
       "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-34/",
       "team": "Stake Kings",
-      "rank": "13 / 63",
+      "rank": "15 / 59",
       "chips": "12,600,000",
       "bb": "21.0 BB",
       "bonus": "Locked 101 PTS",
@@ -19,7 +19,7 @@
       "event": "Event #34: $500 COLOSSUS No-Limit Hold\u2019em",
       "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-34/",
       "team": "2026 ODB Bonus Players",
-      "rank": "45 / 63",
+      "rank": "42 / 59",
       "chips": "5,570,000",
       "bb": "9.3 BB",
       "bonus": "Locked 101 PTS",
@@ -32,7 +32,7 @@
       "team": "DNegs",
       "rank": "2 / 5",
       "chips": "18,850,000",
-      "bb": "47.1 BB",
+      "bb": "37.7 BB",
       "bonus": "Locked 0 PTS",
       "points": 0.0
     },
@@ -43,7 +43,7 @@
       "team": "Blez/NGNF",
       "rank": "3 / 5",
       "chips": "15,875,000",
-      "bb": "39.7 BB",
+      "bb": "31.8 BB",
       "bonus": "Locked 0 PTS",
       "points": 0.0
     },
@@ -54,7 +54,7 @@
       "team": "DNegs",
       "rank": "4 / 5",
       "chips": "13,900,000",
-      "bb": "34.8 BB",
+      "bb": "27.8 BB",
       "bonus": "Locked 0 PTS",
       "points": 0.0
     },
@@ -65,7 +65,7 @@
       "team": "Glaser",
       "rank": "5 / 5",
       "chips": "5,350,000",
-      "bb": "13.4 BB",
+      "bb": "10.7 BB",
       "bonus": "Locked 0 PTS",
       "points": 0.0
     },
@@ -140,9 +140,9 @@
       "event": "Event #43: $800 8-Handed Deepstack No-Limit Hold\u2019em",
       "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-43/",
       "team": "Lady Gaga",
-      "rank": "8 / 33",
+      "rank": "8 / 32",
       "chips": "3,800,000",
-      "bb": "15.8 BB",
+      "bb": "12.7 BB",
       "bonus": "Locked 40 PTS",
       "points": 40.0
     }
