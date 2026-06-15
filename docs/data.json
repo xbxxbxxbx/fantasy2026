@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-15T21:30:15.721123+00:00",
+  "generatedAt": "2026-06-15T21:40:18.487228+00:00",
   "leagueName": "WSOP Poker Fantasy Draft 2026",
   "sourceLabel": "25KFantasy",
   "sourceUrl": "https://www.25kfantasy.com/players/",
@@ -201,11 +201,11 @@
           "points": 15.0
         },
         {
-          "player": "Jeremy Becker",
-          "points": 11.0
+          "player": "Christian Harder",
+          "points": 13.0
         },
         {
-          "player": "Christian Harder",
+          "player": "Jeremy Becker",
           "points": 11.0
         },
         {
@@ -213,9 +213,9 @@
           "points": 7.0
         }
       ],
-      "totalPoints": 273.0,
-      "pointsChange": 1.0,
-      "pointsChangeSincePrevious": 0.0
+      "totalPoints": 275.0,
+      "pointsChange": 3.0,
+      "pointsChangeSincePrevious": 2.0
     },
     {
       "managerName": "Gus",
