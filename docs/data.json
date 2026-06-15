@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-15T05:30:15.127019+00:00",
+  "generatedAt": "2026-06-15T05:40:12.415294+00:00",
   "leagueName": "WSOP Poker Fantasy Draft 2026",
   "sourceLabel": "25KFantasy",
   "sourceUrl": "https://www.25kfantasy.com/players/",
@@ -34,7 +34,7 @@
         },
         {
           "player": "Ben Yu",
-          "points": 10.0
+          "points": 12.0
         },
         {
           "player": "Andrew Lichtenberger",
@@ -45,9 +45,9 @@
           "points": 2.0
         }
       ],
-      "totalPoints": 537.0,
-      "pointsChange": 2.0,
-      "pointsChangeSincePrevious": 0.0
+      "totalPoints": 539.0,
+      "pointsChange": 4.0,
+      "pointsChangeSincePrevious": 2.0
     },
     {
       "managerName": "ASG",
@@ -118,7 +118,7 @@
         },
         {
           "player": "Ben Yu",
-          "points": 10.0
+          "points": 12.0
         },
         {
           "player": "Ari Engel",
@@ -129,9 +129,9 @@
           "points": 7.0
         }
       ],
-      "totalPoints": 289.0,
-      "pointsChange": 35.0,
-      "pointsChangeSincePrevious": 0.0
+      "totalPoints": 291.0,
+      "pointsChange": 37.0,
+      "pointsChangeSincePrevious": 2.0
     },
     {
       "managerName": "realbmorekid",
