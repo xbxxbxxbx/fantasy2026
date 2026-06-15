@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-15T07:50:15.460539+00:00",
+  "generatedAt": "2026-06-15T08:00:22.619494+00:00",
   "leagueName": "WSOP Poker Fantasy Draft 2026",
   "sourceLabel": "25KFantasy",
   "sourceUrl": "https://www.25kfantasy.com/players/",
@@ -14,7 +14,7 @@
       "players": [
         {
           "player": "Martin Zamani",
-          "points": 178.0
+          "points": 252.0
         },
         {
           "player": "Kristen Foxen",
@@ -45,9 +45,9 @@
           "points": 2.0
         }
       ],
-      "totalPoints": 541.0,
-      "pointsChange": 6.0,
-      "pointsChangeSincePrevious": 0.0
+      "totalPoints": 615.0,
+      "pointsChange": 80.0,
+      "pointsChangeSincePrevious": 74.0
     },
     {
       "managerName": "ASG",
