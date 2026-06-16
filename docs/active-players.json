@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-06-16T22:30:14.825269+00:00",
+  "generatedAt": "2026-06-16T22:40:13.620779+00:00",
   "league": "25k",
-  "count": 5,
+  "count": 4,
   "players": [
     {
       "player": "Eric Baldwin",
@@ -10,19 +10,8 @@
       "team": "2026 ODB Bonus Players",
       "rank": "7 / 9",
       "chips": "49,000,000",
-      "bb": "81.7 BB",
+      "bb": "12.3 BB",
       "bonus": "Locked 101 PTS",
-      "points": 0.0
-    },
-    {
-      "player": "Aaron Kupin",
-      "event": "Event #42: $10,000 Big O Championship",
-      "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-42/",
-      "team": "Back Office",
-      "rank": "2 / 2",
-      "chips": "8,650,000",
-      "bb": "\u2014",
-      "bonus": "Locked 14 PTS",
       "points": 0.0
     },
     {
@@ -30,7 +19,7 @@
       "event": "Event #45: $2,500 Mixed: Omaha Hi-Lo 8 / Seven Card Stud Hi-Lo 8",
       "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-45/",
       "team": "Blez/NGNF",
-      "rank": "1 / 14",
+      "rank": "1 / 13",
       "chips": "2,545,000",
       "bb": "\u2014",
       "bonus": "Locked 10 PTS",
@@ -41,7 +30,7 @@
       "event": "Event #45: $2,500 Mixed: Omaha Hi-Lo 8 / Seven Card Stud Hi-Lo 8",
       "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-45/",
       "team": "2026 ODB Bonus Players",
-      "rank": "5 / 14",
+      "rank": "5 / 13",
       "chips": "1,745,000",
       "bb": "\u2014",
       "bonus": "Locked 10 PTS",
@@ -52,7 +41,7 @@
       "event": "Event #45: $2,500 Mixed: Omaha Hi-Lo 8 / Seven Card Stud Hi-Lo 8",
       "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-45/",
       "team": "2026 ODB Bonus Players",
-      "rank": "10 / 14",
+      "rank": "10 / 13",
       "chips": "1,040,000",
       "bb": "\u2014",
       "bonus": "Locked 10 PTS",
