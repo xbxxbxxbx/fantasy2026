@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-06-16T23:30:16.901844+00:00",
+  "generatedAt": "2026-06-16T23:40:12.025493+00:00",
   "league": "25k",
-  "count": 4,
+  "count": 3,
   "players": [
     {
       "player": "Eric Baldwin",
@@ -15,37 +15,26 @@
       "points": 0.0
     },
     {
-      "player": "Justin Liberto",
-      "event": "Event #45: $2,500 Mixed: Omaha Hi-Lo 8 / Seven Card Stud Hi-Lo 8",
-      "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-45/",
-      "team": "Blez/NGNF",
-      "rank": "2 / 11",
-      "chips": "2,545,000",
-      "bb": "\u2014",
-      "bonus": "Locked 10 PTS",
-      "points": 10.0
-    },
-    {
       "player": "Dekel Balas",
       "event": "Event #45: $2,500 Mixed: Omaha Hi-Lo 8 / Seven Card Stud Hi-Lo 8",
       "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-45/",
       "team": "2026 ODB Bonus Players",
-      "rank": "6 / 11",
-      "chips": "2,095,000",
+      "rank": "1 / 10",
+      "chips": "3,400,000",
       "bb": "\u2014",
       "bonus": "Locked 10 PTS",
-      "points": 10.0
+      "points": 0.0
     },
     {
-      "player": "Andrew Yeh",
+      "player": "Justin Liberto",
       "event": "Event #45: $2,500 Mixed: Omaha Hi-Lo 8 / Seven Card Stud Hi-Lo 8",
       "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-45/",
-      "team": "2026 ODB Bonus Players",
-      "rank": "7 / 11",
-      "chips": "1,745,000",
+      "team": "Blez/NGNF",
+      "rank": "3 / 10",
+      "chips": "2,545,000",
       "bb": "\u2014",
       "bonus": "Locked 10 PTS",
-      "points": 10.0
+      "points": 0.0
     }
   ]
 }
