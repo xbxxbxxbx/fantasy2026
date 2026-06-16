@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-16T00:19:13.561578+00:00",
+  "generatedAt": "2026-06-16T00:20:11.909648+00:00",
   "leagueName": "WSOP Poker Fantasy Draft 2026",
   "sourceLabel": "25KFantasy",
   "sourceUrl": "https://www.25kfantasy.com/players/",
@@ -63,6 +63,10 @@
           "points": 103.0
         },
         {
+          "player": "Jason Koon",
+          "points": 60.0
+        },
+        {
           "player": "Jon Turner",
           "points": 54.0
         },
@@ -81,15 +85,11 @@
         {
           "player": "Matt Vengrin",
           "points": 27.0
-        },
-        {
-          "player": "Jason Koon",
-          "points": 0.0
         }
       ],
-      "totalPoints": 455.0,
-      "pointsChange": 0.0,
-      "pointsChangeSincePrevious": 0.0
+      "totalPoints": 515.0,
+      "pointsChange": 60.0,
+      "pointsChangeSincePrevious": 60.0
     },
     {
       "managerName": "JeffBNT",
@@ -349,6 +349,10 @@
       "url": "https://www.poker.org/fantasy/wsop/2026/team/lowerbackstamp/",
       "players": [
         {
+          "player": "Jason Koon",
+          "points": 60.0
+        },
+        {
           "player": "Chance Kornuth",
           "points": 53.0
         },
@@ -375,15 +379,11 @@
         {
           "player": "Ben Lamb",
           "points": 0.0
-        },
-        {
-          "player": "Jason Koon",
-          "points": 0.0
         }
       ],
-      "totalPoints": 186.0,
-      "pointsChange": 15.0,
-      "pointsChangeSincePrevious": 0.0
+      "totalPoints": 246.0,
+      "pointsChange": 75.0,
+      "pointsChangeSincePrevious": 60.0
     }
   ],
   "failures": []
