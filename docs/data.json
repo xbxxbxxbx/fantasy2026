@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-16T04:13:21.299824+00:00",
+  "generatedAt": "2026-06-16T04:20:11.272311+00:00",
   "leagueName": "WSOP Poker Fantasy Draft 2026",
   "sourceLabel": "25KFantasy",
   "sourceUrl": "https://www.25kfantasy.com/players/",
@@ -105,12 +105,12 @@
           "points": 103.0
         },
         {
-          "player": "Andrew Ostapchenko",
-          "points": 46.0
+          "player": "Sam Soverel",
+          "points": 79.0
         },
         {
-          "player": "Sam Soverel",
-          "points": 35.0
+          "player": "Andrew Ostapchenko",
+          "points": 46.0
         },
         {
           "player": "Matt Vengrin",
@@ -129,9 +129,9 @@
           "points": 0.0
         }
       ],
-      "totalPoints": 376.0,
-      "pointsChange": 101.0,
-      "pointsChangeSincePrevious": 0.0
+      "totalPoints": 420.0,
+      "pointsChange": 145.0,
+      "pointsChangeSincePrevious": 44.0
     },
     {
       "managerName": "JeffBNT",
@@ -141,6 +141,10 @@
         {
           "player": "Arthur Morris",
           "points": 103.0
+        },
+        {
+          "player": "Sam Soverel",
+          "points": 79.0
         },
         {
           "player": "Jon Turner",
@@ -155,10 +159,6 @@
           "points": 36.0
         },
         {
-          "player": "Sam Soverel",
-          "points": 35.0
-        },
-        {
           "player": "Ben Yu",
           "points": 13.0
         },
@@ -171,9 +171,9 @@
           "points": 7.0
         }
       ],
-      "totalPoints": 293.0,
-      "pointsChange": 2.0,
-      "pointsChangeSincePrevious": 0.0
+      "totalPoints": 337.0,
+      "pointsChange": 46.0,
+      "pointsChangeSincePrevious": 44.0
     },
     {
       "managerName": "Ruben",
