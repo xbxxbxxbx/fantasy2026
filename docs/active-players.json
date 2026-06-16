@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-06-16T21:50:20.101720+00:00",
+  "generatedAt": "2026-06-16T22:00:24.797967+00:00",
   "league": "25k",
-  "count": 6,
+  "count": 5,
   "players": [
     {
       "player": "Eric Baldwin",
@@ -30,7 +30,7 @@
       "event": "Event #45: $2,500 Mixed: Omaha Hi-Lo 8 / Seven Card Stud Hi-Lo 8",
       "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-45/",
       "team": "2026 ODB Bonus Players",
-      "rank": "2 / 15",
+      "rank": "2 / 14",
       "chips": "1,720,000",
       "bb": "\u2014",
       "bonus": "Locked 10 PTS",
@@ -41,7 +41,7 @@
       "event": "Event #45: $2,500 Mixed: Omaha Hi-Lo 8 / Seven Card Stud Hi-Lo 8",
       "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-45/",
       "team": "2026 ODB Bonus Players",
-      "rank": "8 / 15",
+      "rank": "8 / 14",
       "chips": "895,000",
       "bb": "\u2014",
       "bonus": "Locked 10 PTS",
@@ -52,19 +52,8 @@
       "event": "Event #45: $2,500 Mixed: Omaha Hi-Lo 8 / Seven Card Stud Hi-Lo 8",
       "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-45/",
       "team": "Blez/NGNF",
-      "rank": "9 / 15",
+      "rank": "9 / 14",
       "chips": "885,000",
-      "bb": "\u2014",
-      "bonus": "Locked 10 PTS",
-      "points": 10.0
-    },
-    {
-      "player": "Tyler Phillips",
-      "event": "Event #45: $2,500 Mixed: Omaha Hi-Lo 8 / Seven Card Stud Hi-Lo 8",
-      "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-45/",
-      "team": "Glue Factory",
-      "rank": "15 / 15",
-      "chips": "410,000",
       "bb": "\u2014",
       "bonus": "Locked 10 PTS",
       "points": 10.0
