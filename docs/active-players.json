@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-16T03:00:16.141805+00:00",
+  "generatedAt": "2026-06-16T03:10:14.479116+00:00",
   "league": "25k",
   "count": 21,
   "players": [
@@ -8,7 +8,7 @@
       "event": "Event #34: $500 COLOSSUS No-Limit Hold\u2019em",
       "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-34/",
       "team": "2026 ODB Bonus Players",
-      "rank": "3 / 31",
+      "rank": "4 / 30",
       "chips": "36,300,000",
       "bb": "30.3 BB",
       "bonus": "Locked 101 PTS",
@@ -63,11 +63,11 @@
       "event": "Event #43: $800 8-Handed Deepstack No-Limit Hold\u2019em",
       "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-43/",
       "team": "Lady Gaga",
-      "rank": "6 / 11",
+      "rank": "7 / 10",
       "chips": "7,800,000",
-      "bb": "9.8 BB",
+      "bb": "7.8 BB",
       "bonus": "Locked 40 PTS",
-      "points": 42.0
+      "points": 0.0
     },
     {
       "player": "Dekel Balas",
