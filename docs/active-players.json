@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-16T03:30:23.890438+00:00",
+  "generatedAt": "2026-06-16T03:40:17.745958+00:00",
   "league": "25k",
   "count": 21,
   "players": [
@@ -8,7 +8,7 @@
       "event": "Event #34: $500 COLOSSUS No-Limit Hold\u2019em",
       "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-34/",
       "team": "2026 ODB Bonus Players",
-      "rank": "13 / 29",
+      "rank": "13 / 28",
       "chips": "24,500,000",
       "bb": "16.3 BB",
       "bonus": "Locked 101 PTS",
@@ -63,9 +63,9 @@
       "event": "Event #43: $800 8-Handed Deepstack No-Limit Hold\u2019em",
       "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-43/",
       "team": "Lady Gaga",
-      "rank": "7 / 9",
-      "chips": "7,800,000",
-      "bb": "7.8 BB",
+      "rank": "1 / 9",
+      "chips": "38,000,000",
+      "bb": "38.0 BB",
       "bonus": "Locked 40 PTS",
       "points": 0.0
     },
