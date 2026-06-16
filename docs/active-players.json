@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-16T21:24:59.941241+00:00",
+  "generatedAt": "2026-06-16T21:40:19.271661+00:00",
   "league": "25k",
   "count": 6,
   "players": [
@@ -30,44 +30,44 @@
       "event": "Event #45: $2,500 Mixed: Omaha Hi-Lo 8 / Seven Card Stud Hi-Lo 8",
       "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-45/",
       "team": "2026 ODB Bonus Players",
-      "rank": "2 / 19",
+      "rank": "2 / 18",
       "chips": "1,720,000",
       "bb": "\u2014",
-      "bonus": "Top 18 10 PTS",
-      "points": 0.0
+      "bonus": "Locked 10 PTS",
+      "points": 10.0
     },
     {
       "player": "Dekel Balas",
       "event": "Event #45: $2,500 Mixed: Omaha Hi-Lo 8 / Seven Card Stud Hi-Lo 8",
       "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-45/",
       "team": "2026 ODB Bonus Players",
-      "rank": "8 / 19",
+      "rank": "8 / 18",
       "chips": "895,000",
       "bb": "\u2014",
-      "bonus": "Top 18 10 PTS",
-      "points": 0.0
+      "bonus": "Locked 10 PTS",
+      "points": 10.0
     },
     {
       "player": "Justin Liberto",
       "event": "Event #45: $2,500 Mixed: Omaha Hi-Lo 8 / Seven Card Stud Hi-Lo 8",
       "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-45/",
       "team": "Blez/NGNF",
-      "rank": "9 / 19",
+      "rank": "9 / 18",
       "chips": "885,000",
       "bb": "\u2014",
-      "bonus": "Top 18 10 PTS",
-      "points": 0.0
+      "bonus": "Locked 10 PTS",
+      "points": 10.0
     },
     {
       "player": "Tyler Phillips",
       "event": "Event #45: $2,500 Mixed: Omaha Hi-Lo 8 / Seven Card Stud Hi-Lo 8",
       "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-45/",
       "team": "Glue Factory",
-      "rank": "17 / 19",
+      "rank": "17 / 18",
       "chips": "410,000",
       "bb": "\u2014",
-      "bonus": "Top 18 10 PTS",
-      "points": 0.0
+      "bonus": "Locked 10 PTS",
+      "points": 10.0
     }
   ]
 }
