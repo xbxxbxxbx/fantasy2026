@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-16T00:30:16.903814+00:00",
+  "generatedAt": "2026-06-16T00:40:12.247325+00:00",
   "league": "25k",
   "count": 10,
   "players": [
@@ -8,7 +8,7 @@
       "event": "Event #34: $500 COLOSSUS No-Limit Hold\u2019em",
       "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-34/",
       "team": "Stake Kings",
-      "rank": "16 / 53",
+      "rank": "15 / 49",
       "chips": "12,600,000",
       "bb": "15.8 BB",
       "bonus": "Locked 101 PTS",
@@ -19,31 +19,31 @@
       "event": "Event #34: $500 COLOSSUS No-Limit Hold\u2019em",
       "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-34/",
       "team": "2026 ODB Bonus Players",
-      "rank": "38 / 53",
+      "rank": "36 / 49",
       "chips": "5,570,000",
       "bb": "7.0 BB",
       "bonus": "Locked 101 PTS",
       "points": 101.0
     },
     {
-      "player": "Bryn Kenney",
-      "event": "Event #41: $250,000 Super High Roller No-Limit Hold'em",
-      "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-41/",
-      "team": "DNegs",
-      "rank": "2 / 3",
-      "chips": "18,850,000",
-      "bb": "37.7 BB",
-      "bonus": "Locked 0 PTS",
-      "points": 0.0
-    },
-    {
       "player": "Adrian Mateos",
       "event": "Event #41: $250,000 Super High Roller No-Limit Hold'em",
       "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-41/",
       "team": "Blez/NGNF",
-      "rank": "3 / 3",
-      "chips": "15,875,000",
-      "bb": "31.8 BB",
+      "rank": "1 / 2",
+      "chips": "33,325,000",
+      "bb": "66.7 BB",
+      "bonus": "Locked 0 PTS",
+      "points": 0.0
+    },
+    {
+      "player": "Bryn Kenney",
+      "event": "Event #41: $250,000 Super High Roller No-Limit Hold'em",
+      "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-41/",
+      "team": "DNegs",
+      "rank": "2 / 2",
+      "chips": "18,850,000",
+      "bb": "37.7 BB",
       "bonus": "Locked 0 PTS",
       "points": 0.0
     },
