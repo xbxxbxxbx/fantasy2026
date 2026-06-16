@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-16T06:40:13.531669+00:00",
+  "generatedAt": "2026-06-16T06:50:13.040209+00:00",
   "league": "25k",
   "count": 13,
   "players": [
@@ -48,11 +48,22 @@
       "points": 1.0
     },
     {
+      "player": "Sean Yu",
+      "event": "Event #45: $2,500 Mixed: Omaha Hi-Lo 8 / Seven Card Stud Hi-Lo 8",
+      "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-45/",
+      "team": "2026 ODB Bonus Players",
+      "rank": "3 / 33",
+      "chips": "1,025,000",
+      "bb": "\u2014",
+      "bonus": "Top 18 10 PTS",
+      "points": 1.0
+    },
+    {
       "player": "Yueqi Zhu",
       "event": "Event #45: $2,500 Mixed: Omaha Hi-Lo 8 / Seven Card Stud Hi-Lo 8",
       "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-45/",
       "team": "Trump Power",
-      "rank": "3 / 33",
+      "rank": "4 / 33",
       "chips": "988,000",
       "bb": "\u2014",
       "bonus": "Top 18 10 PTS",
@@ -63,19 +74,8 @@
       "event": "Event #45: $2,500 Mixed: Omaha Hi-Lo 8 / Seven Card Stud Hi-Lo 8",
       "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-45/",
       "team": "Glue Factory",
-      "rank": "5 / 33",
+      "rank": "6 / 33",
       "chips": "888,000",
-      "bb": "\u2014",
-      "bonus": "Top 18 10 PTS",
-      "points": 1.0
-    },
-    {
-      "player": "Sean Yu",
-      "event": "Event #45: $2,500 Mixed: Omaha Hi-Lo 8 / Seven Card Stud Hi-Lo 8",
-      "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-45/",
-      "team": "2026 ODB Bonus Players",
-      "rank": "10 / 33",
-      "chips": "750,000",
       "bb": "\u2014",
       "bonus": "Top 18 10 PTS",
       "points": 1.0
@@ -85,7 +85,7 @@
       "event": "Event #45: $2,500 Mixed: Omaha Hi-Lo 8 / Seven Card Stud Hi-Lo 8",
       "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-45/",
       "team": "Blez/NGNF",
-      "rank": "10 / 33",
+      "rank": "11 / 33",
       "chips": "750,000",
       "bb": "\u2014",
       "bonus": "Top 18 10 PTS",
@@ -118,7 +118,7 @@
       "event": "Event #45: $2,500 Mixed: Omaha Hi-Lo 8 / Seven Card Stud Hi-Lo 8",
       "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-45/",
       "team": "Dinkers",
-      "rank": "28 / 33",
+      "rank": "27 / 33",
       "chips": "270,000",
       "bb": "\u2014",
       "bonus": "Top 18 10 PTS",
@@ -129,7 +129,7 @@
       "event": "Event #45: $2,500 Mixed: Omaha Hi-Lo 8 / Seven Card Stud Hi-Lo 8",
       "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-45/",
       "team": "Lady Gaga",
-      "rank": "31 / 33",
+      "rank": "30 / 33",
       "chips": "243,000",
       "bb": "\u2014",
       "bonus": "Top 18 10 PTS",
