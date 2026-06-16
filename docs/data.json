@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-16T02:30:13.504986+00:00",
+  "generatedAt": "2026-06-16T02:40:17.802224+00:00",
   "leagueName": "WSOP Poker Fantasy Draft 2026",
   "sourceLabel": "25KFantasy",
   "sourceUrl": "https://www.25kfantasy.com/players/",
@@ -92,6 +92,48 @@
       "pointsChangeSincePrevious": 0.0
     },
     {
+      "managerName": "Doinky",
+      "teamName": "doinky",
+      "url": "https://www.poker.org/fantasy/wsop/2026/team/doinky/",
+      "players": [
+        {
+          "player": "Dylan Weisman",
+          "points": 143.0
+        },
+        {
+          "player": "Stephen Song",
+          "points": 103.0
+        },
+        {
+          "player": "Andrew Ostapchenko",
+          "points": 46.0
+        },
+        {
+          "player": "Sam Soverel",
+          "points": 35.0
+        },
+        {
+          "player": "Matt Vengrin",
+          "points": 27.0
+        },
+        {
+          "player": "Eric Wasserson",
+          "points": 15.0
+        },
+        {
+          "player": "Adam Hendrix",
+          "points": 7.0
+        },
+        {
+          "player": "Isaac Haxton",
+          "points": 0.0
+        }
+      ],
+      "totalPoints": 376.0,
+      "pointsChange": 101.0,
+      "pointsChangeSincePrevious": 101.0
+    },
+    {
       "managerName": "JeffBNT",
       "teamName": "Team Max Degen",
       "url": "https://www.poker.org/fantasy/wsop/2026/team/team-max-degen/",
@@ -173,48 +215,6 @@
       ],
       "totalPoints": 278.0,
       "pointsChange": 14.0,
-      "pointsChangeSincePrevious": 0.0
-    },
-    {
-      "managerName": "Doinky",
-      "teamName": "doinky",
-      "url": "https://www.poker.org/fantasy/wsop/2026/team/doinky/",
-      "players": [
-        {
-          "player": "Dylan Weisman",
-          "points": 143.0
-        },
-        {
-          "player": "Andrew Ostapchenko",
-          "points": 46.0
-        },
-        {
-          "player": "Sam Soverel",
-          "points": 35.0
-        },
-        {
-          "player": "Matt Vengrin",
-          "points": 27.0
-        },
-        {
-          "player": "Eric Wasserson",
-          "points": 15.0
-        },
-        {
-          "player": "Adam Hendrix",
-          "points": 7.0
-        },
-        {
-          "player": "Stephen Song",
-          "points": 2.0
-        },
-        {
-          "player": "Isaac Haxton",
-          "points": 0.0
-        }
-      ],
-      "totalPoints": 275.0,
-      "pointsChange": 0.0,
       "pointsChangeSincePrevious": 0.0
     },
     {
