@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-16T20:30:26.351537+00:00",
+  "generatedAt": "2026-06-16T20:40:22.734420+00:00",
   "league": "25k",
   "count": 9,
   "players": [
@@ -81,23 +81,23 @@
       "points": 1.0
     },
     {
-      "player": "Tyler Phillips",
+      "player": "Yueqi Zhu",
       "event": "Event #45: $2,500 Mixed: Omaha Hi-Lo 8 / Seven Card Stud Hi-Lo 8",
       "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-45/",
-      "team": "Glue Factory",
-      "rank": "13 / 23",
-      "chips": "800,000",
+      "team": "Trump Power",
+      "rank": "15 / 23",
+      "chips": "655,000",
       "bb": "\u2014",
       "bonus": "Top 18 10 PTS",
       "points": 1.0
     },
     {
-      "player": "Yueqi Zhu",
+      "player": "Tyler Phillips",
       "event": "Event #45: $2,500 Mixed: Omaha Hi-Lo 8 / Seven Card Stud Hi-Lo 8",
       "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-45/",
-      "team": "Trump Power",
-      "rank": "16 / 23",
-      "chips": "655,000",
+      "team": "Glue Factory",
+      "rank": "21 / 23",
+      "chips": "410,000",
       "bb": "\u2014",
       "bonus": "Top 18 10 PTS",
       "points": 1.0
