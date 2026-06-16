@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-06-16T20:18:32.049529+00:00",
+  "generatedAt": "2026-06-16T20:20:17.436831+00:00",
   "league": "25k",
-  "count": 10,
+  "count": 9,
   "players": [
     {
       "player": "Eric Baldwin",
@@ -19,19 +19,8 @@
       "event": "Event #42: $10,000 Big O Championship",
       "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-42/",
       "team": "Back Office",
-      "rank": "2 / 4",
+      "rank": "2 / 3",
       "chips": "5,350,000",
-      "bb": "\u2014",
-      "bonus": "Locked 14 PTS",
-      "points": 0.0
-    },
-    {
-      "player": "Bruno Furth",
-      "event": "Event #42: $10,000 Big O Championship",
-      "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-42/",
-      "team": "2026 ODB Bonus Players",
-      "rank": "3 / 4",
-      "chips": "4,575,000",
       "bb": "\u2014",
       "bonus": "Locked 14 PTS",
       "points": 0.0
@@ -52,7 +41,7 @@
       "event": "Event #45: $2,500 Mixed: Omaha Hi-Lo 8 / Seven Card Stud Hi-Lo 8",
       "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-45/",
       "team": "Glue Factory",
-      "rank": "3 / 23",
+      "rank": "5 / 23",
       "chips": "1,310,000",
       "bb": "\u2014",
       "bonus": "Top 18 10 PTS",
@@ -63,7 +52,7 @@
       "event": "Event #45: $2,500 Mixed: Omaha Hi-Lo 8 / Seven Card Stud Hi-Lo 8",
       "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-45/",
       "team": "2026 ODB Bonus Players",
-      "rank": "5 / 23",
+      "rank": "7 / 23",
       "chips": "1,175,000",
       "bb": "\u2014",
       "bonus": "Top 18 10 PTS",
