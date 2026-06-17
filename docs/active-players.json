@@ -1,26 +1,15 @@
 {
-  "generatedAt": "2026-06-17T00:50:11.684052+00:00",
+  "generatedAt": "2026-06-17T01:00:22.229885+00:00",
   "league": "25k",
-  "count": 2,
+  "count": 1,
   "players": [
     {
       "player": "Dekel Balas",
       "event": "Event #45: $2,500 Mixed: Omaha Hi-Lo 8 / Seven Card Stud Hi-Lo 8",
       "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-45/",
       "team": "2026 ODB Bonus Players",
-      "rank": "3 / 9",
+      "rank": "3 / 8",
       "chips": "2,675,000",
-      "bb": "\u2014",
-      "bonus": "Locked 10 PTS",
-      "points": 0.0
-    },
-    {
-      "player": "Justin Liberto",
-      "event": "Event #45: $2,500 Mixed: Omaha Hi-Lo 8 / Seven Card Stud Hi-Lo 8",
-      "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-45/",
-      "team": "Blez/NGNF",
-      "rank": "9 / 9",
-      "chips": "630,000",
       "bb": "\u2014",
       "bonus": "Locked 10 PTS",
       "points": 0.0
