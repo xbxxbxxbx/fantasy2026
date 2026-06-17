@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-17T08:50:13.755159+00:00",
+  "generatedAt": "2026-06-17T09:00:21.364403+00:00",
   "league": "25k",
   "count": 3,
   "players": [
@@ -8,7 +8,18 @@
       "event": "Event #48: $10,000 Razz Championship",
       "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-48/",
       "team": "Glue Factory",
-      "rank": "2 / 8",
+      "rank": "1 / 8",
+      "chips": "1,885,000",
+      "bb": "31.4 BB",
+      "bonus": "Locked 11 PTS",
+      "points": 0.0
+    },
+    {
+      "player": "Philip Sternheimer",
+      "event": "Event #48: $10,000 Razz Championship",
+      "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-48/",
+      "team": "Back Office",
+      "rank": "4 / 8",
       "chips": "1,380,000",
       "bb": "23.0 BB",
       "bonus": "Locked 11 PTS",
@@ -19,20 +30,9 @@
       "event": "Event #48: $10,000 Razz Championship",
       "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-48/",
       "team": "Premiums Only",
-      "rank": "4 / 8",
-      "chips": "1,025,000",
-      "bb": "17.1 BB",
-      "bonus": "Locked 11 PTS",
-      "points": 0.0
-    },
-    {
-      "player": "Philip Sternheimer",
-      "event": "Event #48: $10,000 Razz Championship",
-      "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-48/",
-      "team": "Back Office",
-      "rank": "7 / 8",
-      "chips": "900,000",
-      "bb": "15.0 BB",
+      "rank": "6 / 8",
+      "chips": "625,000",
+      "bb": "10.4 BB",
       "bonus": "Locked 11 PTS",
       "points": 0.0
     }
