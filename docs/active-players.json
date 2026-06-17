@@ -1,150 +1,128 @@
 {
-  "generatedAt": "2026-06-17T05:10:13.496528+00:00",
+  "generatedAt": "2026-06-17T05:20:18.890118+00:00",
   "league": "25k",
-  "count": 13,
+  "count": 11,
   "players": [
     {
       "player": "Yuval Bronshtein",
       "event": "Event #48: $10,000 Razz Championship",
       "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-48/",
       "team": "Premiums Only",
-      "rank": "7 / 19",
+      "rank": "7 / 17",
       "chips": "572,000",
       "bb": "19.1 BB",
-      "bonus": "Top 18 11 PTS",
-      "points": 0.0
+      "bonus": "Locked 11 PTS",
+      "points": 11.0
     },
     {
       "player": "Calvin Anderson",
       "event": "Event #48: $10,000 Razz Championship",
       "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-48/",
       "team": "Glue Factory",
-      "rank": "8 / 19",
+      "rank": "8 / 17",
       "chips": "551,000",
       "bb": "18.4 BB",
-      "bonus": "Top 18 11 PTS",
-      "points": 0.0
+      "bonus": "Locked 11 PTS",
+      "points": 11.0
     },
     {
       "player": "Philip Sternheimer",
       "event": "Event #48: $10,000 Razz Championship",
       "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-48/",
       "team": "Back Office",
-      "rank": "9 / 19",
+      "rank": "9 / 17",
       "chips": "520,000",
       "bb": "17.3 BB",
-      "bonus": "Top 18 11 PTS",
-      "points": 0.0
+      "bonus": "Locked 11 PTS",
+      "points": 11.0
     },
     {
       "player": "Yuri Dzivielevski",
       "event": "Event #48: $10,000 Razz Championship",
       "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-48/",
       "team": "Lady Gaga",
-      "rank": "10 / 19",
+      "rank": "10 / 17",
       "chips": "459,000",
       "bb": "15.3 BB",
-      "bonus": "Top 18 11 PTS",
-      "points": 0.0
+      "bonus": "Locked 11 PTS",
+      "points": 11.0
     },
     {
       "player": "Benny Glaser",
       "event": "Event #48: $10,000 Razz Championship",
       "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-48/",
       "team": "Chocolate Factory",
-      "rank": "11 / 19",
+      "rank": "11 / 17",
       "chips": "450,000",
       "bb": "15.0 BB",
-      "bonus": "Top 18 11 PTS",
-      "points": 0.0
+      "bonus": "Locked 11 PTS",
+      "points": 11.0
     },
     {
       "player": "Eli Elezra",
       "event": "Event #48: $10,000 Razz Championship",
       "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-48/",
       "team": "DNegs",
-      "rank": "12 / 19",
+      "rank": "12 / 17",
       "chips": "420,000",
       "bb": "14.0 BB",
-      "bonus": "Top 18 11 PTS",
-      "points": 0.0
+      "bonus": "Locked 11 PTS",
+      "points": 11.0
     },
     {
       "player": "Yueqi Zhu",
       "event": "Event #48: $10,000 Razz Championship",
       "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-48/",
       "team": "Trump Power",
-      "rank": "13 / 19",
+      "rank": "13 / 17",
       "chips": "382,000",
       "bb": "12.7 BB",
-      "bonus": "Top 18 11 PTS",
-      "points": 0.0
+      "bonus": "Locked 11 PTS",
+      "points": 11.0
     },
     {
       "player": "Steve Zolotow",
       "event": "Event #48: $10,000 Razz Championship",
       "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-48/",
       "team": "2026 ODB Bonus Players",
-      "rank": "14 / 19",
+      "rank": "14 / 17",
       "chips": "321,000",
       "bb": "10.7 BB",
-      "bonus": "Top 18 11 PTS",
-      "points": 0.0
-    },
-    {
-      "player": "Tomasz Gluszko",
-      "event": "Event #48: $10,000 Razz Championship",
-      "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-48/",
-      "team": "Chocolate Factory",
-      "rank": "15 / 19",
-      "chips": "291,000",
-      "bb": "9.7 BB",
-      "bonus": "Top 18 11 PTS",
-      "points": 0.0
+      "bonus": "Locked 11 PTS",
+      "points": 11.0
     },
     {
       "player": "Ray Fishman",
       "event": "Event #48: $10,000 Razz Championship",
       "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-48/",
       "team": "Browndog",
-      "rank": "16 / 19",
+      "rank": "15 / 17",
       "chips": "274,000",
       "bb": "9.1 BB",
-      "bonus": "Top 18 11 PTS",
-      "points": 0.0
-    },
-    {
-      "player": "Jon Turner",
-      "event": "Event #48: $10,000 Razz Championship",
-      "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-48/",
-      "team": "Wasserson",
-      "rank": "17 / 19",
-      "chips": "165,000",
-      "bb": "5.5 BB",
-      "bonus": "Top 18 11 PTS",
-      "points": 0.0
+      "bonus": "Locked 11 PTS",
+      "points": 11.0
     },
     {
       "player": "Matt Grapenthien",
       "event": "Event #48: $10,000 Razz Championship",
       "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-48/",
       "team": "2026 ODB Bonus Players",
-      "rank": "18 / 19",
+      "rank": "16 / 17",
       "chips": "56,000",
       "bb": "1.9 BB",
-      "bonus": "Top 18 11 PTS",
-      "points": 0.0
+      "bonus": "Locked 11 PTS",
+      "points": 11.0
     },
     {
       "player": "Ray Henson",
       "event": "Event #48: $10,000 Razz Championship",
       "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-48/",
       "team": "Blades & Shades",
-      "rank": "19 / 19",
+      "rank": "17 / 17",
       "chips": "46,000",
       "bb": "1.5 BB",
-      "bonus": "Top 18 11 PTS",
-      "points": 0.0
+      "bonus": "Locked 11 PTS",
+      "points": 11.0
     }
   ]
 }
