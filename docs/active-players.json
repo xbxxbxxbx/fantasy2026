@@ -1,73 +1,62 @@
 {
-  "generatedAt": "2026-06-17T07:00:20.018158+00:00",
+  "generatedAt": "2026-06-17T07:10:20.033442+00:00",
   "league": "25k",
-  "count": 6,
+  "count": 5,
   "players": [
     {
       "player": "Yuval Bronshtein",
       "event": "Event #48: $10,000 Razz Championship",
       "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-48/",
       "team": "Premiums Only",
-      "rank": "1 / 11",
+      "rank": "1 / 10",
       "chips": "1,200,000",
       "bb": "24.0 BB",
       "bonus": "Locked 11 PTS",
-      "points": 11.0
+      "points": 0.0
     },
     {
       "player": "Calvin Anderson",
       "event": "Event #48: $10,000 Razz Championship",
       "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-48/",
       "team": "Glue Factory",
-      "rank": "4 / 11",
+      "rank": "4 / 10",
       "chips": "990,000",
       "bb": "19.8 BB",
       "bonus": "Locked 11 PTS",
-      "points": 11.0
+      "points": 0.0
     },
     {
       "player": "Philip Sternheimer",
       "event": "Event #48: $10,000 Razz Championship",
       "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-48/",
       "team": "Back Office",
-      "rank": "5 / 11",
+      "rank": "5 / 10",
       "chips": "900,000",
       "bb": "18.0 BB",
       "bonus": "Locked 11 PTS",
-      "points": 11.0
-    },
-    {
-      "player": "Benny Glaser",
-      "event": "Event #48: $10,000 Razz Championship",
-      "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-48/",
-      "team": "Chocolate Factory",
-      "rank": "8 / 11",
-      "chips": "400,000",
-      "bb": "8.0 BB",
-      "bonus": "Locked 11 PTS",
-      "points": 11.0
+      "points": 0.0
     },
     {
       "player": "Yueqi Zhu",
       "event": "Event #48: $10,000 Razz Championship",
       "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-48/",
       "team": "Trump Power",
-      "rank": "10 / 11",
+      "rank": "9 / 10",
       "chips": "243,000",
       "bb": "4.9 BB",
       "bonus": "Locked 11 PTS",
-      "points": 11.0
+      "points": 0.0
     },
     {
       "player": "Ray Fishman",
       "event": "Event #48: $10,000 Razz Championship",
       "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-48/",
       "team": "Browndog",
-      "rank": "11 / 11",
+      "rank": "10 / 10",
       "chips": "169,000",
       "bb": "3.4 BB",
       "bonus": "Locked 11 PTS",
-      "points": 11.0
+      "points": 0.0
     }
   ]
 }
