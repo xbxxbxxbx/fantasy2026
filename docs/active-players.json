@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-17T07:40:18.845561+00:00",
+  "generatedAt": "2026-06-17T07:50:20.290216+00:00",
   "league": "25k",
   "count": 5,
   "players": [
@@ -10,7 +10,7 @@
       "team": "Glue Factory",
       "rank": "2 / 10",
       "chips": "1,380,000",
-      "bb": "27.6 BB",
+      "bb": "23.0 BB",
       "bonus": "Locked 11 PTS",
       "points": 0.0
     },
@@ -21,7 +21,7 @@
       "team": "Premiums Only",
       "rank": "4 / 10",
       "chips": "1,025,000",
-      "bb": "20.5 BB",
+      "bb": "17.1 BB",
       "bonus": "Locked 11 PTS",
       "points": 0.0
     },
@@ -32,7 +32,7 @@
       "team": "Back Office",
       "rank": "7 / 10",
       "chips": "900,000",
-      "bb": "18.0 BB",
+      "bb": "15.0 BB",
       "bonus": "Locked 11 PTS",
       "points": 0.0
     },
@@ -43,7 +43,7 @@
       "team": "Browndog",
       "rank": "9 / 10",
       "chips": "169,000",
-      "bb": "3.4 BB",
+      "bb": "2.8 BB",
       "bonus": "Locked 11 PTS",
       "points": 0.0
     },
@@ -54,7 +54,7 @@
       "team": "Trump Power",
       "rank": "10 / 10",
       "chips": "100,000",
-      "bb": "2.0 BB",
+      "bb": "1.7 BB",
       "bonus": "Locked 11 PTS",
       "points": 0.0
     }
