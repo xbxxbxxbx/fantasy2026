@@ -1,19 +1,8 @@
 {
-  "generatedAt": "2026-06-17T00:10:18.857718+00:00",
+  "generatedAt": "2026-06-17T00:20:18.196585+00:00",
   "league": "25k",
-  "count": 3,
+  "count": 2,
   "players": [
-    {
-      "player": "Eric Baldwin",
-      "event": "Event #34: $500 COLOSSUS No-Limit Hold\u2019em",
-      "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-34/",
-      "team": "2026 ODB Bonus Players",
-      "rank": "7 / 8",
-      "chips": "49,000,000",
-      "bb": "8.2 BB",
-      "bonus": "Locked 101 PTS",
-      "points": 0.0
-    },
     {
       "player": "Dekel Balas",
       "event": "Event #45: $2,500 Mixed: Omaha Hi-Lo 8 / Seven Card Stud Hi-Lo 8",
