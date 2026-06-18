@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-06-18T23:40:12.198299+00:00",
+  "generatedAt": "2026-06-18T23:50:18.240292+00:00",
   "league": "25k",
-  "count": 17,
+  "count": 16,
   "players": [
     {
       "player": "Alex Foxen",
@@ -52,97 +52,42 @@
       "event": "Event #49: $2,500 Freezeout No-Limit Hold'em",
       "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-49/",
       "team": "Very Handsome Horses",
-      "rank": "2 / 11",
+      "rank": "2 / 10",
       "chips": "6,880,000",
       "bb": "57.3 BB",
       "bonus": "Locked 16 PTS",
-      "points": 20.0
+      "points": 0.0
     },
     {
       "player": "Marco Johnson",
       "event": "Event #49: $2,500 Freezeout No-Limit Hold'em",
       "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-49/",
       "team": "Banana",
-      "rank": "4 / 11",
+      "rank": "4 / 10",
       "chips": "4,780,000",
       "bb": "39.8 BB",
       "bonus": "Locked 16 PTS",
-      "points": 20.0
+      "points": 0.0
     },
     {
       "player": "Faraz Jaka",
       "event": "Event #49: $2,500 Freezeout No-Limit Hold'em",
       "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-49/",
       "team": "2026 ODB Bonus Players",
-      "rank": "6 / 11",
+      "rank": "6 / 10",
       "chips": "4,345,000",
       "bb": "36.2 BB",
       "bonus": "Locked 16 PTS",
-      "points": 20.0
-    },
-    {
-      "player": "Joey Weissman",
-      "event": "Event #49: $2,500 Freezeout No-Limit Hold'em",
-      "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-49/",
-      "team": "Chocolate Factory",
-      "rank": "10 / 11",
-      "chips": "1,840,000",
-      "bb": "15.3 BB",
-      "bonus": "Locked 16 PTS",
-      "points": 20.0
-    },
-    {
-      "player": "Adrian Mateos",
-      "event": "Event #51: $10,000 Mystery Bounty No-Limit Hold'em",
-      "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-51/",
-      "team": "Blez/NGNF",
-      "rank": "7 / 31",
-      "chips": "815,000",
-      "bb": "32.6 BB",
-      "bonus": "Top 18 15 PTS",
-      "points": 2.0
-    },
-    {
-      "player": "Danny Tang",
-      "event": "Event #51: $10,000 Mystery Bounty No-Limit Hold'em",
-      "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-51/",
-      "team": "Banana",
-      "rank": "9 / 31",
-      "chips": "700,000",
-      "bb": "28.0 BB",
-      "bonus": "Top 18 15 PTS",
-      "points": 2.0
-    },
-    {
-      "player": "Josh Reichard",
-      "event": "Event #51: $10,000 Mystery Bounty No-Limit Hold'em",
-      "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-51/",
-      "team": "Torching with TJ",
-      "rank": "11 / 31",
-      "chips": "685,000",
-      "bb": "27.4 BB",
-      "bonus": "Top 18 15 PTS",
-      "points": 2.0
-    },
-    {
-      "player": "Paul Volpe",
-      "event": "Event #51: $10,000 Mystery Bounty No-Limit Hold'em",
-      "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-51/",
-      "team": "Fleyshman",
-      "rank": "15 / 31",
-      "chips": "548,000",
-      "bb": "21.9 BB",
-      "bonus": "Top 18 15 PTS",
-      "points": 2.0
+      "points": 0.0
     },
     {
       "player": "Ren Lin",
       "event": "Event #51: $10,000 Mystery Bounty No-Limit Hold'em",
       "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-51/",
       "team": "Lang Gang",
-      "rank": "17 / 31",
-      "chips": "525,000",
-      "bb": "21.0 BB",
+      "rank": "4 / 31",
+      "chips": "1,820,000",
+      "bb": "60.7 BB",
       "bonus": "Top 18 15 PTS",
       "points": 2.0
     },
@@ -151,20 +96,20 @@
       "event": "Event #51: $10,000 Mystery Bounty No-Limit Hold'em",
       "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-51/",
       "team": "Glaser",
-      "rank": "19 / 31",
-      "chips": "444,000",
-      "bb": "17.8 BB",
+      "rank": "5 / 31",
+      "chips": "1,810,000",
+      "bb": "60.3 BB",
       "bonus": "Top 18 15 PTS",
       "points": 2.0
     },
     {
-      "player": "Dario Sammartino",
+      "player": "Josh Reichard",
       "event": "Event #51: $10,000 Mystery Bounty No-Limit Hold'em",
       "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-51/",
-      "team": "Glue Factory",
-      "rank": "22 / 31",
-      "chips": "310,000",
-      "bb": "12.4 BB",
+      "team": "Torching with TJ",
+      "rank": "9 / 31",
+      "chips": "1,400,000",
+      "bb": "46.7 BB",
       "bonus": "Top 18 15 PTS",
       "points": 2.0
     },
@@ -173,9 +118,53 @@
       "event": "Event #51: $10,000 Mystery Bounty No-Limit Hold'em",
       "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-51/",
       "team": "2026 ODB Bonus Players",
-      "rank": "23 / 31",
-      "chips": "280,000",
-      "bb": "11.2 BB",
+      "rank": "11 / 31",
+      "chips": "1,335,000",
+      "bb": "44.5 BB",
+      "bonus": "Top 18 15 PTS",
+      "points": 2.0
+    },
+    {
+      "player": "Adrian Mateos",
+      "event": "Event #51: $10,000 Mystery Bounty No-Limit Hold'em",
+      "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-51/",
+      "team": "Blez/NGNF",
+      "rank": "16 / 31",
+      "chips": "885,000",
+      "bb": "29.5 BB",
+      "bonus": "Top 18 15 PTS",
+      "points": 2.0
+    },
+    {
+      "player": "Danny Tang",
+      "event": "Event #51: $10,000 Mystery Bounty No-Limit Hold'em",
+      "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-51/",
+      "team": "Banana",
+      "rank": "20 / 31",
+      "chips": "700,000",
+      "bb": "23.3 BB",
+      "bonus": "Top 18 15 PTS",
+      "points": 2.0
+    },
+    {
+      "player": "Paul Volpe",
+      "event": "Event #51: $10,000 Mystery Bounty No-Limit Hold'em",
+      "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-51/",
+      "team": "Fleyshman",
+      "rank": "24 / 31",
+      "chips": "548,000",
+      "bb": "18.3 BB",
+      "bonus": "Top 18 15 PTS",
+      "points": 2.0
+    },
+    {
+      "player": "Dario Sammartino",
+      "event": "Event #51: $10,000 Mystery Bounty No-Limit Hold'em",
+      "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-51/",
+      "team": "Glue Factory",
+      "rank": "25 / 31",
+      "chips": "410,000",
+      "bb": "13.7 BB",
       "bonus": "Top 18 15 PTS",
       "points": 2.0
     },
@@ -186,7 +175,7 @@
       "team": "2026 ODB Bonus Players",
       "rank": "30 / 31",
       "chips": "125,000",
-      "bb": "5.0 BB",
+      "bb": "4.2 BB",
       "bonus": "Top 18 15 PTS",
       "points": 2.0
     }
