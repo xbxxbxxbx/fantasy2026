@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-18T03:00:15.935164+00:00",
+  "generatedAt": "2026-06-18T03:10:16.465734+00:00",
   "league": "25k",
   "count": 12,
   "players": [
@@ -10,7 +10,7 @@
       "team": "Glue Factory",
       "rank": "2 / 3",
       "chips": "3,155,000",
-      "bb": "19.7 BB",
+      "bb": "15.8 BB",
       "bonus": "Locked 11 PTS",
       "points": 0.0
     },
@@ -74,7 +74,7 @@
       "event": "Event #49: $2,500 Freezeout No-Limit Hold'em",
       "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-49/",
       "team": "2026 ODB Bonus Players",
-      "rank": "29 / 64",
+      "rank": "30 / 64",
       "chips": "362,000",
       "bb": "18.1 BB",
       "bonus": "Top 27 16 PTS",
@@ -85,7 +85,7 @@
       "event": "Event #49: $2,500 Freezeout No-Limit Hold'em",
       "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-49/",
       "team": "Noori",
-      "rank": "30 / 64",
+      "rank": "31 / 64",
       "chips": "340,000",
       "bb": "17.0 BB",
       "bonus": "Top 27 16 PTS",
@@ -96,7 +96,7 @@
       "event": "Event #49: $2,500 Freezeout No-Limit Hold'em",
       "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-49/",
       "team": "Stake Kings",
-      "rank": "42 / 64",
+      "rank": "43 / 64",
       "chips": "240,000",
       "bb": "12.0 BB",
       "bonus": "Top 27 16 PTS",
