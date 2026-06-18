@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-18T02:50:15.748676+00:00",
+  "generatedAt": "2026-06-18T03:00:15.935164+00:00",
   "league": "25k",
   "count": 12,
   "players": [
@@ -30,9 +30,9 @@
       "event": "Event #49: $2,500 Freezeout No-Limit Hold'em",
       "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-49/",
       "team": "Banana",
-      "rank": "10 / 64",
-      "chips": "750,000",
-      "bb": "37.5 BB",
+      "rank": "7 / 64",
+      "chips": "1,200,000",
+      "bb": "60.0 BB",
       "bonus": "Top 27 16 PTS",
       "points": 1.0
     },
