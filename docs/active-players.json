@@ -1,16 +1,27 @@
 {
-  "generatedAt": "2026-06-18T17:50:12.790111+00:00",
+  "generatedAt": "2026-06-18T18:00:24.607339+00:00",
   "league": "25k",
-  "count": 46,
+  "count": 50,
   "players": [
+    {
+      "player": "John Holley",
+      "event": "Event #46: $1,000 SENIORS No-Limit Hold\u2019em Championship",
+      "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-46/",
+      "team": "2026 ODB Bonus Players",
+      "rank": "50 / 239",
+      "chips": "895,000",
+      "bb": "44.8 BB",
+      "bonus": "Top 81 76 PTS",
+      "points": 1.0
+    },
     {
       "player": "Gary Benson",
       "event": "Event #46: $1,000 SENIORS No-Limit Hold\u2019em Championship",
       "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-46/",
       "team": "Trump Power",
-      "rank": "30 / 134",
+      "rank": "59 / 239",
       "chips": "810,000",
-      "bb": "54.0 BB",
+      "bb": "40.5 BB",
       "bonus": "Top 81 76 PTS",
       "points": 1.0
     },
@@ -19,9 +30,42 @@
       "event": "Event #46: $1,000 SENIORS No-Limit Hold\u2019em Championship",
       "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-46/",
       "team": "2026 ODB Bonus Players",
-      "rank": "31 / 134",
+      "rank": "61 / 239",
       "chips": "790,000",
-      "bb": "52.7 BB",
+      "bb": "39.5 BB",
+      "bonus": "Top 81 76 PTS",
+      "points": 1.0
+    },
+    {
+      "player": "Matt Glantz",
+      "event": "Event #46: $1,000 SENIORS No-Limit Hold\u2019em Championship",
+      "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-46/",
+      "team": "Dinkers",
+      "rank": "84 / 239",
+      "chips": "625,000",
+      "bb": "31.3 BB",
+      "bonus": "Top 81 76 PTS",
+      "points": 1.0
+    },
+    {
+      "player": "Mark Gregorich",
+      "event": "Event #46: $1,000 SENIORS No-Limit Hold\u2019em Championship",
+      "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-46/",
+      "team": "2026 ODB Bonus Players",
+      "rank": "116 / 239",
+      "chips": "510,000",
+      "bb": "25.5 BB",
+      "bonus": "Top 81 76 PTS",
+      "points": 1.0
+    },
+    {
+      "player": "John Wasnock",
+      "event": "Event #46: $1,000 SENIORS No-Limit Hold\u2019em Championship",
+      "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-46/",
+      "team": "Torching with TJ",
+      "rank": "153 / 239",
+      "chips": "410,000",
+      "bb": "20.5 BB",
       "bonus": "Top 81 76 PTS",
       "points": 1.0
     },
@@ -30,9 +74,9 @@
       "event": "Event #46: $1,000 SENIORS No-Limit Hold\u2019em Championship",
       "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-46/",
       "team": "2026 ODB Bonus Players",
-      "rank": "125 / 134",
+      "rank": "227 / 239",
       "chips": "170,000",
-      "bb": "11.3 BB",
+      "bb": "8.5 BB",
       "bonus": "Top 81 76 PTS",
       "points": 1.0
     },
