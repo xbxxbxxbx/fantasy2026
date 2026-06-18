@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-18T18:17:45.905265+00:00",
+  "generatedAt": "2026-06-18T18:20:21.890891+00:00",
   "leagueName": "WSOP Poker Fantasy Draft 2026",
   "sourceLabel": "25KFantasy",
   "sourceUrl": "https://www.25kfantasy.com/players/",
@@ -22,7 +22,7 @@
         },
         {
           "player": "Mike Leah",
-          "points": 103.0
+          "points": 104.0
         },
         {
           "player": "Jason Koon",
@@ -45,9 +45,9 @@
           "points": 27.0
         }
       ],
-      "totalPoints": 646.0,
-      "pointsChange": 0.0,
-      "pointsChangeSincePrevious": 0.0
+      "totalPoints": 647.0,
+      "pointsChange": 1.0,
+      "pointsChangeSincePrevious": 1.0
     },
     {
       "managerName": "Kush",
@@ -64,7 +64,7 @@
         },
         {
           "player": "Mike Leah",
-          "points": 103.0
+          "points": 104.0
         },
         {
           "player": "Allen Kessler",
@@ -87,9 +87,9 @@
           "points": 4.0
         }
       ],
-      "totalPoints": 632.0,
-      "pointsChange": 0.0,
-      "pointsChangeSincePrevious": 0.0
+      "totalPoints": 633.0,
+      "pointsChange": 1.0,
+      "pointsChangeSincePrevious": 1.0
     },
     {
       "managerName": "JeffBNT",
