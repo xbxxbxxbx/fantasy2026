@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-18T21:30:15.923161+00:00",
+  "generatedAt": "2026-06-18T21:40:11.848696+00:00",
   "leagueName": "WSOP Poker Fantasy Draft 2026",
   "sourceLabel": "25KFantasy",
   "sourceUrl": "https://www.25kfantasy.com/players/",
@@ -202,7 +202,7 @@
         },
         {
           "player": "Matt Glantz",
-          "points": 16.0
+          "points": 17.0
         },
         {
           "player": "Allan Le",
@@ -213,9 +213,9 @@
           "points": 7.0
         }
       ],
-      "totalPoints": 289.0,
-      "pointsChange": 16.0,
-      "pointsChangeSincePrevious": 0.0
+      "totalPoints": 290.0,
+      "pointsChange": 17.0,
+      "pointsChangeSincePrevious": 1.0
     },
     {
       "managerName": "Ruben",
