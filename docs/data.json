@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-18T03:53:58.997601+00:00",
+  "generatedAt": "2026-06-18T04:00:15.817231+00:00",
   "leagueName": "WSOP Poker Fantasy Draft 2026",
   "sourceLabel": "25KFantasy",
   "sourceUrl": "https://www.25kfantasy.com/players/",
@@ -64,7 +64,7 @@
         },
         {
           "player": "Jason Koon",
-          "points": 60.0
+          "points": 62.0
         },
         {
           "player": "Jon Turner",
@@ -87,9 +87,9 @@
           "points": 27.0
         }
       ],
-      "totalPoints": 518.0,
-      "pointsChange": 0.0,
-      "pointsChangeSincePrevious": 0.0
+      "totalPoints": 520.0,
+      "pointsChange": 2.0,
+      "pointsChangeSincePrevious": 2.0
     },
     {
       "managerName": "Doinky",
@@ -140,7 +140,7 @@
       "players": [
         {
           "player": "Arthur Morris",
-          "points": 103.0
+          "points": 105.0
         },
         {
           "player": "Sam Soverel",
@@ -171,9 +171,9 @@
           "points": 7.0
         }
       ],
-      "totalPoints": 341.0,
-      "pointsChange": 0.0,
-      "pointsChangeSincePrevious": 0.0
+      "totalPoints": 343.0,
+      "pointsChange": 2.0,
+      "pointsChangeSincePrevious": 2.0
     },
     {
       "managerName": "Ruben",
@@ -350,7 +350,7 @@
       "players": [
         {
           "player": "Jason Koon",
-          "points": 60.0
+          "points": 62.0
         },
         {
           "player": "Chance Kornuth",
@@ -381,9 +381,9 @@
           "points": 0.0
         }
       ],
-      "totalPoints": 246.0,
-      "pointsChange": 0.0,
-      "pointsChangeSincePrevious": 0.0
+      "totalPoints": 248.0,
+      "pointsChange": 2.0,
+      "pointsChangeSincePrevious": 2.0
     }
   ],
   "failures": []
