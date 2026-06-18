@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-18T22:50:12.810223+00:00",
+  "generatedAt": "2026-06-18T23:00:17.434358+00:00",
   "leagueName": "WSOP Poker Fantasy Draft 2026",
   "sourceLabel": "25KFantasy",
   "sourceUrl": "https://www.25kfantasy.com/players/",
@@ -176,6 +176,48 @@
       "pointsChangeSincePrevious": 0.0
     },
     {
+      "managerName": "Ruben",
+      "teamName": "wugwugwugwug",
+      "url": "https://www.poker.org/fantasy/wsop/2026/team/wugwugwugwug/",
+      "players": [
+        {
+          "player": "Jerry Wong",
+          "points": 74.0
+        },
+        {
+          "player": "Jim Collopy",
+          "points": 53.0
+        },
+        {
+          "player": "Brandon Shack-Harris",
+          "points": 48.0
+        },
+        {
+          "player": "Ryan Hoenig",
+          "points": 39.0
+        },
+        {
+          "player": "Matt Vengrin",
+          "points": 27.0
+        },
+        {
+          "player": "Maksim Pisarenko",
+          "points": 18.0
+        },
+        {
+          "player": "Ian Matakis",
+          "points": 17.0
+        },
+        {
+          "player": "Viktor Blom",
+          "points": 16.0
+        }
+      ],
+      "totalPoints": 292.0,
+      "pointsChange": 14.0,
+      "pointsChangeSincePrevious": 14.0
+    },
+    {
       "managerName": "Gus",
       "teamName": "mynameaintearl",
       "url": "https://www.poker.org/fantasy/wsop/2026/team/mynameaintearl/",
@@ -257,48 +299,6 @@
       ],
       "totalPoints": 279.0,
       "pointsChange": 2.0,
-      "pointsChangeSincePrevious": 0.0
-    },
-    {
-      "managerName": "Ruben",
-      "teamName": "wugwugwugwug",
-      "url": "https://www.poker.org/fantasy/wsop/2026/team/wugwugwugwug/",
-      "players": [
-        {
-          "player": "Jerry Wong",
-          "points": 74.0
-        },
-        {
-          "player": "Jim Collopy",
-          "points": 53.0
-        },
-        {
-          "player": "Brandon Shack-Harris",
-          "points": 48.0
-        },
-        {
-          "player": "Ryan Hoenig",
-          "points": 39.0
-        },
-        {
-          "player": "Matt Vengrin",
-          "points": 27.0
-        },
-        {
-          "player": "Maksim Pisarenko",
-          "points": 18.0
-        },
-        {
-          "player": "Viktor Blom",
-          "points": 16.0
-        },
-        {
-          "player": "Ian Matakis",
-          "points": 3.0
-        }
-      ],
-      "totalPoints": 278.0,
-      "pointsChange": 0.0,
       "pointsChangeSincePrevious": 0.0
     },
     {
