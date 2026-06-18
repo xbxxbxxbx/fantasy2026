@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-18T22:00:18.684283+00:00",
+  "generatedAt": "2026-06-18T22:10:11.571617+00:00",
   "leagueName": "WSOP Poker Fantasy Draft 2026",
   "sourceLabel": "25KFantasy",
   "sourceUrl": "https://www.25kfantasy.com/players/",
@@ -47,7 +47,7 @@
       ],
       "totalPoints": 653.0,
       "pointsChange": 7.0,
-      "pointsChangeSincePrevious": 2.0
+      "pointsChangeSincePrevious": 0.0
     },
     {
       "managerName": "Kush",
@@ -341,7 +341,7 @@
       ],
       "totalPoints": 274.0,
       "pointsChange": 2.0,
-      "pointsChangeSincePrevious": 2.0
+      "pointsChangeSincePrevious": 0.0
     },
     {
       "managerName": "Trampstamp",
