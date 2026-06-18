@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-18T07:00:17.525803+00:00",
+  "generatedAt": "2026-06-18T07:10:18.376406+00:00",
   "leagueName": "WSOP Poker Fantasy Draft 2026",
   "sourceLabel": "25KFantasy",
   "sourceUrl": "https://www.25kfantasy.com/players/",
@@ -7,6 +7,48 @@
   "pointsChangeLabel": "since restart",
   "pointsChangeComparisonDate": "2026-06-17",
   "managers": [
+    {
+      "managerName": "ASG",
+      "teamName": "ASG's Team",
+      "url": "https://www.poker.org/fantasy/wsop/2026/team/asg-s-team/",
+      "players": [
+        {
+          "player": "Calvin Anderson",
+          "points": 162.0
+        },
+        {
+          "player": "Bryce Yockey",
+          "points": 130.0
+        },
+        {
+          "player": "Mike Leah",
+          "points": 103.0
+        },
+        {
+          "player": "Jason Koon",
+          "points": 62.0
+        },
+        {
+          "player": "Jon Turner",
+          "points": 57.0
+        },
+        {
+          "player": "Chance Kornuth",
+          "points": 53.0
+        },
+        {
+          "player": "Scott Seiver",
+          "points": 52.0
+        },
+        {
+          "player": "Matt Vengrin",
+          "points": 27.0
+        }
+      ],
+      "totalPoints": 646.0,
+      "pointsChange": 128.0,
+      "pointsChangeSincePrevious": 126.0
+    },
     {
       "managerName": "Kush",
       "teamName": "Kushstrain1",
@@ -50,46 +92,46 @@
       "pointsChangeSincePrevious": 0.0
     },
     {
-      "managerName": "ASG",
-      "teamName": "ASG's Team",
-      "url": "https://www.poker.org/fantasy/wsop/2026/team/asg-s-team/",
+      "managerName": "JeffBNT",
+      "teamName": "Team Max Degen",
+      "url": "https://www.poker.org/fantasy/wsop/2026/team/team-max-degen/",
       "players": [
         {
-          "player": "Bryce Yockey",
-          "points": 130.0
+          "player": "Calvin Anderson",
+          "points": 162.0
         },
         {
-          "player": "Mike Leah",
-          "points": 103.0
+          "player": "Arthur Morris",
+          "points": 105.0
         },
         {
-          "player": "Jason Koon",
-          "points": 62.0
+          "player": "Sam Soverel",
+          "points": 79.0
         },
         {
           "player": "Jon Turner",
           "points": 57.0
         },
         {
-          "player": "Chance Kornuth",
-          "points": 53.0
-        },
-        {
-          "player": "Scott Seiver",
-          "points": 52.0
-        },
-        {
-          "player": "Calvin Anderson",
+          "player": "Nicholas Seward",
           "points": 36.0
         },
         {
-          "player": "Matt Vengrin",
-          "points": 27.0
+          "player": "Ben Yu",
+          "points": 15.0
+        },
+        {
+          "player": "Ari Engel",
+          "points": 8.0
+        },
+        {
+          "player": "Brock Wilson",
+          "points": 7.0
         }
       ],
-      "totalPoints": 520.0,
-      "pointsChange": 2.0,
-      "pointsChangeSincePrevious": 0.0
+      "totalPoints": 469.0,
+      "pointsChange": 128.0,
+      "pointsChangeSincePrevious": 126.0
     },
     {
       "managerName": "Doinky",
@@ -131,48 +173,6 @@
       ],
       "totalPoints": 420.0,
       "pointsChange": 0.0,
-      "pointsChangeSincePrevious": 0.0
-    },
-    {
-      "managerName": "JeffBNT",
-      "teamName": "Team Max Degen",
-      "url": "https://www.poker.org/fantasy/wsop/2026/team/team-max-degen/",
-      "players": [
-        {
-          "player": "Arthur Morris",
-          "points": 105.0
-        },
-        {
-          "player": "Sam Soverel",
-          "points": 79.0
-        },
-        {
-          "player": "Jon Turner",
-          "points": 57.0
-        },
-        {
-          "player": "Nicholas Seward",
-          "points": 36.0
-        },
-        {
-          "player": "Calvin Anderson",
-          "points": 36.0
-        },
-        {
-          "player": "Ben Yu",
-          "points": 15.0
-        },
-        {
-          "player": "Ari Engel",
-          "points": 8.0
-        },
-        {
-          "player": "Brock Wilson",
-          "points": 7.0
-        }
-      ],
-      "totalPoints": 343.0,
-      "pointsChange": 2.0,
       "pointsChangeSincePrevious": 0.0
     },
     {
