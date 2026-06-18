@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-18T07:40:13.679612+00:00",
+  "generatedAt": "2026-06-18T07:50:15.029786+00:00",
   "league": "25k",
   "count": 18,
   "players": [
@@ -8,52 +8,8 @@
       "event": "Event #47: $25,000 High Roller 8-Handed Pot-Limit Omaha",
       "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-47/",
       "team": "Lady Gaga",
-      "rank": "2 / 32",
-      "chips": "3,490,000",
-      "bb": "\u2014",
-      "bonus": "Top 18 14 PTS",
-      "points": 2.0
-    },
-    {
-      "player": "Bryce Yockey",
-      "event": "Event #47: $25,000 High Roller 8-Handed Pot-Limit Omaha",
-      "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-47/",
-      "team": "Very Handsome Horses",
-      "rank": "4 / 32",
-      "chips": "2,760,000",
-      "bb": "\u2014",
-      "bonus": "Top 18 14 PTS",
-      "points": 2.0
-    },
-    {
-      "player": "Joao Simao Peres",
-      "event": "Event #47: $25,000 High Roller 8-Handed Pot-Limit Omaha",
-      "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-47/",
-      "team": "Very Handsome Horses",
-      "rank": "7 / 32",
-      "chips": "2,310,000",
-      "bb": "\u2014",
-      "bonus": "Top 18 14 PTS",
-      "points": 2.0
-    },
-    {
-      "player": "Ian Matakis",
-      "event": "Event #47: $25,000 High Roller 8-Handed Pot-Limit Omaha",
-      "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-47/",
-      "team": "Lang Gang",
-      "rank": "10 / 32",
-      "chips": "2,130,000",
-      "bb": "\u2014",
-      "bonus": "Top 18 14 PTS",
-      "points": 2.0
-    },
-    {
-      "player": "Biao Ding",
-      "event": "Event #47: $25,000 High Roller 8-Handed Pot-Limit Omaha",
-      "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-47/",
-      "team": "Spitework",
-      "rank": "11 / 32",
-      "chips": "2,075,000",
+      "rank": "1 / 31",
+      "chips": "6,820,000",
       "bb": "\u2014",
       "bonus": "Top 18 14 PTS",
       "points": 2.0
@@ -63,8 +19,19 @@
       "event": "Event #47: $25,000 High Roller 8-Handed Pot-Limit Omaha",
       "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-47/",
       "team": "Lady Gaga",
-      "rank": "12 / 32",
-      "chips": "1,960,000",
+      "rank": "8 / 31",
+      "chips": "2,830,000",
+      "bb": "\u2014",
+      "bonus": "Top 18 14 PTS",
+      "points": 2.0
+    },
+    {
+      "player": "Bryce Yockey",
+      "event": "Event #47: $25,000 High Roller 8-Handed Pot-Limit Omaha",
+      "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-47/",
+      "team": "Very Handsome Horses",
+      "rank": "9 / 31",
+      "chips": "2,760,000",
       "bb": "\u2014",
       "bonus": "Top 18 14 PTS",
       "points": 2.0
@@ -74,41 +41,41 @@
       "event": "Event #47: $25,000 High Roller 8-Handed Pot-Limit Omaha",
       "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-47/",
       "team": "Fleyshman",
-      "rank": "13 / 32",
-      "chips": "1,900,000",
+      "rank": "10 / 31",
+      "chips": "2,560,000",
       "bb": "\u2014",
       "bonus": "Top 18 14 PTS",
       "points": 2.0
     },
     {
-      "player": "Brevin Andreadis",
+      "player": "Ian Matakis",
       "event": "Event #47: $25,000 High Roller 8-Handed Pot-Limit Omaha",
       "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-47/",
-      "team": "2026 ODB Bonus Players",
-      "rank": "16 / 32",
-      "chips": "1,845,000",
+      "team": "Lang Gang",
+      "rank": "12 / 31",
+      "chips": "2,210,000",
       "bb": "\u2014",
       "bonus": "Top 18 14 PTS",
       "points": 2.0
     },
     {
-      "player": "Daniel Negreanu",
+      "player": "Biao Ding",
       "event": "Event #47: $25,000 High Roller 8-Handed Pot-Limit Omaha",
       "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-47/",
-      "team": "DNegs",
-      "rank": "17 / 32",
-      "chips": "1,650,000",
+      "team": "Spitework",
+      "rank": "15 / 31",
+      "chips": "2,075,000",
       "bb": "\u2014",
       "bonus": "Top 18 14 PTS",
       "points": 2.0
     },
     {
-      "player": "Dylan Linde",
+      "player": "Joao Simao Peres",
       "event": "Event #47: $25,000 High Roller 8-Handed Pot-Limit Omaha",
       "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-47/",
-      "team": "Premiums Only",
-      "rank": "19 / 32",
-      "chips": "1,575,000",
+      "team": "Very Handsome Horses",
+      "rank": "16 / 31",
+      "chips": "2,045,000",
       "bb": "\u2014",
       "bonus": "Top 18 14 PTS",
       "points": 2.0
@@ -118,8 +85,41 @@
       "event": "Event #47: $25,000 High Roller 8-Handed Pot-Limit Omaha",
       "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-47/",
       "team": "Back Office",
-      "rank": "23 / 32",
-      "chips": "1,290,000",
+      "rank": "19 / 31",
+      "chips": "1,710,000",
+      "bb": "\u2014",
+      "bonus": "Top 18 14 PTS",
+      "points": 2.0
+    },
+    {
+      "player": "Brevin Andreadis",
+      "event": "Event #47: $25,000 High Roller 8-Handed Pot-Limit Omaha",
+      "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-47/",
+      "team": "2026 ODB Bonus Players",
+      "rank": "21 / 31",
+      "chips": "1,575,000",
+      "bb": "\u2014",
+      "bonus": "Top 18 14 PTS",
+      "points": 2.0
+    },
+    {
+      "player": "Daniel Negreanu",
+      "event": "Event #47: $25,000 High Roller 8-Handed Pot-Limit Omaha",
+      "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-47/",
+      "team": "DNegs",
+      "rank": "26 / 31",
+      "chips": "995,000",
+      "bb": "\u2014",
+      "bonus": "Top 18 14 PTS",
+      "points": 2.0
+    },
+    {
+      "player": "Dylan Linde",
+      "event": "Event #47: $25,000 High Roller 8-Handed Pot-Limit Omaha",
+      "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-47/",
+      "team": "Premiums Only",
+      "rank": "28 / 31",
+      "chips": "630,000",
       "bb": "\u2014",
       "bonus": "Top 18 14 PTS",
       "points": 2.0
@@ -129,77 +129,77 @@
       "event": "Event #49: $2,500 Freezeout No-Limit Hold'em",
       "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-49/",
       "team": "2026 ODB Bonus Players",
-      "rank": "1 / 29",
+      "rank": "1 / 28",
       "chips": "4,450,000",
       "bb": "89.0 BB",
       "bonus": "Top 27 16 PTS",
-      "points": 1.0
-    },
-    {
-      "player": "Shawn Buchanan",
-      "event": "Event #49: $2,500 Freezeout No-Limit Hold'em",
-      "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-49/",
-      "team": "Noori",
-      "rank": "6 / 29",
-      "chips": "2,200,000",
-      "bb": "44.0 BB",
-      "bonus": "Top 27 16 PTS",
-      "points": 1.0
+      "points": 0.0
     },
     {
       "player": "Marco Johnson",
       "event": "Event #49: $2,500 Freezeout No-Limit Hold'em",
       "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-49/",
       "team": "Banana",
-      "rank": "8 / 29",
-      "chips": "2,100,000",
-      "bb": "42.0 BB",
+      "rank": "4 / 28",
+      "chips": "3,200,000",
+      "bb": "64.0 BB",
       "bonus": "Top 27 16 PTS",
-      "points": 1.0
+      "points": 0.0
+    },
+    {
+      "player": "Shawn Buchanan",
+      "event": "Event #49: $2,500 Freezeout No-Limit Hold'em",
+      "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-49/",
+      "team": "Noori",
+      "rank": "8 / 28",
+      "chips": "2,200,000",
+      "bb": "44.0 BB",
+      "bonus": "Top 27 16 PTS",
+      "points": 0.0
     },
     {
       "player": "Joey Weissman",
       "event": "Event #49: $2,500 Freezeout No-Limit Hold'em",
       "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-49/",
       "team": "Chocolate Factory",
-      "rank": "17 / 29",
+      "rank": "17 / 28",
       "chips": "980,000",
       "bb": "19.6 BB",
       "bonus": "Top 27 16 PTS",
-      "points": 1.0
+      "points": 0.0
     },
     {
       "player": "Brandon Sheils",
       "event": "Event #49: $2,500 Freezeout No-Limit Hold'em",
       "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-49/",
       "team": "Stake Kings",
-      "rank": "21 / 29",
+      "rank": "20 / 28",
       "chips": "520,000",
       "bb": "10.4 BB",
       "bonus": "Top 27 16 PTS",
-      "points": 1.0
+      "points": 0.0
     },
     {
       "player": "Phillip Hui",
       "event": "Event #49: $2,500 Freezeout No-Limit Hold'em",
       "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-49/",
       "team": "Blades & Shades",
-      "rank": "25 / 29",
+      "rank": "24 / 28",
       "chips": "355,000",
       "bb": "7.1 BB",
       "bonus": "Top 27 16 PTS",
-      "points": 1.0
+      "points": 0.0
     },
     {
       "player": "Chino Rheem",
       "event": "Event #49: $2,500 Freezeout No-Limit Hold'em",
       "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-49/",
       "team": "Very Handsome Horses",
-      "rank": "29 / 29",
+      "rank": "28 / 28",
       "chips": "187,000",
       "bb": "3.7 BB",
       "bonus": "Top 27 16 PTS",
-      "points": 1.0
+      "points": 0.0
     }
   ]
 }
