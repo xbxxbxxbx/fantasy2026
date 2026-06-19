@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-19T05:50:13.184503+00:00",
+  "generatedAt": "2026-06-19T06:00:15.781426+00:00",
   "leagueName": "WSOP Poker Fantasy Draft 2026",
   "sourceLabel": "25KFantasy",
   "sourceUrl": "https://www.25kfantasy.com/players/",
@@ -75,21 +75,21 @@
           "points": 25.0
         },
         {
-          "player": "Viktor Blom",
+          "player": "Ben Yu",
           "points": 16.0
         },
         {
-          "player": "Ben Yu",
-          "points": 15.0
+          "player": "Viktor Blom",
+          "points": 16.0
         },
         {
           "player": "Andrew Lichtenberger",
           "points": 4.0
         }
       ],
-      "totalPoints": 638.0,
-      "pointsChange": 6.0,
-      "pointsChangeSincePrevious": 0.0
+      "totalPoints": 639.0,
+      "pointsChange": 7.0,
+      "pointsChangeSincePrevious": 1.0
     },
     {
       "managerName": "JeffBNT",
@@ -118,7 +118,7 @@
         },
         {
           "player": "Ben Yu",
-          "points": 15.0
+          "points": 16.0
         },
         {
           "player": "Ari Engel",
@@ -129,9 +129,9 @@
           "points": 7.0
         }
       ],
-      "totalPoints": 469.0,
-      "pointsChange": 0.0,
-      "pointsChangeSincePrevious": 0.0
+      "totalPoints": 470.0,
+      "pointsChange": 1.0,
+      "pointsChangeSincePrevious": 1.0
     },
     {
       "managerName": "Doinky",
