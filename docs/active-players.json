@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-06-19T06:50:14.829086+00:00",
+  "generatedAt": "2026-06-19T07:00:20.521169+00:00",
   "league": "25k",
-  "count": 23,
+  "count": 21,
   "players": [
     {
       "player": "Marco Johnson",
@@ -32,7 +32,7 @@
       "team": "Trump Power",
       "rank": "3 / 27",
       "chips": "1,050,000",
-      "bb": "87.5 BB",
+      "bb": "65.6 BB",
       "bonus": "Top 18 9 PTS",
       "points": 1.0
     },
@@ -43,7 +43,7 @@
       "team": "2026 ODB Bonus Players",
       "rank": "4 / 27",
       "chips": "946,000",
-      "bb": "78.8 BB",
+      "bb": "59.1 BB",
       "bonus": "Top 18 9 PTS",
       "points": 1.0
     },
@@ -54,7 +54,7 @@
       "team": "2026 ODB Bonus Players",
       "rank": "6 / 27",
       "chips": "832,000",
-      "bb": "69.3 BB",
+      "bb": "52.0 BB",
       "bonus": "Top 18 9 PTS",
       "points": 1.0
     },
@@ -65,7 +65,7 @@
       "team": "2026 ODB Bonus Players",
       "rank": "7 / 27",
       "chips": "830,000",
-      "bb": "69.2 BB",
+      "bb": "51.9 BB",
       "bonus": "Top 18 9 PTS",
       "points": 1.0
     },
@@ -76,7 +76,7 @@
       "team": "Blades & Shades",
       "rank": "17 / 27",
       "chips": "458,000",
-      "bb": "38.2 BB",
+      "bb": "28.6 BB",
       "bonus": "Top 18 9 PTS",
       "points": 1.0
     },
@@ -87,7 +87,7 @@
       "team": "Browndog",
       "rank": "17 / 27",
       "chips": "458,000",
-      "bb": "38.2 BB",
+      "bb": "28.6 BB",
       "bonus": "Top 18 9 PTS",
       "points": 1.0
     },
@@ -98,7 +98,7 @@
       "team": "2026 ODB Bonus Players",
       "rank": "19 / 27",
       "chips": "435,000",
-      "bb": "36.3 BB",
+      "bb": "27.2 BB",
       "bonus": "Top 18 9 PTS",
       "points": 1.0
     },
@@ -109,7 +109,7 @@
       "team": "2026 ODB Bonus Players",
       "rank": "20 / 27",
       "chips": "429,000",
-      "bb": "35.8 BB",
+      "bb": "26.8 BB",
       "bonus": "Top 18 9 PTS",
       "points": 1.0
     },
@@ -120,7 +120,7 @@
       "team": "Premiums Only",
       "rank": "21 / 27",
       "chips": "426,000",
-      "bb": "35.5 BB",
+      "bb": "26.6 BB",
       "bonus": "Top 18 9 PTS",
       "points": 1.0
     },
@@ -131,7 +131,7 @@
       "team": "DNegs",
       "rank": "24 / 27",
       "chips": "388,000",
-      "bb": "32.3 BB",
+      "bb": "24.3 BB",
       "bonus": "Top 18 9 PTS",
       "points": 1.0
     },
@@ -142,7 +142,7 @@
       "team": "Browndog",
       "rank": "25 / 27",
       "chips": "381,000",
-      "bb": "31.8 BB",
+      "bb": "23.8 BB",
       "bonus": "Top 18 9 PTS",
       "points": 1.0
     },
@@ -153,7 +153,7 @@
       "team": "Trump Power",
       "rank": "27 / 27",
       "chips": "266,000",
-      "bb": "22.2 BB",
+      "bb": "16.6 BB",
       "bonus": "Top 18 9 PTS",
       "points": 1.0
     },
@@ -162,7 +162,7 @@
       "event": "Event #53: $1,500 Five Card Pot-Limit Omaha 8-Handed",
       "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-53/",
       "team": "Torching with TJ",
-      "rank": "8 / 197",
+      "rank": "8 / 177",
       "chips": "460,000",
       "bb": "\u2014",
       "bonus": "Top 27 14 PTS",
@@ -173,7 +173,7 @@
       "event": "Event #53: $1,500 Five Card Pot-Limit Omaha 8-Handed",
       "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-53/",
       "team": "Lucky",
-      "rank": "44 / 197",
+      "rank": "44 / 177",
       "chips": "217,000",
       "bb": "\u2014",
       "bonus": "Top 27 14 PTS",
@@ -184,7 +184,7 @@
       "event": "Event #53: $1,500 Five Card Pot-Limit Omaha 8-Handed",
       "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-53/",
       "team": "Lucky",
-      "rank": "60 / 197",
+      "rank": "60 / 177",
       "chips": "182,000",
       "bb": "\u2014",
       "bonus": "Top 27 14 PTS",
@@ -195,7 +195,7 @@
       "event": "Event #53: $1,500 Five Card Pot-Limit Omaha 8-Handed",
       "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-53/",
       "team": "Browndog",
-      "rank": "62 / 197",
+      "rank": "62 / 177",
       "chips": "180,000",
       "bb": "\u2014",
       "bonus": "Top 27 14 PTS",
@@ -206,7 +206,7 @@
       "event": "Event #53: $1,500 Five Card Pot-Limit Omaha 8-Handed",
       "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-53/",
       "team": "Chocolate Factory",
-      "rank": "73 / 197",
+      "rank": "72 / 177",
       "chips": "160,000",
       "bb": "\u2014",
       "bonus": "Top 27 14 PTS",
@@ -217,19 +217,8 @@
       "event": "Event #53: $1,500 Five Card Pot-Limit Omaha 8-Handed",
       "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-53/",
       "team": "2026 ODB Bonus Players",
-      "rank": "129 / 197",
+      "rank": "127 / 177",
       "chips": "83,000",
-      "bb": "\u2014",
-      "bonus": "Top 27 14 PTS",
-      "points": 1.0
-    },
-    {
-      "player": "Caleb King",
-      "event": "Event #53: $1,500 Five Card Pot-Limit Omaha 8-Handed",
-      "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-53/",
-      "team": "2026 ODB Bonus Players",
-      "rank": "159 / 197",
-      "chips": "54,000",
       "bb": "\u2014",
       "bonus": "Top 27 14 PTS",
       "points": 1.0
@@ -239,19 +228,8 @@
       "event": "Event #53: $1,500 Five Card Pot-Limit Omaha 8-Handed",
       "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-53/",
       "team": "Back Office",
-      "rank": "166 / 197",
+      "rank": "157 / 177",
       "chips": "46,000",
-      "bb": "\u2014",
-      "bonus": "Top 27 14 PTS",
-      "points": 1.0
-    },
-    {
-      "player": "Vladas Tamasauskas",
-      "event": "Event #53: $1,500 Five Card Pot-Limit Omaha 8-Handed",
-      "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-53/",
-      "team": "Dinkers",
-      "rank": "185 / 197",
-      "chips": "25,000",
       "bb": "\u2014",
       "bonus": "Top 27 14 PTS",
       "points": 1.0
