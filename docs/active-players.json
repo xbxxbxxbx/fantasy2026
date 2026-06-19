@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-06-19T23:37:44.464841+00:00",
+  "generatedAt": "2026-06-19T23:40:12.735671+00:00",
   "league": "25k",
-  "count": 6,
+  "count": 5,
   "players": [
     {
       "player": "Josh Reichard",
@@ -10,7 +10,7 @@
       "team": "Torching with TJ",
       "rank": "2 / 8",
       "chips": "6,555,000",
-      "bb": "65.6 BB",
+      "bb": "54.6 BB",
       "bonus": "Locked 15 PTS",
       "points": 0.0
     },
@@ -19,20 +19,9 @@
       "event": "Event #52: $3,000 Nine Game Mixed",
       "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-52/",
       "team": "Trump Power",
-      "rank": "2 / 8",
+      "rank": "2 / 7",
       "chips": "3,735,000",
       "bb": "93.4 BB",
-      "bonus": "Locked 9 PTS",
-      "points": 0.0
-    },
-    {
-      "player": "Eli Elezra",
-      "event": "Event #52: $3,000 Nine Game Mixed",
-      "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-52/",
-      "team": "DNegs",
-      "rank": "4 / 8",
-      "chips": "1,585,000",
-      "bb": "39.6 BB",
       "bonus": "Locked 9 PTS",
       "points": 0.0
     },
@@ -41,7 +30,7 @@
       "event": "Event #52: $3,000 Nine Game Mixed",
       "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-52/",
       "team": "Browndog",
-      "rank": "5 / 8",
+      "rank": "4 / 7",
       "chips": "1,280,000",
       "bb": "32.0 BB",
       "bonus": "Locked 9 PTS",
@@ -52,7 +41,7 @@
       "event": "Event #52: $3,000 Nine Game Mixed",
       "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-52/",
       "team": "2026 ODB Bonus Players",
-      "rank": "7 / 8",
+      "rank": "6 / 7",
       "chips": "1,015,000",
       "bb": "25.4 BB",
       "bonus": "Locked 9 PTS",
@@ -63,7 +52,7 @@
       "event": "Event #52: $3,000 Nine Game Mixed",
       "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-52/",
       "team": "Premiums Only",
-      "rank": "8 / 8",
+      "rank": "7 / 7",
       "chips": "350,000",
       "bb": "8.8 BB",
       "bonus": "Locked 9 PTS",
