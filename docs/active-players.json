@@ -1,50 +1,28 @@
 {
-  "generatedAt": "2026-06-19T01:00:16.868456+00:00",
+  "generatedAt": "2026-06-19T01:10:15.230172+00:00",
   "league": "25k",
-  "count": 13,
+  "count": 12,
   "players": [
     {
       "player": "Alex Foxen",
       "event": "Event #47: $25,000 High Roller 8-Handed Pot-Limit Omaha",
       "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-47/",
       "team": "Lady Gaga",
-      "rank": "2 / 11",
+      "rank": "3 / 9",
       "chips": "8,900,000",
       "bb": "\u2014",
       "bonus": "Locked 14 PTS",
-      "points": 14.0
+      "points": 0.0
     },
     {
       "player": "Brevin Andreadis",
       "event": "Event #47: $25,000 High Roller 8-Handed Pot-Limit Omaha",
       "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-47/",
       "team": "2026 ODB Bonus Players",
-      "rank": "9 / 11",
+      "rank": "8 / 9",
       "chips": "3,340,000",
       "bb": "\u2014",
       "bonus": "Locked 14 PTS",
-      "points": 14.0
-    },
-    {
-      "player": "Chongxian Yang",
-      "event": "Event #47: $25,000 High Roller 8-Handed Pot-Limit Omaha",
-      "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-47/",
-      "team": "Lady Gaga",
-      "rank": "10 / 11",
-      "chips": "3,285,000",
-      "bb": "\u2014",
-      "bonus": "Locked 14 PTS",
-      "points": 14.0
-    },
-    {
-      "player": "Chino Rheem",
-      "event": "Event #49: $2,500 Freezeout No-Limit Hold'em",
-      "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-49/",
-      "team": "Very Handsome Horses",
-      "rank": "2 / 8",
-      "chips": "9,775,000",
-      "bb": "65.2 BB",
-      "bonus": "Locked 16 PTS",
       "points": 0.0
     },
     {
@@ -52,9 +30,20 @@
       "event": "Event #49: $2,500 Freezeout No-Limit Hold'em",
       "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-49/",
       "team": "Banana",
+      "rank": "1 / 8",
+      "chips": "18,000,000",
+      "bb": "120.0 BB",
+      "bonus": "Locked 16 PTS",
+      "points": 0.0
+    },
+    {
+      "player": "Chino Rheem",
+      "event": "Event #49: $2,500 Freezeout No-Limit Hold'em",
+      "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-49/",
+      "team": "Very Handsome Horses",
       "rank": "3 / 8",
-      "chips": "8,415,000",
-      "bb": "56.1 BB",
+      "chips": "9,775,000",
+      "bb": "65.2 BB",
       "bonus": "Locked 16 PTS",
       "points": 0.0
     },
@@ -74,9 +63,9 @@
       "event": "Event #51: $10,000 Mystery Bounty No-Limit Hold'em",
       "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-51/",
       "team": "Lang Gang",
-      "rank": "4 / 21",
+      "rank": "4 / 20",
       "chips": "1,820,000",
-      "bb": "45.5 BB",
+      "bb": "36.4 BB",
       "bonus": "Top 18 15 PTS",
       "points": 2.0
     },
@@ -85,9 +74,9 @@
       "event": "Event #51: $10,000 Mystery Bounty No-Limit Hold'em",
       "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-51/",
       "team": "Torching with TJ",
-      "rank": "8 / 21",
+      "rank": "8 / 20",
       "chips": "1,400,000",
-      "bb": "35.0 BB",
+      "bb": "28.0 BB",
       "bonus": "Top 18 15 PTS",
       "points": 2.0
     },
@@ -96,9 +85,9 @@
       "event": "Event #51: $10,000 Mystery Bounty No-Limit Hold'em",
       "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-51/",
       "team": "2026 ODB Bonus Players",
-      "rank": "9 / 21",
+      "rank": "9 / 20",
       "chips": "1,335,000",
-      "bb": "33.4 BB",
+      "bb": "26.7 BB",
       "bonus": "Top 18 15 PTS",
       "points": 2.0
     },
@@ -107,9 +96,9 @@
       "event": "Event #51: $10,000 Mystery Bounty No-Limit Hold'em",
       "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-51/",
       "team": "2026 ODB Bonus Players",
-      "rank": "12 / 21",
+      "rank": "12 / 20",
       "chips": "1,085,000",
-      "bb": "27.1 BB",
+      "bb": "21.7 BB",
       "bonus": "Top 18 15 PTS",
       "points": 2.0
     },
@@ -118,9 +107,9 @@
       "event": "Event #51: $10,000 Mystery Bounty No-Limit Hold'em",
       "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-51/",
       "team": "Blez/NGNF",
-      "rank": "14 / 21",
+      "rank": "14 / 20",
       "chips": "885,000",
-      "bb": "22.1 BB",
+      "bb": "17.7 BB",
       "bonus": "Top 18 15 PTS",
       "points": 2.0
     },
@@ -129,9 +118,9 @@
       "event": "Event #51: $10,000 Mystery Bounty No-Limit Hold'em",
       "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-51/",
       "team": "Banana",
-      "rank": "19 / 21",
+      "rank": "18 / 20",
       "chips": "560,000",
-      "bb": "14.0 BB",
+      "bb": "11.2 BB",
       "bonus": "Top 18 15 PTS",
       "points": 2.0
     },
@@ -140,9 +129,9 @@
       "event": "Event #51: $10,000 Mystery Bounty No-Limit Hold'em",
       "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-51/",
       "team": "Fleyshman",
-      "rank": "20 / 21",
+      "rank": "19 / 20",
       "chips": "548,000",
-      "bb": "13.7 BB",
+      "bb": "11.0 BB",
       "bonus": "Top 18 15 PTS",
       "points": 2.0
     }
