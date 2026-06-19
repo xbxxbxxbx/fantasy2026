@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-19T22:33:47.132838+00:00",
+  "generatedAt": "2026-06-19T22:40:12.003184+00:00",
   "leagueName": "WSOP Poker Fantasy Draft 2026",
   "sourceLabel": "25KFantasy",
   "sourceUrl": "https://www.25kfantasy.com/players/",
@@ -106,7 +106,7 @@
         },
         {
           "player": "Sam Soverel",
-          "points": 79.0
+          "points": 80.0
         },
         {
           "player": "Jon Turner",
@@ -129,9 +129,9 @@
           "points": 7.0
         }
       ],
-      "totalPoints": 470.0,
-      "pointsChange": 0.0,
-      "pointsChangeSincePrevious": 0.0
+      "totalPoints": 471.0,
+      "pointsChange": 1.0,
+      "pointsChangeSincePrevious": 1.0
     },
     {
       "managerName": "Doinky",
@@ -148,7 +148,7 @@
         },
         {
           "player": "Sam Soverel",
-          "points": 79.0
+          "points": 80.0
         },
         {
           "player": "Andrew Ostapchenko",
@@ -171,9 +171,9 @@
           "points": 0.0
         }
       ],
-      "totalPoints": 421.0,
-      "pointsChange": 0.0,
-      "pointsChangeSincePrevious": 0.0
+      "totalPoints": 422.0,
+      "pointsChange": 1.0,
+      "pointsChangeSincePrevious": 1.0
     },
     {
       "managerName": "realbmorekid",

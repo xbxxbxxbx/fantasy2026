@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-06-19T22:33:47.227632+00:00",
+  "generatedAt": "2026-06-19T22:40:12.145707+00:00",
   "league": "25k",
-  "count": 9,
+  "count": 8,
   "players": [
     {
       "player": "Josh Reichard",
@@ -90,17 +90,6 @@
       "bb": "11.7 BB",
       "bonus": "Locked 9 PTS",
       "points": 9.0
-    },
-    {
-      "player": "Sam Soverel",
-      "event": "Event #53: $1,500 Five Card Pot-Limit Omaha 8-Handed",
-      "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-53/",
-      "team": "Torching with TJ",
-      "rank": "15 / 31",
-      "chips": "910,000",
-      "bb": "\u2014",
-      "bonus": "Top 27 14 PTS",
-      "points": 1.0
     }
   ]
 }
