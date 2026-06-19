@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-06-19T22:50:12.340220+00:00",
+  "generatedAt": "2026-06-19T23:00:17.720250+00:00",
   "league": "25k",
-  "count": 8,
+  "count": 7,
   "players": [
     {
       "player": "Josh Reichard",
@@ -10,7 +10,7 @@
       "team": "Torching with TJ",
       "rank": "2 / 9",
       "chips": "6,555,000",
-      "bb": "81.9 BB",
+      "bb": "65.6 BB",
       "bonus": "Locked 15 PTS",
       "points": 0.0
     },
@@ -19,77 +19,66 @@
       "event": "Event #52: $3,000 Nine Game Mixed",
       "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-52/",
       "team": "Trump Power",
-      "rank": "2 / 11",
+      "rank": "2 / 10",
       "chips": "3,735,000",
       "bb": "124.5 BB",
       "bonus": "Locked 9 PTS",
-      "points": 9.0
+      "points": 0.0
     },
     {
       "player": "Mike Gorodinsky",
       "event": "Event #52: $3,000 Nine Game Mixed",
       "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-52/",
       "team": "2026 ODB Bonus Players",
-      "rank": "4 / 11",
+      "rank": "4 / 10",
       "chips": "1,635,000",
       "bb": "54.5 BB",
       "bonus": "Locked 9 PTS",
-      "points": 9.0
+      "points": 0.0
     },
     {
       "player": "Eli Elezra",
       "event": "Event #52: $3,000 Nine Game Mixed",
       "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-52/",
       "team": "DNegs",
-      "rank": "6 / 11",
+      "rank": "6 / 10",
       "chips": "1,585,000",
       "bb": "52.8 BB",
       "bonus": "Locked 9 PTS",
-      "points": 9.0
+      "points": 0.0
     },
     {
       "player": "Joey Couden",
       "event": "Event #52: $3,000 Nine Game Mixed",
       "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-52/",
       "team": "Browndog",
-      "rank": "7 / 11",
+      "rank": "7 / 10",
       "chips": "1,280,000",
       "bb": "42.7 BB",
       "bonus": "Locked 9 PTS",
-      "points": 9.0
+      "points": 0.0
     },
     {
       "player": "Noah Bronstein",
       "event": "Event #52: $3,000 Nine Game Mixed",
       "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-52/",
       "team": "2026 ODB Bonus Players",
-      "rank": "9 / 11",
+      "rank": "9 / 10",
       "chips": "1,015,000",
       "bb": "33.8 BB",
       "bonus": "Locked 9 PTS",
-      "points": 9.0
-    },
-    {
-      "player": "Allan Le",
-      "event": "Event #52: $3,000 Nine Game Mixed",
-      "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-52/",
-      "team": "Blades & Shades",
-      "rank": "10 / 11",
-      "chips": "550,000",
-      "bb": "18.3 BB",
-      "bonus": "Locked 9 PTS",
-      "points": 9.0
+      "points": 0.0
     },
     {
       "player": "Thomas Taylor",
       "event": "Event #52: $3,000 Nine Game Mixed",
       "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-52/",
       "team": "Premiums Only",
-      "rank": "11 / 11",
+      "rank": "10 / 10",
       "chips": "350,000",
       "bb": "11.7 BB",
       "bonus": "Locked 9 PTS",
-      "points": 9.0
+      "points": 0.0
     }
   ]
 }
