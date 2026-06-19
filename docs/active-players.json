@@ -1,26 +1,15 @@
 {
-  "generatedAt": "2026-06-19T03:20:13.631405+00:00",
+  "generatedAt": "2026-06-19T03:30:29.529914+00:00",
   "league": "25k",
-  "count": 34,
+  "count": 33,
   "players": [
     {
       "player": "Alex Foxen",
       "event": "Event #47: $25,000 High Roller 8-Handed Pot-Limit Omaha",
       "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-47/",
       "team": "Lady Gaga",
-      "rank": "3 / 9",
+      "rank": "3 / 8",
       "chips": "9,420,000",
-      "bb": "\u2014",
-      "bonus": "Locked 14 PTS",
-      "points": 0.0
-    },
-    {
-      "player": "Brevin Andreadis",
-      "event": "Event #47: $25,000 High Roller 8-Handed Pot-Limit Omaha",
-      "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-47/",
-      "team": "2026 ODB Bonus Players",
-      "rank": "9 / 9",
-      "chips": "2,560,000",
       "bb": "\u2014",
       "bonus": "Locked 14 PTS",
       "points": 0.0
@@ -65,7 +54,7 @@
       "team": "2026 ODB Bonus Players",
       "rank": "2 / 11",
       "chips": "3,060,000",
-      "bb": "51.0 BB",
+      "bb": "38.3 BB",
       "bonus": "Locked 15 PTS",
       "points": 15.0
     },
@@ -76,7 +65,7 @@
       "team": "Torching with TJ",
       "rank": "10 / 11",
       "chips": "1,400,000",
-      "bb": "23.3 BB",
+      "bb": "17.5 BB",
       "bonus": "Locked 15 PTS",
       "points": 15.0
     },
