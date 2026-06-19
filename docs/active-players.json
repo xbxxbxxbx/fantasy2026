@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-19T22:10:11.684145+00:00",
+  "generatedAt": "2026-06-19T22:20:13.520586+00:00",
   "league": "25k",
   "count": 9,
   "players": [
@@ -19,9 +19,9 @@
       "event": "Event #52: $3,000 Nine Game Mixed",
       "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-52/",
       "team": "Trump Power",
-      "rank": "1 / 11",
+      "rank": "2 / 11",
       "chips": "3,735,000",
-      "bb": "155.6 BB",
+      "bb": "124.5 BB",
       "bonus": "Locked 9 PTS",
       "points": 9.0
     },
@@ -32,7 +32,7 @@
       "team": "2026 ODB Bonus Players",
       "rank": "4 / 11",
       "chips": "1,635,000",
-      "bb": "68.1 BB",
+      "bb": "54.5 BB",
       "bonus": "Locked 9 PTS",
       "points": 9.0
     },
@@ -43,7 +43,7 @@
       "team": "DNegs",
       "rank": "6 / 11",
       "chips": "1,585,000",
-      "bb": "66.0 BB",
+      "bb": "52.8 BB",
       "bonus": "Locked 9 PTS",
       "points": 9.0
     },
@@ -54,7 +54,7 @@
       "team": "Browndog",
       "rank": "7 / 11",
       "chips": "1,280,000",
-      "bb": "53.3 BB",
+      "bb": "42.7 BB",
       "bonus": "Locked 9 PTS",
       "points": 9.0
     },
@@ -65,7 +65,7 @@
       "team": "2026 ODB Bonus Players",
       "rank": "9 / 11",
       "chips": "1,015,000",
-      "bb": "42.3 BB",
+      "bb": "33.8 BB",
       "bonus": "Locked 9 PTS",
       "points": 9.0
     },
@@ -76,7 +76,7 @@
       "team": "Blades & Shades",
       "rank": "10 / 11",
       "chips": "550,000",
-      "bb": "22.9 BB",
+      "bb": "18.3 BB",
       "bonus": "Locked 9 PTS",
       "points": 9.0
     },
@@ -87,7 +87,7 @@
       "team": "Premiums Only",
       "rank": "11 / 11",
       "chips": "350,000",
-      "bb": "14.6 BB",
+      "bb": "11.7 BB",
       "bonus": "Locked 9 PTS",
       "points": 9.0
     },
@@ -96,7 +96,7 @@
       "event": "Event #53: $1,500 Five Card Pot-Limit Omaha 8-Handed",
       "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-53/",
       "team": "Torching with TJ",
-      "rank": "15 / 35",
+      "rank": "15 / 34",
       "chips": "910,000",
       "bb": "\u2014",
       "bonus": "Top 27 14 PTS",
