@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-06-19T19:50:44.555452+00:00",
+  "generatedAt": "2026-06-19T20:00:17.949273+00:00",
   "league": "25k",
-  "count": 14,
+  "count": 13,
   "players": [
     {
       "player": "Josh Reichard",
@@ -21,7 +21,7 @@
       "team": "Trump Power",
       "rank": "1 / 21",
       "chips": "3,500,000",
-      "bb": "218.8 BB",
+      "bb": "175.0 BB",
       "bonus": "Top 18 9 PTS",
       "points": 1.0
     },
@@ -32,7 +32,7 @@
       "team": "2026 ODB Bonus Players",
       "rank": "2 / 21",
       "chips": "1,742,000",
-      "bb": "108.9 BB",
+      "bb": "87.1 BB",
       "bonus": "Top 18 9 PTS",
       "points": 1.0
     },
@@ -43,7 +43,7 @@
       "team": "Premiums Only",
       "rank": "5 / 21",
       "chips": "983,000",
-      "bb": "61.4 BB",
+      "bb": "49.2 BB",
       "bonus": "Top 18 9 PTS",
       "points": 1.0
     },
@@ -54,7 +54,7 @@
       "team": "DNegs",
       "rank": "7 / 21",
       "chips": "901,000",
-      "bb": "56.3 BB",
+      "bb": "45.1 BB",
       "bonus": "Top 18 9 PTS",
       "points": 1.0
     },
@@ -65,7 +65,7 @@
       "team": "2026 ODB Bonus Players",
       "rank": "8 / 21",
       "chips": "832,000",
-      "bb": "52.0 BB",
+      "bb": "41.6 BB",
       "bonus": "Top 18 9 PTS",
       "points": 1.0
     },
@@ -76,7 +76,7 @@
       "team": "Blades & Shades",
       "rank": "10 / 21",
       "chips": "780,000",
-      "bb": "48.8 BB",
+      "bb": "39.0 BB",
       "bonus": "Top 18 9 PTS",
       "points": 1.0
     },
@@ -87,7 +87,7 @@
       "team": "2026 ODB Bonus Players",
       "rank": "12 / 21",
       "chips": "734,000",
-      "bb": "45.9 BB",
+      "bb": "36.7 BB",
       "bonus": "Top 18 9 PTS",
       "points": 1.0
     },
@@ -98,7 +98,7 @@
       "team": "Browndog",
       "rank": "13 / 21",
       "chips": "672,000",
-      "bb": "42.0 BB",
+      "bb": "33.6 BB",
       "bonus": "Top 18 9 PTS",
       "points": 1.0
     },
@@ -109,7 +109,7 @@
       "team": "Trump Power",
       "rank": "16 / 21",
       "chips": "318,000",
-      "bb": "19.9 BB",
+      "bb": "15.9 BB",
       "bonus": "Top 18 9 PTS",
       "points": 1.0
     },
@@ -120,7 +120,7 @@
       "team": "2026 ODB Bonus Players",
       "rank": "19 / 21",
       "chips": "175,000",
-      "bb": "10.9 BB",
+      "bb": "8.8 BB",
       "bonus": "Top 18 9 PTS",
       "points": 1.0
     },
@@ -131,19 +131,8 @@
       "team": "2026 ODB Bonus Players",
       "rank": "20 / 21",
       "chips": "77,000",
-      "bb": "4.8 BB",
+      "bb": "3.9 BB",
       "bonus": "Top 18 9 PTS",
-      "points": 1.0
-    },
-    {
-      "player": "Max Neugebauer",
-      "event": "Event #53: $1,500 Five Card Pot-Limit Omaha 8-Handed",
-      "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-53/",
-      "team": "Lucky",
-      "rank": "17 / 61",
-      "chips": "574,000",
-      "bb": "\u2014",
-      "bonus": "Top 27 14 PTS",
       "points": 1.0
     },
     {
@@ -151,7 +140,7 @@
       "event": "Event #53: $1,500 Five Card Pot-Limit Omaha 8-Handed",
       "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-53/",
       "team": "Torching with TJ",
-      "rank": "34 / 61",
+      "rank": "33 / 56",
       "chips": "381,000",
       "bb": "\u2014",
       "bonus": "Top 27 14 PTS",
