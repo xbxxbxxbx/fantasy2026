@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-20T09:10:11.742046+00:00",
+  "generatedAt": "2026-06-20T09:20:12.690530+00:00",
   "leagueName": "WSOP Poker Fantasy Draft 2026",
   "sourceLabel": "25KFantasy",
   "sourceUrl": "https://www.25kfantasy.com/players/",
@@ -176,6 +176,48 @@
       "pointsChangeSincePrevious": 0.0
     },
     {
+      "managerName": "realbmorekid",
+      "teamName": "Bmore\u2019s Brawlers",
+      "url": "https://www.poker.org/fantasy/wsop/2026/team/bmore-s-brawlers/",
+      "players": [
+        {
+          "player": "Joey Weissman",
+          "points": 143.0
+        },
+        {
+          "player": "Shaun Deeb",
+          "points": 110.0
+        },
+        {
+          "player": "Cherish Andrews",
+          "points": 26.0
+        },
+        {
+          "player": "Esther Taylor",
+          "points": 20.0
+        },
+        {
+          "player": "Christian Harder",
+          "points": 15.0
+        },
+        {
+          "player": "Shannon Shorr",
+          "points": 15.0
+        },
+        {
+          "player": "Jeremy Becker",
+          "points": 13.0
+        },
+        {
+          "player": "Brock Wilson",
+          "points": 7.0
+        }
+      ],
+      "totalPoints": 349.0,
+      "pointsChange": 49.0,
+      "pointsChangeSincePrevious": 49.0
+    },
+    {
       "managerName": "Ruben",
       "teamName": "wugwugwugwug",
       "url": "https://www.poker.org/fantasy/wsop/2026/team/wugwugwugwug/",
@@ -257,48 +299,6 @@
       ],
       "totalPoints": 300.0,
       "pointsChange": 9.0,
-      "pointsChangeSincePrevious": 0.0
-    },
-    {
-      "managerName": "realbmorekid",
-      "teamName": "Bmore\u2019s Brawlers",
-      "url": "https://www.poker.org/fantasy/wsop/2026/team/bmore-s-brawlers/",
-      "players": [
-        {
-          "player": "Joey Weissman",
-          "points": 143.0
-        },
-        {
-          "player": "Shaun Deeb",
-          "points": 61.0
-        },
-        {
-          "player": "Cherish Andrews",
-          "points": 26.0
-        },
-        {
-          "player": "Esther Taylor",
-          "points": 20.0
-        },
-        {
-          "player": "Christian Harder",
-          "points": 15.0
-        },
-        {
-          "player": "Shannon Shorr",
-          "points": 15.0
-        },
-        {
-          "player": "Jeremy Becker",
-          "points": 13.0
-        },
-        {
-          "player": "Brock Wilson",
-          "points": 7.0
-        }
-      ],
-      "totalPoints": 300.0,
-      "pointsChange": 0.0,
       "pointsChangeSincePrevious": 0.0
     },
     {
