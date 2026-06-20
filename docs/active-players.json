@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-20T06:00:16.483780+00:00",
+  "generatedAt": "2026-06-20T06:10:12.710765+00:00",
   "league": "25k",
   "count": 15,
   "players": [
@@ -10,7 +10,7 @@
       "team": "Trump Power",
       "rank": "1 / 2",
       "chips": "13,765,000",
-      "bb": "137.7 BB",
+      "bb": "114.7 BB",
       "bonus": "Locked 9 PTS",
       "points": 0.0
     },
@@ -21,7 +21,7 @@
       "team": "Browndog",
       "rank": "2 / 2",
       "chips": "5,040,000",
-      "bb": "50.4 BB",
+      "bb": "42.0 BB",
       "bonus": "Locked 9 PTS",
       "points": 0.0
     },
