@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-20T07:00:16.152673+00:00",
+  "generatedAt": "2026-06-20T07:10:12.224223+00:00",
   "leagueName": "WSOP Poker Fantasy Draft 2026",
   "sourceLabel": "25KFantasy",
   "sourceUrl": "https://www.25kfantasy.com/players/",
@@ -89,7 +89,7 @@
       ],
       "totalPoints": 652.0,
       "pointsChange": 12.0,
-      "pointsChangeSincePrevious": 12.0
+      "pointsChangeSincePrevious": 0.0
     },
     {
       "managerName": "JeffBNT",
@@ -341,7 +341,7 @@
       ],
       "totalPoints": 286.0,
       "pointsChange": 11.0,
-      "pointsChangeSincePrevious": 11.0
+      "pointsChangeSincePrevious": 0.0
     },
     {
       "managerName": "Trampstamp",
@@ -383,7 +383,7 @@
       ],
       "totalPoints": 251.0,
       "pointsChange": 1.0,
-      "pointsChangeSincePrevious": 1.0
+      "pointsChangeSincePrevious": 0.0
     }
   ],
   "failures": []
