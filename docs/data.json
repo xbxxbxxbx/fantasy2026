@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-20T06:50:12.748402+00:00",
+  "generatedAt": "2026-06-20T07:00:16.152673+00:00",
   "leagueName": "WSOP Poker Fantasy Draft 2026",
   "sourceLabel": "25KFantasy",
   "sourceUrl": "https://www.25kfantasy.com/players/",
@@ -68,7 +68,7 @@
         },
         {
           "player": "Allen Kessler",
-          "points": 88.0
+          "points": 99.0
         },
         {
           "player": "David 'ODB' Baker",
@@ -84,12 +84,12 @@
         },
         {
           "player": "Andrew Lichtenberger",
-          "points": 4.0
+          "points": 5.0
         }
       ],
-      "totalPoints": 640.0,
-      "pointsChange": 0.0,
-      "pointsChangeSincePrevious": 0.0
+      "totalPoints": 652.0,
+      "pointsChange": 12.0,
+      "pointsChangeSincePrevious": 12.0
     },
     {
       "managerName": "JeffBNT",
@@ -308,7 +308,7 @@
       "players": [
         {
           "player": "Allen Kessler",
-          "points": 88.0
+          "points": 99.0
         },
         {
           "player": "John Racener",
@@ -339,9 +339,9 @@
           "points": 0.0
         }
       ],
-      "totalPoints": 275.0,
-      "pointsChange": 0.0,
-      "pointsChangeSincePrevious": 0.0
+      "totalPoints": 286.0,
+      "pointsChange": 11.0,
+      "pointsChangeSincePrevious": 11.0
     },
     {
       "managerName": "Trampstamp",
@@ -374,16 +374,16 @@
         },
         {
           "player": "Andrew Lichtenberger",
-          "points": 4.0
+          "points": 5.0
         },
         {
           "player": "Ben Lamb",
           "points": 0.0
         }
       ],
-      "totalPoints": 250.0,
-      "pointsChange": 0.0,
-      "pointsChangeSincePrevious": 0.0
+      "totalPoints": 251.0,
+      "pointsChange": 1.0,
+      "pointsChangeSincePrevious": 1.0
     }
   ],
   "failures": []
