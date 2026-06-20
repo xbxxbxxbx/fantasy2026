@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-20T00:30:13.372933+00:00",
+  "generatedAt": "2026-06-20T00:40:14.213458+00:00",
   "league": "25k",
   "count": 5,
   "players": [
@@ -21,7 +21,7 @@
       "team": "Trump Power",
       "rank": "1 / 7",
       "chips": "6,400,000",
-      "bb": "160.0 BB",
+      "bb": "128.0 BB",
       "bonus": "Locked 9 PTS",
       "points": 0.0
     },
@@ -32,7 +32,7 @@
       "team": "Browndog",
       "rank": "2 / 7",
       "chips": "4,670,000",
-      "bb": "116.8 BB",
+      "bb": "93.4 BB",
       "bonus": "Locked 9 PTS",
       "points": 0.0
     },
@@ -43,7 +43,7 @@
       "team": "2026 ODB Bonus Players",
       "rank": "6 / 7",
       "chips": "760,000",
-      "bb": "19.0 BB",
+      "bb": "15.2 BB",
       "bonus": "Locked 9 PTS",
       "points": 0.0
     },
@@ -54,7 +54,7 @@
       "team": "Premiums Only",
       "rank": "7 / 7",
       "chips": "750,000",
-      "bb": "18.8 BB",
+      "bb": "15.0 BB",
       "bonus": "Locked 9 PTS",
       "points": 0.0
     }
