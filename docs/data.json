@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-20T23:10:12.915740+00:00",
+  "generatedAt": "2026-06-20T23:21:25.899890+00:00",
   "leagueName": "WSOP Poker Fantasy Draft 2026",
   "sourceLabel": "25KFantasy",
   "sourceUrl": "https://www.25kfantasy.com/players/",
@@ -182,7 +182,7 @@
       "players": [
         {
           "player": "Joey Weissman",
-          "points": 143.0
+          "points": 155.0
         },
         {
           "player": "Shaun Deeb",
@@ -213,9 +213,9 @@
           "points": 7.0
         }
       ],
-      "totalPoints": 349.0,
-      "pointsChange": 0.0,
-      "pointsChangeSincePrevious": 0.0
+      "totalPoints": 361.0,
+      "pointsChange": 12.0,
+      "pointsChangeSincePrevious": 12.0
     },
     {
       "managerName": "Ruben",
