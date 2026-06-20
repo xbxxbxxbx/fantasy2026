@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-06-20T03:50:12.662135+00:00",
+  "generatedAt": "2026-06-20T04:00:17.457835+00:00",
   "league": "25k",
-  "count": 3,
+  "count": 24,
   "players": [
     {
       "player": "Shaun Deeb",
@@ -35,6 +35,237 @@
       "bb": "30.6 BB",
       "bonus": "Locked 9 PTS",
       "points": 0.0
+    },
+    {
+      "player": "Josh Arieh",
+      "event": "Event #54: $10,000 H.O.R.S.E. Championship",
+      "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-54/",
+      "team": "DNegs",
+      "rank": "1 / 29",
+      "chips": "912,000",
+      "bb": "\u2014",
+      "bonus": "Top 18 11 PTS",
+      "points": 2.0
+    },
+    {
+      "player": "Nicolas Milgrom",
+      "event": "Event #54: $10,000 H.O.R.S.E. Championship",
+      "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-54/",
+      "team": "Dinkers",
+      "rank": "2 / 29",
+      "chips": "761,000",
+      "bb": "\u2014",
+      "bonus": "Top 18 11 PTS",
+      "points": 2.0
+    },
+    {
+      "player": "Daniel Strelitz",
+      "event": "Event #54: $10,000 H.O.R.S.E. Championship",
+      "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-54/",
+      "team": "2026 ODB Bonus Players",
+      "rank": "4 / 29",
+      "chips": "728,000",
+      "bb": "\u2014",
+      "bonus": "Top 18 11 PTS",
+      "points": 2.0
+    },
+    {
+      "player": "David Bach",
+      "event": "Event #54: $10,000 H.O.R.S.E. Championship",
+      "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-54/",
+      "team": "2026 ODB Bonus Players",
+      "rank": "5 / 29",
+      "chips": "570,000",
+      "bb": "\u2014",
+      "bonus": "Top 18 11 PTS",
+      "points": 2.0
+    },
+    {
+      "player": "Allen Kessler",
+      "event": "Event #54: $10,000 H.O.R.S.E. Championship",
+      "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-54/",
+      "team": "Lang Gang",
+      "rank": "6 / 29",
+      "chips": "540,000",
+      "bb": "\u2014",
+      "bonus": "Top 18 11 PTS",
+      "points": 2.0
+    },
+    {
+      "player": "David Lin",
+      "event": "Event #54: $10,000 H.O.R.S.E. Championship",
+      "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-54/",
+      "team": "2026 ODB Bonus Players",
+      "rank": "8 / 29",
+      "chips": "516,000",
+      "bb": "\u2014",
+      "bonus": "Top 18 11 PTS",
+      "points": 2.0
+    },
+    {
+      "player": "Ariel Mantel",
+      "event": "Event #54: $10,000 H.O.R.S.E. Championship",
+      "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-54/",
+      "team": "Very Handsome Horses",
+      "rank": "9 / 29",
+      "chips": "512,000",
+      "bb": "\u2014",
+      "bonus": "Top 18 11 PTS",
+      "points": 2.0
+    },
+    {
+      "player": "Brian Rast",
+      "event": "Event #54: $10,000 H.O.R.S.E. Championship",
+      "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-54/",
+      "team": "Stake Kings",
+      "rank": "10 / 29",
+      "chips": "461,000",
+      "bb": "\u2014",
+      "bonus": "Top 18 11 PTS",
+      "points": 2.0
+    },
+    {
+      "player": "Calvin Anderson",
+      "event": "Event #54: $10,000 H.O.R.S.E. Championship",
+      "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-54/",
+      "team": "Glue Factory",
+      "rank": "11 / 29",
+      "chips": "450,000",
+      "bb": "\u2014",
+      "bonus": "Top 18 11 PTS",
+      "points": 2.0
+    },
+    {
+      "player": "Brian Yoon",
+      "event": "Event #54: $10,000 H.O.R.S.E. Championship",
+      "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-54/",
+      "team": "Wasserson",
+      "rank": "12 / 29",
+      "chips": "435,000",
+      "bb": "\u2014",
+      "bonus": "Top 18 11 PTS",
+      "points": 2.0
+    },
+    {
+      "player": "Maksim Pisarenko",
+      "event": "Event #54: $10,000 H.O.R.S.E. Championship",
+      "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-54/",
+      "team": "Glue Factory",
+      "rank": "13 / 29",
+      "chips": "432,000",
+      "bb": "\u2014",
+      "bonus": "Top 18 11 PTS",
+      "points": 2.0
+    },
+    {
+      "player": "Matthew Schreiber",
+      "event": "Event #54: $10,000 H.O.R.S.E. Championship",
+      "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-54/",
+      "team": "Blez/NGNF",
+      "rank": "14 / 29",
+      "chips": "376,000",
+      "bb": "\u2014",
+      "bonus": "Top 18 11 PTS",
+      "points": 2.0
+    },
+    {
+      "player": "Marco Johnson",
+      "event": "Event #54: $10,000 H.O.R.S.E. Championship",
+      "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-54/",
+      "team": "Banana",
+      "rank": "16 / 29",
+      "chips": "325,000",
+      "bb": "\u2014",
+      "bonus": "Top 18 11 PTS",
+      "points": 2.0
+    },
+    {
+      "player": "Jason Daly",
+      "event": "Event #54: $10,000 H.O.R.S.E. Championship",
+      "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-54/",
+      "team": "Back Office",
+      "rank": "18 / 29",
+      "chips": "301,000",
+      "bb": "\u2014",
+      "bonus": "Top 18 11 PTS",
+      "points": 2.0
+    },
+    {
+      "player": "Chris Brewer",
+      "event": "Event #54: $10,000 H.O.R.S.E. Championship",
+      "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-54/",
+      "team": "Blez/NGNF",
+      "rank": "19 / 29",
+      "chips": "295,000",
+      "bb": "\u2014",
+      "bonus": "Top 18 11 PTS",
+      "points": 2.0
+    },
+    {
+      "player": "Mark Gregorich",
+      "event": "Event #54: $10,000 H.O.R.S.E. Championship",
+      "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-54/",
+      "team": "2026 ODB Bonus Players",
+      "rank": "21 / 29",
+      "chips": "219,000",
+      "bb": "\u2014",
+      "bonus": "Top 18 11 PTS",
+      "points": 2.0
+    },
+    {
+      "player": "Robert Wells",
+      "event": "Event #54: $10,000 H.O.R.S.E. Championship",
+      "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-54/",
+      "team": "Spitework",
+      "rank": "23 / 29",
+      "chips": "196,000",
+      "bb": "\u2014",
+      "bonus": "Top 18 11 PTS",
+      "points": 2.0
+    },
+    {
+      "player": "Damjan Radanov",
+      "event": "Event #54: $10,000 H.O.R.S.E. Championship",
+      "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-54/",
+      "team": "2026 ODB Bonus Players",
+      "rank": "24 / 29",
+      "chips": "169,000",
+      "bb": "\u2014",
+      "bonus": "Top 18 11 PTS",
+      "points": 2.0
+    },
+    {
+      "player": "Robert Mizrachi",
+      "event": "Event #54: $10,000 H.O.R.S.E. Championship",
+      "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-54/",
+      "team": "Very Handsome Horses",
+      "rank": "25 / 29",
+      "chips": "161,000",
+      "bb": "\u2014",
+      "bonus": "Top 18 11 PTS",
+      "points": 2.0
+    },
+    {
+      "player": "Yueqi Zhu",
+      "event": "Event #54: $10,000 H.O.R.S.E. Championship",
+      "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-54/",
+      "team": "Trump Power",
+      "rank": "26 / 29",
+      "chips": "148,000",
+      "bb": "\u2014",
+      "bonus": "Top 18 11 PTS",
+      "points": 2.0
+    },
+    {
+      "player": "Walter Chambers",
+      "event": "Event #54: $10,000 H.O.R.S.E. Championship",
+      "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-54/",
+      "team": "2026 ODB Bonus Players",
+      "rank": "28 / 29",
+      "chips": "116,000",
+      "bb": "\u2014",
+      "bonus": "Top 18 11 PTS",
+      "points": 2.0
     }
   ]
 }
