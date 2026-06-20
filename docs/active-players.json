@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-20T22:50:11.042126+00:00",
+  "generatedAt": "2026-06-20T23:00:18.588196+00:00",
   "league": "25k",
   "count": 10,
   "players": [
@@ -87,7 +87,7 @@
       "team": "2026 ODB Bonus Players",
       "rank": "5 / 20",
       "chips": "2,545,000",
-      "bb": "42.4 BB",
+      "bb": "31.8 BB",
       "bonus": "Locked 12 PTS",
       "points": 12.0
     },
@@ -98,7 +98,7 @@
       "team": "Glue Factory",
       "rank": "12 / 20",
       "chips": "1,505,000",
-      "bb": "25.1 BB",
+      "bb": "18.8 BB",
       "bonus": "Locked 12 PTS",
       "points": 12.0
     },
@@ -109,7 +109,7 @@
       "team": "Chocolate Factory",
       "rank": "19 / 20",
       "chips": "635,000",
-      "bb": "10.6 BB",
+      "bb": "7.9 BB",
       "bonus": "Locked 12 PTS",
       "points": 12.0
     }
