@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-20T19:58:38.007972+00:00",
+  "generatedAt": "2026-06-20T20:10:12.595948+00:00",
   "league": "25k",
   "count": 19,
   "players": [
@@ -103,24 +103,24 @@
       "points": 11.0
     },
     {
-      "player": "Brandon Sheils",
-      "event": "Event #56: $3,000 6-Handed No-Limit Hold\u2019em",
-      "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-56/",
-      "team": "Stake Kings",
-      "rank": "1 / 53",
-      "chips": "14,700,000",
-      "bb": "588.0 BB",
-      "bonus": "Top 27 12 PTS",
-      "points": 1.0
-    },
-    {
       "player": "Christopher Vitch",
       "event": "Event #56: $3,000 6-Handed No-Limit Hold\u2019em",
       "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-56/",
       "team": "Glue Factory",
-      "rank": "6 / 53",
+      "rank": "5 / 51",
       "chips": "1,505,000",
-      "bb": "60.2 BB",
+      "bb": "50.2 BB",
+      "bonus": "Top 27 12 PTS",
+      "points": 1.0
+    },
+    {
+      "player": "Brandon Sheils",
+      "event": "Event #56: $3,000 6-Handed No-Limit Hold\u2019em",
+      "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-56/",
+      "team": "Stake Kings",
+      "rank": "6 / 51",
+      "chips": "1,470,000",
+      "bb": "49.0 BB",
       "bonus": "Top 27 12 PTS",
       "points": 1.0
     },
@@ -129,9 +129,9 @@
       "event": "Event #56: $3,000 6-Handed No-Limit Hold\u2019em",
       "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-56/",
       "team": "2026 ODB Bonus Players",
-      "rank": "9 / 53",
+      "rank": "9 / 51",
       "chips": "1,325,000",
-      "bb": "53.0 BB",
+      "bb": "44.2 BB",
       "bonus": "Top 27 12 PTS",
       "points": 1.0
     },
@@ -140,9 +140,9 @@
       "event": "Event #56: $3,000 6-Handed No-Limit Hold\u2019em",
       "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-56/",
       "team": "Lady Gaga",
-      "rank": "12 / 53",
+      "rank": "11 / 51",
       "chips": "1,230,000",
-      "bb": "49.2 BB",
+      "bb": "41.0 BB",
       "bonus": "Top 27 12 PTS",
       "points": 1.0
     },
@@ -151,9 +151,9 @@
       "event": "Event #56: $3,000 6-Handed No-Limit Hold\u2019em",
       "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-56/",
       "team": "Verderamo",
-      "rank": "19 / 53",
+      "rank": "18 / 51",
       "chips": "875,000",
-      "bb": "35.0 BB",
+      "bb": "29.2 BB",
       "bonus": "Top 27 12 PTS",
       "points": 1.0
     },
@@ -162,9 +162,9 @@
       "event": "Event #56: $3,000 6-Handed No-Limit Hold\u2019em",
       "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-56/",
       "team": "2026 ODB Bonus Players",
-      "rank": "21 / 53",
+      "rank": "21 / 51",
       "chips": "810,000",
-      "bb": "32.4 BB",
+      "bb": "27.0 BB",
       "bonus": "Top 27 12 PTS",
       "points": 1.0
     },
@@ -173,9 +173,9 @@
       "event": "Event #56: $3,000 6-Handed No-Limit Hold\u2019em",
       "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-56/",
       "team": "Chocolate Factory",
-      "rank": "29 / 53",
+      "rank": "30 / 51",
       "chips": "635,000",
-      "bb": "25.4 BB",
+      "bb": "21.2 BB",
       "bonus": "Top 27 12 PTS",
       "points": 1.0
     },
@@ -184,9 +184,9 @@
       "event": "Event #56: $3,000 6-Handed No-Limit Hold\u2019em",
       "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-56/",
       "team": "2026 ODB Bonus Players",
-      "rank": "35 / 53",
+      "rank": "37 / 51",
       "chips": "545,000",
-      "bb": "21.8 BB",
+      "bb": "18.2 BB",
       "bonus": "Top 27 12 PTS",
       "points": 1.0
     },
@@ -195,9 +195,9 @@
       "event": "Event #56: $3,000 6-Handed No-Limit Hold\u2019em",
       "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-56/",
       "team": "2026 ODB Bonus Players",
-      "rank": "36 / 53",
+      "rank": "38 / 51",
       "chips": "520,000",
-      "bb": "20.8 BB",
+      "bb": "17.3 BB",
       "bonus": "Top 27 12 PTS",
       "points": 1.0
     },
@@ -206,9 +206,9 @@
       "event": "Event #56: $3,000 6-Handed No-Limit Hold\u2019em",
       "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-56/",
       "team": "Banana",
-      "rank": "37 / 53",
+      "rank": "39 / 51",
       "chips": "500,000",
-      "bb": "20.0 BB",
+      "bb": "16.7 BB",
       "bonus": "Top 27 12 PTS",
       "points": 1.0
     }
