@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-20T00:20:13.658815+00:00",
+  "generatedAt": "2026-06-20T00:30:13.372933+00:00",
   "league": "25k",
   "count": 5,
   "players": [
@@ -8,9 +8,9 @@
       "event": "Event #51: $10,000 Mystery Bounty No-Limit Hold'em",
       "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-51/",
       "team": "Torching with TJ",
-      "rank": "2 / 8",
-      "chips": "6,555,000",
-      "bb": "54.6 BB",
+      "rank": "1 / 8",
+      "chips": "8,215,000",
+      "bb": "54.8 BB",
       "bonus": "Locked 15 PTS",
       "points": 0.0
     },
@@ -19,9 +19,9 @@
       "event": "Event #52: $3,000 Nine Game Mixed",
       "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-52/",
       "team": "Trump Power",
-      "rank": "2 / 7",
-      "chips": "3,735,000",
-      "bb": "93.4 BB",
+      "rank": "1 / 7",
+      "chips": "6,400,000",
+      "bb": "160.0 BB",
       "bonus": "Locked 9 PTS",
       "points": 0.0
     },
@@ -30,9 +30,9 @@
       "event": "Event #52: $3,000 Nine Game Mixed",
       "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-52/",
       "team": "Browndog",
-      "rank": "4 / 7",
-      "chips": "1,280,000",
-      "bb": "32.0 BB",
+      "rank": "2 / 7",
+      "chips": "4,670,000",
+      "bb": "116.8 BB",
       "bonus": "Locked 9 PTS",
       "points": 0.0
     },
@@ -42,8 +42,8 @@
       "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-52/",
       "team": "2026 ODB Bonus Players",
       "rank": "6 / 7",
-      "chips": "1,015,000",
-      "bb": "25.4 BB",
+      "chips": "760,000",
+      "bb": "19.0 BB",
       "bonus": "Locked 9 PTS",
       "points": 0.0
     },
@@ -53,8 +53,8 @@
       "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-52/",
       "team": "Premiums Only",
       "rank": "7 / 7",
-      "chips": "350,000",
-      "bb": "8.8 BB",
+      "chips": "750,000",
+      "bb": "18.8 BB",
       "bonus": "Locked 9 PTS",
       "points": 0.0
     }
