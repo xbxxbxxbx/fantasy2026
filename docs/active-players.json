@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-06-20T06:10:12.710765+00:00",
+  "generatedAt": "2026-06-20T06:20:11.497658+00:00",
   "league": "25k",
-  "count": 15,
+  "count": 43,
   "players": [
     {
       "player": "Shaun Deeb",
@@ -30,143 +30,451 @@
       "event": "Event #54: $10,000 H.O.R.S.E. Championship",
       "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-54/",
       "team": "Wasserson",
-      "rank": "2 / 19",
+      "rank": "2 / 18",
       "chips": "900,000",
       "bb": "\u2014",
-      "bonus": "Top 18 11 PTS",
-      "points": 0.0
+      "bonus": "Locked 11 PTS",
+      "points": 11.0
     },
     {
       "player": "Chris Brewer",
       "event": "Event #54: $10,000 H.O.R.S.E. Championship",
       "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-54/",
       "team": "Blez/NGNF",
-      "rank": "3 / 19",
+      "rank": "3 / 18",
       "chips": "891,000",
       "bb": "\u2014",
-      "bonus": "Top 18 11 PTS",
-      "points": 0.0
+      "bonus": "Locked 11 PTS",
+      "points": 11.0
     },
     {
       "player": "David Lin",
       "event": "Event #54: $10,000 H.O.R.S.E. Championship",
       "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-54/",
       "team": "2026 ODB Bonus Players",
-      "rank": "4 / 19",
+      "rank": "4 / 18",
       "chips": "871,000",
       "bb": "\u2014",
-      "bonus": "Top 18 11 PTS",
-      "points": 0.0
+      "bonus": "Locked 11 PTS",
+      "points": 11.0
     },
     {
       "player": "David Bach",
       "event": "Event #54: $10,000 H.O.R.S.E. Championship",
       "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-54/",
       "team": "2026 ODB Bonus Players",
-      "rank": "6 / 19",
+      "rank": "6 / 18",
       "chips": "789,000",
       "bb": "\u2014",
-      "bonus": "Top 18 11 PTS",
-      "points": 0.0
+      "bonus": "Locked 11 PTS",
+      "points": 11.0
     },
     {
       "player": "Maksim Pisarenko",
       "event": "Event #54: $10,000 H.O.R.S.E. Championship",
       "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-54/",
       "team": "Glue Factory",
-      "rank": "7 / 19",
+      "rank": "7 / 18",
       "chips": "770,000",
       "bb": "\u2014",
-      "bonus": "Top 18 11 PTS",
-      "points": 0.0
+      "bonus": "Locked 11 PTS",
+      "points": 11.0
     },
     {
       "player": "Daniel Strelitz",
       "event": "Event #54: $10,000 H.O.R.S.E. Championship",
       "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-54/",
       "team": "2026 ODB Bonus Players",
-      "rank": "8 / 19",
+      "rank": "8 / 18",
       "chips": "728,000",
       "bb": "\u2014",
-      "bonus": "Top 18 11 PTS",
-      "points": 0.0
-    },
-    {
-      "player": "Josh Arieh",
-      "event": "Event #54: $10,000 H.O.R.S.E. Championship",
-      "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-54/",
-      "team": "DNegs",
-      "rank": "9 / 19",
-      "chips": "720,000",
-      "bb": "\u2014",
-      "bonus": "Top 18 11 PTS",
-      "points": 0.0
+      "bonus": "Locked 11 PTS",
+      "points": 11.0
     },
     {
       "player": "Calvin Anderson",
       "event": "Event #54: $10,000 H.O.R.S.E. Championship",
       "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-54/",
       "team": "Glue Factory",
-      "rank": "10 / 19",
+      "rank": "9 / 18",
       "chips": "652,000",
       "bb": "\u2014",
-      "bonus": "Top 18 11 PTS",
-      "points": 0.0
+      "bonus": "Locked 11 PTS",
+      "points": 11.0
     },
     {
       "player": "Nicolas Milgrom",
       "event": "Event #54: $10,000 H.O.R.S.E. Championship",
       "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-54/",
       "team": "Dinkers",
-      "rank": "12 / 19",
+      "rank": "11 / 18",
       "chips": "615,000",
       "bb": "\u2014",
-      "bonus": "Top 18 11 PTS",
-      "points": 0.0
+      "bonus": "Locked 11 PTS",
+      "points": 11.0
     },
     {
       "player": "Allen Kessler",
       "event": "Event #54: $10,000 H.O.R.S.E. Championship",
       "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-54/",
       "team": "Lang Gang",
-      "rank": "14 / 19",
+      "rank": "13 / 18",
       "chips": "328,000",
       "bb": "\u2014",
-      "bonus": "Top 18 11 PTS",
-      "points": 0.0
+      "bonus": "Locked 11 PTS",
+      "points": 11.0
     },
     {
-      "player": "Jason Daly",
+      "player": "Josh Arieh",
       "event": "Event #54: $10,000 H.O.R.S.E. Championship",
       "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-54/",
-      "team": "Back Office",
-      "rank": "15 / 19",
-      "chips": "271,000",
+      "team": "DNegs",
+      "rank": "14 / 18",
+      "chips": "275,000",
       "bb": "\u2014",
-      "bonus": "Top 18 11 PTS",
-      "points": 0.0
+      "bonus": "Locked 11 PTS",
+      "points": 11.0
     },
     {
       "player": "Ariel Mantel",
       "event": "Event #54: $10,000 H.O.R.S.E. Championship",
       "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-54/",
       "team": "Very Handsome Horses",
-      "rank": "17 / 19",
+      "rank": "16 / 18",
       "chips": "205,000",
       "bb": "\u2014",
-      "bonus": "Top 18 11 PTS",
-      "points": 0.0
+      "bonus": "Locked 11 PTS",
+      "points": 11.0
     },
     {
       "player": "Robert Mizrachi",
       "event": "Event #54: $10,000 H.O.R.S.E. Championship",
       "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-54/",
       "team": "Very Handsome Horses",
-      "rank": "18 / 19",
+      "rank": "17 / 18",
       "chips": "171,000",
       "bb": "\u2014",
-      "bonus": "Top 18 11 PTS",
-      "points": 0.0
+      "bonus": "Locked 11 PTS",
+      "points": 11.0
+    },
+    {
+      "player": "Christopher Vitch",
+      "event": "Event #56: $3,000 6-Handed No-Limit Hold\u2019em",
+      "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-56/",
+      "team": "Glue Factory",
+      "rank": "1 / 157",
+      "chips": "1,380,000",
+      "bb": "138.0 BB",
+      "bonus": "Top 27 12 PTS",
+      "points": 1.0
+    },
+    {
+      "player": "Dario Sammartino",
+      "event": "Event #56: $3,000 6-Handed No-Limit Hold\u2019em",
+      "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-56/",
+      "team": "Glue Factory",
+      "rank": "8 / 157",
+      "chips": "459,000",
+      "bb": "45.9 BB",
+      "bonus": "Top 27 12 PTS",
+      "points": 1.0
+    },
+    {
+      "player": "Brandon Sheils",
+      "event": "Event #56: $3,000 6-Handed No-Limit Hold\u2019em",
+      "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-56/",
+      "team": "Stake Kings",
+      "rank": "13 / 157",
+      "chips": "429,000",
+      "bb": "42.9 BB",
+      "bonus": "Top 27 12 PTS",
+      "points": 1.0
+    },
+    {
+      "player": "Shawn Daniels",
+      "event": "Event #56: $3,000 6-Handed No-Limit Hold\u2019em",
+      "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-56/",
+      "team": "2026 ODB Bonus Players",
+      "rank": "14 / 157",
+      "chips": "420,000",
+      "bb": "42.0 BB",
+      "bonus": "Top 27 12 PTS",
+      "points": 1.0
+    },
+    {
+      "player": "Thomas Eychenne",
+      "event": "Event #56: $3,000 6-Handed No-Limit Hold\u2019em",
+      "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-56/",
+      "team": "2026 ODB Bonus Players",
+      "rank": "15 / 157",
+      "chips": "418,000",
+      "bb": "41.8 BB",
+      "bonus": "Top 27 12 PTS",
+      "points": 1.0
+    },
+    {
+      "player": "Faraz Jaka",
+      "event": "Event #56: $3,000 6-Handed No-Limit Hold\u2019em",
+      "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-56/",
+      "team": "2026 ODB Bonus Players",
+      "rank": "16 / 157",
+      "chips": "415,000",
+      "bb": "41.5 BB",
+      "bonus": "Top 27 12 PTS",
+      "points": 1.0
+    },
+    {
+      "player": "Maria Konnikova",
+      "event": "Event #56: $3,000 6-Handed No-Limit Hold\u2019em",
+      "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-56/",
+      "team": "2026 ODB Bonus Players",
+      "rank": "18 / 157",
+      "chips": "400,000",
+      "bb": "40.0 BB",
+      "bonus": "Top 27 12 PTS",
+      "points": 1.0
+    },
+    {
+      "player": "Blaz Zerjav",
+      "event": "Event #56: $3,000 6-Handed No-Limit Hold\u2019em",
+      "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-56/",
+      "team": "Glaser",
+      "rank": "26 / 157",
+      "chips": "349,000",
+      "bb": "34.9 BB",
+      "bonus": "Top 27 12 PTS",
+      "points": 1.0
+    },
+    {
+      "player": "Sam Laskowitz",
+      "event": "Event #56: $3,000 6-Handed No-Limit Hold\u2019em",
+      "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-56/",
+      "team": "Blez/NGNF",
+      "rank": "33 / 157",
+      "chips": "325,000",
+      "bb": "32.5 BB",
+      "bonus": "Top 27 12 PTS",
+      "points": 1.0
+    },
+    {
+      "player": "Joey Weissman",
+      "event": "Event #56: $3,000 6-Handed No-Limit Hold\u2019em",
+      "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-56/",
+      "team": "Chocolate Factory",
+      "rank": "35 / 157",
+      "chips": "305,000",
+      "bb": "30.5 BB",
+      "bonus": "Top 27 12 PTS",
+      "points": 1.0
+    },
+    {
+      "player": "Jun Obara",
+      "event": "Event #56: $3,000 6-Handed No-Limit Hold\u2019em",
+      "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-56/",
+      "team": "Lady Gaga",
+      "rank": "38 / 157",
+      "chips": "295,000",
+      "bb": "29.5 BB",
+      "bonus": "Top 27 12 PTS",
+      "points": 1.0
+    },
+    {
+      "player": "Jon Kyte",
+      "event": "Event #56: $3,000 6-Handed No-Limit Hold\u2019em",
+      "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-56/",
+      "team": "Chocolate Factory",
+      "rank": "56 / 157",
+      "chips": "240,000",
+      "bb": "24.0 BB",
+      "bonus": "Top 27 12 PTS",
+      "points": 1.0
+    },
+    {
+      "player": "Ryan Leng",
+      "event": "Event #56: $3,000 6-Handed No-Limit Hold\u2019em",
+      "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-56/",
+      "team": "Gators",
+      "rank": "59 / 157",
+      "chips": "234,500",
+      "bb": "23.5 BB",
+      "bonus": "Top 27 12 PTS",
+      "points": 1.0
+    },
+    {
+      "player": "Alex Foxen",
+      "event": "Event #56: $3,000 6-Handed No-Limit Hold\u2019em",
+      "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-56/",
+      "team": "Lady Gaga",
+      "rank": "66 / 157",
+      "chips": "215,000",
+      "bb": "21.5 BB",
+      "bonus": "Top 27 12 PTS",
+      "points": 1.0
+    },
+    {
+      "player": "Nick Pupillo",
+      "event": "Event #56: $3,000 6-Handed No-Limit Hold\u2019em",
+      "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-56/",
+      "team": "DNegs",
+      "rank": "72 / 157",
+      "chips": "200,000",
+      "bb": "20.0 BB",
+      "bonus": "Top 27 12 PTS",
+      "points": 1.0
+    },
+    {
+      "player": "Brandon Wilson",
+      "event": "Event #56: $3,000 6-Handed No-Limit Hold\u2019em",
+      "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-56/",
+      "team": "Gators",
+      "rank": "78 / 157",
+      "chips": "190,000",
+      "bb": "19.0 BB",
+      "bonus": "Top 27 12 PTS",
+      "points": 1.0
+    },
+    {
+      "player": "Andrew Lichtenberger",
+      "event": "Event #56: $3,000 6-Handed No-Limit Hold\u2019em",
+      "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-56/",
+      "team": "Verderamo",
+      "rank": "82 / 157",
+      "chips": "180,000",
+      "bb": "18.0 BB",
+      "bonus": "Top 27 12 PTS",
+      "points": 1.0
+    },
+    {
+      "player": "Jonathan Tamayo",
+      "event": "Event #56: $3,000 6-Handed No-Limit Hold\u2019em",
+      "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-56/",
+      "team": "2026 ODB Bonus Players",
+      "rank": "90 / 157",
+      "chips": "171,000",
+      "bb": "17.1 BB",
+      "bonus": "Top 27 12 PTS",
+      "points": 1.0
+    },
+    {
+      "player": "Joao Vieira",
+      "event": "Event #56: $3,000 6-Handed No-Limit Hold\u2019em",
+      "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-56/",
+      "team": "Noori",
+      "rank": "95 / 157",
+      "chips": "161,000",
+      "bb": "16.1 BB",
+      "bonus": "Top 27 12 PTS",
+      "points": 1.0
+    },
+    {
+      "player": "Kevin Calenzo",
+      "event": "Event #56: $3,000 6-Handed No-Limit Hold\u2019em",
+      "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-56/",
+      "team": "2026 ODB Bonus Players",
+      "rank": "112 / 157",
+      "chips": "125,000",
+      "bb": "12.5 BB",
+      "bonus": "Top 27 12 PTS",
+      "points": 1.0
+    },
+    {
+      "player": "Anthony Zinno",
+      "event": "Event #56: $3,000 6-Handed No-Limit Hold\u2019em",
+      "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-56/",
+      "team": "Very Handsome Horses",
+      "rank": "124 / 157",
+      "chips": "102,000",
+      "bb": "10.2 BB",
+      "bonus": "Top 27 12 PTS",
+      "points": 1.0
+    },
+    {
+      "player": "Renji Mao",
+      "event": "Event #56: $3,000 6-Handed No-Limit Hold\u2019em",
+      "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-56/",
+      "team": "Spitework",
+      "rank": "128 / 157",
+      "chips": "96,000",
+      "bb": "9.6 BB",
+      "bonus": "Top 27 12 PTS",
+      "points": 1.0
+    },
+    {
+      "player": "Nick Schulman",
+      "event": "Event #56: $3,000 6-Handed No-Limit Hold\u2019em",
+      "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-56/",
+      "team": "Verderamo",
+      "rank": "133 / 157",
+      "chips": "92,000",
+      "bb": "9.2 BB",
+      "bonus": "Top 27 12 PTS",
+      "points": 1.0
+    },
+    {
+      "player": "Justin Zaki",
+      "event": "Event #56: $3,000 6-Handed No-Limit Hold\u2019em",
+      "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-56/",
+      "team": "Noori",
+      "rank": "136 / 157",
+      "chips": "84,000",
+      "bb": "8.4 BB",
+      "bonus": "Top 27 12 PTS",
+      "points": 1.0
+    },
+    {
+      "player": "Danny Tang",
+      "event": "Event #56: $3,000 6-Handed No-Limit Hold\u2019em",
+      "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-56/",
+      "team": "Banana",
+      "rank": "137 / 157",
+      "chips": "80,000",
+      "bb": "8.0 BB",
+      "bonus": "Top 27 12 PTS",
+      "points": 1.0
+    },
+    {
+      "player": "John Riordan",
+      "event": "Event #56: $3,000 6-Handed No-Limit Hold\u2019em",
+      "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-56/",
+      "team": "Stake Kings",
+      "rank": "140 / 157",
+      "chips": "75,000",
+      "bb": "7.5 BB",
+      "bonus": "Top 27 12 PTS",
+      "points": 1.0
+    },
+    {
+      "player": "Max Neugebauer",
+      "event": "Event #56: $3,000 6-Handed No-Limit Hold\u2019em",
+      "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-56/",
+      "team": "Lucky",
+      "rank": "145 / 157",
+      "chips": "69,000",
+      "bb": "6.9 BB",
+      "bonus": "Top 27 12 PTS",
+      "points": 1.0
+    },
+    {
+      "player": "Shiina Okamoto",
+      "event": "Event #56: $3,000 6-Handed No-Limit Hold\u2019em",
+      "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-56/",
+      "team": "2026 ODB Bonus Players",
+      "rank": "155 / 157",
+      "chips": "40,000",
+      "bb": "4.0 BB",
+      "bonus": "Top 27 12 PTS",
+      "points": 1.0
+    },
+    {
+      "player": "Aaron Kupin",
+      "event": "Event #56: $3,000 6-Handed No-Limit Hold\u2019em",
+      "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-56/",
+      "team": "Back Office",
+      "rank": "155 / 157",
+      "chips": "40,000",
+      "bb": "4.0 BB",
+      "bonus": "Top 27 12 PTS",
+      "points": 1.0
     }
   ]
 }
