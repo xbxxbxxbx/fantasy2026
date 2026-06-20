@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-20T05:20:14.473458+00:00",
+  "generatedAt": "2026-06-20T05:30:16.260182+00:00",
   "league": "25k",
   "count": 17,
   "players": [
@@ -8,9 +8,9 @@
       "event": "Event #52: $3,000 Nine Game Mixed",
       "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-52/",
       "team": "Trump Power",
-      "rank": "1 / 3",
-      "chips": "11,470,000",
-      "bb": "114.7 BB",
+      "rank": "1 / 2",
+      "chips": "12,915,000",
+      "bb": "129.2 BB",
       "bonus": "Locked 9 PTS",
       "points": 0.0
     },
@@ -19,9 +19,9 @@
       "event": "Event #52: $3,000 Nine Game Mixed",
       "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-52/",
       "team": "Browndog",
-      "rank": "2 / 3",
-      "chips": "2,790,000",
-      "bb": "27.9 BB",
+      "rank": "2 / 2",
+      "chips": "5,990,000",
+      "bb": "59.9 BB",
       "bonus": "Locked 9 PTS",
       "points": 0.0
     },
