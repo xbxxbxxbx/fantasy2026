@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-06-20T23:00:18.588196+00:00",
+  "generatedAt": "2026-06-20T23:10:13.658102+00:00",
   "league": "25k",
-  "count": 10,
+  "count": 9,
   "players": [
     {
       "player": "Calvin Anderson",
@@ -85,33 +85,22 @@
       "event": "Event #56: $3,000 6-Handed No-Limit Hold\u2019em",
       "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-56/",
       "team": "2026 ODB Bonus Players",
-      "rank": "5 / 20",
+      "rank": "5 / 18",
       "chips": "2,545,000",
       "bb": "31.8 BB",
       "bonus": "Locked 12 PTS",
-      "points": 12.0
+      "points": 16.0
     },
     {
       "player": "Christopher Vitch",
       "event": "Event #56: $3,000 6-Handed No-Limit Hold\u2019em",
       "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-56/",
       "team": "Glue Factory",
-      "rank": "12 / 20",
+      "rank": "11 / 18",
       "chips": "1,505,000",
       "bb": "18.8 BB",
       "bonus": "Locked 12 PTS",
-      "points": 12.0
-    },
-    {
-      "player": "Joey Weissman",
-      "event": "Event #56: $3,000 6-Handed No-Limit Hold\u2019em",
-      "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-56/",
-      "team": "Chocolate Factory",
-      "rank": "19 / 20",
-      "chips": "635,000",
-      "bb": "7.9 BB",
-      "bonus": "Locked 12 PTS",
-      "points": 12.0
+      "points": 16.0
     }
   ]
 }
