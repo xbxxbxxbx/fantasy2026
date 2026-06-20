@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-06-20T23:40:14.065538+00:00",
+  "generatedAt": "2026-06-20T23:50:11.987863+00:00",
   "league": "25k",
-  "count": 7,
+  "count": 6,
   "players": [
     {
       "player": "Calvin Anderson",
@@ -59,22 +59,11 @@
       "points": 0.0
     },
     {
-      "player": "Faraz Jaka",
-      "event": "Event #56: $3,000 6-Handed No-Limit Hold\u2019em",
-      "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-56/",
-      "team": "2026 ODB Bonus Players",
-      "rank": "4 / 16",
-      "chips": "2,545,000",
-      "bb": "25.5 BB",
-      "bonus": "Locked 12 PTS",
-      "points": 16.0
-    },
-    {
       "player": "Christopher Vitch",
       "event": "Event #56: $3,000 6-Handed No-Limit Hold\u2019em",
       "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-56/",
       "team": "Glue Factory",
-      "rank": "9 / 16",
+      "rank": "7 / 13",
       "chips": "1,505,000",
       "bb": "15.1 BB",
       "bonus": "Locked 12 PTS",
