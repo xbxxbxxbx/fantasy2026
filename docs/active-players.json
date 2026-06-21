@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-21T04:20:13.947413+00:00",
+  "generatedAt": "2026-06-21T04:40:13.677924+00:00",
   "league": "25k",
   "count": 11,
   "players": [
@@ -26,11 +26,22 @@
       "points": 0.0
     },
     {
+      "player": "Naoya Kihara",
+      "event": "Event #55: $50,000 HIGH ROLLER Pot-Limit Omaha",
+      "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-55/",
+      "team": "Banana",
+      "rank": "1 / 17",
+      "chips": "5,800,000",
+      "bb": "\u2014",
+      "bonus": "Locked 0 PTS",
+      "points": 11.0
+    },
+    {
       "player": "Joao Simao Peres",
       "event": "Event #55: $50,000 HIGH ROLLER Pot-Limit Omaha",
       "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-55/",
       "team": "Very Handsome Horses",
-      "rank": "2 / 17",
+      "rank": "3 / 17",
       "chips": "3,430,000",
       "bb": "\u2014",
       "bonus": "Locked 0 PTS",
@@ -41,7 +52,7 @@
       "event": "Event #55: $50,000 HIGH ROLLER Pot-Limit Omaha",
       "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-55/",
       "team": "Glaser",
-      "rank": "3 / 17",
+      "rank": "4 / 17",
       "chips": "3,075,000",
       "bb": "\u2014",
       "bonus": "Locked 0 PTS",
@@ -52,19 +63,8 @@
       "event": "Event #55: $50,000 HIGH ROLLER Pot-Limit Omaha",
       "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-55/",
       "team": "Lady Gaga",
-      "rank": "4 / 17",
-      "chips": "2,845,000",
-      "bb": "\u2014",
-      "bonus": "Locked 0 PTS",
-      "points": 11.0
-    },
-    {
-      "player": "Naoya Kihara",
-      "event": "Event #55: $50,000 HIGH ROLLER Pot-Limit Omaha",
-      "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-55/",
-      "team": "Banana",
       "rank": "5 / 17",
-      "chips": "2,535,000",
+      "chips": "2,845,000",
       "bb": "\u2014",
       "bonus": "Locked 0 PTS",
       "points": 11.0
