@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-21T20:50:12.255428+00:00",
+  "generatedAt": "2026-06-21T21:00:15.676701+00:00",
   "league": "25k",
   "count": 3,
   "players": [
@@ -8,19 +8,8 @@
       "event": "Event #55: $50,000 HIGH ROLLER Pot-Limit Omaha",
       "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-55/",
       "team": "Very Handsome Horses",
-      "rank": "1 / 8",
-      "chips": "3,430,000",
-      "bb": "\u2014",
-      "bonus": "Locked 0 PTS",
-      "points": 0.0
-    },
-    {
-      "player": "Yuri Dzivielevski",
-      "event": "Event #55: $50,000 HIGH ROLLER Pot-Limit Omaha",
-      "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-55/",
-      "team": "Lady Gaga",
       "rank": "2 / 8",
-      "chips": "2,845,000",
+      "chips": "6,985,000",
       "bb": "\u2014",
       "bonus": "Locked 0 PTS",
       "points": 0.0
@@ -30,8 +19,19 @@
       "event": "Event #55: $50,000 HIGH ROLLER Pot-Limit Omaha",
       "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-55/",
       "team": "Banana",
-      "rank": "3 / 8",
-      "chips": "2,385,000",
+      "rank": "5 / 8",
+      "chips": "2,035,000",
+      "bb": "\u2014",
+      "bonus": "Locked 0 PTS",
+      "points": 0.0
+    },
+    {
+      "player": "Yuri Dzivielevski",
+      "event": "Event #55: $50,000 HIGH ROLLER Pot-Limit Omaha",
+      "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-55/",
+      "team": "Lady Gaga",
+      "rank": "7 / 8",
+      "chips": "1,450,000",
       "bb": "\u2014",
       "bonus": "Locked 0 PTS",
       "points": 0.0
