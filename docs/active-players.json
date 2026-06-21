@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-21T04:40:13.677924+00:00",
+  "generatedAt": "2026-06-21T04:50:12.982097+00:00",
   "league": "25k",
   "count": 11,
   "players": [
@@ -74,8 +74,8 @@
       "event": "Event #55: $50,000 HIGH ROLLER Pot-Limit Omaha",
       "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-55/",
       "team": "Lucky",
-      "rank": "8 / 17",
-      "chips": "1,385,000",
+      "rank": "9 / 17",
+      "chips": "1,185,000",
       "bb": "\u2014",
       "bonus": "Locked 0 PTS",
       "points": 11.0
@@ -120,7 +120,7 @@
       "team": "Glue Factory",
       "rank": "6 / 7",
       "chips": "3,235,000",
-      "bb": "13.5 BB",
+      "bb": "10.8 BB",
       "bonus": "Locked 12 PTS",
       "points": 0.0
     }
