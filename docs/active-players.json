@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-06-21T06:20:14.468982+00:00",
+  "generatedAt": "2026-06-21T06:30:15.540582+00:00",
   "league": "25k",
-  "count": 9,
+  "count": 8,
   "players": [
     {
       "player": "Josh Arieh",
@@ -90,17 +90,6 @@
       "bb": "\u2014",
       "bonus": "Locked 0 PTS",
       "points": 11.0
-    },
-    {
-      "player": "Christopher Vitch",
-      "event": "Event #56: $3,000 6-Handed No-Limit Hold\u2019em",
-      "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-56/",
-      "team": "Glue Factory",
-      "rank": "1 / 6",
-      "chips": "9,975,000",
-      "bb": "24.9 BB",
-      "bonus": "Locked 12 PTS",
-      "points": 0.0
     }
   ]
 }
