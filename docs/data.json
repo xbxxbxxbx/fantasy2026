@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-21T08:10:12.435965+00:00",
+  "generatedAt": "2026-06-21T08:20:11.105892+00:00",
   "leagueName": "WSOP Poker Fantasy Draft 2026",
   "sourceLabel": "25KFantasy",
   "sourceUrl": "https://www.25kfantasy.com/players/",
@@ -14,7 +14,7 @@
       "players": [
         {
           "player": "Calvin Anderson",
-          "points": 162.0
+          "points": 288.0
         },
         {
           "player": "Bryce Yockey",
@@ -45,9 +45,9 @@
           "points": 28.0
         }
       ],
-      "totalPoints": 666.0,
-      "pointsChange": 11.0,
-      "pointsChangeSincePrevious": 0.0
+      "totalPoints": 792.0,
+      "pointsChange": 137.0,
+      "pointsChangeSincePrevious": 126.0
     },
     {
       "managerName": "Kush",
@@ -98,7 +98,7 @@
       "players": [
         {
           "player": "Calvin Anderson",
-          "points": 162.0
+          "points": 288.0
         },
         {
           "player": "Arthur Morris",
@@ -129,9 +129,9 @@
           "points": 7.0
         }
       ],
-      "totalPoints": 471.0,
-      "pointsChange": 0.0,
-      "pointsChangeSincePrevious": 0.0
+      "totalPoints": 597.0,
+      "pointsChange": 126.0,
+      "pointsChangeSincePrevious": 126.0
     },
     {
       "managerName": "Doinky",
@@ -140,7 +140,7 @@
       "players": [
         {
           "player": "Dylan Weisman",
-          "points": 143.0
+          "points": 154.0
         },
         {
           "player": "Stephen Song",
@@ -171,9 +171,9 @@
           "points": 0.0
         }
       ],
-      "totalPoints": 422.0,
-      "pointsChange": 0.0,
-      "pointsChangeSincePrevious": 0.0
+      "totalPoints": 433.0,
+      "pointsChange": 11.0,
+      "pointsChangeSincePrevious": 11.0
     },
     {
       "managerName": "realbmorekid",
