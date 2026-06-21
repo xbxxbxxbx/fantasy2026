@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-06-21T21:40:12.760040+00:00",
+  "generatedAt": "2026-06-21T21:50:12.101573+00:00",
   "league": "25k",
-  "count": 2,
+  "count": 20,
   "players": [
     {
       "player": "Joao Simao Peres",
@@ -24,6 +24,204 @@
       "bb": "\u2014",
       "bonus": "Locked 0 PTS",
       "points": 0.0
+    },
+    {
+      "player": "Jerry Wong",
+      "event": "Event #58: $1,500 Limit 2-7 Lowball Triple Draw 6-Handed",
+      "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-58/",
+      "team": "Dinkers",
+      "rank": "9 / 95",
+      "chips": "283,000",
+      "bb": "23.6 BB",
+      "bonus": "Top 18 11 PTS",
+      "points": 1.0
+    },
+    {
+      "player": "Jon Kyte",
+      "event": "Event #58: $1,500 Limit 2-7 Lowball Triple Draw 6-Handed",
+      "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-58/",
+      "team": "Chocolate Factory",
+      "rank": "10 / 95",
+      "chips": "275,000",
+      "bb": "22.9 BB",
+      "bonus": "Top 18 11 PTS",
+      "points": 1.0
+    },
+    {
+      "player": "Nick Guagenti",
+      "event": "Event #58: $1,500 Limit 2-7 Lowball Triple Draw 6-Handed",
+      "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-58/",
+      "team": "Browndog",
+      "rank": "22 / 95",
+      "chips": "212,000",
+      "bb": "17.7 BB",
+      "bonus": "Top 18 11 PTS",
+      "points": 1.0
+    },
+    {
+      "player": "Daniel Strelitz",
+      "event": "Event #58: $1,500 Limit 2-7 Lowball Triple Draw 6-Handed",
+      "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-58/",
+      "team": "2026 ODB Bonus Players",
+      "rank": "22 / 95",
+      "chips": "212,000",
+      "bb": "17.7 BB",
+      "bonus": "Top 18 11 PTS",
+      "points": 1.0
+    },
+    {
+      "player": "Ari Engel",
+      "event": "Event #58: $1,500 Limit 2-7 Lowball Triple Draw 6-Handed",
+      "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-58/",
+      "team": "Lang Gang",
+      "rank": "24 / 95",
+      "chips": "211,000",
+      "bb": "17.6 BB",
+      "bonus": "Top 18 11 PTS",
+      "points": 1.0
+    },
+    {
+      "player": "Dylan Smith",
+      "event": "Event #58: $1,500 Limit 2-7 Lowball Triple Draw 6-Handed",
+      "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-58/",
+      "team": "Spitework",
+      "rank": "28 / 95",
+      "chips": "195,000",
+      "bb": "16.3 BB",
+      "bonus": "Top 18 11 PTS",
+      "points": 1.0
+    },
+    {
+      "player": "David Lin",
+      "event": "Event #58: $1,500 Limit 2-7 Lowball Triple Draw 6-Handed",
+      "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-58/",
+      "team": "2026 ODB Bonus Players",
+      "rank": "29 / 95",
+      "chips": "192,000",
+      "bb": "16.0 BB",
+      "bonus": "Top 18 11 PTS",
+      "points": 1.0
+    },
+    {
+      "player": "James Tilton",
+      "event": "Event #58: $1,500 Limit 2-7 Lowball Triple Draw 6-Handed",
+      "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-58/",
+      "team": "2026 ODB Bonus Players",
+      "rank": "33 / 95",
+      "chips": "181,000",
+      "bb": "15.1 BB",
+      "bonus": "Top 18 11 PTS",
+      "points": 1.0
+    },
+    {
+      "player": "Nick Pupillo",
+      "event": "Event #58: $1,500 Limit 2-7 Lowball Triple Draw 6-Handed",
+      "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-58/",
+      "team": "DNegs",
+      "rank": "40 / 95",
+      "chips": "161,000",
+      "bb": "13.4 BB",
+      "bonus": "Top 18 11 PTS",
+      "points": 1.0
+    },
+    {
+      "player": "Sean Yu",
+      "event": "Event #58: $1,500 Limit 2-7 Lowball Triple Draw 6-Handed",
+      "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-58/",
+      "team": "2026 ODB Bonus Players",
+      "rank": "49 / 95",
+      "chips": "156,000",
+      "bb": "13.0 BB",
+      "bonus": "Top 18 11 PTS",
+      "points": 1.0
+    },
+    {
+      "player": "Jonathan Glendinning",
+      "event": "Event #58: $1,500 Limit 2-7 Lowball Triple Draw 6-Handed",
+      "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-58/",
+      "team": "Dinkers",
+      "rank": "51 / 95",
+      "chips": "149,000",
+      "bb": "12.4 BB",
+      "bonus": "Top 18 11 PTS",
+      "points": 1.0
+    },
+    {
+      "player": "Evan Sandberg",
+      "event": "Event #58: $1,500 Limit 2-7 Lowball Triple Draw 6-Handed",
+      "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-58/",
+      "team": "2026 ODB Bonus Players",
+      "rank": "62 / 95",
+      "chips": "115,000",
+      "bb": "9.6 BB",
+      "bonus": "Top 18 11 PTS",
+      "points": 1.0
+    },
+    {
+      "player": "Maxx Coleman",
+      "event": "Event #58: $1,500 Limit 2-7 Lowball Triple Draw 6-Handed",
+      "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-58/",
+      "team": "Browndog",
+      "rank": "67 / 95",
+      "chips": "110,000",
+      "bb": "9.2 BB",
+      "bonus": "Top 18 11 PTS",
+      "points": 1.0
+    },
+    {
+      "player": "Matt Vengrin",
+      "event": "Event #58: $1,500 Limit 2-7 Lowball Triple Draw 6-Handed",
+      "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-58/",
+      "team": "Glue Factory",
+      "rank": "71 / 95",
+      "chips": "95,000",
+      "bb": "7.9 BB",
+      "bonus": "Top 18 11 PTS",
+      "points": 1.0
+    },
+    {
+      "player": "Danny Chang",
+      "event": "Event #58: $1,500 Limit 2-7 Lowball Triple Draw 6-Handed",
+      "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-58/",
+      "team": "2026 ODB Bonus Players",
+      "rank": "79 / 95",
+      "chips": "74,000",
+      "bb": "6.2 BB",
+      "bonus": "Top 18 11 PTS",
+      "points": 1.0
+    },
+    {
+      "player": "Jason Daly",
+      "event": "Event #58: $1,500 Limit 2-7 Lowball Triple Draw 6-Handed",
+      "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-58/",
+      "team": "Back Office",
+      "rank": "84 / 95",
+      "chips": "68,000",
+      "bb": "5.7 BB",
+      "bonus": "Top 18 11 PTS",
+      "points": 1.0
+    },
+    {
+      "player": "Jon Turner",
+      "event": "Event #58: $1,500 Limit 2-7 Lowball Triple Draw 6-Handed",
+      "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-58/",
+      "team": "Wasserson",
+      "rank": "86 / 95",
+      "chips": "66,000",
+      "bb": "5.5 BB",
+      "bonus": "Top 18 11 PTS",
+      "points": 1.0
+    },
+    {
+      "player": "Danny Tang",
+      "event": "Event #58: $1,500 Limit 2-7 Lowball Triple Draw 6-Handed",
+      "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-58/",
+      "team": "Banana",
+      "rank": "92 / 95",
+      "chips": "41,000",
+      "bb": "3.4 BB",
+      "bonus": "Top 18 11 PTS",
+      "points": 1.0
     }
   ]
 }
