@@ -1,14 +1,14 @@
 {
-  "generatedAt": "2026-06-21T02:00:16.828699+00:00",
+  "generatedAt": "2026-06-21T02:10:13.257408+00:00",
   "league": "25k",
-  "count": 4,
+  "count": 3,
   "players": [
     {
       "player": "Josh Arieh",
       "event": "Event #54: $10,000 H.O.R.S.E. Championship",
       "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-54/",
       "team": "DNegs",
-      "rank": "1 / 5",
+      "rank": "1 / 4",
       "chips": "3,750,000",
       "bb": "\u2014",
       "bonus": "Locked 11 PTS",
@@ -19,19 +19,8 @@
       "event": "Event #54: $10,000 H.O.R.S.E. Championship",
       "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-54/",
       "team": "Glue Factory",
-      "rank": "3 / 5",
+      "rank": "3 / 4",
       "chips": "1,910,000",
-      "bb": "\u2014",
-      "bonus": "Locked 11 PTS",
-      "points": 0.0
-    },
-    {
-      "player": "Robert Mizrachi",
-      "event": "Event #54: $10,000 H.O.R.S.E. Championship",
-      "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-54/",
-      "team": "Very Handsome Horses",
-      "rank": "5 / 5",
-      "chips": "725,000",
       "bb": "\u2014",
       "bonus": "Locked 11 PTS",
       "points": 0.0
