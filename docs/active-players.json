@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-21T03:00:17.482701+00:00",
+  "generatedAt": "2026-06-21T03:20:14.406750+00:00",
   "league": "25k",
   "count": 3,
   "players": [
@@ -32,7 +32,7 @@
       "team": "Glue Factory",
       "rank": "4 / 7",
       "chips": "5,285,000",
-      "bb": "35.2 BB",
+      "bb": "26.4 BB",
       "bonus": "Locked 12 PTS",
       "points": 0.0
     }
