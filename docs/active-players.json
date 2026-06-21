@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-06-21T04:00:18.143917+00:00",
+  "generatedAt": "2026-06-21T04:10:13.196455+00:00",
   "league": "25k",
-  "count": 3,
+  "count": 11,
   "players": [
     {
       "player": "Josh Arieh",
@@ -26,13 +26,101 @@
       "points": 0.0
     },
     {
+      "player": "Daniel Negreanu",
+      "event": "Event #55: $50,000 HIGH ROLLER Pot-Limit Omaha",
+      "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-55/",
+      "team": "DNegs",
+      "rank": "1 / 17",
+      "chips": "3,775,000",
+      "bb": "\u2014",
+      "bonus": "Locked 0 PTS",
+      "points": 11.0
+    },
+    {
+      "player": "Joao Simao Peres",
+      "event": "Event #55: $50,000 HIGH ROLLER Pot-Limit Omaha",
+      "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-55/",
+      "team": "Very Handsome Horses",
+      "rank": "3 / 17",
+      "chips": "2,655,000",
+      "bb": "\u2014",
+      "bonus": "Locked 0 PTS",
+      "points": 11.0
+    },
+    {
+      "player": "Naoya Kihara",
+      "event": "Event #55: $50,000 HIGH ROLLER Pot-Limit Omaha",
+      "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-55/",
+      "team": "Banana",
+      "rank": "4 / 17",
+      "chips": "2,535,000",
+      "bb": "\u2014",
+      "bonus": "Locked 0 PTS",
+      "points": 11.0
+    },
+    {
+      "player": "Dylan Weisman",
+      "event": "Event #55: $50,000 HIGH ROLLER Pot-Limit Omaha",
+      "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-55/",
+      "team": "Lucky",
+      "rank": "6 / 17",
+      "chips": "2,050,000",
+      "bb": "\u2014",
+      "bonus": "Locked 0 PTS",
+      "points": 11.0
+    },
+    {
+      "player": "Yuri Dzivielevski",
+      "event": "Event #55: $50,000 HIGH ROLLER Pot-Limit Omaha",
+      "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-55/",
+      "team": "Lady Gaga",
+      "rank": "7 / 17",
+      "chips": "1,790,000",
+      "bb": "\u2014",
+      "bonus": "Locked 0 PTS",
+      "points": 11.0
+    },
+    {
+      "player": "Sean Winter",
+      "event": "Event #55: $50,000 HIGH ROLLER Pot-Limit Omaha",
+      "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-55/",
+      "team": "Glaser",
+      "rank": "9 / 17",
+      "chips": "1,705,000",
+      "bb": "\u2014",
+      "bonus": "Locked 0 PTS",
+      "points": 11.0
+    },
+    {
+      "player": "Jeremy Ausmus",
+      "event": "Event #55: $50,000 HIGH ROLLER Pot-Limit Omaha",
+      "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-55/",
+      "team": "Lang Gang",
+      "rank": "14 / 17",
+      "chips": "985,000",
+      "bb": "\u2014",
+      "bonus": "Locked 0 PTS",
+      "points": 11.0
+    },
+    {
+      "player": "Jason Koon",
+      "event": "Event #55: $50,000 HIGH ROLLER Pot-Limit Omaha",
+      "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-55/",
+      "team": "DNegs",
+      "rank": "17 / 17",
+      "chips": "360,000",
+      "bb": "\u2014",
+      "bonus": "Locked 0 PTS",
+      "points": 11.0
+    },
+    {
       "player": "Christopher Vitch",
       "event": "Event #56: $3,000 6-Handed No-Limit Hold\u2019em",
       "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-56/",
       "team": "Glue Factory",
-      "rank": "4 / 7",
-      "chips": "5,285,000",
-      "bb": "22.0 BB",
+      "rank": "6 / 7",
+      "chips": "3,235,000",
+      "bb": "13.5 BB",
       "bonus": "Locked 12 PTS",
       "points": 0.0
     }
