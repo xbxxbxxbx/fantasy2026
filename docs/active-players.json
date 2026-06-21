@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-21T02:10:13.257408+00:00",
+  "generatedAt": "2026-06-21T02:30:15.570256+00:00",
   "league": "25k",
   "count": 3,
   "players": [
@@ -31,8 +31,8 @@
       "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-56/",
       "team": "Glue Factory",
       "rank": "4 / 7",
-      "chips": "3,145,000",
-      "bb": "21.0 BB",
+      "chips": "5,285,000",
+      "bb": "35.2 BB",
       "bonus": "Locked 12 PTS",
       "points": 0.0
     }
