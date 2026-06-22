@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-22T03:40:12.294114+00:00",
+  "generatedAt": "2026-06-22T03:50:11.958188+00:00",
   "league": "25k",
   "count": 8,
   "players": [
@@ -19,9 +19,9 @@
       "event": "Event #58: $1,500 Limit 2-7 Lowball Triple Draw 6-Handed",
       "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-58/",
       "team": "2026 ODB Bonus Players",
-      "rank": "2 / 33",
+      "rank": "2 / 32",
       "chips": "1,135,000",
-      "bb": "37.8 BB",
+      "bb": "28.4 BB",
       "bonus": "Top 18 11 PTS",
       "points": 1.0
     },
@@ -30,9 +30,9 @@
       "event": "Event #58: $1,500 Limit 2-7 Lowball Triple Draw 6-Handed",
       "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-58/",
       "team": "2026 ODB Bonus Players",
-      "rank": "6 / 33",
+      "rank": "6 / 32",
       "chips": "820,000",
-      "bb": "27.3 BB",
+      "bb": "20.5 BB",
       "bonus": "Top 18 11 PTS",
       "points": 1.0
     },
@@ -41,9 +41,9 @@
       "event": "Event #58: $1,500 Limit 2-7 Lowball Triple Draw 6-Handed",
       "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-58/",
       "team": "Dinkers",
-      "rank": "26 / 33",
+      "rank": "26 / 32",
       "chips": "255,000",
-      "bb": "8.5 BB",
+      "bb": "6.4 BB",
       "bonus": "Top 18 11 PTS",
       "points": 1.0
     },
@@ -52,9 +52,9 @@
       "event": "Event #58: $1,500 Limit 2-7 Lowball Triple Draw 6-Handed",
       "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-58/",
       "team": "DNegs",
-      "rank": "27 / 33",
+      "rank": "27 / 32",
       "chips": "225,000",
-      "bb": "7.5 BB",
+      "bb": "5.6 BB",
       "bonus": "Top 18 11 PTS",
       "points": 1.0
     },
@@ -63,9 +63,9 @@
       "event": "Event #58: $1,500 Limit 2-7 Lowball Triple Draw 6-Handed",
       "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-58/",
       "team": "Spitework",
-      "rank": "29 / 33",
+      "rank": "29 / 32",
       "chips": "175,000",
-      "bb": "5.8 BB",
+      "bb": "4.4 BB",
       "bonus": "Top 18 11 PTS",
       "points": 1.0
     },
@@ -74,9 +74,9 @@
       "event": "Event #58: $1,500 Limit 2-7 Lowball Triple Draw 6-Handed",
       "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-58/",
       "team": "Dinkers",
-      "rank": "30 / 33",
+      "rank": "30 / 32",
       "chips": "155,000",
-      "bb": "5.2 BB",
+      "bb": "3.9 BB",
       "bonus": "Top 18 11 PTS",
       "points": 1.0
     },
@@ -85,9 +85,9 @@
       "event": "Event #58: $1,500 Limit 2-7 Lowball Triple Draw 6-Handed",
       "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-58/",
       "team": "Browndog",
-      "rank": "32 / 33",
+      "rank": "32 / 32",
       "chips": "110,000",
-      "bb": "3.7 BB",
+      "bb": "2.8 BB",
       "bonus": "Top 18 11 PTS",
       "points": 1.0
     }
