@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-22T05:30:13.667215+00:00",
+  "generatedAt": "2026-06-22T05:40:13.610896+00:00",
   "league": "25k",
   "count": 3,
   "players": [
@@ -8,33 +8,33 @@
       "event": "Event #58: $1,500 Limit 2-7 Lowball Triple Draw 6-Handed",
       "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-58/",
       "team": "2026 ODB Bonus Players",
-      "rank": "3 / 22",
+      "rank": "3 / 19",
       "chips": "1,135,000",
       "bb": "22.7 BB",
       "bonus": "Top 18 11 PTS",
-      "points": 1.0
+      "points": 0.0
     },
     {
       "player": "Evan Sandberg",
       "event": "Event #58: $1,500 Limit 2-7 Lowball Triple Draw 6-Handed",
       "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-58/",
       "team": "2026 ODB Bonus Players",
-      "rank": "7 / 22",
+      "rank": "7 / 19",
       "chips": "820,000",
       "bb": "16.4 BB",
       "bonus": "Top 18 11 PTS",
-      "points": 1.0
+      "points": 0.0
     },
     {
       "player": "Nick Pupillo",
       "event": "Event #58: $1,500 Limit 2-7 Lowball Triple Draw 6-Handed",
       "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-58/",
       "team": "DNegs",
-      "rank": "9 / 22",
+      "rank": "8 / 19",
       "chips": "645,000",
       "bb": "12.9 BB",
       "bonus": "Top 18 11 PTS",
-      "points": 1.0
+      "points": 0.0
     }
   ]
 }
