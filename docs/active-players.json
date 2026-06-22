@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-22T02:50:12.417094+00:00",
+  "generatedAt": "2026-06-22T03:00:16.100102+00:00",
   "league": "25k",
   "count": 8,
   "players": [
@@ -20,8 +20,8 @@
       "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-58/",
       "team": "2026 ODB Bonus Players",
       "rank": "2 / 33",
-      "chips": "1,128,000",
-      "bb": "37.6 BB",
+      "chips": "1,135,000",
+      "bb": "37.8 BB",
       "bonus": "Top 18 11 PTS",
       "points": 1.0
     },
@@ -30,20 +30,9 @@
       "event": "Event #58: $1,500 Limit 2-7 Lowball Triple Draw 6-Handed",
       "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-58/",
       "team": "2026 ODB Bonus Players",
-      "rank": "4 / 33",
+      "rank": "6 / 33",
       "chips": "820,000",
       "bb": "27.3 BB",
-      "bonus": "Top 18 11 PTS",
-      "points": 1.0
-    },
-    {
-      "player": "Jonathan Glendinning",
-      "event": "Event #58: $1,500 Limit 2-7 Lowball Triple Draw 6-Handed",
-      "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-58/",
-      "team": "Dinkers",
-      "rank": "9 / 33",
-      "chips": "632,000",
-      "bb": "21.1 BB",
       "bonus": "Top 18 11 PTS",
       "points": 1.0
     },
@@ -52,31 +41,9 @@
       "event": "Event #58: $1,500 Limit 2-7 Lowball Triple Draw 6-Handed",
       "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-58/",
       "team": "Dinkers",
-      "rank": "12 / 33",
-      "chips": "569,000",
-      "bb": "19.0 BB",
-      "bonus": "Top 18 11 PTS",
-      "points": 1.0
-    },
-    {
-      "player": "Dylan Smith",
-      "event": "Event #58: $1,500 Limit 2-7 Lowball Triple Draw 6-Handed",
-      "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-58/",
-      "team": "Spitework",
-      "rank": "17 / 33",
-      "chips": "447,000",
-      "bb": "14.9 BB",
-      "bonus": "Top 18 11 PTS",
-      "points": 1.0
-    },
-    {
-      "player": "Nick Guagenti",
-      "event": "Event #58: $1,500 Limit 2-7 Lowball Triple Draw 6-Handed",
-      "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-58/",
-      "team": "Browndog",
       "rank": "27 / 33",
-      "chips": "290,000",
-      "bb": "9.7 BB",
+      "chips": "255,000",
+      "bb": "8.5 BB",
       "bonus": "Top 18 11 PTS",
       "points": 1.0
     },
@@ -85,9 +52,42 @@
       "event": "Event #58: $1,500 Limit 2-7 Lowball Triple Draw 6-Handed",
       "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-58/",
       "team": "DNegs",
+      "rank": "28 / 33",
+      "chips": "225,000",
+      "bb": "7.5 BB",
+      "bonus": "Top 18 11 PTS",
+      "points": 1.0
+    },
+    {
+      "player": "Dylan Smith",
+      "event": "Event #58: $1,500 Limit 2-7 Lowball Triple Draw 6-Handed",
+      "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-58/",
+      "team": "Spitework",
       "rank": "29 / 33",
-      "chips": "239,000",
-      "bb": "8.0 BB",
+      "chips": "175,000",
+      "bb": "5.8 BB",
+      "bonus": "Top 18 11 PTS",
+      "points": 1.0
+    },
+    {
+      "player": "Jonathan Glendinning",
+      "event": "Event #58: $1,500 Limit 2-7 Lowball Triple Draw 6-Handed",
+      "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-58/",
+      "team": "Dinkers",
+      "rank": "30 / 33",
+      "chips": "155,000",
+      "bb": "5.2 BB",
+      "bonus": "Top 18 11 PTS",
+      "points": 1.0
+    },
+    {
+      "player": "Nick Guagenti",
+      "event": "Event #58: $1,500 Limit 2-7 Lowball Triple Draw 6-Handed",
+      "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-58/",
+      "team": "Browndog",
+      "rank": "32 / 33",
+      "chips": "110,000",
+      "bb": "3.7 BB",
       "bonus": "Top 18 11 PTS",
       "points": 1.0
     }
