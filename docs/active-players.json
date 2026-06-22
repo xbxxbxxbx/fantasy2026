@@ -1,27 +1,16 @@
 {
-  "generatedAt": "2026-06-22T04:40:12.672927+00:00",
+  "generatedAt": "2026-06-22T04:50:14.218961+00:00",
   "league": "25k",
-  "count": 5,
+  "count": 3,
   "players": [
-    {
-      "player": "Joao Simao Peres",
-      "event": "Event #55: $50,000 HIGH ROLLER Pot-Limit Omaha",
-      "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-55/",
-      "team": "Very Handsome Horses",
-      "rank": "2 / 2",
-      "chips": "12,200,000",
-      "bb": "\u2014",
-      "bonus": "Locked 0 PTS",
-      "points": 0.0
-    },
     {
       "player": "Daniel Strelitz",
       "event": "Event #58: $1,500 Limit 2-7 Lowball Triple Draw 6-Handed",
       "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-58/",
       "team": "2026 ODB Bonus Players",
-      "rank": "2 / 27",
+      "rank": "2 / 25",
       "chips": "1,135,000",
-      "bb": "28.4 BB",
+      "bb": "22.7 BB",
       "bonus": "Top 18 11 PTS",
       "points": 1.0
     },
@@ -30,9 +19,9 @@
       "event": "Event #58: $1,500 Limit 2-7 Lowball Triple Draw 6-Handed",
       "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-58/",
       "team": "2026 ODB Bonus Players",
-      "rank": "7 / 27",
+      "rank": "7 / 25",
       "chips": "820,000",
-      "bb": "20.5 BB",
+      "bb": "16.4 BB",
       "bonus": "Top 18 11 PTS",
       "points": 1.0
     },
@@ -41,20 +30,9 @@
       "event": "Event #58: $1,500 Limit 2-7 Lowball Triple Draw 6-Handed",
       "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-58/",
       "team": "DNegs",
-      "rank": "16 / 27",
-      "chips": "495,000",
-      "bb": "12.4 BB",
-      "bonus": "Top 18 11 PTS",
-      "points": 1.0
-    },
-    {
-      "player": "Jerry Wong",
-      "event": "Event #58: $1,500 Limit 2-7 Lowball Triple Draw 6-Handed",
-      "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-58/",
-      "team": "Dinkers",
-      "rank": "26 / 27",
-      "chips": "255,000",
-      "bb": "6.4 BB",
+      "rank": "10 / 25",
+      "chips": "645,000",
+      "bb": "12.9 BB",
       "bonus": "Top 18 11 PTS",
       "points": 1.0
     }
