@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-21T23:50:11.251055+00:00",
+  "generatedAt": "2026-06-22T00:00:17.233558+00:00",
   "leagueName": "WSOP Poker Fantasy Draft 2026",
   "sourceLabel": "25KFantasy",
   "sourceUrl": "https://www.25kfantasy.com/players/",
@@ -30,7 +30,7 @@
         },
         {
           "player": "Jon Turner",
-          "points": 57.0
+          "points": 58.0
         },
         {
           "player": "Chance Kornuth",
@@ -45,9 +45,9 @@
           "points": 29.0
         }
       ],
-      "totalPoints": 793.0,
-      "pointsChange": 1.0,
-      "pointsChangeSincePrevious": 0.0
+      "totalPoints": 794.0,
+      "pointsChange": 2.0,
+      "pointsChangeSincePrevious": 1.0
     },
     {
       "managerName": "Kush",
@@ -110,7 +110,7 @@
         },
         {
           "player": "Jon Turner",
-          "points": 57.0
+          "points": 58.0
         },
         {
           "player": "Nicholas Seward",
@@ -129,9 +129,9 @@
           "points": 7.0
         }
       ],
-      "totalPoints": 598.0,
-      "pointsChange": 1.0,
-      "pointsChangeSincePrevious": 0.0
+      "totalPoints": 599.0,
+      "pointsChange": 2.0,
+      "pointsChangeSincePrevious": 1.0
     },
     {
       "managerName": "Doinky",
