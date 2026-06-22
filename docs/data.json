@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-22T03:50:11.688065+00:00",
+  "generatedAt": "2026-06-22T04:00:16.230657+00:00",
   "leagueName": "WSOP Poker Fantasy Draft 2026",
   "sourceLabel": "25KFantasy",
   "sourceUrl": "https://www.25kfantasy.com/players/",
@@ -274,7 +274,7 @@
         },
         {
           "player": "Nick Guagenti",
-          "points": 29.0
+          "points": 30.0
         },
         {
           "player": "Allan Le",
@@ -297,9 +297,9 @@
           "points": 8.0
         }
       ],
-      "totalPoints": 300.0,
-      "pointsChange": 0.0,
-      "pointsChangeSincePrevious": 0.0
+      "totalPoints": 301.0,
+      "pointsChange": 1.0,
+      "pointsChangeSincePrevious": 1.0
     },
     {
       "managerName": "Turbo",
