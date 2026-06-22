@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-06-22T08:00:18.004549+00:00",
+  "generatedAt": "2026-06-22T08:10:16.161166+00:00",
   "league": "25k",
-  "count": 3,
+  "count": 15,
   "players": [
     {
       "player": "Nick Pupillo",
@@ -9,8 +9,19 @@
       "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-58/",
       "team": "DNegs",
       "rank": "3 / 12",
-      "chips": "1,825,000",
-      "bb": "22.8 BB",
+      "chips": "1,745,000",
+      "bb": "21.8 BB",
+      "bonus": "Locked 11 PTS",
+      "points": 11.0
+    },
+    {
+      "player": "Evan Sandberg",
+      "event": "Event #58: $1,500 Limit 2-7 Lowball Triple Draw 6-Handed",
+      "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-58/",
+      "team": "2026 ODB Bonus Players",
+      "rank": "6 / 12",
+      "chips": "1,320,000",
+      "bb": "16.5 BB",
       "bonus": "Locked 11 PTS",
       "points": 11.0
     },
@@ -20,21 +31,142 @@
       "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-58/",
       "team": "2026 ODB Bonus Players",
       "rank": "10 / 12",
-      "chips": "630,000",
-      "bb": "7.9 BB",
+      "chips": "1,025,000",
+      "bb": "12.8 BB",
       "bonus": "Locked 11 PTS",
       "points": 11.0
     },
     {
-      "player": "Evan Sandberg",
-      "event": "Event #58: $1,500 Limit 2-7 Lowball Triple Draw 6-Handed",
-      "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-58/",
+      "player": "Andreas Froehli",
+      "event": "Event #59: $500 SALUTE TO WARRIORS No-Limit Hold\u2019em",
+      "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-59/",
+      "team": "Lucky",
+      "rank": "46 / 672",
+      "chips": "724,000",
+      "bb": "60.3 BB",
+      "bonus": "Top 54 45 PTS",
+      "points": 1.0
+    },
+    {
+      "player": "Nicholas Rigby",
+      "event": "Event #59: $500 SALUTE TO WARRIORS No-Limit Hold\u2019em",
+      "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-59/",
       "team": "2026 ODB Bonus Players",
-      "rank": "12 / 12",
-      "chips": "400,000",
-      "bb": "5.0 BB",
-      "bonus": "Locked 11 PTS",
-      "points": 11.0
+      "rank": "83 / 672",
+      "chips": "572,000",
+      "bb": "47.7 BB",
+      "bonus": "Top 54 45 PTS",
+      "points": 1.0
+    },
+    {
+      "player": "Michael Wilklow",
+      "event": "Event #59: $500 SALUTE TO WARRIORS No-Limit Hold\u2019em",
+      "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-59/",
+      "team": "2026 ODB Bonus Players",
+      "rank": "100 / 672",
+      "chips": "515,000",
+      "bb": "42.9 BB",
+      "bonus": "Top 54 45 PTS",
+      "points": 1.0
+    },
+    {
+      "player": "Lexy Gavin",
+      "event": "Event #59: $500 SALUTE TO WARRIORS No-Limit Hold\u2019em",
+      "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-59/",
+      "team": "2026 ODB Bonus Players",
+      "rank": "131 / 672",
+      "chips": "477,000",
+      "bb": "39.8 BB",
+      "bonus": "Top 54 45 PTS",
+      "points": 1.0
+    },
+    {
+      "player": "Francis Anderson",
+      "event": "Event #59: $500 SALUTE TO WARRIORS No-Limit Hold\u2019em",
+      "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-59/",
+      "team": "2026 ODB Bonus Players",
+      "rank": "251 / 672",
+      "chips": "325,000",
+      "bb": "27.1 BB",
+      "bonus": "Top 54 45 PTS",
+      "points": 1.0
+    },
+    {
+      "player": "Brandon Sheils",
+      "event": "Event #59: $500 SALUTE TO WARRIORS No-Limit Hold\u2019em",
+      "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-59/",
+      "team": "Stake Kings",
+      "rank": "254 / 672",
+      "chips": "322,000",
+      "bb": "26.8 BB",
+      "bonus": "Top 54 45 PTS",
+      "points": 1.0
+    },
+    {
+      "player": "Angela Jordison",
+      "event": "Event #59: $500 SALUTE TO WARRIORS No-Limit Hold\u2019em",
+      "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-59/",
+      "team": "2026 ODB Bonus Players",
+      "rank": "294 / 672",
+      "chips": "283,000",
+      "bb": "23.6 BB",
+      "bonus": "Top 54 45 PTS",
+      "points": 1.0
+    },
+    {
+      "player": "Sean Yu",
+      "event": "Event #59: $500 SALUTE TO WARRIORS No-Limit Hold\u2019em",
+      "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-59/",
+      "team": "2026 ODB Bonus Players",
+      "rank": "322 / 672",
+      "chips": "263,000",
+      "bb": "21.9 BB",
+      "bonus": "Top 54 45 PTS",
+      "points": 1.0
+    },
+    {
+      "player": "Ari Engel",
+      "event": "Event #59: $500 SALUTE TO WARRIORS No-Limit Hold\u2019em",
+      "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-59/",
+      "team": "Lang Gang",
+      "rank": "346 / 672",
+      "chips": "247,000",
+      "bb": "20.6 BB",
+      "bonus": "Top 54 45 PTS",
+      "points": 1.0
+    },
+    {
+      "player": "Craig Chait",
+      "event": "Event #59: $500 SALUTE TO WARRIORS No-Limit Hold\u2019em",
+      "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-59/",
+      "team": "Glaser",
+      "rank": "463 / 672",
+      "chips": "185,000",
+      "bb": "15.4 BB",
+      "bonus": "Top 54 45 PTS",
+      "points": 1.0
+    },
+    {
+      "player": "Sandy Sanchez",
+      "event": "Event #59: $500 SALUTE TO WARRIORS No-Limit Hold\u2019em",
+      "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-59/",
+      "team": "2026 ODB Bonus Players",
+      "rank": "618 / 672",
+      "chips": "84,000",
+      "bb": "7.0 BB",
+      "bonus": "Top 54 45 PTS",
+      "points": 1.0
+    },
+    {
+      "player": "Christina Gollins",
+      "event": "Event #59: $500 SALUTE TO WARRIORS No-Limit Hold\u2019em",
+      "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-59/",
+      "team": "2026 ODB Bonus Players",
+      "rank": "640 / 672",
+      "chips": "69,000",
+      "bb": "5.8 BB",
+      "bonus": "Top 54 45 PTS",
+      "points": 1.0
     }
   ]
 }
