@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-22T19:30:16.167378+00:00",
+  "generatedAt": "2026-06-22T19:40:14.597047+00:00",
   "leagueName": "WSOP Poker Fantasy Draft 2026",
   "sourceLabel": "25KFantasy",
   "sourceUrl": "https://www.25kfantasy.com/players/",
@@ -122,16 +122,16 @@
         },
         {
           "player": "Ari Engel",
-          "points": 9.0
+          "points": 10.0
         },
         {
           "player": "Brock Wilson",
           "points": 7.0
         }
       ],
-      "totalPoints": 599.0,
-      "pointsChange": 0.0,
-      "pointsChangeSincePrevious": 0.0
+      "totalPoints": 600.0,
+      "pointsChange": 1.0,
+      "pointsChangeSincePrevious": 1.0
     },
     {
       "managerName": "Doinky",
