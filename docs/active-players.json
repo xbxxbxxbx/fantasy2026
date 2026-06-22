@@ -1,8 +1,41 @@
 {
-  "generatedAt": "2026-06-22T08:50:14.022414+00:00",
+  "generatedAt": "2026-06-22T09:00:20.763223+00:00",
   "league": "25k",
-  "count": 15,
+  "count": 18,
   "players": [
+    {
+      "player": "Josh McCully",
+      "event": "Event #50: $1,500 MILLIONAIRE MAKER No-Limit Hold\u2019em",
+      "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-50/",
+      "team": "Chocolate Factory",
+      "rank": "18 / 164",
+      "chips": "1,405,000",
+      "bb": "93.7 BB",
+      "bonus": "Top 81 101 PTS",
+      "points": 1.0
+    },
+    {
+      "player": "Ian Steinman",
+      "event": "Event #50: $1,500 MILLIONAIRE MAKER No-Limit Hold\u2019em",
+      "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-50/",
+      "team": "2026 ODB Bonus Players",
+      "rank": "64 / 164",
+      "chips": "720,000",
+      "bb": "48.0 BB",
+      "bonus": "Top 81 101 PTS",
+      "points": 1.0
+    },
+    {
+      "player": "Jim Collopy",
+      "event": "Event #50: $1,500 MILLIONAIRE MAKER No-Limit Hold\u2019em",
+      "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-50/",
+      "team": "Lang Gang",
+      "rank": "112 / 164",
+      "chips": "370,000",
+      "bb": "24.7 BB",
+      "bonus": "Top 81 101 PTS",
+      "points": 1.0
+    },
     {
       "player": "Nick Pupillo",
       "event": "Event #58: $1,500 Limit 2-7 Lowball Triple Draw 6-Handed",
