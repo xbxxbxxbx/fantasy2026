@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-22T07:00:18.567350+00:00",
+  "generatedAt": "2026-06-22T07:10:15.801581+00:00",
   "league": "25k",
   "count": 3,
   "players": [
@@ -10,7 +10,7 @@
       "team": "DNegs",
       "rank": "7 / 15",
       "chips": "920,000",
-      "bb": "15.3 BB",
+      "bb": "11.5 BB",
       "bonus": "Locked 11 PTS",
       "points": 11.0
     },
@@ -21,7 +21,7 @@
       "team": "2026 ODB Bonus Players",
       "rank": "11 / 15",
       "chips": "630,000",
-      "bb": "10.5 BB",
+      "bb": "7.9 BB",
       "bonus": "Locked 11 PTS",
       "points": 11.0
     },
@@ -32,7 +32,7 @@
       "team": "2026 ODB Bonus Players",
       "rank": "14 / 15",
       "chips": "400,000",
-      "bb": "6.7 BB",
+      "bb": "5.0 BB",
       "bonus": "Locked 11 PTS",
       "points": 11.0
     }
