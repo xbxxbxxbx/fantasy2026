@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-22T04:50:13.711787+00:00",
+  "generatedAt": "2026-06-22T05:00:18.424653+00:00",
   "leagueName": "WSOP Poker Fantasy Draft 2026",
   "sourceLabel": "25KFantasy",
   "sourceUrl": "https://www.25kfantasy.com/players/",
@@ -224,7 +224,7 @@
       "players": [
         {
           "player": "Jerry Wong",
-          "points": 74.0
+          "points": 75.0
         },
         {
           "player": "Jim Collopy",
@@ -255,9 +255,9 @@
           "points": 16.0
         }
       ],
-      "totalPoints": 305.0,
-      "pointsChange": 1.0,
-      "pointsChangeSincePrevious": 0.0
+      "totalPoints": 306.0,
+      "pointsChange": 2.0,
+      "pointsChangeSincePrevious": 1.0
     },
     {
       "managerName": "Gus",
@@ -270,7 +270,7 @@
         },
         {
           "player": "Jerry Wong",
-          "points": 74.0
+          "points": 75.0
         },
         {
           "player": "Nick Guagenti",
@@ -297,9 +297,9 @@
           "points": 8.0
         }
       ],
-      "totalPoints": 302.0,
-      "pointsChange": 2.0,
-      "pointsChangeSincePrevious": 0.0
+      "totalPoints": 303.0,
+      "pointsChange": 3.0,
+      "pointsChangeSincePrevious": 1.0
     },
     {
       "managerName": "Turbo",
