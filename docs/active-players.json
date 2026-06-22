@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-06-22T04:12:59.946659+00:00",
+  "generatedAt": "2026-06-22T04:20:11.984332+00:00",
   "league": "25k",
-  "count": 6,
+  "count": 5,
   "players": [
     {
       "player": "Joao Simao Peres",
@@ -19,7 +19,7 @@
       "event": "Event #58: $1,500 Limit 2-7 Lowball Triple Draw 6-Handed",
       "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-58/",
       "team": "2026 ODB Bonus Players",
-      "rank": "2 / 28",
+      "rank": "2 / 27",
       "chips": "1,135,000",
       "bb": "28.4 BB",
       "bonus": "Top 18 11 PTS",
@@ -30,7 +30,7 @@
       "event": "Event #58: $1,500 Limit 2-7 Lowball Triple Draw 6-Handed",
       "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-58/",
       "team": "2026 ODB Bonus Players",
-      "rank": "6 / 28",
+      "rank": "6 / 27",
       "chips": "820,000",
       "bb": "20.5 BB",
       "bonus": "Top 18 11 PTS",
@@ -41,7 +41,7 @@
       "event": "Event #58: $1,500 Limit 2-7 Lowball Triple Draw 6-Handed",
       "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-58/",
       "team": "DNegs",
-      "rank": "16 / 28",
+      "rank": "16 / 27",
       "chips": "495,000",
       "bb": "12.4 BB",
       "bonus": "Top 18 11 PTS",
@@ -52,20 +52,9 @@
       "event": "Event #58: $1,500 Limit 2-7 Lowball Triple Draw 6-Handed",
       "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-58/",
       "team": "Dinkers",
-      "rank": "26 / 28",
+      "rank": "26 / 27",
       "chips": "255,000",
       "bb": "6.4 BB",
-      "bonus": "Top 18 11 PTS",
-      "points": 1.0
-    },
-    {
-      "player": "Jonathan Glendinning",
-      "event": "Event #58: $1,500 Limit 2-7 Lowball Triple Draw 6-Handed",
-      "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-58/",
-      "team": "Dinkers",
-      "rank": "28 / 28",
-      "chips": "155,000",
-      "bb": "3.9 BB",
       "bonus": "Top 18 11 PTS",
       "points": 1.0
     }
