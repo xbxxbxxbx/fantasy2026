@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-22T18:10:15.937068+00:00",
+  "generatedAt": "2026-06-22T18:20:14.029546+00:00",
   "leagueName": "WSOP Poker Fantasy Draft 2026",
   "sourceLabel": "25KFantasy",
   "sourceUrl": "https://www.25kfantasy.com/players/",
@@ -60,7 +60,7 @@
         },
         {
           "player": "Kristen Foxen",
-          "points": 132.0
+          "points": 133.0
         },
         {
           "player": "Mike Leah",
@@ -87,9 +87,9 @@
           "points": 5.0
         }
       ],
-      "totalPoints": 652.0,
-      "pointsChange": 0.0,
-      "pointsChangeSincePrevious": 0.0
+      "totalPoints": 653.0,
+      "pointsChange": 1.0,
+      "pointsChangeSincePrevious": 1.0
     },
     {
       "managerName": "JeffBNT",
@@ -152,7 +152,7 @@
         },
         {
           "player": "Andrew Ostapchenko",
-          "points": 46.0
+          "points": 47.0
         },
         {
           "player": "Matt Vengrin",
@@ -171,9 +171,9 @@
           "points": 0.0
         }
       ],
-      "totalPoints": 434.0,
-      "pointsChange": 0.0,
-      "pointsChangeSincePrevious": 0.0
+      "totalPoints": 435.0,
+      "pointsChange": 1.0,
+      "pointsChangeSincePrevious": 1.0
     },
     {
       "managerName": "realbmorekid",
@@ -190,7 +190,7 @@
         },
         {
           "player": "Cherish Andrews",
-          "points": 26.0
+          "points": 27.0
         },
         {
           "player": "Esther Taylor",
@@ -213,9 +213,9 @@
           "points": 7.0
         }
       ],
-      "totalPoints": 361.0,
-      "pointsChange": 0.0,
-      "pointsChangeSincePrevious": 0.0
+      "totalPoints": 362.0,
+      "pointsChange": 1.0,
+      "pointsChangeSincePrevious": 1.0
     },
     {
       "managerName": "Ruben",
@@ -228,7 +228,7 @@
         },
         {
           "player": "Jim Collopy",
-          "points": 53.0
+          "points": 54.0
         },
         {
           "player": "Brandon Shack-Harris",
@@ -255,9 +255,9 @@
           "points": 16.0
         }
       ],
-      "totalPoints": 306.0,
-      "pointsChange": 0.0,
-      "pointsChangeSincePrevious": 0.0
+      "totalPoints": 307.0,
+      "pointsChange": 1.0,
+      "pointsChangeSincePrevious": 1.0
     },
     {
       "managerName": "Gus",
@@ -290,16 +290,16 @@
         },
         {
           "player": "Matt Glantz",
-          "points": 17.0
+          "points": 18.0
         },
         {
           "player": "Danny Wong",
           "points": 8.0
         }
       ],
-      "totalPoints": 303.0,
-      "pointsChange": 0.0,
-      "pointsChangeSincePrevious": 0.0
+      "totalPoints": 304.0,
+      "pointsChange": 1.0,
+      "pointsChangeSincePrevious": 1.0
     },
     {
       "managerName": "Turbo",
@@ -362,7 +362,7 @@
         },
         {
           "player": "Andrew Ostapchenko",
-          "points": 46.0
+          "points": 47.0
         },
         {
           "player": "Esther Taylor",
@@ -381,9 +381,9 @@
           "points": 0.0
         }
       ],
-      "totalPoints": 262.0,
-      "pointsChange": 0.0,
-      "pointsChangeSincePrevious": 0.0
+      "totalPoints": 263.0,
+      "pointsChange": 1.0,
+      "pointsChangeSincePrevious": 1.0
     }
   ],
   "failures": []
