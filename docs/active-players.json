@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-23T03:40:13.423774+00:00",
+  "generatedAt": "2026-06-23T03:50:12.067236+00:00",
   "league": "25k",
   "count": 6,
   "players": [
@@ -8,7 +8,7 @@
       "event": "Event #50: $1,500 MILLIONAIRE MAKER No-Limit Hold\u2019em",
       "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-50/",
       "team": "Chocolate Factory",
-      "rank": "12 / 90",
+      "rank": "15 / 89",
       "chips": "4,435,000",
       "bb": "44.4 BB",
       "bonus": "Top 81 101 PTS",
@@ -19,9 +19,9 @@
       "event": "Event #50: $1,500 MILLIONAIRE MAKER No-Limit Hold\u2019em",
       "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-50/",
       "team": "2026 ODB Bonus Players",
-      "rank": "61 / 90",
-      "chips": "1,915,000",
-      "bb": "19.2 BB",
+      "rank": "59 / 89",
+      "chips": "1,815,000",
+      "bb": "18.2 BB",
       "bonus": "Top 81 101 PTS",
       "points": 1.0
     },
@@ -30,7 +30,7 @@
       "event": "Event #50: $1,500 MILLIONAIRE MAKER No-Limit Hold\u2019em",
       "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-50/",
       "team": "2026 ODB Bonus Players",
-      "rank": "80 / 90",
+      "rank": "78 / 89",
       "chips": "1,245,000",
       "bb": "12.5 BB",
       "bonus": "Top 81 101 PTS",
@@ -43,7 +43,7 @@
       "team": "2026 ODB Bonus Players",
       "rank": "2 / 3",
       "chips": "5,350,000",
-      "bb": "17.8 BB",
+      "bb": "13.4 BB",
       "bonus": "Locked 11 PTS",
       "points": 0.0
     },
