@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-23T19:50:19.197258+00:00",
+  "generatedAt": "2026-06-23T20:00:29.754011+00:00",
   "leagueName": "WSOP Poker Fantasy Draft 2026",
   "sourceLabel": "25KFantasy",
   "sourceUrl": "https://www.25kfantasy.com/players/",
@@ -68,7 +68,7 @@
         },
         {
           "player": "Allen Kessler",
-          "points": 99.0
+          "points": 100.0
         },
         {
           "player": "David 'ODB' Baker",
@@ -87,9 +87,9 @@
           "points": 5.0
         }
       ],
-      "totalPoints": 655.0,
-      "pointsChange": 2.0,
-      "pointsChangeSincePrevious": 0.0
+      "totalPoints": 656.0,
+      "pointsChange": 3.0,
+      "pointsChangeSincePrevious": 1.0
     },
     {
       "managerName": "JeffBNT",
@@ -308,7 +308,7 @@
       "players": [
         {
           "player": "Allen Kessler",
-          "points": 99.0
+          "points": 100.0
         },
         {
           "player": "John Racener",
@@ -339,9 +339,9 @@
           "points": 0.0
         }
       ],
-      "totalPoints": 286.0,
-      "pointsChange": 0.0,
-      "pointsChangeSincePrevious": 0.0
+      "totalPoints": 287.0,
+      "pointsChange": 1.0,
+      "pointsChangeSincePrevious": 1.0
     },
     {
       "managerName": "Trampstamp",
