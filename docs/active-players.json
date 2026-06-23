@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-23T06:29:20.186743+00:00",
+  "generatedAt": "2026-06-23T06:30:14.958335+00:00",
   "league": "25k",
   "count": 3,
   "players": [
@@ -21,7 +21,7 @@
       "team": "2026 ODB Bonus Players",
       "rank": "2 / 41",
       "chips": "10,200,000",
-      "bb": "42.5 BB",
+      "bb": "34.0 BB",
       "bonus": "Locked 45 PTS",
       "points": 45.0
     },
@@ -32,7 +32,7 @@
       "team": "2026 ODB Bonus Players",
       "rank": "40 / 41",
       "chips": "551,000",
-      "bb": "2.3 BB",
+      "bb": "1.8 BB",
       "bonus": "Locked 45 PTS",
       "points": 45.0
     }
