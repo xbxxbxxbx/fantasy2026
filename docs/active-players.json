@@ -1,8 +1,140 @@
 {
-  "generatedAt": "2026-06-23T12:20:19.000071+00:00",
+  "generatedAt": "2026-06-23T12:30:20.299697+00:00",
   "league": "25k",
-  "count": 1,
+  "count": 13,
   "players": [
+    {
+      "player": "Schuyler Thornton",
+      "event": "Event #57: $1,000 Pot-Limit Omaha",
+      "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-57/",
+      "team": "2026 ODB Bonus Players",
+      "rank": "5 / 104",
+      "chips": "759,000",
+      "bb": "\u2014",
+      "bonus": "Top 45 38 PTS",
+      "points": 1.0
+    },
+    {
+      "player": "Ray Henson",
+      "event": "Event #57: $1,000 Pot-Limit Omaha",
+      "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-57/",
+      "team": "Blades & Shades",
+      "rank": "18 / 104",
+      "chips": "609,000",
+      "bb": "\u2014",
+      "bonus": "Top 45 38 PTS",
+      "points": 1.0
+    },
+    {
+      "player": "Lawrence Brandt",
+      "event": "Event #57: $1,000 Pot-Limit Omaha",
+      "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-57/",
+      "team": "Banana",
+      "rank": "24 / 104",
+      "chips": "539,000",
+      "bb": "\u2014",
+      "bonus": "Top 45 38 PTS",
+      "points": 1.0
+    },
+    {
+      "player": "Allan Le",
+      "event": "Event #57: $1,000 Pot-Limit Omaha",
+      "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-57/",
+      "team": "Blades & Shades",
+      "rank": "30 / 104",
+      "chips": "490,000",
+      "bb": "\u2014",
+      "bonus": "Top 45 38 PTS",
+      "points": 1.0
+    },
+    {
+      "player": "Tomasz Gluszko",
+      "event": "Event #57: $1,000 Pot-Limit Omaha",
+      "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-57/",
+      "team": "Chocolate Factory",
+      "rank": "32 / 104",
+      "chips": "452,000",
+      "bb": "\u2014",
+      "bonus": "Top 45 38 PTS",
+      "points": 1.0
+    },
+    {
+      "player": "Mike Leah",
+      "event": "Event #57: $1,000 Pot-Limit Omaha",
+      "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-57/",
+      "team": "Lang Gang",
+      "rank": "46 / 104",
+      "chips": "348,000",
+      "bb": "\u2014",
+      "bonus": "Top 45 38 PTS",
+      "points": 1.0
+    },
+    {
+      "player": "Gabriel Andrade",
+      "event": "Event #57: $1,000 Pot-Limit Omaha",
+      "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-57/",
+      "team": "Verderamo",
+      "rank": "54 / 104",
+      "chips": "310,000",
+      "bb": "\u2014",
+      "bonus": "Top 45 38 PTS",
+      "points": 1.0
+    },
+    {
+      "player": "Robert Mizrachi",
+      "event": "Event #57: $1,000 Pot-Limit Omaha",
+      "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-57/",
+      "team": "Very Handsome Horses",
+      "rank": "60 / 104",
+      "chips": "273,000",
+      "bb": "\u2014",
+      "bonus": "Top 45 38 PTS",
+      "points": 1.0
+    },
+    {
+      "player": "Justin Fawcett",
+      "event": "Event #57: $1,000 Pot-Limit Omaha",
+      "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-57/",
+      "team": "Premiums Only",
+      "rank": "70 / 104",
+      "chips": "214,000",
+      "bb": "\u2014",
+      "bonus": "Top 45 38 PTS",
+      "points": 1.0
+    },
+    {
+      "player": "Andreas Froehli",
+      "event": "Event #57: $1,000 Pot-Limit Omaha",
+      "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-57/",
+      "team": "Lucky",
+      "rank": "82 / 104",
+      "chips": "137,000",
+      "bb": "\u2014",
+      "bonus": "Top 45 38 PTS",
+      "points": 1.0
+    },
+    {
+      "player": "Yuval Bronshtein",
+      "event": "Event #57: $1,000 Pot-Limit Omaha",
+      "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-57/",
+      "team": "Premiums Only",
+      "rank": "86 / 104",
+      "chips": "124,000",
+      "bb": "\u2014",
+      "bonus": "Top 45 38 PTS",
+      "points": 1.0
+    },
+    {
+      "player": "Daniel Negreanu",
+      "event": "Event #57: $1,000 Pot-Limit Omaha",
+      "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-57/",
+      "team": "DNegs",
+      "rank": "98 / 104",
+      "chips": "87,000",
+      "bb": "\u2014",
+      "bonus": "Top 45 38 PTS",
+      "points": 1.0
+    },
     {
       "player": "Lexy Gavin",
       "event": "Event #59: $500 SALUTE TO WARRIORS No-Limit Hold\u2019em",
