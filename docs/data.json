@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-23T19:19:52.927567+00:00",
+  "generatedAt": "2026-06-23T19:20:19.035752+00:00",
   "leagueName": "WSOP Poker Fantasy Draft 2026",
   "sourceLabel": "25KFantasy",
   "sourceUrl": "https://www.25kfantasy.com/players/",
@@ -22,7 +22,7 @@
         },
         {
           "player": "Mike Leah",
-          "points": 105.0
+          "points": 106.0
         },
         {
           "player": "Jason Koon",
@@ -45,9 +45,9 @@
           "points": 29.0
         }
       ],
-      "totalPoints": 794.0,
-      "pointsChange": 0.0,
-      "pointsChangeSincePrevious": 0.0
+      "totalPoints": 795.0,
+      "pointsChange": 1.0,
+      "pointsChangeSincePrevious": 1.0
     },
     {
       "managerName": "Kush",
@@ -64,7 +64,7 @@
         },
         {
           "player": "Mike Leah",
-          "points": 105.0
+          "points": 106.0
         },
         {
           "player": "Allen Kessler",
@@ -76,7 +76,7 @@
         },
         {
           "player": "Ben Yu",
-          "points": 16.0
+          "points": 17.0
         },
         {
           "player": "Viktor Blom",
@@ -87,9 +87,9 @@
           "points": 5.0
         }
       ],
-      "totalPoints": 653.0,
-      "pointsChange": 0.0,
-      "pointsChangeSincePrevious": 0.0
+      "totalPoints": 655.0,
+      "pointsChange": 2.0,
+      "pointsChangeSincePrevious": 2.0
     },
     {
       "managerName": "JeffBNT",
@@ -118,7 +118,7 @@
         },
         {
           "player": "Ben Yu",
-          "points": 16.0
+          "points": 17.0
         },
         {
           "player": "Ari Engel",
@@ -129,9 +129,9 @@
           "points": 7.0
         }
       ],
-      "totalPoints": 600.0,
-      "pointsChange": 0.0,
-      "pointsChangeSincePrevious": 0.0
+      "totalPoints": 601.0,
+      "pointsChange": 1.0,
+      "pointsChangeSincePrevious": 1.0
     },
     {
       "managerName": "Doinky",
@@ -198,7 +198,7 @@
         },
         {
           "player": "Christian Harder",
-          "points": 15.0
+          "points": 16.0
         },
         {
           "player": "Shannon Shorr",
@@ -213,9 +213,9 @@
           "points": 7.0
         }
       ],
-      "totalPoints": 362.0,
-      "pointsChange": 0.0,
-      "pointsChangeSincePrevious": 0.0
+      "totalPoints": 363.0,
+      "pointsChange": 1.0,
+      "pointsChangeSincePrevious": 1.0
     },
     {
       "managerName": "Ruben",
@@ -278,7 +278,7 @@
         },
         {
           "player": "Allan Le",
-          "points": 24.0
+          "points": 25.0
         },
         {
           "player": "Phillip Hui",
@@ -297,9 +297,9 @@
           "points": 8.0
         }
       ],
-      "totalPoints": 304.0,
-      "pointsChange": 0.0,
-      "pointsChangeSincePrevious": 0.0
+      "totalPoints": 305.0,
+      "pointsChange": 1.0,
+      "pointsChangeSincePrevious": 1.0
     },
     {
       "managerName": "Turbo",
