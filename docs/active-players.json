@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-23T02:40:13.126504+00:00",
+  "generatedAt": "2026-06-23T02:50:14.074336+00:00",
   "league": "25k",
   "count": 7,
   "players": [
@@ -8,7 +8,7 @@
       "event": "Event #50: $1,500 MILLIONAIRE MAKER No-Limit Hold\u2019em",
       "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-50/",
       "team": "Chocolate Factory",
-      "rank": "11 / 103",
+      "rank": "12 / 101",
       "chips": "4,435,000",
       "bb": "44.4 BB",
       "bonus": "Top 81 101 PTS",
@@ -19,7 +19,7 @@
       "event": "Event #50: $1,500 MILLIONAIRE MAKER No-Limit Hold\u2019em",
       "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-50/",
       "team": "2026 ODB Bonus Players",
-      "rank": "64 / 103",
+      "rank": "64 / 101",
       "chips": "1,915,000",
       "bb": "19.2 BB",
       "bonus": "Top 81 101 PTS",
@@ -30,7 +30,7 @@
       "event": "Event #50: $1,500 MILLIONAIRE MAKER No-Limit Hold\u2019em",
       "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-50/",
       "team": "2026 ODB Bonus Players",
-      "rank": "85 / 103",
+      "rank": "85 / 101",
       "chips": "1,245,000",
       "bb": "12.5 BB",
       "bonus": "Top 81 101 PTS",
@@ -43,7 +43,7 @@
       "team": "2026 ODB Bonus Players",
       "rank": "2 / 3",
       "chips": "4,220,000",
-      "bb": "14.1 BB",
+      "bb": "10.6 BB",
       "bonus": "Locked 11 PTS",
       "points": 0.0
     },
@@ -54,7 +54,7 @@
       "team": "2026 ODB Bonus Players",
       "rank": "2 / 89",
       "chips": "6,515,000",
-      "bb": "81.4 BB",
+      "bb": "65.2 BB",
       "bonus": "Top 54 45 PTS",
       "points": 1.0
     },
@@ -65,7 +65,7 @@
       "team": "2026 ODB Bonus Players",
       "rank": "45 / 89",
       "chips": "1,980,000",
-      "bb": "24.8 BB",
+      "bb": "19.8 BB",
       "bonus": "Top 54 45 PTS",
       "points": 1.0
     },
@@ -76,7 +76,7 @@
       "team": "2026 ODB Bonus Players",
       "rank": "85 / 89",
       "chips": "551,000",
-      "bb": "6.9 BB",
+      "bb": "5.5 BB",
       "bonus": "Top 54 45 PTS",
       "points": 1.0
     }
