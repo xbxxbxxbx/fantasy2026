@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-06-23T06:30:14.958335+00:00",
+  "generatedAt": "2026-06-23T06:40:13.958825+00:00",
   "league": "25k",
-  "count": 3,
+  "count": 2,
   "players": [
     {
       "player": "Daniel Strelitz",
@@ -19,20 +19,9 @@
       "event": "Event #59: $500 SALUTE TO WARRIORS No-Limit Hold\u2019em",
       "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-59/",
       "team": "2026 ODB Bonus Players",
-      "rank": "2 / 41",
+      "rank": "2 / 39",
       "chips": "10,200,000",
       "bb": "34.0 BB",
-      "bonus": "Locked 45 PTS",
-      "points": 45.0
-    },
-    {
-      "player": "Sandy Sanchez",
-      "event": "Event #59: $500 SALUTE TO WARRIORS No-Limit Hold\u2019em",
-      "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-59/",
-      "team": "2026 ODB Bonus Players",
-      "rank": "40 / 41",
-      "chips": "551,000",
-      "bb": "1.8 BB",
       "bonus": "Locked 45 PTS",
       "points": 45.0
     }
