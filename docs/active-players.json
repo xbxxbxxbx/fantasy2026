@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-23T04:55:11.259564+00:00",
+  "generatedAt": "2026-06-23T05:00:18.213482+00:00",
   "league": "25k",
   "count": 4,
   "players": [
@@ -8,9 +8,9 @@
       "event": "Event #50: $1,500 MILLIONAIRE MAKER No-Limit Hold\u2019em",
       "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-50/",
       "team": "2026 ODB Bonus Players",
-      "rank": "68 / 74",
+      "rank": "67 / 73",
       "chips": "1,245,000",
-      "bb": "10.4 BB",
+      "bb": "8.3 BB",
       "bonus": "Locked 101 PTS",
       "points": 101.0
     },
@@ -31,8 +31,8 @@
       "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-59/",
       "team": "2026 ODB Bonus Players",
       "rank": "2 / 57",
-      "chips": "9,800,000",
-      "bb": "65.3 BB",
+      "chips": "10,200,000",
+      "bb": "68.0 BB",
       "bonus": "Top 54 45 PTS",
       "points": 1.0
     },
@@ -41,7 +41,7 @@
       "event": "Event #59: $500 SALUTE TO WARRIORS No-Limit Hold\u2019em",
       "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-59/",
       "team": "2026 ODB Bonus Players",
-      "rank": "54 / 57",
+      "rank": "55 / 57",
       "chips": "551,000",
       "bb": "3.7 BB",
       "bonus": "Top 54 45 PTS",
