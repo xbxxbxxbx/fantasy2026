@@ -1,14 +1,14 @@
 {
-  "generatedAt": "2026-06-24T19:10:14.487284+00:00",
+  "generatedAt": "2026-06-24T19:20:14.327893+00:00",
   "league": "25k",
-  "count": 18,
+  "count": 17,
   "players": [
     {
       "player": "Schuyler Thornton",
       "event": "Event #57: $1,000 Pot-Limit Omaha",
       "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-57/",
       "team": "2026 ODB Bonus Players",
-      "rank": "5 / 21",
+      "rank": "5 / 20",
       "chips": "4,850,000",
       "bb": "\u2014",
       "bonus": "Locked 38 PTS",
@@ -162,7 +162,7 @@
       "event": "Event #62: $2,500 No-Limit Hold\u2019em",
       "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-62/",
       "team": "Torching with TJ",
-      "rank": "10 / 33",
+      "rank": "10 / 31",
       "chips": "1,585,000",
       "bb": "26.4 BB",
       "bonus": "Top 27 18 PTS",
@@ -173,7 +173,7 @@
       "event": "Event #62: $2,500 No-Limit Hold\u2019em",
       "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-62/",
       "team": "2026 ODB Bonus Players",
-      "rank": "11 / 33",
+      "rank": "11 / 31",
       "chips": "1,520,000",
       "bb": "25.3 BB",
       "bonus": "Top 27 18 PTS",
@@ -184,20 +184,9 @@
       "event": "Event #62: $2,500 No-Limit Hold\u2019em",
       "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-62/",
       "team": "Back Office",
-      "rank": "28 / 33",
+      "rank": "28 / 31",
       "chips": "880,000",
       "bb": "14.7 BB",
-      "bonus": "Top 27 18 PTS",
-      "points": 1.0
-    },
-    {
-      "player": "Blaz Zerjav",
-      "event": "Event #62: $2,500 No-Limit Hold\u2019em",
-      "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-62/",
-      "team": "Glaser",
-      "rank": "29 / 33",
-      "chips": "720,000",
-      "bb": "12.0 BB",
       "bonus": "Top 27 18 PTS",
       "points": 1.0
     }
