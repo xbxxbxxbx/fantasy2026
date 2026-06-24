@@ -1,26 +1,15 @@
 {
-  "generatedAt": "2026-06-24T06:10:13.359904+00:00",
+  "generatedAt": "2026-06-24T06:20:13.480767+00:00",
   "league": "25k",
-  "count": 8,
+  "count": 7,
   "players": [
     {
       "player": "Schuyler Thornton",
       "event": "Event #57: $1,000 Pot-Limit Omaha",
       "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-57/",
       "team": "2026 ODB Bonus Players",
-      "rank": "4 / 29",
+      "rank": "4 / 27",
       "chips": "3,630,000",
-      "bb": "\u2014",
-      "bonus": "Locked 38 PTS",
-      "points": 38.0
-    },
-    {
-      "player": "Lawrence Brandt",
-      "event": "Event #57: $1,000 Pot-Limit Omaha",
-      "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-57/",
-      "team": "Banana",
-      "rank": "25 / 29",
-      "chips": "1,500,000",
       "bb": "\u2014",
       "bonus": "Locked 38 PTS",
       "points": 38.0
@@ -30,7 +19,7 @@
       "event": "Event #57: $1,000 Pot-Limit Omaha",
       "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-57/",
       "team": "Trump Power",
-      "rank": "27 / 29",
+      "rank": "25 / 27",
       "chips": "820,000",
       "bb": "\u2014",
       "bonus": "Locked 38 PTS",
@@ -41,9 +30,9 @@
       "event": "Event #62: $2,500 No-Limit Hold\u2019em",
       "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-62/",
       "team": "Lucky",
-      "rank": "9 / 38",
+      "rank": "8 / 38",
       "chips": "1,530,000",
-      "bb": "38.3 BB",
+      "bb": "30.6 BB",
       "bonus": "Top 27 18 PTS",
       "points": 1.0
     },
@@ -52,9 +41,9 @@
       "event": "Event #62: $2,500 No-Limit Hold\u2019em",
       "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-62/",
       "team": "2026 ODB Bonus Players",
-      "rank": "10 / 38",
+      "rank": "9 / 38",
       "chips": "1,520,000",
-      "bb": "38.0 BB",
+      "bb": "30.4 BB",
       "bonus": "Top 27 18 PTS",
       "points": 1.0
     },
@@ -65,7 +54,7 @@
       "team": "Glaser",
       "rank": "15 / 38",
       "chips": "1,375,000",
-      "bb": "34.4 BB",
+      "bb": "27.5 BB",
       "bonus": "Top 27 18 PTS",
       "points": 1.0
     },
@@ -76,7 +65,7 @@
       "team": "Torching with TJ",
       "rank": "21 / 38",
       "chips": "1,205,000",
-      "bb": "30.1 BB",
+      "bb": "24.1 BB",
       "bonus": "Top 27 18 PTS",
       "points": 1.0
     },
@@ -87,7 +76,7 @@
       "team": "Back Office",
       "rank": "25 / 38",
       "chips": "945,000",
-      "bb": "23.6 BB",
+      "bb": "18.9 BB",
       "bonus": "Top 27 18 PTS",
       "points": 1.0
     }
