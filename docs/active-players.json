@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-24T20:20:12.463665+00:00",
+  "generatedAt": "2026-06-24T20:30:15.745006+00:00",
   "league": "25k",
   "count": 15,
   "players": [
@@ -151,9 +151,9 @@
       "event": "Event #62: $2,500 No-Limit Hold\u2019em",
       "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-62/",
       "team": "Torching with TJ",
-      "rank": "9 / 25",
-      "chips": "1,585,000",
-      "bb": "19.8 BB",
+      "rank": "6 / 23",
+      "chips": "4,260,000",
+      "bb": "53.3 BB",
       "bonus": "Locked 18 PTS",
       "points": 18.0
     },
@@ -162,7 +162,7 @@
       "event": "Event #62: $2,500 No-Limit Hold\u2019em",
       "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-62/",
       "team": "2026 ODB Bonus Players",
-      "rank": "10 / 25",
+      "rank": "11 / 23",
       "chips": "1,520,000",
       "bb": "19.0 BB",
       "bonus": "Locked 18 PTS",
