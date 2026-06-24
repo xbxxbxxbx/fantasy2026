@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-24T07:10:12.146645+00:00",
+  "generatedAt": "2026-06-24T07:20:14.009329+00:00",
   "league": "25k",
   "count": 6,
   "players": [
@@ -30,20 +30,9 @@
       "event": "Event #62: $2,500 No-Limit Hold\u2019em",
       "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-62/",
       "team": "2026 ODB Bonus Players",
-      "rank": "8 / 35",
+      "rank": "9 / 34",
       "chips": "1,520,000",
       "bb": "30.4 BB",
-      "bonus": "Top 27 18 PTS",
-      "points": 1.0
-    },
-    {
-      "player": "Blaz Zerjav",
-      "event": "Event #62: $2,500 No-Limit Hold\u2019em",
-      "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-62/",
-      "team": "Glaser",
-      "rank": "13 / 35",
-      "chips": "1,375,000",
-      "bb": "27.5 BB",
       "bonus": "Top 27 18 PTS",
       "points": 1.0
     },
@@ -52,7 +41,7 @@
       "event": "Event #62: $2,500 No-Limit Hold\u2019em",
       "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-62/",
       "team": "Torching with TJ",
-      "rank": "17 / 35",
+      "rank": "18 / 34",
       "chips": "1,205,000",
       "bb": "24.1 BB",
       "bonus": "Top 27 18 PTS",
@@ -63,9 +52,20 @@
       "event": "Event #62: $2,500 No-Limit Hold\u2019em",
       "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-62/",
       "team": "Back Office",
-      "rank": "21 / 35",
-      "chips": "945,000",
-      "bb": "18.9 BB",
+      "rank": "23 / 34",
+      "chips": "880,000",
+      "bb": "17.6 BB",
+      "bonus": "Top 27 18 PTS",
+      "points": 1.0
+    },
+    {
+      "player": "Blaz Zerjav",
+      "event": "Event #62: $2,500 No-Limit Hold\u2019em",
+      "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-62/",
+      "team": "Glaser",
+      "rank": "27 / 34",
+      "chips": "720,000",
+      "bb": "14.4 BB",
       "bonus": "Top 27 18 PTS",
       "points": 1.0
     }
