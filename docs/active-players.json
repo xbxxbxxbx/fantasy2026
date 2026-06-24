@@ -1,14 +1,14 @@
 {
-  "generatedAt": "2026-06-24T21:17:02.981103+00:00",
+  "generatedAt": "2026-06-24T21:20:11.614246+00:00",
   "league": "25k",
-  "count": 14,
+  "count": 33,
   "players": [
     {
       "player": "Schuyler Thornton",
       "event": "Event #57: $1,000 Pot-Limit Omaha",
       "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-57/",
       "team": "2026 ODB Bonus Players",
-      "rank": "6 / 14",
+      "rank": "7 / 14",
       "chips": "4,850,000",
       "bb": "\u2014",
       "bonus": "Locked 38 PTS",
@@ -21,7 +21,7 @@
       "team": "Chocolate Factory",
       "rank": "1 / 13",
       "chips": "4,855,000",
-      "bb": "194.2 BB",
+      "bb": "161.8 BB",
       "bonus": "Locked 0 PTS",
       "points": 16.0
     },
@@ -32,7 +32,7 @@
       "team": "Fleyshman",
       "rank": "2 / 13",
       "chips": "4,415,000",
-      "bb": "176.6 BB",
+      "bb": "147.2 BB",
       "bonus": "Locked 0 PTS",
       "points": 16.0
     },
@@ -43,7 +43,7 @@
       "team": "Browndog",
       "rank": "3 / 13",
       "chips": "2,850,000",
-      "bb": "114.0 BB",
+      "bb": "95.0 BB",
       "bonus": "Locked 0 PTS",
       "points": 16.0
     },
@@ -54,7 +54,7 @@
       "team": "Verderamo",
       "rank": "4 / 13",
       "chips": "2,700,000",
-      "bb": "108.0 BB",
+      "bb": "90.0 BB",
       "bonus": "Locked 0 PTS",
       "points": 16.0
     },
@@ -65,7 +65,7 @@
       "team": "Verderamo",
       "rank": "6 / 13",
       "chips": "2,475,000",
-      "bb": "99.0 BB",
+      "bb": "82.5 BB",
       "bonus": "Locked 0 PTS",
       "points": 16.0
     },
@@ -76,7 +76,7 @@
       "team": "DNegs",
       "rank": "7 / 13",
       "chips": "2,350,000",
-      "bb": "94.0 BB",
+      "bb": "78.3 BB",
       "bonus": "Locked 0 PTS",
       "points": 16.0
     },
@@ -87,7 +87,7 @@
       "team": "Blez/NGNF",
       "rank": "8 / 13",
       "chips": "2,265,000",
-      "bb": "90.6 BB",
+      "bb": "75.5 BB",
       "bonus": "Locked 0 PTS",
       "points": 16.0
     },
@@ -98,7 +98,7 @@
       "team": "Torching with TJ",
       "rank": "9 / 13",
       "chips": "2,060,000",
-      "bb": "82.4 BB",
+      "bb": "68.7 BB",
       "bonus": "Locked 0 PTS",
       "points": 16.0
     },
@@ -109,7 +109,7 @@
       "team": "Browndog",
       "rank": "10 / 13",
       "chips": "1,660,000",
-      "bb": "66.4 BB",
+      "bb": "55.3 BB",
       "bonus": "Locked 0 PTS",
       "points": 16.0
     },
@@ -120,7 +120,7 @@
       "team": "Blades & Shades",
       "rank": "11 / 13",
       "chips": "1,485,000",
-      "bb": "59.4 BB",
+      "bb": "49.5 BB",
       "bonus": "Locked 0 PTS",
       "points": 16.0
     },
@@ -131,7 +131,7 @@
       "team": "Blades & Shades",
       "rank": "12 / 13",
       "chips": "1,080,000",
-      "bb": "43.2 BB",
+      "bb": "36.0 BB",
       "bonus": "Locked 0 PTS",
       "points": 16.0
     },
@@ -142,7 +142,7 @@
       "team": "2026 ODB Bonus Players",
       "rank": "1 / 18",
       "chips": "6,665,000",
-      "bb": "83.3 BB",
+      "bb": "66.7 BB",
       "bonus": "Locked 18 PTS",
       "points": 22.0
     },
@@ -153,9 +153,218 @@
       "team": "Torching with TJ",
       "rank": "3 / 18",
       "chips": "4,880,000",
-      "bb": "61.0 BB",
+      "bb": "48.8 BB",
       "bonus": "Locked 18 PTS",
       "points": 22.0
+    },
+    {
+      "player": "Martin Zamani",
+      "event": "Event #65: $1,500 Freezeout No-Limit Hold'em",
+      "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-65/",
+      "team": "Gators",
+      "rank": "25 / 393",
+      "chips": "341,000",
+      "bb": "56.8 BB",
+      "bonus": "Top 36 27 PTS",
+      "points": 1.0
+    },
+    {
+      "player": "Frederic Normand",
+      "event": "Event #65: $1,500 Freezeout No-Limit Hold'em",
+      "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-65/",
+      "team": "Chocolate Factory",
+      "rank": "56 / 393",
+      "chips": "284,000",
+      "bb": "47.3 BB",
+      "bonus": "Top 36 27 PTS",
+      "points": 1.0
+    },
+    {
+      "player": "Eric Baldwin",
+      "event": "Event #65: $1,500 Freezeout No-Limit Hold'em",
+      "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-65/",
+      "team": "2026 ODB Bonus Players",
+      "rank": "69 / 393",
+      "chips": "268,000",
+      "bb": "44.7 BB",
+      "bonus": "Top 36 27 PTS",
+      "points": 1.0
+    },
+    {
+      "player": "Michael Gathy",
+      "event": "Event #65: $1,500 Freezeout No-Limit Hold'em",
+      "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-65/",
+      "team": "Chocolate Factory",
+      "rank": "111 / 393",
+      "chips": "203,000",
+      "bb": "33.8 BB",
+      "bonus": "Top 36 27 PTS",
+      "points": 1.0
+    },
+    {
+      "player": "Francis Anderson",
+      "event": "Event #65: $1,500 Freezeout No-Limit Hold'em",
+      "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-65/",
+      "team": "2026 ODB Bonus Players",
+      "rank": "118 / 393",
+      "chips": "195,000",
+      "bb": "32.5 BB",
+      "bonus": "Top 36 27 PTS",
+      "points": 1.0
+    },
+    {
+      "player": "John Bunch",
+      "event": "Event #65: $1,500 Freezeout No-Limit Hold'em",
+      "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-65/",
+      "team": "2026 ODB Bonus Players",
+      "rank": "171 / 393",
+      "chips": "163,000",
+      "bb": "27.2 BB",
+      "bonus": "Top 36 27 PTS",
+      "points": 1.0
+    },
+    {
+      "player": "Andrew 'A.J.' Kelsall",
+      "event": "Event #65: $1,500 Freezeout No-Limit Hold'em",
+      "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-65/",
+      "team": "Premiums Only",
+      "rank": "177 / 393",
+      "chips": "159,000",
+      "bb": "26.5 BB",
+      "bonus": "Top 36 27 PTS",
+      "points": 1.0
+    },
+    {
+      "player": "Aram Zobian",
+      "event": "Event #65: $1,500 Freezeout No-Limit Hold'em",
+      "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-65/",
+      "team": "Dinkers",
+      "rank": "178 / 393",
+      "chips": "158,000",
+      "bb": "26.3 BB",
+      "bonus": "Top 36 27 PTS",
+      "points": 1.0
+    },
+    {
+      "player": "Nick Palma",
+      "event": "Event #65: $1,500 Freezeout No-Limit Hold'em",
+      "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-65/",
+      "team": "2026 ODB Bonus Players",
+      "rank": "184 / 393",
+      "chips": "154,000",
+      "bb": "25.7 BB",
+      "bonus": "Top 36 27 PTS",
+      "points": 1.0
+    },
+    {
+      "player": "Brian Green",
+      "event": "Event #65: $1,500 Freezeout No-Limit Hold'em",
+      "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-65/",
+      "team": "2026 ODB Bonus Players",
+      "rank": "188 / 393",
+      "chips": "150,000",
+      "bb": "25.0 BB",
+      "bonus": "Top 36 27 PTS",
+      "points": 1.0
+    },
+    {
+      "player": "David Mzareulov",
+      "event": "Event #65: $1,500 Freezeout No-Limit Hold'em",
+      "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-65/",
+      "team": "2026 ODB Bonus Players",
+      "rank": "199 / 393",
+      "chips": "138,000",
+      "bb": "23.0 BB",
+      "bonus": "Top 36 27 PTS",
+      "points": 1.0
+    },
+    {
+      "player": "Brian Hastings",
+      "event": "Event #65: $1,500 Freezeout No-Limit Hold'em",
+      "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-65/",
+      "team": "Banana",
+      "rank": "213 / 393",
+      "chips": "128,000",
+      "bb": "21.3 BB",
+      "bonus": "Top 36 27 PTS",
+      "points": 1.0
+    },
+    {
+      "player": "David Coleman",
+      "event": "Event #65: $1,500 Freezeout No-Limit Hold'em",
+      "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-65/",
+      "team": "Banana",
+      "rank": "242 / 393",
+      "chips": "112,000",
+      "bb": "18.7 BB",
+      "bonus": "Top 36 27 PTS",
+      "points": 1.0
+    },
+    {
+      "player": "Christian Harder",
+      "event": "Event #65: $1,500 Freezeout No-Limit Hold'em",
+      "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-65/",
+      "team": "Fleyshman",
+      "rank": "270 / 393",
+      "chips": "97,000",
+      "bb": "16.2 BB",
+      "bonus": "Top 36 27 PTS",
+      "points": 1.0
+    },
+    {
+      "player": "Ryan Laplante",
+      "event": "Event #65: $1,500 Freezeout No-Limit Hold'em",
+      "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-65/",
+      "team": "2026 ODB Bonus Players",
+      "rank": "282 / 393",
+      "chips": "89,000",
+      "bb": "14.8 BB",
+      "bonus": "Top 36 27 PTS",
+      "points": 1.0
+    },
+    {
+      "player": "Shawn Buchanan",
+      "event": "Event #65: $1,500 Freezeout No-Limit Hold'em",
+      "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-65/",
+      "team": "Noori",
+      "rank": "320 / 393",
+      "chips": "72,000",
+      "bb": "12.0 BB",
+      "bonus": "Top 36 27 PTS",
+      "points": 1.0
+    },
+    {
+      "player": "Ben Yu",
+      "event": "Event #65: $1,500 Freezeout No-Limit Hold'em",
+      "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-65/",
+      "team": "Back Office",
+      "rank": "326 / 393",
+      "chips": "67,000",
+      "bb": "11.2 BB",
+      "bonus": "Top 36 27 PTS",
+      "points": 1.0
+    },
+    {
+      "player": "Valentin Vornicu",
+      "event": "Event #65: $1,500 Freezeout No-Limit Hold'em",
+      "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-65/",
+      "team": "Fleyshman",
+      "rank": "346 / 393",
+      "chips": "59,000",
+      "bb": "9.8 BB",
+      "bonus": "Top 36 27 PTS",
+      "points": 1.0
+    },
+    {
+      "player": "Phillip Hui",
+      "event": "Event #65: $1,500 Freezeout No-Limit Hold'em",
+      "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-65/",
+      "team": "Blades & Shades",
+      "rank": "383 / 393",
+      "chips": "33,000",
+      "bb": "5.5 BB",
+      "bonus": "Top 36 27 PTS",
+      "points": 1.0
     }
   ]
 }
