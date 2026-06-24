@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-24T21:00:20.736587+00:00",
+  "generatedAt": "2026-06-24T21:10:17.754099+00:00",
   "league": "25k",
   "count": 14,
   "players": [
@@ -20,8 +20,8 @@
       "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-60/",
       "team": "Chocolate Factory",
       "rank": "1 / 13",
-      "chips": "4,705,000",
-      "bb": "188.2 BB",
+      "chips": "4,855,000",
+      "bb": "194.2 BB",
       "bonus": "Locked 0 PTS",
       "points": 16.0
     },
@@ -31,8 +31,8 @@
       "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-60/",
       "team": "Fleyshman",
       "rank": "2 / 13",
-      "chips": "4,020,000",
-      "bb": "160.8 BB",
+      "chips": "4,415,000",
+      "bb": "176.6 BB",
       "bonus": "Locked 0 PTS",
       "points": 16.0
     },
@@ -41,31 +41,9 @@
       "event": "Event #60: $50,000 Poker Players Championship",
       "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-60/",
       "team": "Browndog",
-      "rank": "4 / 13",
+      "rank": "3 / 13",
       "chips": "2,850,000",
       "bb": "114.0 BB",
-      "bonus": "Locked 0 PTS",
-      "points": 16.0
-    },
-    {
-      "player": "Jason Mercier",
-      "event": "Event #60: $50,000 Poker Players Championship",
-      "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-60/",
-      "team": "Verderamo",
-      "rank": "5 / 13",
-      "chips": "2,780,000",
-      "bb": "111.2 BB",
-      "bonus": "Locked 0 PTS",
-      "points": 16.0
-    },
-    {
-      "player": "Josh Arieh",
-      "event": "Event #60: $50,000 Poker Players Championship",
-      "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-60/",
-      "team": "DNegs",
-      "rank": "6 / 13",
-      "chips": "2,640,000",
-      "bb": "105.6 BB",
       "bonus": "Locked 0 PTS",
       "points": 16.0
     },
@@ -74,31 +52,31 @@
       "event": "Event #60: $50,000 Poker Players Championship",
       "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-60/",
       "team": "Verderamo",
+      "rank": "4 / 13",
+      "chips": "2,700,000",
+      "bb": "108.0 BB",
+      "bonus": "Locked 0 PTS",
+      "points": 16.0
+    },
+    {
+      "player": "Jason Mercier",
+      "event": "Event #60: $50,000 Poker Players Championship",
+      "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-60/",
+      "team": "Verderamo",
+      "rank": "6 / 13",
+      "chips": "2,475,000",
+      "bb": "99.0 BB",
+      "bonus": "Locked 0 PTS",
+      "points": 16.0
+    },
+    {
+      "player": "Josh Arieh",
+      "event": "Event #60: $50,000 Poker Players Championship",
+      "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-60/",
+      "team": "DNegs",
       "rank": "7 / 13",
-      "chips": "2,555,000",
-      "bb": "102.2 BB",
-      "bonus": "Locked 0 PTS",
-      "points": 16.0
-    },
-    {
-      "player": "Alex Livingston",
-      "event": "Event #60: $50,000 Poker Players Championship",
-      "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-60/",
-      "team": "Torching with TJ",
-      "rank": "8 / 13",
-      "chips": "2,330,000",
-      "bb": "93.2 BB",
-      "bonus": "Locked 0 PTS",
-      "points": 16.0
-    },
-    {
-      "player": "Maxx Coleman",
-      "event": "Event #60: $50,000 Poker Players Championship",
-      "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-60/",
-      "team": "Browndog",
-      "rank": "9 / 13",
-      "chips": "1,780,000",
-      "bb": "71.2 BB",
+      "chips": "2,350,000",
+      "bb": "94.0 BB",
       "bonus": "Locked 0 PTS",
       "points": 16.0
     },
@@ -107,9 +85,31 @@
       "event": "Event #60: $50,000 Poker Players Championship",
       "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-60/",
       "team": "Blez/NGNF",
+      "rank": "8 / 13",
+      "chips": "2,265,000",
+      "bb": "90.6 BB",
+      "bonus": "Locked 0 PTS",
+      "points": 16.0
+    },
+    {
+      "player": "Alex Livingston",
+      "event": "Event #60: $50,000 Poker Players Championship",
+      "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-60/",
+      "team": "Torching with TJ",
+      "rank": "9 / 13",
+      "chips": "2,060,000",
+      "bb": "82.4 BB",
+      "bonus": "Locked 0 PTS",
+      "points": 16.0
+    },
+    {
+      "player": "Maxx Coleman",
+      "event": "Event #60: $50,000 Poker Players Championship",
+      "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-60/",
+      "team": "Browndog",
       "rank": "10 / 13",
-      "chips": "1,565,000",
-      "bb": "62.6 BB",
+      "chips": "1,660,000",
+      "bb": "66.4 BB",
       "bonus": "Locked 0 PTS",
       "points": 16.0
     },
@@ -119,8 +119,8 @@
       "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-60/",
       "team": "Blades & Shades",
       "rank": "11 / 13",
-      "chips": "1,550,000",
-      "bb": "62.0 BB",
+      "chips": "1,485,000",
+      "bb": "59.4 BB",
       "bonus": "Locked 0 PTS",
       "points": 16.0
     },
@@ -129,33 +129,33 @@
       "event": "Event #60: $50,000 Poker Players Championship",
       "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-60/",
       "team": "Blades & Shades",
-      "rank": "13 / 13",
-      "chips": "840,000",
-      "bb": "33.6 BB",
+      "rank": "12 / 13",
+      "chips": "1,080,000",
+      "bb": "43.2 BB",
       "bonus": "Locked 0 PTS",
       "points": 16.0
-    },
-    {
-      "player": "Josh Reichard",
-      "event": "Event #62: $2,500 No-Limit Hold\u2019em",
-      "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-62/",
-      "team": "Torching with TJ",
-      "rank": "6 / 19",
-      "chips": "4,260,000",
-      "bb": "53.3 BB",
-      "bonus": "Locked 18 PTS",
-      "points": 0.0
     },
     {
       "player": "Myles Mullaly",
       "event": "Event #62: $2,500 No-Limit Hold\u2019em",
       "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-62/",
       "team": "2026 ODB Bonus Players",
-      "rank": "12 / 19",
-      "chips": "1,520,000",
-      "bb": "19.0 BB",
+      "rank": "1 / 18",
+      "chips": "6,665,000",
+      "bb": "83.3 BB",
       "bonus": "Locked 18 PTS",
-      "points": 0.0
+      "points": 22.0
+    },
+    {
+      "player": "Josh Reichard",
+      "event": "Event #62: $2,500 No-Limit Hold\u2019em",
+      "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-62/",
+      "team": "Torching with TJ",
+      "rank": "3 / 18",
+      "chips": "4,880,000",
+      "bb": "61.0 BB",
+      "bonus": "Locked 18 PTS",
+      "points": 22.0
     }
   ]
 }
