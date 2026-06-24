@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-24T21:30:14.382294+00:00",
+  "generatedAt": "2026-06-24T21:40:12.898030+00:00",
   "leagueName": "WSOP Poker Fantasy Draft 2026",
   "sourceLabel": "25KFantasy",
   "sourceUrl": "https://www.25kfantasy.com/players/",
@@ -76,7 +76,7 @@
         },
         {
           "player": "Ben Yu",
-          "points": 17.0
+          "points": 18.0
         },
         {
           "player": "Viktor Blom",
@@ -87,9 +87,9 @@
           "points": 5.0
         }
       ],
-      "totalPoints": 656.0,
-      "pointsChange": 0.0,
-      "pointsChangeSincePrevious": 0.0
+      "totalPoints": 657.0,
+      "pointsChange": 1.0,
+      "pointsChangeSincePrevious": 1.0
     },
     {
       "managerName": "JeffBNT",
@@ -118,7 +118,7 @@
         },
         {
           "player": "Ben Yu",
-          "points": 17.0
+          "points": 18.0
         },
         {
           "player": "Ari Engel",
@@ -129,9 +129,9 @@
           "points": 7.0
         }
       ],
-      "totalPoints": 601.0,
-      "pointsChange": 0.0,
-      "pointsChangeSincePrevious": 0.0
+      "totalPoints": 602.0,
+      "pointsChange": 1.0,
+      "pointsChangeSincePrevious": 1.0
     },
     {
       "managerName": "Doinky",
@@ -286,7 +286,7 @@
         },
         {
           "player": "Phillip Hui",
-          "points": 21.0
+          "points": 22.0
         },
         {
           "player": "Esther Taylor",
@@ -297,9 +297,9 @@
           "points": 8.0
         }
       ],
-      "totalPoints": 321.0,
-      "pointsChange": 0.0,
-      "pointsChangeSincePrevious": 0.0
+      "totalPoints": 322.0,
+      "pointsChange": 1.0,
+      "pointsChangeSincePrevious": 1.0
     },
     {
       "managerName": "Turbo",
