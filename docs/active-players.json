@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-06-24T05:40:11.505272+00:00",
+  "generatedAt": "2026-06-24T05:50:14.578673+00:00",
   "league": "25k",
-  "count": 9,
+  "count": 8,
   "players": [
     {
       "player": "Schuyler Thornton",
@@ -41,7 +41,7 @@
       "event": "Event #62: $2,500 No-Limit Hold\u2019em",
       "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-62/",
       "team": "Lucky",
-      "rank": "9 / 43",
+      "rank": "9 / 40",
       "chips": "1,530,000",
       "bb": "38.3 BB",
       "bonus": "Top 27 18 PTS",
@@ -52,7 +52,7 @@
       "event": "Event #62: $2,500 No-Limit Hold\u2019em",
       "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-62/",
       "team": "2026 ODB Bonus Players",
-      "rank": "10 / 43",
+      "rank": "10 / 40",
       "chips": "1,520,000",
       "bb": "38.0 BB",
       "bonus": "Top 27 18 PTS",
@@ -63,7 +63,7 @@
       "event": "Event #62: $2,500 No-Limit Hold\u2019em",
       "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-62/",
       "team": "Glaser",
-      "rank": "15 / 43",
+      "rank": "15 / 40",
       "chips": "1,375,000",
       "bb": "34.4 BB",
       "bonus": "Top 27 18 PTS",
@@ -74,7 +74,7 @@
       "event": "Event #62: $2,500 No-Limit Hold\u2019em",
       "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-62/",
       "team": "Torching with TJ",
-      "rank": "22 / 43",
+      "rank": "21 / 40",
       "chips": "1,205,000",
       "bb": "30.1 BB",
       "bonus": "Top 27 18 PTS",
@@ -85,20 +85,9 @@
       "event": "Event #62: $2,500 No-Limit Hold\u2019em",
       "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-62/",
       "team": "Back Office",
-      "rank": "25 / 43",
+      "rank": "25 / 40",
       "chips": "945,000",
       "bb": "23.6 BB",
-      "bonus": "Top 27 18 PTS",
-      "points": 1.0
-    },
-    {
-      "player": "Justin Zaki",
-      "event": "Event #62: $2,500 No-Limit Hold\u2019em",
-      "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-62/",
-      "team": "Noori",
-      "rank": "42 / 43",
-      "chips": "305,000",
-      "bb": "7.6 BB",
       "bonus": "Top 27 18 PTS",
       "points": 1.0
     }
