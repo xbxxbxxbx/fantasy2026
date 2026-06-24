@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-24T08:10:13.957221+00:00",
+  "generatedAt": "2026-06-24T08:20:13.025262+00:00",
   "league": "25k",
   "count": 19,
   "players": [
@@ -92,24 +92,24 @@
       "points": 16.0
     },
     {
-      "player": "Maxx Coleman",
-      "event": "Event #60: $50,000 Poker Players Championship",
-      "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-60/",
-      "team": "Browndog",
-      "rank": "8 / 15",
-      "chips": "1,780,000",
-      "bb": "71.2 BB",
-      "bonus": "Locked 0 PTS",
-      "points": 16.0
-    },
-    {
       "player": "Alex Livingston",
       "event": "Event #60: $50,000 Poker Players Championship",
       "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-60/",
       "team": "Torching with TJ",
+      "rank": "8 / 15",
+      "chips": "2,330,000",
+      "bb": "93.2 BB",
+      "bonus": "Locked 0 PTS",
+      "points": 16.0
+    },
+    {
+      "player": "Maxx Coleman",
+      "event": "Event #60: $50,000 Poker Players Championship",
+      "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-60/",
+      "team": "Browndog",
       "rank": "9 / 15",
-      "chips": "1,475,000",
-      "bb": "59.0 BB",
+      "chips": "1,780,000",
+      "bb": "71.2 BB",
       "bonus": "Locked 0 PTS",
       "points": 16.0
     },
@@ -119,8 +119,8 @@
       "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-60/",
       "team": "Blez/NGNF",
       "rank": "10 / 15",
-      "chips": "1,175,000",
-      "bb": "47.0 BB",
+      "chips": "1,565,000",
+      "bb": "62.6 BB",
       "bonus": "Locked 0 PTS",
       "points": 16.0
     },
@@ -130,8 +130,8 @@
       "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-60/",
       "team": "Blades & Shades",
       "rank": "11 / 15",
-      "chips": "1,125,000",
-      "bb": "45.0 BB",
+      "chips": "1,550,000",
+      "bb": "62.0 BB",
       "bonus": "Locked 0 PTS",
       "points": 16.0
     },
@@ -152,8 +152,8 @@
       "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-60/",
       "team": "Fleyshman",
       "rank": "14 / 15",
-      "chips": "765,000",
-      "bb": "30.6 BB",
+      "chips": "545,000",
+      "bb": "21.8 BB",
       "bonus": "Locked 0 PTS",
       "points": 16.0
     },
