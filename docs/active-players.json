@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-24T19:20:14.327893+00:00",
+  "generatedAt": "2026-06-24T19:30:15.490104+00:00",
   "league": "25k",
   "count": 17,
   "players": [
@@ -8,11 +8,11 @@
       "event": "Event #57: $1,000 Pot-Limit Omaha",
       "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-57/",
       "team": "2026 ODB Bonus Players",
-      "rank": "5 / 20",
+      "rank": "5 / 19",
       "chips": "4,850,000",
       "bb": "\u2014",
       "bonus": "Locked 38 PTS",
-      "points": 38.0
+      "points": 0.0
     },
     {
       "player": "Benny Glaser",
