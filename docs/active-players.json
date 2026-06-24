@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-24T18:40:11.535590+00:00",
+  "generatedAt": "2026-06-24T18:50:13.937353+00:00",
   "league": "25k",
   "count": 19,
   "players": [
@@ -175,7 +175,7 @@
       "team": "Torching with TJ",
       "rank": "10 / 34",
       "chips": "1,585,000",
-      "bb": "31.7 BB",
+      "bb": "26.4 BB",
       "bonus": "Top 27 18 PTS",
       "points": 1.0
     },
@@ -186,7 +186,7 @@
       "team": "2026 ODB Bonus Players",
       "rank": "11 / 34",
       "chips": "1,520,000",
-      "bb": "30.4 BB",
+      "bb": "25.3 BB",
       "bonus": "Top 27 18 PTS",
       "points": 1.0
     },
@@ -197,7 +197,7 @@
       "team": "Back Office",
       "rank": "28 / 34",
       "chips": "880,000",
-      "bb": "17.6 BB",
+      "bb": "14.7 BB",
       "bonus": "Top 27 18 PTS",
       "points": 1.0
     },
@@ -208,7 +208,7 @@
       "team": "Glaser",
       "rank": "29 / 34",
       "chips": "720,000",
-      "bb": "14.4 BB",
+      "bb": "12.0 BB",
       "bonus": "Top 27 18 PTS",
       "points": 1.0
     }
