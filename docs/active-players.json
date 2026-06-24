@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-06-24T07:30:13.225057+00:00",
+  "generatedAt": "2026-06-24T07:40:13.961987+00:00",
   "league": "25k",
-  "count": 6,
+  "count": 21,
   "players": [
     {
       "player": "Schuyler Thornton",
@@ -24,6 +24,171 @@
       "bb": "\u2014",
       "bonus": "Locked 38 PTS",
       "points": 38.0
+    },
+    {
+      "player": "Benny Glaser",
+      "event": "Event #60: $50,000 Poker Players Championship",
+      "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-60/",
+      "team": "Chocolate Factory",
+      "rank": "1 / 17",
+      "chips": "4,540,000",
+      "bb": "181.6 BB",
+      "bonus": "Locked 0 PTS",
+      "points": 0.0
+    },
+    {
+      "player": "Paul Volpe",
+      "event": "Event #60: $50,000 Poker Players Championship",
+      "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-60/",
+      "team": "Fleyshman",
+      "rank": "3 / 17",
+      "chips": "3,450,000",
+      "bb": "138.0 BB",
+      "bonus": "Locked 0 PTS",
+      "points": 0.0
+    },
+    {
+      "player": "Phil Ivey",
+      "event": "Event #60: $50,000 Poker Players Championship",
+      "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-60/",
+      "team": "Verderamo",
+      "rank": "4 / 17",
+      "chips": "2,620,000",
+      "bb": "104.8 BB",
+      "bonus": "Locked 0 PTS",
+      "points": 0.0
+    },
+    {
+      "player": "Jason Mercier",
+      "event": "Event #60: $50,000 Poker Players Championship",
+      "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-60/",
+      "team": "Verderamo",
+      "rank": "5 / 17",
+      "chips": "2,615,000",
+      "bb": "104.6 BB",
+      "bonus": "Locked 0 PTS",
+      "points": 0.0
+    },
+    {
+      "player": "Nick Guagenti",
+      "event": "Event #60: $50,000 Poker Players Championship",
+      "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-60/",
+      "team": "Browndog",
+      "rank": "6 / 17",
+      "chips": "2,320,000",
+      "bb": "92.8 BB",
+      "bonus": "Locked 0 PTS",
+      "points": 0.0
+    },
+    {
+      "player": "Josh Arieh",
+      "event": "Event #60: $50,000 Poker Players Championship",
+      "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-60/",
+      "team": "DNegs",
+      "rank": "7 / 17",
+      "chips": "2,170,000",
+      "bb": "86.8 BB",
+      "bonus": "Locked 0 PTS",
+      "points": 0.0
+    },
+    {
+      "player": "Maxx Coleman",
+      "event": "Event #60: $50,000 Poker Players Championship",
+      "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-60/",
+      "team": "Browndog",
+      "rank": "8 / 17",
+      "chips": "1,850,000",
+      "bb": "74.0 BB",
+      "bonus": "Locked 0 PTS",
+      "points": 0.0
+    },
+    {
+      "player": "Alex Livingston",
+      "event": "Event #60: $50,000 Poker Players Championship",
+      "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-60/",
+      "team": "Torching with TJ",
+      "rank": "10 / 17",
+      "chips": "1,475,000",
+      "bb": "59.0 BB",
+      "bonus": "Locked 0 PTS",
+      "points": 0.0
+    },
+    {
+      "player": "Chris Brewer",
+      "event": "Event #60: $50,000 Poker Players Championship",
+      "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-60/",
+      "team": "Blez/NGNF",
+      "rank": "11 / 17",
+      "chips": "1,175,000",
+      "bb": "47.0 BB",
+      "bonus": "Locked 0 PTS",
+      "points": 0.0
+    },
+    {
+      "player": "Chris Hunichen",
+      "event": "Event #60: $50,000 Poker Players Championship",
+      "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-60/",
+      "team": "Blades & Shades",
+      "rank": "12 / 17",
+      "chips": "1,125,000",
+      "bb": "45.0 BB",
+      "bonus": "Locked 0 PTS",
+      "points": 0.0
+    },
+    {
+      "player": "Jesse Lonis",
+      "event": "Event #60: $50,000 Poker Players Championship",
+      "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-60/",
+      "team": "Blades & Shades",
+      "rank": "13 / 17",
+      "chips": "1,030,000",
+      "bb": "41.2 BB",
+      "bonus": "Locked 0 PTS",
+      "points": 0.0
+    },
+    {
+      "player": "Maksim Pisarenko",
+      "event": "Event #60: $50,000 Poker Players Championship",
+      "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-60/",
+      "team": "Glue Factory",
+      "rank": "14 / 17",
+      "chips": "900,000",
+      "bb": "36.0 BB",
+      "bonus": "Locked 0 PTS",
+      "points": 0.0
+    },
+    {
+      "player": "Phil Hellmuth",
+      "event": "Event #60: $50,000 Poker Players Championship",
+      "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-60/",
+      "team": "Fleyshman",
+      "rank": "15 / 17",
+      "chips": "765,000",
+      "bb": "30.6 BB",
+      "bonus": "Locked 0 PTS",
+      "points": 0.0
+    },
+    {
+      "player": "Dara Taherpour",
+      "event": "Event #60: $50,000 Poker Players Championship",
+      "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-60/",
+      "team": "Noori",
+      "rank": "16 / 17",
+      "chips": "410,000",
+      "bb": "16.4 BB",
+      "bonus": "Locked 0 PTS",
+      "points": 0.0
+    },
+    {
+      "player": "Matt Glantz",
+      "event": "Event #60: $50,000 Poker Players Championship",
+      "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-60/",
+      "team": "Dinkers",
+      "rank": "17 / 17",
+      "chips": "260,000",
+      "bb": "10.4 BB",
+      "bonus": "Locked 0 PTS",
+      "points": 0.0
     },
     {
       "player": "Josh Reichard",
