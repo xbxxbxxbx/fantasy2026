@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-25T22:00:17.891694+00:00",
+  "generatedAt": "2026-06-25T22:10:12.739230+00:00",
   "league": "25k",
   "count": 9,
   "players": [
@@ -59,23 +59,23 @@
       "points": 0.0
     },
     {
-      "player": "Sean Winter",
+      "player": "Dylan Linde",
       "event": "Event #64: $25,000 High Roller PLO/NLH Mixed",
       "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-64/",
-      "team": "Glaser",
-      "rank": "6 / 10",
-      "chips": "2,410,000",
+      "team": "Premiums Only",
+      "rank": "5 / 10",
+      "chips": "2,865,000",
       "bb": "\u2014",
       "bonus": "Locked 12 PTS",
       "points": 0.0
     },
     {
-      "player": "Dylan Linde",
+      "player": "Sean Winter",
       "event": "Event #64: $25,000 High Roller PLO/NLH Mixed",
       "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-64/",
-      "team": "Premiums Only",
+      "team": "Glaser",
       "rank": "8 / 10",
-      "chips": "1,530,000",
+      "chips": "1,720,000",
       "bb": "\u2014",
       "bonus": "Locked 12 PTS",
       "points": 0.0
@@ -85,8 +85,8 @@
       "event": "Event #64: $25,000 High Roller PLO/NLH Mixed",
       "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-64/",
       "team": "DNegs",
-      "rank": "10 / 10",
-      "chips": "435,000",
+      "rank": "9 / 10",
+      "chips": "1,450,000",
       "bb": "\u2014",
       "bonus": "Locked 12 PTS",
       "points": 0.0
@@ -96,7 +96,7 @@
       "event": "Event #65: $1,500 Freezeout No-Limit Hold'em",
       "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-65/",
       "team": "Dinkers",
-      "rank": "14 / 21",
+      "rank": "16 / 21",
       "chips": "1,580,000",
       "bb": "19.8 BB",
       "bonus": "Locked 27 PTS",
