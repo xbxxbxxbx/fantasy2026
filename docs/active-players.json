@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-25T19:30:15.210857+00:00",
+  "generatedAt": "2026-06-25T19:40:11.617735+00:00",
   "league": "25k",
   "count": 11,
   "players": [
@@ -109,7 +109,7 @@
       "team": "Dinkers",
       "rank": "16 / 33",
       "chips": "1,580,000",
-      "bb": "31.6 BB",
+      "bb": "26.3 BB",
       "bonus": "Locked 27 PTS",
       "points": 27.0
     },
@@ -120,7 +120,7 @@
       "team": "2026 ODB Bonus Players",
       "rank": "24 / 33",
       "chips": "1,135,000",
-      "bb": "22.7 BB",
+      "bb": "18.9 BB",
       "bonus": "Locked 27 PTS",
       "points": 27.0
     }
