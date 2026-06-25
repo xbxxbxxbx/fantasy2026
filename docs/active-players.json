@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-25T06:40:13.540517+00:00",
+  "generatedAt": "2026-06-25T06:50:10.470070+00:00",
   "league": "25k",
   "count": 17,
   "players": [
@@ -141,7 +141,7 @@
       "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-64/",
       "team": "DNegs",
       "rank": "17 / 20",
-      "chips": "750,000",
+      "chips": "770,000",
       "bb": "\u2014",
       "bonus": "Top 18 12 PTS",
       "points": 2.0
@@ -158,11 +158,22 @@
       "points": 2.0
     },
     {
+      "player": "Nick Palma",
+      "event": "Event #65: $1,500 Freezeout No-Limit Hold'em",
+      "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-65/",
+      "team": "2026 ODB Bonus Players",
+      "rank": "12 / 47",
+      "chips": "1,470,000",
+      "bb": "36.8 BB",
+      "bonus": "Top 36 27 PTS",
+      "points": 1.0
+    },
+    {
       "player": "Aram Zobian",
       "event": "Event #65: $1,500 Freezeout No-Limit Hold'em",
       "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-65/",
       "team": "Dinkers",
-      "rank": "17 / 50",
+      "rank": "17 / 47",
       "chips": "1,355,000",
       "bb": "33.9 BB",
       "bonus": "Top 36 27 PTS",
@@ -173,20 +184,9 @@
       "event": "Event #65: $1,500 Freezeout No-Limit Hold'em",
       "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-65/",
       "team": "Gators",
-      "rank": "24 / 50",
+      "rank": "25 / 47",
       "chips": "1,050,000",
       "bb": "26.3 BB",
-      "bonus": "Top 36 27 PTS",
-      "points": 1.0
-    },
-    {
-      "player": "Nick Palma",
-      "event": "Event #65: $1,500 Freezeout No-Limit Hold'em",
-      "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-65/",
-      "team": "2026 ODB Bonus Players",
-      "rank": "35 / 50",
-      "chips": "870,000",
-      "bb": "21.8 BB",
       "bonus": "Top 36 27 PTS",
       "points": 1.0
     }
