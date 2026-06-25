@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-25T04:57:55.594430+00:00",
+  "generatedAt": "2026-06-25T05:00:16.431671+00:00",
   "leagueName": "WSOP Poker Fantasy Draft 2026",
   "sourceLabel": "25KFantasy",
   "sourceUrl": "https://www.25kfantasy.com/players/",
@@ -34,7 +34,7 @@
         },
         {
           "player": "Chance Kornuth",
-          "points": 55.0
+          "points": 57.0
         },
         {
           "player": "Scott Seiver",
@@ -45,9 +45,9 @@
           "points": 29.0
         }
       ],
-      "totalPoints": 795.0,
-      "pointsChange": 0.0,
-      "pointsChangeSincePrevious": 0.0
+      "totalPoints": 797.0,
+      "pointsChange": 2.0,
+      "pointsChangeSincePrevious": 2.0
     },
     {
       "managerName": "Kush",
@@ -182,7 +182,7 @@
       "players": [
         {
           "player": "Dylan Smith",
-          "points": 108.0
+          "points": 110.0
         },
         {
           "player": "Nick Guagenti",
@@ -213,9 +213,9 @@
           "points": 8.0
         }
       ],
-      "totalPoints": 368.0,
-      "pointsChange": 47.0,
-      "pointsChangeSincePrevious": 0.0
+      "totalPoints": 370.0,
+      "pointsChange": 49.0,
+      "pointsChangeSincePrevious": 2.0
     },
     {
       "managerName": "realbmorekid",
@@ -354,7 +354,7 @@
         },
         {
           "player": "Chance Kornuth",
-          "points": 55.0
+          "points": 57.0
         },
         {
           "player": "Andrew Ostapchenko",
@@ -381,9 +381,9 @@
           "points": 0.0
         }
       ],
-      "totalPoints": 264.0,
-      "pointsChange": 0.0,
-      "pointsChangeSincePrevious": 0.0
+      "totalPoints": 266.0,
+      "pointsChange": 2.0,
+      "pointsChangeSincePrevious": 2.0
     }
   ],
   "failures": []
