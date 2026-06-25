@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-06-25T01:00:16.039271+00:00",
+  "generatedAt": "2026-06-25T01:10:12.887545+00:00",
   "league": "25k",
-  "count": 17,
+  "count": 16,
   "players": [
     {
       "player": "Benny Glaser",
@@ -107,9 +107,9 @@
       "event": "Event #65: $1,500 Freezeout No-Limit Hold'em",
       "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-65/",
       "team": "2026 ODB Bonus Players",
-      "rank": "24 / 144",
-      "chips": "615,000",
-      "bb": "51.3 BB",
+      "rank": "6 / 138",
+      "chips": "980,000",
+      "bb": "65.3 BB",
       "bonus": "Top 36 27 PTS",
       "points": 1.0
     },
@@ -118,9 +118,9 @@
       "event": "Event #65: $1,500 Freezeout No-Limit Hold'em",
       "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-65/",
       "team": "Chocolate Factory",
-      "rank": "25 / 144",
+      "rank": "25 / 138",
       "chips": "613,000",
-      "bb": "51.1 BB",
+      "bb": "40.9 BB",
       "bonus": "Top 36 27 PTS",
       "points": 1.0
     },
@@ -129,9 +129,9 @@
       "event": "Event #65: $1,500 Freezeout No-Limit Hold'em",
       "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-65/",
       "team": "Gators",
-      "rank": "26 / 144",
+      "rank": "26 / 138",
       "chips": "611,000",
-      "bb": "50.9 BB",
+      "bb": "40.7 BB",
       "bonus": "Top 36 27 PTS",
       "points": 1.0
     },
@@ -140,9 +140,9 @@
       "event": "Event #65: $1,500 Freezeout No-Limit Hold'em",
       "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-65/",
       "team": "Dinkers",
-      "rank": "43 / 144",
+      "rank": "42 / 138",
       "chips": "500,000",
-      "bb": "41.7 BB",
+      "bb": "33.3 BB",
       "bonus": "Top 36 27 PTS",
       "points": 1.0
     },
@@ -151,9 +151,9 @@
       "event": "Event #65: $1,500 Freezeout No-Limit Hold'em",
       "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-65/",
       "team": "2026 ODB Bonus Players",
-      "rank": "92 / 144",
+      "rank": "91 / 138",
       "chips": "268,000",
-      "bb": "22.3 BB",
+      "bb": "17.9 BB",
       "bonus": "Top 36 27 PTS",
       "points": 1.0
     },
@@ -162,20 +162,9 @@
       "event": "Event #65: $1,500 Freezeout No-Limit Hold'em",
       "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-65/",
       "team": "Premiums Only",
-      "rank": "107 / 144",
+      "rank": "104 / 138",
       "chips": "200,000",
-      "bb": "16.7 BB",
-      "bonus": "Top 36 27 PTS",
-      "points": 1.0
-    },
-    {
-      "player": "Francis Anderson",
-      "event": "Event #65: $1,500 Freezeout No-Limit Hold'em",
-      "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-65/",
-      "team": "2026 ODB Bonus Players",
-      "rank": "111 / 144",
-      "chips": "193,000",
-      "bb": "16.1 BB",
+      "bb": "13.3 BB",
       "bonus": "Top 36 27 PTS",
       "points": 1.0
     },
@@ -184,9 +173,9 @@
       "event": "Event #65: $1,500 Freezeout No-Limit Hold'em",
       "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-65/",
       "team": "Banana",
-      "rank": "131 / 144",
+      "rank": "126 / 138",
       "chips": "128,000",
-      "bb": "10.7 BB",
+      "bb": "8.5 BB",
       "bonus": "Top 36 27 PTS",
       "points": 1.0
     }
