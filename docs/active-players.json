@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-06-25T20:50:12.923851+00:00",
+  "generatedAt": "2026-06-25T21:00:18.396476+00:00",
   "league": "25k",
-  "count": 10,
+  "count": 9,
   "players": [
     {
       "player": "Benny Glaser",
@@ -96,20 +96,9 @@
       "event": "Event #65: $1,500 Freezeout No-Limit Hold'em",
       "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-65/",
       "team": "Dinkers",
-      "rank": "16 / 26",
+      "rank": "15 / 22",
       "chips": "1,580,000",
       "bb": "26.3 BB",
-      "bonus": "Locked 27 PTS",
-      "points": 27.0
-    },
-    {
-      "player": "Nick Palma",
-      "event": "Event #65: $1,500 Freezeout No-Limit Hold'em",
-      "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-65/",
-      "team": "2026 ODB Bonus Players",
-      "rank": "21 / 26",
-      "chips": "1,135,000",
-      "bb": "18.9 BB",
       "bonus": "Locked 27 PTS",
       "points": 27.0
     }
