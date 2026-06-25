@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-06-25T07:10:12.329917+00:00",
+  "generatedAt": "2026-06-25T07:20:13.540116+00:00",
   "league": "25k",
-  "count": 13,
+  "count": 12,
   "players": [
     {
       "player": "Benny Glaser",
@@ -70,23 +70,12 @@
       "points": 92.0
     },
     {
-      "player": "Daniel Negreanu",
-      "event": "Event #64: $25,000 High Roller PLO/NLH Mixed",
-      "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-64/",
-      "team": "DNegs",
-      "rank": "6 / 15",
-      "chips": "1,170,000",
-      "bb": "\u2014",
-      "bonus": "Locked 12 PTS",
-      "points": 12.0
-    },
-    {
       "player": "Sean Winter",
       "event": "Event #64: $25,000 High Roller PLO/NLH Mixed",
       "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-64/",
       "team": "Glaser",
-      "rank": "9 / 15",
-      "chips": "1,025,000",
+      "rank": "6 / 14",
+      "chips": "2,410,000",
       "bb": "\u2014",
       "bonus": "Locked 12 PTS",
       "points": 12.0
@@ -96,8 +85,8 @@
       "event": "Event #64: $25,000 High Roller PLO/NLH Mixed",
       "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-64/",
       "team": "Lucky",
-      "rank": "11 / 15",
-      "chips": "860,000",
+      "rank": "8 / 14",
+      "chips": "1,705,000",
       "bb": "\u2014",
       "bonus": "Locked 12 PTS",
       "points": 12.0
@@ -107,19 +96,19 @@
       "event": "Event #64: $25,000 High Roller PLO/NLH Mixed",
       "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-64/",
       "team": "Premiums Only",
-      "rank": "12 / 15",
-      "chips": "785,000",
+      "rank": "9 / 14",
+      "chips": "1,530,000",
       "bb": "\u2014",
       "bonus": "Locked 12 PTS",
       "points": 12.0
     },
     {
-      "player": "Cary Katz",
+      "player": "Daniel Negreanu",
       "event": "Event #64: $25,000 High Roller PLO/NLH Mixed",
       "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-64/",
-      "team": "Lucky",
-      "rank": "14 / 15",
-      "chips": "550,000",
+      "team": "DNegs",
+      "rank": "14 / 14",
+      "chips": "435,000",
       "bb": "\u2014",
       "bonus": "Locked 12 PTS",
       "points": 12.0
@@ -129,9 +118,9 @@
       "event": "Event #65: $1,500 Freezeout No-Limit Hold'em",
       "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-65/",
       "team": "2026 ODB Bonus Players",
-      "rank": "13 / 43",
+      "rank": "13 / 42",
       "chips": "1,470,000",
-      "bb": "36.8 BB",
+      "bb": "29.4 BB",
       "bonus": "Top 36 27 PTS",
       "points": 1.0
     },
@@ -140,9 +129,9 @@
       "event": "Event #65: $1,500 Freezeout No-Limit Hold'em",
       "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-65/",
       "team": "Dinkers",
-      "rank": "19 / 43",
+      "rank": "19 / 42",
       "chips": "1,355,000",
-      "bb": "33.9 BB",
+      "bb": "27.1 BB",
       "bonus": "Top 36 27 PTS",
       "points": 1.0
     }
