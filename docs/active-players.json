@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-25T03:30:13.695982+00:00",
+  "generatedAt": "2026-06-25T03:40:11.270345+00:00",
   "league": "25k",
   "count": 14,
   "players": [
@@ -87,7 +87,7 @@
       "team": "Torching with TJ",
       "rank": "1 / 6",
       "chips": "13,575,000",
-      "bb": "54.3 BB",
+      "bb": "33.9 BB",
       "bonus": "Locked 18 PTS",
       "points": 0.0
     },
@@ -98,7 +98,7 @@
       "team": "2026 ODB Bonus Players",
       "rank": "6 / 6",
       "chips": "3,325,000",
-      "bb": "13.3 BB",
+      "bb": "8.3 BB",
       "bonus": "Locked 18 PTS",
       "points": 0.0
     },
@@ -140,7 +140,7 @@
       "event": "Event #65: $1,500 Freezeout No-Limit Hold'em",
       "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-65/",
       "team": "Banana",
-      "rank": "59 / 86",
+      "rank": "60 / 86",
       "chips": "390,000",
       "bb": "19.5 BB",
       "bonus": "Top 36 27 PTS",
@@ -151,7 +151,7 @@
       "event": "Event #65: $1,500 Freezeout No-Limit Hold'em",
       "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-65/",
       "team": "2026 ODB Bonus Players",
-      "rank": "75 / 86",
+      "rank": "76 / 86",
       "chips": "268,000",
       "bb": "13.4 BB",
       "bonus": "Top 36 27 PTS",
