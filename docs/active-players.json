@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-25T21:40:12.537273+00:00",
+  "generatedAt": "2026-06-25T21:50:10.526174+00:00",
   "league": "25k",
   "count": 9,
   "players": [
@@ -9,8 +9,8 @@
       "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-60/",
       "team": "Chocolate Factory",
       "rank": "1 / 5",
-      "chips": "8,610,000",
-      "bb": "86.1 BB",
+      "chips": "15,300,000",
+      "bb": "153.0 BB",
       "bonus": "Locked 0 PTS",
       "points": 0.0
     },
@@ -20,8 +20,8 @@
       "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-60/",
       "team": "Browndog",
       "rank": "2 / 5",
-      "chips": "5,565,000",
-      "bb": "55.7 BB",
+      "chips": "6,450,000",
+      "bb": "64.5 BB",
       "bonus": "Locked 0 PTS",
       "points": 0.0
     },
@@ -31,8 +31,8 @@
       "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-60/",
       "team": "DNegs",
       "rank": "3 / 5",
-      "chips": "5,265,000",
-      "bb": "52.7 BB",
+      "chips": "6,250,000",
+      "bb": "62.5 BB",
       "bonus": "Locked 0 PTS",
       "points": 0.0
     },
@@ -42,8 +42,8 @@
       "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-60/",
       "team": "Verderamo",
       "rank": "4 / 5",
-      "chips": "5,135,000",
-      "bb": "51.4 BB",
+      "chips": "3,450,000",
+      "bb": "34.5 BB",
       "bonus": "Locked 0 PTS",
       "points": 0.0
     },
@@ -53,8 +53,8 @@
       "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-60/",
       "team": "Fleyshman",
       "rank": "5 / 5",
-      "chips": "2,725,000",
-      "bb": "27.3 BB",
+      "chips": "950,000",
+      "bb": "9.5 BB",
       "bonus": "Locked 0 PTS",
       "points": 0.0
     },
