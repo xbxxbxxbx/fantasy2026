@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-06-25T07:30:15.746639+00:00",
+  "generatedAt": "2026-06-25T07:40:13.709659+00:00",
   "league": "25k",
-  "count": 12,
+  "count": 11,
   "players": [
     {
       "player": "Benny Glaser",
@@ -59,17 +59,6 @@
       "points": 0.0
     },
     {
-      "player": "Josh Reichard",
-      "event": "Event #62: $2,500 No-Limit Hold\u2019em",
-      "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-62/",
-      "team": "Torching with TJ",
-      "rank": "1 / 1",
-      "chips": "22,800,000",
-      "bb": "38.0 BB",
-      "bonus": "Locked 18 PTS",
-      "points": 92.0
-    },
-    {
       "player": "Sean Winter",
       "event": "Event #64: $25,000 High Roller PLO/NLH Mixed",
       "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-64/",
@@ -118,7 +107,7 @@
       "event": "Event #65: $1,500 Freezeout No-Limit Hold'em",
       "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-65/",
       "team": "2026 ODB Bonus Players",
-      "rank": "12 / 41",
+      "rank": "10 / 38",
       "chips": "1,470,000",
       "bb": "29.4 BB",
       "bonus": "Top 36 27 PTS",
@@ -129,7 +118,7 @@
       "event": "Event #65: $1,500 Freezeout No-Limit Hold'em",
       "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-65/",
       "team": "Dinkers",
-      "rank": "18 / 41",
+      "rank": "16 / 38",
       "chips": "1,355,000",
       "bb": "27.1 BB",
       "bonus": "Top 36 27 PTS",
