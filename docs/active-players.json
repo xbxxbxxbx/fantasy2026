@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-25T02:00:16.580163+00:00",
+  "generatedAt": "2026-06-25T02:10:10.791449+00:00",
   "league": "25k",
   "count": 15,
   "players": [
@@ -107,9 +107,9 @@
       "event": "Event #65: $1,500 Freezeout No-Limit Hold'em",
       "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-65/",
       "team": "2026 ODB Bonus Players",
-      "rank": "8 / 104",
+      "rank": "7 / 101",
       "chips": "1,175,000",
-      "bb": "78.3 BB",
+      "bb": "58.8 BB",
       "bonus": "Top 36 27 PTS",
       "points": 1.0
     },
@@ -118,9 +118,9 @@
       "event": "Event #65: $1,500 Freezeout No-Limit Hold'em",
       "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-65/",
       "team": "Gators",
-      "rank": "26 / 104",
+      "rank": "28 / 101",
       "chips": "611,000",
-      "bb": "40.7 BB",
+      "bb": "30.6 BB",
       "bonus": "Top 36 27 PTS",
       "points": 1.0
     },
@@ -129,9 +129,9 @@
       "event": "Event #65: $1,500 Freezeout No-Limit Hold'em",
       "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-65/",
       "team": "Dinkers",
-      "rank": "40 / 104",
+      "rank": "42 / 101",
       "chips": "500,000",
-      "bb": "33.3 BB",
+      "bb": "25.0 BB",
       "bonus": "Top 36 27 PTS",
       "points": 1.0
     },
@@ -140,9 +140,9 @@
       "event": "Event #65: $1,500 Freezeout No-Limit Hold'em",
       "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-65/",
       "team": "2026 ODB Bonus Players",
-      "rank": "79 / 104",
+      "rank": "79 / 101",
       "chips": "268,000",
-      "bb": "17.9 BB",
+      "bb": "13.4 BB",
       "bonus": "Top 36 27 PTS",
       "points": 1.0
     },
@@ -151,9 +151,9 @@
       "event": "Event #65: $1,500 Freezeout No-Limit Hold'em",
       "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-65/",
       "team": "Premiums Only",
-      "rank": "87 / 104",
+      "rank": "87 / 101",
       "chips": "200,000",
-      "bb": "13.3 BB",
+      "bb": "10.0 BB",
       "bonus": "Top 36 27 PTS",
       "points": 1.0
     },
@@ -162,9 +162,9 @@
       "event": "Event #65: $1,500 Freezeout No-Limit Hold'em",
       "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-65/",
       "team": "Banana",
-      "rank": "99 / 104",
+      "rank": "97 / 101",
       "chips": "128,000",
-      "bb": "8.5 BB",
+      "bb": "6.4 BB",
       "bonus": "Top 36 27 PTS",
       "points": 1.0
     }
