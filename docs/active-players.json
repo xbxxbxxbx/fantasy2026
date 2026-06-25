@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-25T21:10:55.281423+00:00",
+  "generatedAt": "2026-06-25T21:20:11.285682+00:00",
   "league": "25k",
   "count": 9,
   "players": [
@@ -63,33 +63,33 @@
       "event": "Event #64: $25,000 High Roller PLO/NLH Mixed",
       "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-64/",
       "team": "Glaser",
-      "rank": "6 / 12",
+      "rank": "6 / 10",
       "chips": "2,410,000",
       "bb": "\u2014",
       "bonus": "Locked 12 PTS",
-      "points": 12.0
+      "points": 0.0
     },
     {
       "player": "Dylan Linde",
       "event": "Event #64: $25,000 High Roller PLO/NLH Mixed",
       "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-64/",
       "team": "Premiums Only",
-      "rank": "8 / 12",
+      "rank": "8 / 10",
       "chips": "1,530,000",
       "bb": "\u2014",
       "bonus": "Locked 12 PTS",
-      "points": 12.0
+      "points": 0.0
     },
     {
       "player": "Daniel Negreanu",
       "event": "Event #64: $25,000 High Roller PLO/NLH Mixed",
       "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-64/",
       "team": "DNegs",
-      "rank": "12 / 12",
+      "rank": "10 / 10",
       "chips": "435,000",
       "bb": "\u2014",
       "bonus": "Locked 12 PTS",
-      "points": 12.0
+      "points": 0.0
     },
     {
       "player": "Aram Zobian",
