@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-25T07:40:13.709659+00:00",
+  "generatedAt": "2026-06-25T07:50:13.681145+00:00",
   "league": "25k",
   "count": 11,
   "players": [
@@ -107,22 +107,22 @@
       "event": "Event #65: $1,500 Freezeout No-Limit Hold'em",
       "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-65/",
       "team": "2026 ODB Bonus Players",
-      "rank": "10 / 38",
+      "rank": "11 / 36",
       "chips": "1,470,000",
       "bb": "29.4 BB",
-      "bonus": "Top 36 27 PTS",
-      "points": 1.0
+      "bonus": "Locked 27 PTS",
+      "points": 27.0
     },
     {
       "player": "Aram Zobian",
       "event": "Event #65: $1,500 Freezeout No-Limit Hold'em",
       "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-65/",
       "team": "Dinkers",
-      "rank": "16 / 38",
+      "rank": "16 / 36",
       "chips": "1,355,000",
       "bb": "27.1 BB",
-      "bonus": "Top 36 27 PTS",
-      "points": 1.0
+      "bonus": "Locked 27 PTS",
+      "points": 27.0
     }
   ]
 }
