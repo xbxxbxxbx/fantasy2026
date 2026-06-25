@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-25T08:00:17.023938+00:00",
+  "generatedAt": "2026-06-25T08:10:26.985213+00:00",
   "league": "25k",
   "count": 11,
   "players": [
@@ -103,17 +103,6 @@
       "points": 12.0
     },
     {
-      "player": "Nick Palma",
-      "event": "Event #65: $1,500 Freezeout No-Limit Hold'em",
-      "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-65/",
-      "team": "2026 ODB Bonus Players",
-      "rank": "11 / 34",
-      "chips": "1,470,000",
-      "bb": "29.4 BB",
-      "bonus": "Locked 27 PTS",
-      "points": 27.0
-    },
-    {
       "player": "Aram Zobian",
       "event": "Event #65: $1,500 Freezeout No-Limit Hold'em",
       "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-65/",
@@ -121,6 +110,17 @@
       "rank": "15 / 34",
       "chips": "1,355,000",
       "bb": "27.1 BB",
+      "bonus": "Locked 27 PTS",
+      "points": 27.0
+    },
+    {
+      "player": "Nick Palma",
+      "event": "Event #65: $1,500 Freezeout No-Limit Hold'em",
+      "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-65/",
+      "team": "2026 ODB Bonus Players",
+      "rank": "20 / 34",
+      "chips": "1,135,000",
+      "bb": "22.7 BB",
       "bonus": "Locked 27 PTS",
       "points": 27.0
     }
