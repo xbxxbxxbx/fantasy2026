@@ -1,62 +1,51 @@
 {
-  "generatedAt": "2026-06-26T20:06:46.374119+00:00",
+  "generatedAt": "2026-06-26T20:10:11.316732+00:00",
   "league": "25k",
-  "count": 5,
+  "count": 4,
   "players": [
     {
       "player": "Nick Schulman",
       "event": "Event #67: $10,000 Limit 2-7 Lowball Triple Draw Championship",
       "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-67/",
       "team": "Verderamo",
-      "rank": "4 / 11",
+      "rank": "4 / 10",
       "chips": "1,125,000",
       "bb": "14.1 BB",
       "bonus": "Locked 11 PTS",
-      "points": 11.0
+      "points": 0.0
     },
     {
       "player": "Andrew 'A.J.' Kelsall",
       "event": "Event #67: $10,000 Limit 2-7 Lowball Triple Draw Championship",
       "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-67/",
       "team": "Premiums Only",
-      "rank": "5 / 11",
+      "rank": "5 / 10",
       "chips": "1,085,000",
       "bb": "13.6 BB",
       "bonus": "Locked 11 PTS",
-      "points": 11.0
+      "points": 0.0
     },
     {
       "player": "Robert Wells",
       "event": "Event #67: $10,000 Limit 2-7 Lowball Triple Draw Championship",
       "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-67/",
       "team": "Spitework",
-      "rank": "8 / 11",
+      "rank": "8 / 10",
       "chips": "600,000",
       "bb": "7.5 BB",
       "bonus": "Locked 11 PTS",
-      "points": 11.0
+      "points": 0.0
     },
     {
       "player": "Naoya Kihara",
       "event": "Event #67: $10,000 Limit 2-7 Lowball Triple Draw Championship",
       "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-67/",
       "team": "Banana",
-      "rank": "9 / 11",
+      "rank": "9 / 10",
       "chips": "430,000",
       "bb": "5.4 BB",
       "bonus": "Locked 11 PTS",
-      "points": 11.0
-    },
-    {
-      "player": "Brandon Shack-Harris",
-      "event": "Event #67: $10,000 Limit 2-7 Lowball Triple Draw Championship",
-      "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-67/",
-      "team": "Glaser",
-      "rank": "11 / 11",
-      "chips": "140,000",
-      "bb": "1.8 BB",
-      "bonus": "Locked 11 PTS",
-      "points": 11.0
+      "points": 0.0
     }
   ]
 }
