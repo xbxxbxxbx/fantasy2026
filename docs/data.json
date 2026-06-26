@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-26T23:10:09.384720+00:00",
+  "generatedAt": "2026-06-26T23:20:09.345719+00:00",
   "leagueName": "WSOP Poker Fantasy Draft 2026",
   "sourceLabel": "25KFantasy",
   "sourceUrl": "https://www.25kfantasy.com/players/",
@@ -42,12 +42,12 @@
         },
         {
           "player": "Matt Vengrin",
-          "points": 29.0
+          "points": 30.0
         }
       ],
-      "totalPoints": 797.0,
-      "pointsChange": 0.0,
-      "pointsChangeSincePrevious": 0.0
+      "totalPoints": 798.0,
+      "pointsChange": 1.0,
+      "pointsChangeSincePrevious": 1.0
     },
     {
       "managerName": "Kush",
@@ -156,7 +156,7 @@
         },
         {
           "player": "Matt Vengrin",
-          "points": 29.0
+          "points": 30.0
         },
         {
           "player": "Eric Wasserson",
@@ -171,9 +171,9 @@
           "points": 0.0
         }
       ],
-      "totalPoints": 448.0,
-      "pointsChange": 0.0,
-      "pointsChangeSincePrevious": 0.0
+      "totalPoints": 449.0,
+      "pointsChange": 1.0,
+      "pointsChangeSincePrevious": 1.0
     },
     {
       "managerName": "Gus",
@@ -286,7 +286,7 @@
         },
         {
           "player": "Matt Vengrin",
-          "points": 29.0
+          "points": 30.0
         },
         {
           "player": "Viktor Blom",
@@ -297,9 +297,9 @@
           "points": 17.0
         }
       ],
-      "totalPoints": 338.0,
-      "pointsChange": 11.0,
-      "pointsChangeSincePrevious": 0.0
+      "totalPoints": 339.0,
+      "pointsChange": 12.0,
+      "pointsChangeSincePrevious": 1.0
     },
     {
       "managerName": "Turbo",
