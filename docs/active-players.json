@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-26T00:30:15.503975+00:00",
+  "generatedAt": "2026-06-26T00:40:11.236046+00:00",
   "league": "25k",
   "count": 6,
   "players": [
@@ -26,23 +26,12 @@
       "points": 0.0
     },
     {
-      "player": "Dylan Linde",
-      "event": "Event #64: $25,000 High Roller PLO/NLH Mixed",
-      "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-64/",
-      "team": "Premiums Only",
-      "rank": "5 / 8",
-      "chips": "2,865,000",
-      "bb": "\u2014",
-      "bonus": "Locked 12 PTS",
-      "points": 0.0
-    },
-    {
       "player": "Sean Winter",
       "event": "Event #64: $25,000 High Roller PLO/NLH Mixed",
       "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-64/",
       "team": "Glaser",
-      "rank": "7 / 8",
-      "chips": "1,720,000",
+      "rank": "5 / 8",
+      "chips": "2,915,000",
       "bb": "\u2014",
       "bonus": "Locked 12 PTS",
       "points": 0.0
@@ -52,8 +41,19 @@
       "event": "Event #64: $25,000 High Roller PLO/NLH Mixed",
       "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-64/",
       "team": "DNegs",
-      "rank": "8 / 8",
-      "chips": "1,250,000",
+      "rank": "6 / 8",
+      "chips": "1,715,000",
+      "bb": "\u2014",
+      "bonus": "Locked 12 PTS",
+      "points": 0.0
+    },
+    {
+      "player": "Dylan Linde",
+      "event": "Event #64: $25,000 High Roller PLO/NLH Mixed",
+      "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-64/",
+      "team": "Premiums Only",
+      "rank": "7 / 8",
+      "chips": "1,335,000",
       "bb": "\u2014",
       "bonus": "Locked 12 PTS",
       "points": 0.0
@@ -63,11 +63,11 @@
       "event": "Event #65: $1,500 Freezeout No-Limit Hold'em",
       "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-65/",
       "team": "Dinkers",
-      "rank": "10 / 11",
+      "rank": "9 / 10",
       "chips": "2,700,000",
-      "bb": "22.5 BB",
+      "bb": "18.0 BB",
       "bonus": "Locked 27 PTS",
-      "points": 31.0
+      "points": 0.0
     }
   ]
 }
