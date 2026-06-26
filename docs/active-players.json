@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-06-26T01:30:14.069291+00:00",
+  "generatedAt": "2026-06-26T01:40:13.448027+00:00",
   "league": "25k",
-  "count": 5,
+  "count": 4,
   "players": [
     {
       "player": "Benny Glaser",
@@ -9,8 +9,8 @@
       "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-60/",
       "team": "Chocolate Factory",
       "rank": "1 / 2",
-      "chips": "15,300,000",
-      "bb": "102.0 BB",
+      "chips": "23,700,000",
+      "bb": "158.0 BB",
       "bonus": "Locked 0 PTS",
       "points": 0.0
     },
@@ -30,19 +30,8 @@
       "event": "Event #64: $25,000 High Roller PLO/NLH Mixed",
       "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-64/",
       "team": "Glaser",
-      "rank": "5 / 7",
+      "rank": "5 / 6",
       "chips": "2,915,000",
-      "bb": "\u2014",
-      "bonus": "Locked 12 PTS",
-      "points": 0.0
-    },
-    {
-      "player": "Daniel Negreanu",
-      "event": "Event #64: $25,000 High Roller PLO/NLH Mixed",
-      "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-64/",
-      "team": "DNegs",
-      "rank": "6 / 7",
-      "chips": "1,740,000",
       "bb": "\u2014",
       "bonus": "Locked 12 PTS",
       "points": 0.0
@@ -54,7 +43,7 @@
       "team": "Dinkers",
       "rank": "9 / 9",
       "chips": "2,675,000",
-      "bb": "17.8 BB",
+      "bb": "13.4 BB",
       "bonus": "Locked 27 PTS",
       "points": 0.0
     }
