@@ -1,29 +1,18 @@
 {
-  "generatedAt": "2026-06-26T02:10:10.373898+00:00",
+  "generatedAt": "2026-06-26T02:20:10.791482+00:00",
   "league": "25k",
-  "count": 4,
+  "count": 3,
   "players": [
     {
       "player": "Benny Glaser",
       "event": "Event #60: $50,000 Poker Players Championship",
       "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-60/",
       "team": "Chocolate Factory",
-      "rank": "1 / 2",
+      "rank": "1 / 1",
       "chips": "25,700,000",
       "bb": "171.3 BB",
       "bonus": "Locked 0 PTS",
-      "points": 0.0
-    },
-    {
-      "player": "Josh Arieh",
-      "event": "Event #60: $50,000 Poker Players Championship",
-      "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-60/",
-      "team": "DNegs",
-      "rank": "2 / 2",
-      "chips": "6,700,000",
-      "bb": "44.7 BB",
-      "bonus": "Locked 0 PTS",
-      "points": 0.0
+      "points": 176.0
     },
     {
       "player": "Sean Winter",
