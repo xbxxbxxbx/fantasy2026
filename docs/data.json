@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-26T05:36:59.023644+00:00",
+  "generatedAt": "2026-06-26T05:40:09.935724+00:00",
   "leagueName": "WSOP Poker Fantasy Draft 2026",
   "sourceLabel": "25KFantasy",
   "sourceUrl": "https://www.25kfantasy.com/players/",
@@ -80,16 +80,16 @@
         },
         {
           "player": "Viktor Blom",
-          "points": 16.0
+          "points": 18.0
         },
         {
           "player": "Andrew Lichtenberger",
           "points": 5.0
         }
       ],
-      "totalPoints": 658.0,
-      "pointsChange": 0.0,
-      "pointsChangeSincePrevious": 0.0
+      "totalPoints": 660.0,
+      "pointsChange": 2.0,
+      "pointsChangeSincePrevious": 2.0
     },
     {
       "managerName": "JeffBNT",
@@ -289,17 +289,17 @@
           "points": 29.0
         },
         {
-          "player": "Ian Matakis",
-          "points": 17.0
+          "player": "Viktor Blom",
+          "points": 18.0
         },
         {
-          "player": "Viktor Blom",
-          "points": 16.0
+          "player": "Ian Matakis",
+          "points": 17.0
         }
       ],
-      "totalPoints": 325.0,
-      "pointsChange": 2.0,
-      "pointsChangeSincePrevious": 0.0
+      "totalPoints": 327.0,
+      "pointsChange": 4.0,
+      "pointsChangeSincePrevious": 2.0
     },
     {
       "managerName": "Turbo",
@@ -370,7 +370,7 @@
         },
         {
           "player": "Viktor Blom",
-          "points": 16.0
+          "points": 18.0
         },
         {
           "player": "Andrew Lichtenberger",
@@ -381,9 +381,9 @@
           "points": 0.0
         }
       ],
-      "totalPoints": 266.0,
-      "pointsChange": 0.0,
-      "pointsChangeSincePrevious": 0.0
+      "totalPoints": 268.0,
+      "pointsChange": 2.0,
+      "pointsChangeSincePrevious": 2.0
     }
   ],
   "failures": []
