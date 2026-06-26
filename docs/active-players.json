@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-26T08:00:15.717155+00:00",
+  "generatedAt": "2026-06-26T08:10:13.820386+00:00",
   "league": "25k",
   "count": 6,
   "players": [
@@ -15,46 +15,24 @@
       "points": 176.0
     },
     {
-      "player": "Andrew 'A.J.' Kelsall",
-      "event": "Event #67: $10,000 Limit 2-7 Lowball Triple Draw Championship",
-      "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-67/",
-      "team": "Premiums Only",
-      "rank": "3 / 11",
-      "chips": "1,460,000",
-      "bb": "24.3 BB",
-      "bonus": "Locked 11 PTS",
-      "points": 11.0
-    },
-    {
       "player": "Nick Schulman",
       "event": "Event #67: $10,000 Limit 2-7 Lowball Triple Draw Championship",
       "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-67/",
       "team": "Verderamo",
+      "rank": "4 / 11",
+      "chips": "1,125,000",
+      "bb": "18.8 BB",
+      "bonus": "Locked 11 PTS",
+      "points": 11.0
+    },
+    {
+      "player": "Andrew 'A.J.' Kelsall",
+      "event": "Event #67: $10,000 Limit 2-7 Lowball Triple Draw Championship",
+      "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-67/",
+      "team": "Premiums Only",
       "rank": "5 / 11",
-      "chips": "920,000",
-      "bb": "15.3 BB",
-      "bonus": "Locked 11 PTS",
-      "points": 11.0
-    },
-    {
-      "player": "Naoya Kihara",
-      "event": "Event #67: $10,000 Limit 2-7 Lowball Triple Draw Championship",
-      "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-67/",
-      "team": "Banana",
-      "rank": "6 / 11",
-      "chips": "790,000",
-      "bb": "13.2 BB",
-      "bonus": "Locked 11 PTS",
-      "points": 11.0
-    },
-    {
-      "player": "Brandon Shack-Harris",
-      "event": "Event #67: $10,000 Limit 2-7 Lowball Triple Draw Championship",
-      "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-67/",
-      "team": "Glaser",
-      "rank": "8 / 11",
-      "chips": "440,000",
-      "bb": "7.3 BB",
+      "chips": "1,085,000",
+      "bb": "18.1 BB",
       "bonus": "Locked 11 PTS",
       "points": 11.0
     },
@@ -63,9 +41,31 @@
       "event": "Event #67: $10,000 Limit 2-7 Lowball Triple Draw Championship",
       "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-67/",
       "team": "Spitework",
-      "rank": "10 / 11",
-      "chips": "225,000",
-      "bb": "3.8 BB",
+      "rank": "8 / 11",
+      "chips": "600,000",
+      "bb": "10.0 BB",
+      "bonus": "Locked 11 PTS",
+      "points": 11.0
+    },
+    {
+      "player": "Naoya Kihara",
+      "event": "Event #67: $10,000 Limit 2-7 Lowball Triple Draw Championship",
+      "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-67/",
+      "team": "Banana",
+      "rank": "9 / 11",
+      "chips": "430,000",
+      "bb": "7.2 BB",
+      "bonus": "Locked 11 PTS",
+      "points": 11.0
+    },
+    {
+      "player": "Brandon Shack-Harris",
+      "event": "Event #67: $10,000 Limit 2-7 Lowball Triple Draw Championship",
+      "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-67/",
+      "team": "Glaser",
+      "rank": "11 / 11",
+      "chips": "140,000",
+      "bb": "2.3 BB",
       "bonus": "Locked 11 PTS",
       "points": 11.0
     }
