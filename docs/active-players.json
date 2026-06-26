@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-06-26T05:50:10.845827+00:00",
+  "generatedAt": "2026-06-26T06:00:20.238281+00:00",
   "league": "25k",
-  "count": 11,
+  "count": 9,
   "players": [
     {
       "player": "Benny Glaser",
@@ -19,110 +19,88 @@
       "event": "Event #67: $10,000 Limit 2-7 Lowball Triple Draw Championship",
       "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-67/",
       "team": "Spitework",
-      "rank": "4 / 19",
+      "rank": "4 / 16",
       "chips": "620,000",
-      "bb": "15.5 BB",
-      "bonus": "Top 18 11 PTS",
-      "points": 0.0
-    },
-    {
-      "player": "Joe McKeehen",
-      "event": "Event #67: $10,000 Limit 2-7 Lowball Triple Draw Championship",
-      "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-67/",
-      "team": "2026 ODB Bonus Players",
-      "rank": "6 / 19",
-      "chips": "565,000",
-      "bb": "14.1 BB",
-      "bonus": "Top 18 11 PTS",
-      "points": 0.0
+      "bb": "12.4 BB",
+      "bonus": "Locked 11 PTS",
+      "points": 11.0
     },
     {
       "player": "Brandon Shack-Harris",
       "event": "Event #67: $10,000 Limit 2-7 Lowball Triple Draw Championship",
       "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-67/",
       "team": "Glaser",
-      "rank": "7 / 19",
+      "rank": "6 / 16",
       "chips": "555,000",
-      "bb": "13.9 BB",
-      "bonus": "Top 18 11 PTS",
-      "points": 0.0
+      "bb": "11.1 BB",
+      "bonus": "Locked 11 PTS",
+      "points": 11.0
     },
     {
       "player": "Patrick Stacey",
       "event": "Event #67: $10,000 Limit 2-7 Lowball Triple Draw Championship",
       "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-67/",
       "team": "Glaser",
-      "rank": "8 / 19",
+      "rank": "7 / 16",
       "chips": "535,000",
-      "bb": "13.4 BB",
-      "bonus": "Top 18 11 PTS",
-      "points": 0.0
+      "bb": "10.7 BB",
+      "bonus": "Locked 11 PTS",
+      "points": 11.0
     },
     {
       "player": "Naoya Kihara",
       "event": "Event #67: $10,000 Limit 2-7 Lowball Triple Draw Championship",
       "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-67/",
       "team": "Banana",
-      "rank": "9 / 19",
+      "rank": "8 / 16",
       "chips": "510,000",
-      "bb": "12.8 BB",
-      "bonus": "Top 18 11 PTS",
-      "points": 0.0
-    },
-    {
-      "player": "Andrew Yeh",
-      "event": "Event #67: $10,000 Limit 2-7 Lowball Triple Draw Championship",
-      "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-67/",
-      "team": "2026 ODB Bonus Players",
-      "rank": "11 / 19",
-      "chips": "500,000",
-      "bb": "12.5 BB",
-      "bonus": "Top 18 11 PTS",
-      "points": 0.0
+      "bb": "10.2 BB",
+      "bonus": "Locked 11 PTS",
+      "points": 11.0
     },
     {
       "player": "Nick Schulman",
       "event": "Event #67: $10,000 Limit 2-7 Lowball Triple Draw Championship",
       "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-67/",
       "team": "Verderamo",
-      "rank": "12 / 19",
+      "rank": "9 / 16",
       "chips": "440,000",
-      "bb": "11.0 BB",
-      "bonus": "Top 18 11 PTS",
-      "points": 0.0
+      "bb": "8.8 BB",
+      "bonus": "Locked 11 PTS",
+      "points": 11.0
     },
     {
       "player": "Steve Zolotow",
       "event": "Event #67: $10,000 Limit 2-7 Lowball Triple Draw Championship",
       "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-67/",
       "team": "2026 ODB Bonus Players",
-      "rank": "14 / 19",
+      "rank": "11 / 16",
       "chips": "400,000",
-      "bb": "10.0 BB",
-      "bonus": "Top 18 11 PTS",
-      "points": 0.0
+      "bb": "8.0 BB",
+      "bonus": "Locked 11 PTS",
+      "points": 11.0
     },
     {
       "player": "Andrew 'A.J.' Kelsall",
       "event": "Event #67: $10,000 Limit 2-7 Lowball Triple Draw Championship",
       "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-67/",
       "team": "Premiums Only",
-      "rank": "15 / 19",
+      "rank": "12 / 16",
       "chips": "375,000",
-      "bb": "9.4 BB",
-      "bonus": "Top 18 11 PTS",
-      "points": 0.0
+      "bb": "7.5 BB",
+      "bonus": "Locked 11 PTS",
+      "points": 11.0
     },
     {
       "player": "Michael Moncek",
       "event": "Event #67: $10,000 Limit 2-7 Lowball Triple Draw Championship",
       "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-67/",
       "team": "Gators",
-      "rank": "17 / 19",
+      "rank": "14 / 16",
       "chips": "290,000",
-      "bb": "7.3 BB",
-      "bonus": "Top 18 11 PTS",
-      "points": 0.0
+      "bb": "5.8 BB",
+      "bonus": "Locked 11 PTS",
+      "points": 11.0
     }
   ]
 }
