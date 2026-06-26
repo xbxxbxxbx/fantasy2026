@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-26T00:20:10.340926+00:00",
+  "generatedAt": "2026-06-26T00:30:15.503975+00:00",
   "league": "25k",
   "count": 6,
   "players": [
@@ -63,9 +63,9 @@
       "event": "Event #65: $1,500 Freezeout No-Limit Hold'em",
       "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-65/",
       "team": "Dinkers",
-      "rank": "7 / 11",
-      "chips": "3,315,000",
-      "bb": "27.6 BB",
+      "rank": "10 / 11",
+      "chips": "2,700,000",
+      "bb": "22.5 BB",
       "bonus": "Locked 27 PTS",
       "points": 31.0
     }
