@@ -1,14 +1,14 @@
 {
-  "generatedAt": "2026-06-26T00:12:37.506039+00:00",
+  "generatedAt": "2026-06-26T00:20:10.340926+00:00",
   "league": "25k",
-  "count": 7,
+  "count": 6,
   "players": [
     {
       "player": "Benny Glaser",
       "event": "Event #60: $50,000 Poker Players Championship",
       "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-60/",
       "team": "Chocolate Factory",
-      "rank": "1 / 3",
+      "rank": "1 / 2",
       "chips": "15,300,000",
       "bb": "102.0 BB",
       "bonus": "Locked 0 PTS",
@@ -19,20 +19,9 @@
       "event": "Event #60: $50,000 Poker Players Championship",
       "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-60/",
       "team": "DNegs",
-      "rank": "2 / 3",
+      "rank": "2 / 2",
       "chips": "6,250,000",
       "bb": "41.7 BB",
-      "bonus": "Locked 0 PTS",
-      "points": 0.0
-    },
-    {
-      "player": "Phil Ivey",
-      "event": "Event #60: $50,000 Poker Players Championship",
-      "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-60/",
-      "team": "Verderamo",
-      "rank": "3 / 3",
-      "chips": "3,450,000",
-      "bb": "23.0 BB",
       "bonus": "Locked 0 PTS",
       "points": 0.0
     },
