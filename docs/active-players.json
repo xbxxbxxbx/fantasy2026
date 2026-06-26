@@ -1,14 +1,14 @@
 {
-  "generatedAt": "2026-06-26T21:57:11.935928+00:00",
+  "generatedAt": "2026-06-26T22:00:18.769328+00:00",
   "league": "25k",
-  "count": 4,
+  "count": 9,
   "players": [
     {
       "player": "Nick Schulman",
       "event": "Event #67: $10,000 Limit 2-7 Lowball Triple Draw Championship",
       "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-67/",
       "team": "Verderamo",
-      "rank": "1 / 9",
+      "rank": "1 / 8",
       "chips": "2,950,000",
       "bb": "29.5 BB",
       "bonus": "Locked 11 PTS",
@@ -19,20 +19,9 @@
       "event": "Event #67: $10,000 Limit 2-7 Lowball Triple Draw Championship",
       "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-67/",
       "team": "Banana",
-      "rank": "5 / 9",
+      "rank": "5 / 8",
       "chips": "920,000",
       "bb": "9.2 BB",
-      "bonus": "Locked 11 PTS",
-      "points": 0.0
-    },
-    {
-      "player": "Robert Wells",
-      "event": "Event #67: $10,000 Limit 2-7 Lowball Triple Draw Championship",
-      "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-67/",
-      "team": "Spitework",
-      "rank": "8 / 9",
-      "chips": "295,000",
-      "bb": "3.0 BB",
       "bonus": "Locked 11 PTS",
       "points": 0.0
     },
@@ -41,11 +30,77 @@
       "event": "Event #67: $10,000 Limit 2-7 Lowball Triple Draw Championship",
       "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-67/",
       "team": "Premiums Only",
-      "rank": "9 / 9",
+      "rank": "8 / 8",
       "chips": "280,000",
       "bb": "2.8 BB",
       "bonus": "Locked 11 PTS",
       "points": 0.0
+    },
+    {
+      "player": "Lexy Gavin",
+      "event": "Event #68: $1,000 LADIES No-Limit Hold\u2019em Championship",
+      "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-68/",
+      "team": "2026 ODB Bonus Players",
+      "rank": "13 / 215",
+      "chips": "270,000",
+      "bb": "90.0 BB",
+      "bonus": "Top 27 15 PTS",
+      "points": 1.0
+    },
+    {
+      "player": "Rania Nasreddine",
+      "event": "Event #68: $1,000 LADIES No-Limit Hold\u2019em Championship",
+      "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-68/",
+      "team": "2026 ODB Bonus Players",
+      "rank": "15 / 215",
+      "chips": "266,000",
+      "bb": "88.7 BB",
+      "bonus": "Top 27 15 PTS",
+      "points": 1.0
+    },
+    {
+      "player": "Cherish Andrews",
+      "event": "Event #68: $1,000 LADIES No-Limit Hold\u2019em Championship",
+      "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-68/",
+      "team": "Premiums Only",
+      "rank": "37 / 215",
+      "chips": "200,000",
+      "bb": "66.7 BB",
+      "bonus": "Top 27 15 PTS",
+      "points": 1.0
+    },
+    {
+      "player": "Maria Konnikova",
+      "event": "Event #68: $1,000 LADIES No-Limit Hold\u2019em Championship",
+      "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-68/",
+      "team": "2026 ODB Bonus Players",
+      "rank": "55 / 215",
+      "chips": "180,000",
+      "bb": "60.0 BB",
+      "bonus": "Top 27 15 PTS",
+      "points": 1.0
+    },
+    {
+      "player": "Angela Jordison",
+      "event": "Event #68: $1,000 LADIES No-Limit Hold\u2019em Championship",
+      "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-68/",
+      "team": "2026 ODB Bonus Players",
+      "rank": "56 / 215",
+      "chips": "177,000",
+      "bb": "59.0 BB",
+      "bonus": "Top 27 15 PTS",
+      "points": 1.0
+    },
+    {
+      "player": "Victoria Livschitz",
+      "event": "Event #68: $1,000 LADIES No-Limit Hold\u2019em Championship",
+      "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-68/",
+      "team": "2026 ODB Bonus Players",
+      "rank": "156 / 215",
+      "chips": "69,500",
+      "bb": "23.2 BB",
+      "bonus": "Top 27 15 PTS",
+      "points": 1.0
     }
   ]
 }
