@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-26T01:40:13.448027+00:00",
+  "generatedAt": "2026-06-26T01:50:10.606950+00:00",
   "league": "25k",
   "count": 4,
   "players": [
@@ -9,8 +9,8 @@
       "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-60/",
       "team": "Chocolate Factory",
       "rank": "1 / 2",
-      "chips": "23,700,000",
-      "bb": "158.0 BB",
+      "chips": "25,700,000",
+      "bb": "171.3 BB",
       "bonus": "Locked 0 PTS",
       "points": 0.0
     },
@@ -20,8 +20,8 @@
       "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-60/",
       "team": "DNegs",
       "rank": "2 / 2",
-      "chips": "6,250,000",
-      "bb": "41.7 BB",
+      "chips": "6,700,000",
+      "bb": "44.7 BB",
       "bonus": "Locked 0 PTS",
       "points": 0.0
     },
