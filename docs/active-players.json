@@ -1,19 +1,8 @@
 {
-  "generatedAt": "2026-06-26T09:41:56.756627+00:00",
+  "generatedAt": "2026-06-26T09:50:11.559787+00:00",
   "league": "25k",
-  "count": 6,
+  "count": 5,
   "players": [
-    {
-      "player": "Benny Glaser",
-      "event": "Event #60: $50,000 Poker Players Championship",
-      "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-60/",
-      "team": "Chocolate Factory",
-      "rank": "1 / 1",
-      "chips": "25,700,000",
-      "bb": "171.3 BB",
-      "bonus": "Locked 0 PTS",
-      "points": 176.0
-    },
     {
       "player": "Nick Schulman",
       "event": "Event #67: $10,000 Limit 2-7 Lowball Triple Draw Championship",
