@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-06-26T02:26:25.813696+00:00",
+  "generatedAt": "2026-06-26T02:30:15.941875+00:00",
   "league": "25k",
-  "count": 3,
+  "count": 2,
   "players": [
     {
       "player": "Benny Glaser",
@@ -23,17 +23,6 @@
       "chips": "2,915,000",
       "bb": "\u2014",
       "bonus": "Locked 12 PTS",
-      "points": 0.0
-    },
-    {
-      "player": "Aram Zobian",
-      "event": "Event #65: $1,500 Freezeout No-Limit Hold'em",
-      "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-65/",
-      "team": "Dinkers",
-      "rank": "8 / 8",
-      "chips": "2,675,000",
-      "bb": "13.4 BB",
-      "bonus": "Locked 27 PTS",
       "points": 0.0
     }
   ]
