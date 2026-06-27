@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-06-27T06:16:36.936144+00:00",
+  "generatedAt": "2026-06-27T06:20:10.207420+00:00",
   "league": "25k",
-  "count": 6,
+  "count": 5,
   "players": [
     {
       "player": "Lexy Gavin",
@@ -41,20 +41,9 @@
       "event": "Event #69: $1,500 Seven Card Stud Hi-Lo 8 or Better",
       "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-69/",
       "team": "Premiums Only",
-      "rank": "13 / 18",
+      "rank": "13 / 16",
       "chips": "255,000",
       "bb": "3.2 BB",
-      "bonus": "Locked 11 PTS",
-      "points": 11.0
-    },
-    {
-      "player": "Brian Rast",
-      "event": "Event #69: $1,500 Seven Card Stud Hi-Lo 8 or Better",
-      "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-69/",
-      "team": "Stake Kings",
-      "rank": "15 / 18",
-      "chips": "205,000",
-      "bb": "2.6 BB",
       "bonus": "Locked 11 PTS",
       "points": 11.0
     },
@@ -63,7 +52,7 @@
       "event": "Event #69: $1,500 Seven Card Stud Hi-Lo 8 or Better",
       "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-69/",
       "team": "2026 ODB Bonus Players",
-      "rank": "18 / 18",
+      "rank": "16 / 16",
       "chips": "110,000",
       "bb": "1.4 BB",
       "bonus": "Locked 11 PTS",
