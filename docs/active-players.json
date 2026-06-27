@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-27T02:40:10.923884+00:00",
+  "generatedAt": "2026-06-27T02:50:13.219025+00:00",
   "league": "25k",
   "count": 12,
   "players": [
@@ -9,8 +9,8 @@
       "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-67/",
       "team": "Verderamo",
       "rank": "1 / 2",
-      "chips": "5,660,000",
-      "bb": "35.4 BB",
+      "chips": "7,480,000",
+      "bb": "46.8 BB",
       "bonus": "Locked 11 PTS",
       "points": 0.0
     },
@@ -21,7 +21,7 @@
       "team": "2026 ODB Bonus Players",
       "rank": "5 / 110",
       "chips": "760,000",
-      "bb": "126.7 BB",
+      "bb": "95.0 BB",
       "bonus": "Top 27 15 PTS",
       "points": 1.0
     },
@@ -32,7 +32,7 @@
       "team": "2026 ODB Bonus Players",
       "rank": "21 / 110",
       "chips": "391,000",
-      "bb": "65.2 BB",
+      "bb": "48.9 BB",
       "bonus": "Top 27 15 PTS",
       "points": 1.0
     },
@@ -43,7 +43,7 @@
       "team": "Premiums Only",
       "rank": "47 / 110",
       "chips": "200,000",
-      "bb": "33.3 BB",
+      "bb": "25.0 BB",
       "bonus": "Top 27 15 PTS",
       "points": 1.0
     },
@@ -54,7 +54,7 @@
       "team": "2026 ODB Bonus Players",
       "rank": "57 / 110",
       "chips": "158,000",
-      "bb": "26.3 BB",
+      "bb": "19.8 BB",
       "bonus": "Top 27 15 PTS",
       "points": 1.0
     },
@@ -63,9 +63,9 @@
       "event": "Event #68: $1,000 LADIES No-Limit Hold\u2019em Championship",
       "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-68/",
       "team": "2026 ODB Bonus Players",
-      "rank": "98 / 110",
+      "rank": "99 / 110",
       "chips": "80,000",
-      "bb": "13.3 BB",
+      "bb": "10.0 BB",
       "bonus": "Top 27 15 PTS",
       "points": 1.0
     },
@@ -74,31 +74,9 @@
       "event": "Event #69: $1,500 Seven Card Stud Hi-Lo 8 or Better",
       "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-69/",
       "team": "Back Office",
-      "rank": "7 / 26",
+      "rank": "9 / 26",
       "chips": "679,000",
       "bb": "17.0 BB",
-      "bonus": "Top 18 11 PTS",
-      "points": 1.0
-    },
-    {
-      "player": "Ryan Hoenig",
-      "event": "Event #69: $1,500 Seven Card Stud Hi-Lo 8 or Better",
-      "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-69/",
-      "team": "Premiums Only",
-      "rank": "10 / 26",
-      "chips": "542,000",
-      "bb": "13.6 BB",
-      "bonus": "Top 18 11 PTS",
-      "points": 1.0
-    },
-    {
-      "player": "Tyler Phillips",
-      "event": "Event #69: $1,500 Seven Card Stud Hi-Lo 8 or Better",
-      "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-69/",
-      "team": "Glue Factory",
-      "rank": "13 / 26",
-      "chips": "382,000",
-      "bb": "9.6 BB",
       "bonus": "Top 18 11 PTS",
       "points": 1.0
     },
@@ -107,9 +85,20 @@
       "event": "Event #69: $1,500 Seven Card Stud Hi-Lo 8 or Better",
       "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-69/",
       "team": "Stake Kings",
-      "rank": "15 / 26",
-      "chips": "315,000",
-      "bb": "7.9 BB",
+      "rank": "10 / 26",
+      "chips": "590,000",
+      "bb": "14.8 BB",
+      "bonus": "Top 18 11 PTS",
+      "points": 1.0
+    },
+    {
+      "player": "Ryan Hoenig",
+      "event": "Event #69: $1,500 Seven Card Stud Hi-Lo 8 or Better",
+      "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-69/",
+      "team": "Premiums Only",
+      "rank": "12 / 26",
+      "chips": "542,000",
+      "bb": "13.6 BB",
       "bonus": "Top 18 11 PTS",
       "points": 1.0
     },
@@ -118,9 +107,9 @@
       "event": "Event #69: $1,500 Seven Card Stud Hi-Lo 8 or Better",
       "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-69/",
       "team": "2026 ODB Bonus Players",
-      "rank": "22 / 26",
-      "chips": "233,000",
-      "bb": "5.8 BB",
+      "rank": "18 / 26",
+      "chips": "297,000",
+      "bb": "7.4 BB",
       "bonus": "Top 18 11 PTS",
       "points": 1.0
     },
@@ -129,9 +118,20 @@
       "event": "Event #69: $1,500 Seven Card Stud Hi-Lo 8 or Better",
       "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-69/",
       "team": "Back Office",
-      "rank": "26 / 26",
+      "rank": "24 / 26",
       "chips": "146,000",
       "bb": "3.7 BB",
+      "bonus": "Top 18 11 PTS",
+      "points": 1.0
+    },
+    {
+      "player": "Tyler Phillips",
+      "event": "Event #69: $1,500 Seven Card Stud Hi-Lo 8 or Better",
+      "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-69/",
+      "team": "Glue Factory",
+      "rank": "25 / 26",
+      "chips": "120,000",
+      "bb": "3.0 BB",
       "bonus": "Top 18 11 PTS",
       "points": 1.0
     }
