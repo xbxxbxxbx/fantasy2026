@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-27T03:50:10.691615+00:00",
+  "generatedAt": "2026-06-27T04:00:15.056918+00:00",
   "leagueName": "WSOP Poker Fantasy Draft 2026",
   "sourceLabel": "25KFantasy",
   "sourceUrl": "https://www.25kfantasy.com/players/",
@@ -320,7 +320,7 @@
         },
         {
           "player": "Tyler Phillips",
-          "points": 26.0
+          "points": 27.0
         },
         {
           "player": "Erik Seidel",
@@ -339,9 +339,9 @@
           "points": 0.0
         }
       ],
-      "totalPoints": 287.0,
-      "pointsChange": 0.0,
-      "pointsChangeSincePrevious": 0.0
+      "totalPoints": 288.0,
+      "pointsChange": 1.0,
+      "pointsChangeSincePrevious": 1.0
     },
     {
       "managerName": "Trampstamp",
