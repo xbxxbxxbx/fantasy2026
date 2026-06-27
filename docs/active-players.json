@@ -1,16 +1,16 @@
 {
-  "generatedAt": "2026-06-27T06:00:19.635785+00:00",
+  "generatedAt": "2026-06-27T06:10:11.644676+00:00",
   "league": "25k",
-  "count": 7,
+  "count": 6,
   "players": [
     {
       "player": "Lexy Gavin",
       "event": "Event #68: $1,000 LADIES No-Limit Hold\u2019em Championship",
       "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-68/",
       "team": "2026 ODB Bonus Players",
-      "rank": "3 / 60",
+      "rank": "3 / 56",
       "chips": "820,000",
-      "bb": "68.3 BB",
+      "bb": "54.7 BB",
       "bonus": "Top 27 15 PTS",
       "points": 1.0
     },
@@ -19,20 +19,9 @@
       "event": "Event #68: $1,000 LADIES No-Limit Hold\u2019em Championship",
       "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-68/",
       "team": "2026 ODB Bonus Players",
-      "rank": "18 / 60",
+      "rank": "17 / 56",
       "chips": "557,000",
-      "bb": "46.4 BB",
-      "bonus": "Top 27 15 PTS",
-      "points": 1.0
-    },
-    {
-      "player": "Rania Nasreddine",
-      "event": "Event #68: $1,000 LADIES No-Limit Hold\u2019em Championship",
-      "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-68/",
-      "team": "2026 ODB Bonus Players",
-      "rank": "28 / 60",
-      "chips": "390,000",
-      "bb": "32.5 BB",
+      "bb": "37.1 BB",
       "bonus": "Top 27 15 PTS",
       "points": 1.0
     },
@@ -41,9 +30,9 @@
       "event": "Event #68: $1,000 LADIES No-Limit Hold\u2019em Championship",
       "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-68/",
       "team": "Premiums Only",
-      "rank": "47 / 60",
+      "rank": "43 / 56",
       "chips": "200,000",
-      "bb": "16.7 BB",
+      "bb": "13.3 BB",
       "bonus": "Top 27 15 PTS",
       "points": 1.0
     },
@@ -52,33 +41,33 @@
       "event": "Event #69: $1,500 Seven Card Stud Hi-Lo 8 or Better",
       "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-69/",
       "team": "Premiums Only",
-      "rank": "14 / 19",
+      "rank": "13 / 18",
       "chips": "255,000",
       "bb": "3.2 BB",
-      "bonus": "Top 18 11 PTS",
-      "points": 0.0
+      "bonus": "Locked 11 PTS",
+      "points": 11.0
     },
     {
       "player": "Brian Rast",
       "event": "Event #69: $1,500 Seven Card Stud Hi-Lo 8 or Better",
       "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-69/",
       "team": "Stake Kings",
-      "rank": "16 / 19",
+      "rank": "15 / 18",
       "chips": "205,000",
       "bb": "2.6 BB",
-      "bonus": "Top 18 11 PTS",
-      "points": 0.0
+      "bonus": "Locked 11 PTS",
+      "points": 11.0
     },
     {
       "player": "David Bach",
       "event": "Event #69: $1,500 Seven Card Stud Hi-Lo 8 or Better",
       "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-69/",
       "team": "2026 ODB Bonus Players",
-      "rank": "19 / 19",
+      "rank": "18 / 18",
       "chips": "110,000",
       "bb": "1.4 BB",
-      "bonus": "Top 18 11 PTS",
-      "points": 0.0
+      "bonus": "Locked 11 PTS",
+      "points": 11.0
     }
   ]
 }
