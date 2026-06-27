@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-27T05:00:16.118661+00:00",
+  "generatedAt": "2026-06-27T05:10:12.865230+00:00",
   "league": "25k",
   "count": 8,
   "players": [
@@ -8,9 +8,9 @@
       "event": "Event #68: $1,000 LADIES No-Limit Hold\u2019em Championship",
       "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-68/",
       "team": "2026 ODB Bonus Players",
-      "rank": "9 / 70",
-      "chips": "760,000",
-      "bb": "76.0 BB",
+      "rank": "2 / 70",
+      "chips": "820,000",
+      "bb": "68.3 BB",
       "bonus": "Top 27 15 PTS",
       "points": 1.0
     },
@@ -19,9 +19,9 @@
       "event": "Event #68: $1,000 LADIES No-Limit Hold\u2019em Championship",
       "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-68/",
       "team": "2026 ODB Bonus Players",
-      "rank": "15 / 70",
+      "rank": "18 / 70",
       "chips": "557,000",
-      "bb": "55.7 BB",
+      "bb": "46.4 BB",
       "bonus": "Top 27 15 PTS",
       "points": 1.0
     },
@@ -30,9 +30,9 @@
       "event": "Event #68: $1,000 LADIES No-Limit Hold\u2019em Championship",
       "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-68/",
       "team": "2026 ODB Bonus Players",
-      "rank": "27 / 70",
+      "rank": "28 / 70",
       "chips": "390,000",
-      "bb": "39.0 BB",
+      "bb": "32.5 BB",
       "bonus": "Top 27 15 PTS",
       "points": 1.0
     },
@@ -41,21 +41,10 @@
       "event": "Event #68: $1,000 LADIES No-Limit Hold\u2019em Championship",
       "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-68/",
       "team": "Premiums Only",
-      "rank": "46 / 70",
+      "rank": "47 / 70",
       "chips": "200,000",
-      "bb": "20.0 BB",
+      "bb": "16.7 BB",
       "bonus": "Top 27 15 PTS",
-      "points": 1.0
-    },
-    {
-      "player": "Ryan Hoenig",
-      "event": "Event #69: $1,500 Seven Card Stud Hi-Lo 8 or Better",
-      "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-69/",
-      "team": "Premiums Only",
-      "rank": "8 / 20",
-      "chips": "907,000",
-      "bb": "15.1 BB",
-      "bonus": "Top 18 11 PTS",
       "points": 1.0
     },
     {
@@ -63,7 +52,7 @@
       "event": "Event #69: $1,500 Seven Card Stud Hi-Lo 8 or Better",
       "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-69/",
       "team": "Stake Kings",
-      "rank": "12 / 20",
+      "rank": "11 / 20",
       "chips": "590,000",
       "bb": "9.8 BB",
       "bonus": "Top 18 11 PTS",
@@ -74,9 +63,20 @@
       "event": "Event #69: $1,500 Seven Card Stud Hi-Lo 8 or Better",
       "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-69/",
       "team": "Back Office",
-      "rank": "13 / 20",
+      "rank": "12 / 20",
       "chips": "552,000",
       "bb": "9.2 BB",
+      "bonus": "Top 18 11 PTS",
+      "points": 1.0
+    },
+    {
+      "player": "Ryan Hoenig",
+      "event": "Event #69: $1,500 Seven Card Stud Hi-Lo 8 or Better",
+      "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-69/",
+      "team": "Premiums Only",
+      "rank": "15 / 20",
+      "chips": "425,000",
+      "bb": "7.1 BB",
       "bonus": "Top 18 11 PTS",
       "points": 1.0
     },
