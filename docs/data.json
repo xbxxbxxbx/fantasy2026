@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-27T02:30:12.140567+00:00",
+  "generatedAt": "2026-06-27T02:40:10.384618+00:00",
   "leagueName": "WSOP Poker Fantasy Draft 2026",
   "sourceLabel": "25KFantasy",
   "sourceUrl": "https://www.25kfantasy.com/players/",
@@ -152,7 +152,7 @@
         },
         {
           "player": "Andrew Ostapchenko",
-          "points": 48.0
+          "points": 49.0
         },
         {
           "player": "Matt Vengrin",
@@ -171,9 +171,9 @@
           "points": 0.0
         }
       ],
-      "totalPoints": 449.0,
-      "pointsChange": 1.0,
-      "pointsChangeSincePrevious": 0.0
+      "totalPoints": 450.0,
+      "pointsChange": 2.0,
+      "pointsChangeSincePrevious": 1.0
     },
     {
       "managerName": "Gus",
@@ -358,7 +358,7 @@
         },
         {
           "player": "Andrew Ostapchenko",
-          "points": 48.0
+          "points": 49.0
         },
         {
           "player": "Patrick Leonard",
@@ -381,9 +381,9 @@
           "points": 0.0
         }
       ],
-      "totalPoints": 268.0,
-      "pointsChange": 0.0,
-      "pointsChangeSincePrevious": 0.0
+      "totalPoints": 269.0,
+      "pointsChange": 1.0,
+      "pointsChangeSincePrevious": 1.0
     }
   ],
   "failures": []
