@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-27T06:30:11.906292+00:00",
+  "generatedAt": "2026-06-27T06:40:10.976554+00:00",
   "leagueName": "WSOP Poker Fantasy Draft 2026",
   "sourceLabel": "25KFantasy",
   "sourceUrl": "https://www.25kfantasy.com/players/",
@@ -277,12 +277,12 @@
           "points": 54.0
         },
         {
-          "player": "Maksim Pisarenko",
-          "points": 45.0
+          "player": "Ryan Hoenig",
+          "points": 50.0
         },
         {
-          "player": "Ryan Hoenig",
-          "points": 39.0
+          "player": "Maksim Pisarenko",
+          "points": 45.0
         },
         {
           "player": "Matt Vengrin",
@@ -297,9 +297,9 @@
           "points": 17.0
         }
       ],
-      "totalPoints": 339.0,
-      "pointsChange": 12.0,
-      "pointsChangeSincePrevious": 0.0
+      "totalPoints": 350.0,
+      "pointsChange": 23.0,
+      "pointsChangeSincePrevious": 11.0
     },
     {
       "managerName": "Turbo",
