@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-27T06:50:11.633737+00:00",
+  "generatedAt": "2026-06-27T07:00:18.050282+00:00",
   "league": "25k",
   "count": 4,
   "players": [
@@ -8,7 +8,7 @@
       "event": "Event #68: $1,000 LADIES No-Limit Hold\u2019em Championship",
       "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-68/",
       "team": "2026 ODB Bonus Players",
-      "rank": "3 / 49",
+      "rank": "3 / 48",
       "chips": "820,000",
       "bb": "54.7 BB",
       "bonus": "Top 27 15 PTS",
@@ -19,7 +19,7 @@
       "event": "Event #68: $1,000 LADIES No-Limit Hold\u2019em Championship",
       "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-68/",
       "team": "2026 ODB Bonus Players",
-      "rank": "17 / 49",
+      "rank": "17 / 48",
       "chips": "557,000",
       "bb": "37.1 BB",
       "bonus": "Top 27 15 PTS",
@@ -30,7 +30,7 @@
       "event": "Event #68: $1,000 LADIES No-Limit Hold\u2019em Championship",
       "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-68/",
       "team": "Premiums Only",
-      "rank": "39 / 49",
+      "rank": "38 / 48",
       "chips": "200,000",
       "bb": "13.3 BB",
       "bonus": "Top 27 15 PTS",
@@ -43,7 +43,7 @@
       "team": "2026 ODB Bonus Players",
       "rank": "13 / 13",
       "chips": "110,000",
-      "bb": "1.4 BB",
+      "bb": "1.1 BB",
       "bonus": "Locked 11 PTS",
       "points": 11.0
     }
