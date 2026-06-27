@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-27T07:28:57.329344+00:00",
+  "generatedAt": "2026-06-27T07:30:12.193927+00:00",
   "league": "25k",
   "count": 4,
   "players": [
@@ -41,11 +41,11 @@
       "event": "Event #69: $1,500 Seven Card Stud Hi-Lo 8 or Better",
       "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-69/",
       "team": "2026 ODB Bonus Players",
-      "rank": "11 / 11",
+      "rank": "10 / 10",
       "chips": "110,000",
       "bb": "1.1 BB",
       "bonus": "Locked 11 PTS",
-      "points": 11.0
+      "points": 0.0
     }
   ]
 }
