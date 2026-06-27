@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-06-27T04:10:13.453917+00:00",
+  "generatedAt": "2026-06-27T04:20:11.376138+00:00",
   "league": "25k",
-  "count": 11,
+  "count": 10,
   "players": [
     {
       "player": "Nick Schulman",
@@ -19,7 +19,7 @@
       "event": "Event #68: $1,000 LADIES No-Limit Hold\u2019em Championship",
       "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-68/",
       "team": "2026 ODB Bonus Players",
-      "rank": "6 / 84",
+      "rank": "6 / 79",
       "chips": "760,000",
       "bb": "76.0 BB",
       "bonus": "Top 27 15 PTS",
@@ -30,7 +30,7 @@
       "event": "Event #68: $1,000 LADIES No-Limit Hold\u2019em Championship",
       "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-68/",
       "team": "2026 ODB Bonus Players",
-      "rank": "21 / 84",
+      "rank": "21 / 79",
       "chips": "391,000",
       "bb": "39.1 BB",
       "bonus": "Top 27 15 PTS",
@@ -41,7 +41,7 @@
       "event": "Event #68: $1,000 LADIES No-Limit Hold\u2019em Championship",
       "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-68/",
       "team": "Premiums Only",
-      "rank": "43 / 84",
+      "rank": "43 / 79",
       "chips": "200,000",
       "bb": "20.0 BB",
       "bonus": "Top 27 15 PTS",
@@ -52,20 +52,9 @@
       "event": "Event #68: $1,000 LADIES No-Limit Hold\u2019em Championship",
       "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-68/",
       "team": "2026 ODB Bonus Players",
-      "rank": "52 / 84",
+      "rank": "50 / 79",
       "chips": "158,000",
       "bb": "15.8 BB",
-      "bonus": "Top 27 15 PTS",
-      "points": 1.0
-    },
-    {
-      "player": "Maria Konnikova",
-      "event": "Event #68: $1,000 LADIES No-Limit Hold\u2019em Championship",
-      "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-68/",
-      "team": "2026 ODB Bonus Players",
-      "rank": "79 / 84",
-      "chips": "80,000",
-      "bb": "8.0 BB",
       "bonus": "Top 27 15 PTS",
       "points": 1.0
     },
