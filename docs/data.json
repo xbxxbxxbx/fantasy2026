@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-28T05:10:14.517694+00:00",
+  "generatedAt": "2026-06-28T05:20:10.377663+00:00",
   "leagueName": "WSOP Poker Fantasy Draft 2026",
   "sourceLabel": "25KFantasy",
   "sourceUrl": "https://www.25kfantasy.com/players/",
@@ -140,7 +140,7 @@
       "players": [
         {
           "player": "Dylan Weisman",
-          "points": 166.0
+          "points": 168.0
         },
         {
           "player": "Stephen Song",
@@ -171,9 +171,9 @@
           "points": 0.0
         }
       ],
-      "totalPoints": 450.0,
-      "pointsChange": 0.0,
-      "pointsChangeSincePrevious": 0.0
+      "totalPoints": 452.0,
+      "pointsChange": 2.0,
+      "pointsChangeSincePrevious": 2.0
     },
     {
       "managerName": "realbmorekid",
@@ -274,7 +274,7 @@
         },
         {
           "player": "Jim Collopy",
-          "points": 54.0
+          "points": 56.0
         },
         {
           "player": "Ryan Hoenig",
@@ -297,9 +297,9 @@
           "points": 17.0
         }
       ],
-      "totalPoints": 350.0,
-      "pointsChange": 0.0,
-      "pointsChangeSincePrevious": 0.0
+      "totalPoints": 352.0,
+      "pointsChange": 2.0,
+      "pointsChangeSincePrevious": 2.0
     },
     {
       "managerName": "Turbo",
