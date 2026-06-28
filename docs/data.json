@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-28T07:10:12.266917+00:00",
+  "generatedAt": "2026-06-28T07:20:11.018817+00:00",
   "leagueName": "WSOP Poker Fantasy Draft 2026",
   "sourceLabel": "25KFantasy",
   "sourceUrl": "https://www.25kfantasy.com/players/",
@@ -198,7 +198,7 @@
         },
         {
           "player": "Christian Harder",
-          "points": 18.0
+          "points": 20.0
         },
         {
           "player": "Shannon Shorr",
@@ -213,9 +213,9 @@
           "points": 7.0
         }
       ],
-      "totalPoints": 386.0,
-      "pointsChange": 21.0,
-      "pointsChangeSincePrevious": 0.0
+      "totalPoints": 388.0,
+      "pointsChange": 23.0,
+      "pointsChangeSincePrevious": 2.0
     },
     {
       "managerName": "Gus",
