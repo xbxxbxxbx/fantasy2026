@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-28T20:10:11.488055+00:00",
+  "generatedAt": "2026-06-28T20:20:13.685567+00:00",
   "leagueName": "WSOP Poker Fantasy Draft 2026",
   "sourceLabel": "25KFantasy",
   "sourceUrl": "https://www.25kfantasy.com/players/",
@@ -56,7 +56,7 @@
       "players": [
         {
           "player": "Martin Zamani",
-          "points": 255.0
+          "points": 256.0
         },
         {
           "player": "Kristen Foxen",
@@ -87,9 +87,9 @@
           "points": 5.0
         }
       ],
-      "totalPoints": 661.0,
-      "pointsChange": 0.0,
-      "pointsChangeSincePrevious": 0.0
+      "totalPoints": 662.0,
+      "pointsChange": 1.0,
+      "pointsChangeSincePrevious": 1.0
     },
     {
       "managerName": "JeffBNT",
@@ -126,12 +126,12 @@
         },
         {
           "player": "Brock Wilson",
-          "points": 7.0
+          "points": 8.0
         }
       ],
-      "totalPoints": 604.0,
-      "pointsChange": 0.0,
-      "pointsChangeSincePrevious": 0.0
+      "totalPoints": 605.0,
+      "pointsChange": 1.0,
+      "pointsChangeSincePrevious": 1.0
     },
     {
       "managerName": "Doinky",
@@ -144,7 +144,7 @@
         },
         {
           "player": "Stephen Song",
-          "points": 103.0
+          "points": 104.0
         },
         {
           "player": "Sam Soverel",
@@ -171,9 +171,9 @@
           "points": 0.0
         }
       ],
-      "totalPoints": 452.0,
-      "pointsChange": 0.0,
-      "pointsChangeSincePrevious": 0.0
+      "totalPoints": 453.0,
+      "pointsChange": 1.0,
+      "pointsChangeSincePrevious": 1.0
     },
     {
       "managerName": "realbmorekid",
@@ -186,11 +186,11 @@
         },
         {
           "player": "Shaun Deeb",
-          "points": 110.0
+          "points": 111.0
         },
         {
           "player": "Cherish Andrews",
-          "points": 46.0
+          "points": 47.0
         },
         {
           "player": "Esther Taylor",
@@ -206,16 +206,16 @@
         },
         {
           "player": "Jeremy Becker",
-          "points": 13.0
+          "points": 14.0
         },
         {
           "player": "Brock Wilson",
-          "points": 7.0
+          "points": 8.0
         }
       ],
-      "totalPoints": 388.0,
-      "pointsChange": 0.0,
-      "pointsChangeSincePrevious": 0.0
+      "totalPoints": 392.0,
+      "pointsChange": 4.0,
+      "pointsChangeSincePrevious": 4.0
     },
     {
       "managerName": "Gus",
@@ -236,7 +236,7 @@
         },
         {
           "player": "Matt Glantz",
-          "points": 34.0
+          "points": 35.0
         },
         {
           "player": "Allan Le",
@@ -255,9 +255,9 @@
           "points": 8.0
         }
       ],
-      "totalPoints": 374.0,
-      "pointsChange": 0.0,
-      "pointsChangeSincePrevious": 0.0
+      "totalPoints": 375.0,
+      "pointsChange": 1.0,
+      "pointsChangeSincePrevious": 1.0
     },
     {
       "managerName": "Ruben",
@@ -282,7 +282,7 @@
         },
         {
           "player": "Maksim Pisarenko",
-          "points": 45.0
+          "points": 46.0
         },
         {
           "player": "Matt Vengrin",
@@ -297,9 +297,9 @@
           "points": 17.0
         }
       ],
-      "totalPoints": 352.0,
-      "pointsChange": 0.0,
-      "pointsChangeSincePrevious": 0.0
+      "totalPoints": 353.0,
+      "pointsChange": 1.0,
+      "pointsChangeSincePrevious": 1.0
     },
     {
       "managerName": "Turbo",
