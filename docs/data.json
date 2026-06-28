@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-28T04:50:10.421940+00:00",
+  "generatedAt": "2026-06-28T05:00:15.043257+00:00",
   "leagueName": "WSOP Poker Fantasy Draft 2026",
   "sourceLabel": "25KFantasy",
   "sourceUrl": "https://www.25kfantasy.com/players/",
@@ -194,7 +194,7 @@
         },
         {
           "player": "Esther Taylor",
-          "points": 20.0
+          "points": 22.0
         },
         {
           "player": "Christian Harder",
@@ -213,9 +213,9 @@
           "points": 7.0
         }
       ],
-      "totalPoints": 384.0,
-      "pointsChange": 19.0,
-      "pointsChangeSincePrevious": 0.0
+      "totalPoints": 386.0,
+      "pointsChange": 21.0,
+      "pointsChangeSincePrevious": 2.0
     },
     {
       "managerName": "Gus",
@@ -243,21 +243,21 @@
           "points": 25.0
         },
         {
-          "player": "Phillip Hui",
+          "player": "Esther Taylor",
           "points": 22.0
         },
         {
-          "player": "Esther Taylor",
-          "points": 20.0
+          "player": "Phillip Hui",
+          "points": 22.0
         },
         {
           "player": "Danny Wong",
           "points": 8.0
         }
       ],
-      "totalPoints": 372.0,
-      "pointsChange": 0.0,
-      "pointsChangeSincePrevious": 0.0
+      "totalPoints": 374.0,
+      "pointsChange": 2.0,
+      "pointsChangeSincePrevious": 2.0
     },
     {
       "managerName": "Ruben",
@@ -366,7 +366,7 @@
         },
         {
           "player": "Esther Taylor",
-          "points": 20.0
+          "points": 22.0
         },
         {
           "player": "Viktor Blom",
@@ -381,9 +381,9 @@
           "points": 0.0
         }
       ],
-      "totalPoints": 269.0,
-      "pointsChange": 0.0,
-      "pointsChangeSincePrevious": 0.0
+      "totalPoints": 271.0,
+      "pointsChange": 2.0,
+      "pointsChangeSincePrevious": 2.0
     }
   ],
   "failures": []
