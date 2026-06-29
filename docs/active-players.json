@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-29T20:52:22.445251+00:00",
+  "generatedAt": "2026-06-29T21:00:18.055001+00:00",
   "league": "25k",
   "count": 12,
   "players": [
@@ -8,9 +8,9 @@
       "event": "Event #63: $1,000 Mystery Millions No-Limit Hold'em",
       "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-63/",
       "team": "Stake Kings",
-      "rank": "4 / 18",
-      "chips": "75,800,000",
-      "bb": "37.9 BB",
+      "rank": "6 / 17",
+      "chips": "64,000,000",
+      "bb": "25.6 BB",
       "bonus": "Locked 101 PTS",
       "points": 105.0
     },
@@ -19,9 +19,9 @@
       "event": "Event #63: $1,000 Mystery Millions No-Limit Hold'em",
       "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-63/",
       "team": "Chocolate Factory",
-      "rank": "13 / 18",
+      "rank": "13 / 17",
       "chips": "35,000,000",
-      "bb": "17.5 BB",
+      "bb": "14.0 BB",
       "bonus": "Locked 101 PTS",
       "points": 105.0
     },
@@ -30,9 +30,9 @@
       "event": "Event #63: $1,000 Mystery Millions No-Limit Hold'em",
       "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-63/",
       "team": "Lang Gang",
-      "rank": "23 / 18",
+      "rank": "23 / 17",
       "chips": "12,300,000",
-      "bb": "6.2 BB",
+      "bb": "4.9 BB",
       "bonus": "Locked 101 PTS",
       "points": 105.0
     },
