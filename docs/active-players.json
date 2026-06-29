@@ -1,14 +1,14 @@
 {
-  "generatedAt": "2026-06-29T07:00:18.244828+00:00",
+  "generatedAt": "2026-06-29T07:10:12.768447+00:00",
   "league": "25k",
-  "count": 20,
+  "count": 19,
   "players": [
     {
       "player": "David 'ODB' Baker",
       "event": "Event #63: $1,000 Mystery Millions No-Limit Hold'em",
       "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-63/",
       "team": "Stake Kings",
-      "rank": "11 / 45",
+      "rank": "9 / 41",
       "chips": "19,500,000",
       "bb": "24.4 BB",
       "bonus": "Locked 101 PTS",
@@ -19,7 +19,7 @@
       "event": "Event #63: $1,000 Mystery Millions No-Limit Hold'em",
       "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-63/",
       "team": "Chocolate Factory",
-      "rank": "31 / 45",
+      "rank": "29 / 41",
       "chips": "7,200,000",
       "bb": "9.0 BB",
       "bonus": "Locked 101 PTS",
@@ -30,30 +30,30 @@
       "event": "Event #63: $1,000 Mystery Millions No-Limit Hold'em",
       "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-63/",
       "team": "Lang Gang",
-      "rank": "44 / 45",
+      "rank": "41 / 41",
       "chips": "1,331,000",
       "bb": "1.7 BB",
       "bonus": "Locked 101 PTS",
       "points": 101.0
     },
     {
-      "player": "Jesse Lonis",
+      "player": "Michael Mizrachi",
       "event": "Event #70: $10,000 Pot-Limit Omaha Championship 8-Handed",
       "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-70/",
-      "team": "Blades & Shades",
+      "team": "Fleyshman",
       "rank": "1 / 8",
-      "chips": "10,200,000",
+      "chips": "21,000,000",
       "bb": "\u2014",
       "bonus": "Locked 18 PTS",
       "points": 0.0
     },
     {
-      "player": "Michael Mizrachi",
+      "player": "Jesse Lonis",
       "event": "Event #70: $10,000 Pot-Limit Omaha Championship 8-Handed",
       "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-70/",
-      "team": "Fleyshman",
-      "rank": "3 / 8",
-      "chips": "8,425,000",
+      "team": "Blades & Shades",
+      "rank": "2 / 8",
+      "chips": "10,200,000",
       "bb": "\u2014",
       "bonus": "Locked 18 PTS",
       "points": 0.0
@@ -96,132 +96,121 @@
       "event": "Event #71: $2,500 Mixed Big Bet Event 7-Handed",
       "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-71/",
       "team": "Back Office",
-      "rank": "1 / 20",
+      "rank": "1 / 17",
       "chips": "1,510,000",
       "bb": "\u2014",
-      "bonus": "Top 18 8 PTS",
-      "points": 1.0
+      "bonus": "Locked 8 PTS",
+      "points": 8.0
     },
     {
       "player": "Naoya Kihara",
       "event": "Event #71: $2,500 Mixed Big Bet Event 7-Handed",
       "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-71/",
       "team": "Banana",
-      "rank": "2 / 20",
+      "rank": "2 / 17",
       "chips": "1,425,000",
       "bb": "\u2014",
-      "bonus": "Top 18 8 PTS",
-      "points": 1.0
+      "bonus": "Locked 8 PTS",
+      "points": 8.0
     },
     {
       "player": "Danny Chang",
       "event": "Event #71: $2,500 Mixed Big Bet Event 7-Handed",
       "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-71/",
       "team": "2026 ODB Bonus Players",
-      "rank": "4 / 20",
+      "rank": "4 / 17",
       "chips": "1,075,000",
       "bb": "\u2014",
-      "bonus": "Top 18 8 PTS",
-      "points": 1.0
+      "bonus": "Locked 8 PTS",
+      "points": 8.0
     },
     {
       "player": "Dylan Smith",
       "event": "Event #71: $2,500 Mixed Big Bet Event 7-Handed",
       "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-71/",
       "team": "Spitework",
-      "rank": "5 / 20",
+      "rank": "5 / 17",
       "chips": "1,006,000",
       "bb": "\u2014",
-      "bonus": "Top 18 8 PTS",
-      "points": 1.0
+      "bonus": "Locked 8 PTS",
+      "points": 8.0
     },
     {
       "player": "Matt Vengrin",
       "event": "Event #71: $2,500 Mixed Big Bet Event 7-Handed",
       "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-71/",
       "team": "Glue Factory",
-      "rank": "8 / 20",
+      "rank": "8 / 17",
       "chips": "861,000",
       "bb": "\u2014",
-      "bonus": "Top 18 8 PTS",
-      "points": 1.0
+      "bonus": "Locked 8 PTS",
+      "points": 8.0
     },
     {
       "player": "Nick Marchington",
       "event": "Event #71: $2,500 Mixed Big Bet Event 7-Handed",
       "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-71/",
       "team": "2026 ODB Bonus Players",
-      "rank": "9 / 20",
+      "rank": "9 / 17",
       "chips": "730,000",
       "bb": "\u2014",
-      "bonus": "Top 18 8 PTS",
-      "points": 1.0
+      "bonus": "Locked 8 PTS",
+      "points": 8.0
     },
     {
       "player": "Renan Bruschi",
       "event": "Event #71: $2,500 Mixed Big Bet Event 7-Handed",
       "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-71/",
       "team": "Chocolate Factory",
-      "rank": "10 / 20",
+      "rank": "10 / 17",
       "chips": "697,000",
       "bb": "\u2014",
-      "bonus": "Top 18 8 PTS",
-      "points": 1.0
+      "bonus": "Locked 8 PTS",
+      "points": 8.0
     },
     {
       "player": "Patrick Leonard",
       "event": "Event #71: $2,500 Mixed Big Bet Event 7-Handed",
       "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-71/",
       "team": "Dinkers",
-      "rank": "14 / 20",
+      "rank": "12 / 17",
       "chips": "415,000",
       "bb": "\u2014",
-      "bonus": "Top 18 8 PTS",
-      "points": 1.0
+      "bonus": "Locked 8 PTS",
+      "points": 8.0
     },
     {
       "player": "Scott Abrams",
       "event": "Event #71: $2,500 Mixed Big Bet Event 7-Handed",
       "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-71/",
       "team": "2026 ODB Bonus Players",
-      "rank": "15 / 20",
+      "rank": "13 / 17",
       "chips": "391,000",
       "bb": "\u2014",
-      "bonus": "Top 18 8 PTS",
-      "points": 1.0
+      "bonus": "Locked 8 PTS",
+      "points": 8.0
     },
     {
       "player": "Brad Owen",
       "event": "Event #71: $2,500 Mixed Big Bet Event 7-Handed",
       "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-71/",
       "team": "Banana",
-      "rank": "16 / 20",
+      "rank": "14 / 17",
       "chips": "364,000",
       "bb": "\u2014",
-      "bonus": "Top 18 8 PTS",
-      "points": 1.0
-    },
-    {
-      "player": "Paul Fehlig",
-      "event": "Event #71: $2,500 Mixed Big Bet Event 7-Handed",
-      "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-71/",
-      "team": "2026 ODB Bonus Players",
-      "rank": "18 / 20",
-      "chips": "277,000",
-      "bb": "\u2014",
-      "bonus": "Top 18 8 PTS",
-      "points": 1.0
+      "bonus": "Locked 8 PTS",
+      "points": 8.0
     },
     {
       "player": "Matthew Schreiber",
       "event": "Event #71: $2,500 Mixed Big Bet Event 7-Handed",
       "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-71/",
       "team": "Blez/NGNF",
-      "rank": "19 / 20",
+      "rank": "16 / 17",
       "chips": "191,000",
       "bb": "\u2014",
-      "bonus": "Top 18 8 PTS",
-      "points": 1.0
+      "bonus": "Locked 8 PTS",
+      "points": 8.0
     }
   ]
 }
