@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-29T22:50:10.331070+00:00",
+  "generatedAt": "2026-06-29T23:00:15.980636+00:00",
   "leagueName": "WSOP Poker Fantasy Draft 2026",
   "sourceLabel": "25KFantasy",
   "sourceUrl": "https://www.25kfantasy.com/players/",
@@ -38,16 +38,16 @@
         },
         {
           "player": "Scott Seiver",
-          "points": 54.0
+          "points": 55.0
         },
         {
           "player": "Matt Vengrin",
           "points": 30.0
         }
       ],
-      "totalPoints": 798.0,
-      "pointsChange": 0.0,
-      "pointsChangeSincePrevious": 0.0
+      "totalPoints": 799.0,
+      "pointsChange": 1.0,
+      "pointsChangeSincePrevious": 1.0
     },
     {
       "managerName": "Kush",
@@ -316,7 +316,7 @@
         },
         {
           "player": "Scott Seiver",
-          "points": 54.0
+          "points": 55.0
         },
         {
           "player": "Tyler Phillips",
@@ -339,9 +339,9 @@
           "points": 0.0
         }
       ],
-      "totalPoints": 289.0,
-      "pointsChange": 0.0,
-      "pointsChangeSincePrevious": 0.0
+      "totalPoints": 290.0,
+      "pointsChange": 1.0,
+      "pointsChangeSincePrevious": 1.0
     },
     {
       "managerName": "Trampstamp",
