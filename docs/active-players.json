@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-29T20:20:14.560228+00:00",
+  "generatedAt": "2026-06-29T20:30:13.663951+00:00",
   "league": "25k",
   "count": 13,
   "players": [
@@ -8,33 +8,33 @@
       "event": "Event #63: $1,000 Mystery Millions No-Limit Hold'em",
       "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-63/",
       "team": "Stake Kings",
-      "rank": "2 / 20",
+      "rank": "2 / 19",
       "chips": "75,800,000",
       "bb": "37.9 BB",
       "bonus": "Locked 101 PTS",
-      "points": 101.0
+      "points": 0.0
     },
     {
       "player": "Joey Weissman",
       "event": "Event #63: $1,000 Mystery Millions No-Limit Hold'em",
       "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-63/",
       "team": "Chocolate Factory",
-      "rank": "9 / 20",
+      "rank": "8 / 19",
       "chips": "47,500,000",
       "bb": "23.8 BB",
       "bonus": "Locked 101 PTS",
-      "points": 101.0
+      "points": 0.0
     },
     {
       "player": "Ren Lin",
       "event": "Event #63: $1,000 Mystery Millions No-Limit Hold'em",
       "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-63/",
       "team": "Lang Gang",
-      "rank": "24 / 20",
+      "rank": "24 / 19",
       "chips": "12,300,000",
       "bb": "6.2 BB",
       "bonus": "Locked 101 PTS",
-      "points": 101.0
+      "points": 0.0
     },
     {
       "player": "Michael Mizrachi",
