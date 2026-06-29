@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-06-29T21:10:11.536668+00:00",
+  "generatedAt": "2026-06-29T21:20:13.138415+00:00",
   "league": "25k",
-  "count": 12,
+  "count": 36,
   "players": [
     {
       "player": "David 'ODB' Baker",
@@ -134,6 +134,270 @@
       "bb": "\u2014",
       "bonus": "Locked 8 PTS",
       "points": 8.0
+    },
+    {
+      "player": "Daniel Negreanu",
+      "event": "Event #74: $1,500 8-Game Mixed",
+      "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-74/",
+      "team": "DNegs",
+      "rank": "2 / 108",
+      "chips": "378,500",
+      "bb": "94.6 BB",
+      "bonus": "Top 18 12 PTS",
+      "points": 1.0
+    },
+    {
+      "player": "Scott Seiver",
+      "event": "Event #74: $1,500 8-Game Mixed",
+      "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-74/",
+      "team": "Banana",
+      "rank": "10 / 108",
+      "chips": "261,500",
+      "bb": "65.4 BB",
+      "bonus": "Top 18 12 PTS",
+      "points": 1.0
+    },
+    {
+      "player": "Jason Stockfish",
+      "event": "Event #74: $1,500 8-Game Mixed",
+      "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-74/",
+      "team": "2026 ODB Bonus Players",
+      "rank": "11 / 108",
+      "chips": "254,000",
+      "bb": "63.5 BB",
+      "bonus": "Top 18 12 PTS",
+      "points": 1.0
+    },
+    {
+      "player": "Jordan Siegel",
+      "event": "Event #74: $1,500 8-Game Mixed",
+      "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-74/",
+      "team": "Noori",
+      "rank": "13 / 108",
+      "chips": "250,000",
+      "bb": "62.5 BB",
+      "bonus": "Top 18 12 PTS",
+      "points": 1.0
+    },
+    {
+      "player": "Ash Gupta",
+      "event": "Event #74: $1,500 8-Game Mixed",
+      "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-74/",
+      "team": "Trump Power",
+      "rank": "16 / 108",
+      "chips": "244,500",
+      "bb": "61.1 BB",
+      "bonus": "Top 18 12 PTS",
+      "points": 1.0
+    },
+    {
+      "player": "John Racener",
+      "event": "Event #74: $1,500 8-Game Mixed",
+      "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-74/",
+      "team": "Noori",
+      "rank": "20 / 108",
+      "chips": "222,000",
+      "bb": "55.5 BB",
+      "bonus": "Top 18 12 PTS",
+      "points": 1.0
+    },
+    {
+      "player": "Benny Glaser",
+      "event": "Event #74: $1,500 8-Game Mixed",
+      "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-74/",
+      "team": "Chocolate Factory",
+      "rank": "21 / 108",
+      "chips": "221,000",
+      "bb": "55.3 BB",
+      "bonus": "Top 18 12 PTS",
+      "points": 1.0
+    },
+    {
+      "player": "Christopher Vitch",
+      "event": "Event #74: $1,500 8-Game Mixed",
+      "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-74/",
+      "team": "Glue Factory",
+      "rank": "23 / 108",
+      "chips": "215,500",
+      "bb": "53.9 BB",
+      "bonus": "Top 18 12 PTS",
+      "points": 1.0
+    },
+    {
+      "player": "Phillip Hui",
+      "event": "Event #74: $1,500 8-Game Mixed",
+      "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-74/",
+      "team": "Blades & Shades",
+      "rank": "28 / 108",
+      "chips": "202,000",
+      "bb": "50.5 BB",
+      "bonus": "Top 18 12 PTS",
+      "points": 1.0
+    },
+    {
+      "player": "Chris Brewer",
+      "event": "Event #74: $1,500 8-Game Mixed",
+      "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-74/",
+      "team": "Blez/NGNF",
+      "rank": "32 / 108",
+      "chips": "190,500",
+      "bb": "47.6 BB",
+      "bonus": "Top 18 12 PTS",
+      "points": 1.0
+    },
+    {
+      "player": "Christian Roberts",
+      "event": "Event #74: $1,500 8-Game Mixed",
+      "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-74/",
+      "team": "Blades & Shades",
+      "rank": "38 / 108",
+      "chips": "180,500",
+      "bb": "45.1 BB",
+      "bonus": "Top 18 12 PTS",
+      "points": 1.0
+    },
+    {
+      "player": "David Lin",
+      "event": "Event #74: $1,500 8-Game Mixed",
+      "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-74/",
+      "team": "2026 ODB Bonus Players",
+      "rank": "47 / 108",
+      "chips": "164,000",
+      "bb": "41.0 BB",
+      "bonus": "Top 18 12 PTS",
+      "points": 1.0
+    },
+    {
+      "player": "Noah Bronstein",
+      "event": "Event #74: $1,500 8-Game Mixed",
+      "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-74/",
+      "team": "2026 ODB Bonus Players",
+      "rank": "51 / 108",
+      "chips": "160,000",
+      "bb": "40.0 BB",
+      "bonus": "Top 18 12 PTS",
+      "points": 1.0
+    },
+    {
+      "player": "Robert Wells",
+      "event": "Event #74: $1,500 8-Game Mixed",
+      "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-74/",
+      "team": "Spitework",
+      "rank": "56 / 108",
+      "chips": "152,500",
+      "bb": "38.1 BB",
+      "bonus": "Top 18 12 PTS",
+      "points": 1.0
+    },
+    {
+      "player": "Blaz Zerjav",
+      "event": "Event #74: $1,500 8-Game Mixed",
+      "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-74/",
+      "team": "Glaser",
+      "rank": "57 / 108",
+      "chips": "151,000",
+      "bb": "37.8 BB",
+      "bonus": "Top 18 12 PTS",
+      "points": 1.0
+    },
+    {
+      "player": "Ray Fishman",
+      "event": "Event #74: $1,500 8-Game Mixed",
+      "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-74/",
+      "team": "Browndog",
+      "rank": "58 / 108",
+      "chips": "149,500",
+      "bb": "37.4 BB",
+      "bonus": "Top 18 12 PTS",
+      "points": 1.0
+    },
+    {
+      "player": "Calvin Anderson",
+      "event": "Event #74: $1,500 8-Game Mixed",
+      "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-74/",
+      "team": "Glue Factory",
+      "rank": "59 / 108",
+      "chips": "149,000",
+      "bb": "37.3 BB",
+      "bonus": "Top 18 12 PTS",
+      "points": 1.0
+    },
+    {
+      "player": "Eric Baldwin",
+      "event": "Event #74: $1,500 8-Game Mixed",
+      "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-74/",
+      "team": "2026 ODB Bonus Players",
+      "rank": "61 / 108",
+      "chips": "146,000",
+      "bb": "36.5 BB",
+      "bonus": "Top 18 12 PTS",
+      "points": 1.0
+    },
+    {
+      "player": "Mark Gregorich",
+      "event": "Event #74: $1,500 8-Game Mixed",
+      "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-74/",
+      "team": "2026 ODB Bonus Players",
+      "rank": "67 / 108",
+      "chips": "132,000",
+      "bb": "33.0 BB",
+      "bonus": "Top 18 12 PTS",
+      "points": 1.0
+    },
+    {
+      "player": "Michael Gathy",
+      "event": "Event #74: $1,500 8-Game Mixed",
+      "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-74/",
+      "team": "Chocolate Factory",
+      "rank": "67 / 108",
+      "chips": "132,000",
+      "bb": "33.0 BB",
+      "bonus": "Top 18 12 PTS",
+      "points": 1.0
+    },
+    {
+      "player": "Viktor Blom",
+      "event": "Event #74: $1,500 8-Game Mixed",
+      "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-74/",
+      "team": "Wasserson",
+      "rank": "71 / 108",
+      "chips": "125,000",
+      "bb": "31.3 BB",
+      "bonus": "Top 18 12 PTS",
+      "points": 1.0
+    },
+    {
+      "player": "Justin Liberto",
+      "event": "Event #74: $1,500 8-Game Mixed",
+      "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-74/",
+      "team": "Blez/NGNF",
+      "rank": "81 / 108",
+      "chips": "111,500",
+      "bb": "27.9 BB",
+      "bonus": "Top 18 12 PTS",
+      "points": 1.0
+    },
+    {
+      "player": "Mike Matusow",
+      "event": "Event #74: $1,500 8-Game Mixed",
+      "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-74/",
+      "team": "Noori",
+      "rank": "82 / 108",
+      "chips": "110,000",
+      "bb": "27.5 BB",
+      "bonus": "Top 18 12 PTS",
+      "points": 1.0
+    },
+    {
+      "player": "Shaun Deeb",
+      "event": "Event #74: $1,500 8-Game Mixed",
+      "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-74/",
+      "team": "Trump Power",
+      "rank": "90 / 108",
+      "chips": "90,500",
+      "bb": "22.6 BB",
+      "bonus": "Top 18 12 PTS",
+      "points": 1.0
     }
   ]
 }
