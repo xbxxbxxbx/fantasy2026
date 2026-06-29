@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-29T01:10:11.380500+00:00",
+  "generatedAt": "2026-06-29T01:20:11.010332+00:00",
   "leagueName": "WSOP Poker Fantasy Draft 2026",
   "sourceLabel": "25KFantasy",
   "sourceUrl": "https://www.25kfantasy.com/players/",
@@ -312,7 +312,7 @@
         },
         {
           "player": "John Racener",
-          "points": 81.0
+          "points": 82.0
         },
         {
           "player": "Scott Seiver",
@@ -339,9 +339,9 @@
           "points": 0.0
         }
       ],
-      "totalPoints": 288.0,
-      "pointsChange": 0.0,
-      "pointsChangeSincePrevious": 0.0
+      "totalPoints": 289.0,
+      "pointsChange": 1.0,
+      "pointsChangeSincePrevious": 1.0
     },
     {
       "managerName": "Trampstamp",
