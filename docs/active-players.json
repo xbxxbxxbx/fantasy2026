@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-30T23:10:15.217308+00:00",
+  "generatedAt": "2026-06-30T23:20:11.574802+00:00",
   "league": "25k",
   "count": 7,
   "players": [
@@ -8,7 +8,7 @@
       "event": "Event #73: $5,000 6-Handed No-Limit Hold\u2019em",
       "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-73/",
       "team": "Verderamo",
-      "rank": "3 / 26",
+      "rank": "2 / 26",
       "chips": "3,265,000",
       "bb": "65.3 BB",
       "bonus": "Locked 16 PTS",
@@ -19,7 +19,7 @@
       "event": "Event #73: $5,000 6-Handed No-Limit Hold\u2019em",
       "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-73/",
       "team": "Very Handsome Horses",
-      "rank": "5 / 26",
+      "rank": "4 / 26",
       "chips": "3,110,000",
       "bb": "62.2 BB",
       "bonus": "Locked 16 PTS",
@@ -30,9 +30,9 @@
       "event": "Event #73: $5,000 6-Handed No-Limit Hold\u2019em",
       "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-73/",
       "team": "2026 ODB Bonus Players",
-      "rank": "7 / 26",
-      "chips": "3,010,000",
-      "bb": "60.2 BB",
+      "rank": "9 / 26",
+      "chips": "2,350,000",
+      "bb": "47.0 BB",
       "bonus": "Locked 16 PTS",
       "points": 16.0
     },
@@ -65,7 +65,7 @@
       "team": "Glaser",
       "rank": "2 / 8",
       "chips": "2,985,000",
-      "bb": "59.7 BB",
+      "bb": "49.8 BB",
       "bonus": "Locked 12 PTS",
       "points": 0.0
     },
@@ -76,7 +76,7 @@
       "team": "Trump Power",
       "rank": "6 / 8",
       "chips": "1,995,000",
-      "bb": "39.9 BB",
+      "bb": "33.3 BB",
       "bonus": "Locked 12 PTS",
       "points": 0.0
     }
