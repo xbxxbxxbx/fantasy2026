@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-30T22:10:12.017653+00:00",
+  "generatedAt": "2026-06-30T22:20:13.111386+00:00",
   "league": "25k",
   "count": 7,
   "players": [
@@ -10,7 +10,7 @@
       "team": "Verderamo",
       "rank": "3 / 30",
       "chips": "3,265,000",
-      "bb": "81.6 BB",
+      "bb": "65.3 BB",
       "bonus": "Top 27 16 PTS",
       "points": 2.0
     },
@@ -21,7 +21,7 @@
       "team": "Very Handsome Horses",
       "rank": "5 / 30",
       "chips": "3,110,000",
-      "bb": "77.8 BB",
+      "bb": "62.2 BB",
       "bonus": "Top 27 16 PTS",
       "points": 2.0
     },
@@ -32,7 +32,7 @@
       "team": "2026 ODB Bonus Players",
       "rank": "7 / 30",
       "chips": "3,010,000",
-      "bb": "75.3 BB",
+      "bb": "60.2 BB",
       "bonus": "Top 27 16 PTS",
       "points": 2.0
     },
@@ -43,7 +43,7 @@
       "team": "Verderamo",
       "rank": "17 / 30",
       "chips": "1,555,000",
-      "bb": "38.9 BB",
+      "bb": "31.1 BB",
       "bonus": "Top 27 16 PTS",
       "points": 2.0
     },
@@ -54,7 +54,7 @@
       "team": "Chocolate Factory",
       "rank": "20 / 30",
       "chips": "1,370,000",
-      "bb": "34.3 BB",
+      "bb": "27.4 BB",
       "bonus": "Top 27 16 PTS",
       "points": 2.0
     },
@@ -65,7 +65,7 @@
       "team": "Glaser",
       "rank": "2 / 9",
       "chips": "2,985,000",
-      "bb": "74.6 BB",
+      "bb": "59.7 BB",
       "bonus": "Locked 12 PTS",
       "points": 0.0
     },
@@ -76,7 +76,7 @@
       "team": "Trump Power",
       "rank": "6 / 9",
       "chips": "1,995,000",
-      "bb": "49.9 BB",
+      "bb": "39.9 BB",
       "bonus": "Locked 12 PTS",
       "points": 0.0
     }
