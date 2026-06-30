@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-30T22:03:07.940569+00:00",
+  "generatedAt": "2026-06-30T22:10:12.017653+00:00",
   "league": "25k",
   "count": 7,
   "players": [
@@ -59,24 +59,24 @@
       "points": 2.0
     },
     {
-      "player": "Shaun Deeb",
-      "event": "Event #74: $1,500 8-Game Mixed",
-      "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-74/",
-      "team": "Trump Power",
-      "rank": "1 / 9",
-      "chips": "3,090,000",
-      "bb": "77.3 BB",
-      "bonus": "Locked 12 PTS",
-      "points": 0.0
-    },
-    {
       "player": "Blaz Zerjav",
       "event": "Event #74: $1,500 8-Game Mixed",
       "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-74/",
       "team": "Glaser",
       "rank": "2 / 9",
-      "chips": "2,330,000",
-      "bb": "58.3 BB",
+      "chips": "2,985,000",
+      "bb": "74.6 BB",
+      "bonus": "Locked 12 PTS",
+      "points": 0.0
+    },
+    {
+      "player": "Shaun Deeb",
+      "event": "Event #74: $1,500 8-Game Mixed",
+      "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-74/",
+      "team": "Trump Power",
+      "rank": "6 / 9",
+      "chips": "1,995,000",
+      "bb": "49.9 BB",
       "bonus": "Locked 12 PTS",
       "points": 0.0
     }
