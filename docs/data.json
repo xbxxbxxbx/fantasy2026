@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-30T02:30:14.389431+00:00",
+  "generatedAt": "2026-06-30T02:40:13.842368+00:00",
   "leagueName": "WSOP Poker Fantasy Draft 2026",
   "sourceLabel": "25KFantasy",
   "sourceUrl": "https://www.25kfantasy.com/players/",
@@ -67,6 +67,10 @@
           "points": 106.0
         },
         {
+          "player": "Matt Vengrin",
+          "points": 78.0
+        },
+        {
           "player": "Jason Koon",
           "points": 73.0
         },
@@ -81,15 +85,11 @@
         {
           "player": "Scott Seiver",
           "points": 55.0
-        },
-        {
-          "player": "Matt Vengrin",
-          "points": 30.0
         }
       ],
-      "totalPoints": 799.0,
-      "pointsChange": 1.0,
-      "pointsChangeSincePrevious": 0.0
+      "totalPoints": 847.0,
+      "pointsChange": 49.0,
+      "pointsChangeSincePrevious": 48.0
     },
     {
       "managerName": "JeffBNT",
@@ -134,6 +134,48 @@
       "pointsChangeSincePrevious": 0.0
     },
     {
+      "managerName": "Doinky",
+      "teamName": "doinky",
+      "url": "https://www.poker.org/fantasy/wsop/2026/team/doinky/",
+      "players": [
+        {
+          "player": "Dylan Weisman",
+          "points": 168.0
+        },
+        {
+          "player": "Stephen Song",
+          "points": 104.0
+        },
+        {
+          "player": "Sam Soverel",
+          "points": 80.0
+        },
+        {
+          "player": "Matt Vengrin",
+          "points": 78.0
+        },
+        {
+          "player": "Andrew Ostapchenko",
+          "points": 49.0
+        },
+        {
+          "player": "Eric Wasserson",
+          "points": 15.0
+        },
+        {
+          "player": "Adam Hendrix",
+          "points": 9.0
+        },
+        {
+          "player": "Isaac Haxton",
+          "points": 0.0
+        }
+      ],
+      "totalPoints": 503.0,
+      "pointsChange": 50.0,
+      "pointsChangeSincePrevious": 50.0
+    },
+    {
       "managerName": "realbmorekid",
       "teamName": "Bmore\u2019s Brawlers",
       "url": "https://www.poker.org/fantasy/wsop/2026/team/bmore-s-brawlers/",
@@ -176,48 +218,6 @@
       "pointsChangeSincePrevious": 0.0
     },
     {
-      "managerName": "Doinky",
-      "teamName": "doinky",
-      "url": "https://www.poker.org/fantasy/wsop/2026/team/doinky/",
-      "players": [
-        {
-          "player": "Dylan Weisman",
-          "points": 168.0
-        },
-        {
-          "player": "Stephen Song",
-          "points": 104.0
-        },
-        {
-          "player": "Sam Soverel",
-          "points": 80.0
-        },
-        {
-          "player": "Andrew Ostapchenko",
-          "points": 49.0
-        },
-        {
-          "player": "Matt Vengrin",
-          "points": 30.0
-        },
-        {
-          "player": "Eric Wasserson",
-          "points": 15.0
-        },
-        {
-          "player": "Adam Hendrix",
-          "points": 7.0
-        },
-        {
-          "player": "Isaac Haxton",
-          "points": 0.0
-        }
-      ],
-      "totalPoints": 453.0,
-      "pointsChange": 0.0,
-      "pointsChangeSincePrevious": 0.0
-    },
-    {
       "managerName": "Ruben",
       "teamName": "wugwugwugwug",
       "url": "https://www.poker.org/fantasy/wsop/2026/team/wugwugwugwug/",
@@ -225,6 +225,10 @@
         {
           "player": "Ian Matakis",
           "points": 85.0
+        },
+        {
+          "player": "Matt Vengrin",
+          "points": 78.0
         },
         {
           "player": "Jerry Wong",
@@ -247,17 +251,13 @@
           "points": 46.0
         },
         {
-          "player": "Matt Vengrin",
-          "points": 30.0
-        },
-        {
           "player": "Viktor Blom",
           "points": 18.0
         }
       ],
-      "totalPoints": 421.0,
-      "pointsChange": 0.0,
-      "pointsChangeSincePrevious": 0.0
+      "totalPoints": 469.0,
+      "pointsChange": 48.0,
+      "pointsChangeSincePrevious": 48.0
     },
     {
       "managerName": "Gus",
@@ -266,7 +266,7 @@
       "players": [
         {
           "player": "Dylan Smith",
-          "points": 110.0
+          "points": 188.0
         },
         {
           "player": "Jerry Wong",
@@ -297,9 +297,9 @@
           "points": 8.0
         }
       ],
-      "totalPoints": 375.0,
-      "pointsChange": 0.0,
-      "pointsChangeSincePrevious": 0.0
+      "totalPoints": 453.0,
+      "pointsChange": 78.0,
+      "pointsChangeSincePrevious": 78.0
     },
     {
       "managerName": "Turbo",
