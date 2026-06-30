@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-30T03:30:13.850118+00:00",
+  "generatedAt": "2026-06-30T03:40:12.153342+00:00",
   "leagueName": "WSOP Poker Fantasy Draft 2026",
   "sourceLabel": "25KFantasy",
   "sourceUrl": "https://www.25kfantasy.com/players/",
@@ -56,7 +56,7 @@
       "players": [
         {
           "player": "Calvin Anderson",
-          "points": 288.0
+          "points": 289.0
         },
         {
           "player": "Bryce Yockey",
@@ -87,9 +87,9 @@
           "points": 55.0
         }
       ],
-      "totalPoints": 847.0,
-      "pointsChange": 49.0,
-      "pointsChangeSincePrevious": 0.0
+      "totalPoints": 848.0,
+      "pointsChange": 50.0,
+      "pointsChangeSincePrevious": 1.0
     },
     {
       "managerName": "JeffBNT",
@@ -98,7 +98,7 @@
       "players": [
         {
           "player": "Calvin Anderson",
-          "points": 288.0
+          "points": 289.0
         },
         {
           "player": "Arthur Morris",
@@ -129,9 +129,9 @@
           "points": 8.0
         }
       ],
-      "totalPoints": 623.0,
-      "pointsChange": 0.0,
-      "pointsChangeSincePrevious": 0.0
+      "totalPoints": 624.0,
+      "pointsChange": 1.0,
+      "pointsChangeSincePrevious": 1.0
     },
     {
       "managerName": "Doinky",
