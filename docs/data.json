@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-30T04:10:11.329654+00:00",
+  "generatedAt": "2026-06-30T04:20:11.800098+00:00",
   "leagueName": "WSOP Poker Fantasy Draft 2026",
   "sourceLabel": "25KFantasy",
   "sourceUrl": "https://www.25kfantasy.com/players/",
@@ -285,11 +285,11 @@
           "points": 25.0
         },
         {
-          "player": "Esther Taylor",
-          "points": 22.0
+          "player": "Phillip Hui",
+          "points": 23.0
         },
         {
-          "player": "Phillip Hui",
+          "player": "Esther Taylor",
           "points": 22.0
         },
         {
@@ -297,9 +297,9 @@
           "points": 8.0
         }
       ],
-      "totalPoints": 453.0,
-      "pointsChange": 78.0,
-      "pointsChangeSincePrevious": 0.0
+      "totalPoints": 454.0,
+      "pointsChange": 79.0,
+      "pointsChangeSincePrevious": 1.0
     },
     {
       "managerName": "Turbo",
