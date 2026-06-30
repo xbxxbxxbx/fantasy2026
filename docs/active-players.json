@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-30T23:30:14.365467+00:00",
+  "generatedAt": "2026-06-30T23:40:10.936987+00:00",
   "league": "25k",
   "count": 7,
   "players": [
@@ -8,9 +8,9 @@
       "event": "Event #73: $5,000 6-Handed No-Limit Hold\u2019em",
       "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-73/",
       "team": "Chocolate Factory",
-      "rank": "3 / 26",
+      "rank": "3 / 25",
       "chips": "4,600,000",
-      "bb": "92.0 BB",
+      "bb": "76.7 BB",
       "bonus": "Locked 16 PTS",
       "points": 16.0
     },
@@ -19,9 +19,9 @@
       "event": "Event #73: $5,000 6-Handed No-Limit Hold\u2019em",
       "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-73/",
       "team": "Very Handsome Horses",
-      "rank": "6 / 26",
+      "rank": "6 / 25",
       "chips": "3,470,000",
-      "bb": "69.4 BB",
+      "bb": "57.8 BB",
       "bonus": "Locked 16 PTS",
       "points": 16.0
     },
@@ -30,9 +30,9 @@
       "event": "Event #73: $5,000 6-Handed No-Limit Hold\u2019em",
       "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-73/",
       "team": "2026 ODB Bonus Players",
-      "rank": "12 / 26",
+      "rank": "12 / 25",
       "chips": "2,350,000",
-      "bb": "47.0 BB",
+      "bb": "39.2 BB",
       "bonus": "Locked 16 PTS",
       "points": 16.0
     },
@@ -41,9 +41,9 @@
       "event": "Event #73: $5,000 6-Handed No-Limit Hold\u2019em",
       "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-73/",
       "team": "Verderamo",
-      "rank": "17 / 26",
+      "rank": "17 / 25",
       "chips": "1,885,000",
-      "bb": "37.7 BB",
+      "bb": "31.4 BB",
       "bonus": "Locked 16 PTS",
       "points": 16.0
     },
@@ -52,9 +52,9 @@
       "event": "Event #73: $5,000 6-Handed No-Limit Hold\u2019em",
       "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-73/",
       "team": "Verderamo",
-      "rank": "26 / 26",
+      "rank": "25 / 25",
       "chips": "825,000",
-      "bb": "16.5 BB",
+      "bb": "13.8 BB",
       "bonus": "Locked 16 PTS",
       "points": 16.0
     },
