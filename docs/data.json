@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-30T00:50:10.498387+00:00",
+  "generatedAt": "2026-06-30T01:00:15.860638+00:00",
   "leagueName": "WSOP Poker Fantasy Draft 2026",
   "sourceLabel": "25KFantasy",
   "sourceUrl": "https://www.25kfantasy.com/players/",
@@ -7,6 +7,48 @@
   "pointsChangeLabel": "since restart",
   "pointsChangeComparisonDate": "2026-06-29",
   "managers": [
+    {
+      "managerName": "Kush",
+      "teamName": "Kushstrain1",
+      "url": "https://www.poker.org/fantasy/wsop/2026/team/kushstrain1/",
+      "players": [
+        {
+          "player": "Martin Zamani",
+          "points": 334.0
+        },
+        {
+          "player": "David 'ODB' Baker",
+          "points": 145.0
+        },
+        {
+          "player": "Kristen Foxen",
+          "points": 135.0
+        },
+        {
+          "player": "Mike Leah",
+          "points": 106.0
+        },
+        {
+          "player": "Allen Kessler",
+          "points": 100.0
+        },
+        {
+          "player": "Ben Yu",
+          "points": 19.0
+        },
+        {
+          "player": "Viktor Blom",
+          "points": 18.0
+        },
+        {
+          "player": "Andrew Lichtenberger",
+          "points": 5.0
+        }
+      ],
+      "totalPoints": 862.0,
+      "pointsChange": 120.0,
+      "pointsChangeSincePrevious": 120.0
+    },
     {
       "managerName": "ASG",
       "teamName": "ASG's Team",
@@ -47,48 +89,6 @@
       ],
       "totalPoints": 799.0,
       "pointsChange": 1.0,
-      "pointsChangeSincePrevious": 0.0
-    },
-    {
-      "managerName": "Kush",
-      "teamName": "Kushstrain1",
-      "url": "https://www.poker.org/fantasy/wsop/2026/team/kushstrain1/",
-      "players": [
-        {
-          "player": "Martin Zamani",
-          "points": 334.0
-        },
-        {
-          "player": "Kristen Foxen",
-          "points": 135.0
-        },
-        {
-          "player": "Mike Leah",
-          "points": 106.0
-        },
-        {
-          "player": "Allen Kessler",
-          "points": 100.0
-        },
-        {
-          "player": "David 'ODB' Baker",
-          "points": 25.0
-        },
-        {
-          "player": "Ben Yu",
-          "points": 19.0
-        },
-        {
-          "player": "Viktor Blom",
-          "points": 18.0
-        },
-        {
-          "player": "Andrew Lichtenberger",
-          "points": 5.0
-        }
-      ],
-      "totalPoints": 742.0,
-      "pointsChange": 0.0,
       "pointsChangeSincePrevious": 0.0
     },
     {
