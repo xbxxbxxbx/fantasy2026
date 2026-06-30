@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-30T03:10:12.201886+00:00",
+  "generatedAt": "2026-06-30T03:20:10.648134+00:00",
   "league": "25k",
   "count": 40,
   "players": [
@@ -404,9 +404,9 @@
       "event": "Event #74: $1,500 8-Game Mixed",
       "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-74/",
       "team": "Noori",
-      "rank": "21 / 34",
-      "chips": "446,000",
-      "bb": "44.6 BB",
+      "rank": "26 / 34",
+      "chips": "316,000",
+      "bb": "31.6 BB",
       "bonus": "Top 18 12 PTS",
       "points": 1.0
     },
