@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-01T01:30:15.699271+00:00",
+  "generatedAt": "2026-07-01T01:40:12.002502+00:00",
   "league": "25k",
   "count": 4,
   "players": [
@@ -8,7 +8,7 @@
       "event": "Event #73: $5,000 6-Handed No-Limit Hold\u2019em",
       "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-73/",
       "team": "Very Handsome Horses",
-      "rank": "4 / 16",
+      "rank": "9 / 16",
       "chips": "3,470,000",
       "bb": "43.4 BB",
       "bonus": "Locked 16 PTS",
@@ -19,7 +19,7 @@
       "event": "Event #73: $5,000 6-Handed No-Limit Hold\u2019em",
       "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-73/",
       "team": "Verderamo",
-      "rank": "12 / 16",
+      "rank": "13 / 16",
       "chips": "1,885,000",
       "bb": "23.6 BB",
       "bonus": "Locked 16 PTS",
@@ -32,7 +32,7 @@
       "team": "Trump Power",
       "rank": "2 / 7",
       "chips": "3,920,000",
-      "bb": "49.0 BB",
+      "bb": "39.2 BB",
       "bonus": "Locked 12 PTS",
       "points": 0.0
     },
@@ -43,7 +43,7 @@
       "team": "Glaser",
       "rank": "6 / 7",
       "chips": "805,000",
-      "bb": "10.1 BB",
+      "bb": "8.1 BB",
       "bonus": "Locked 12 PTS",
       "points": 0.0
     }
