@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-07-01T05:00:18.715995+00:00",
+  "generatedAt": "2026-07-01T05:10:11.839980+00:00",
   "league": "25k",
-  "count": 2,
+  "count": 1,
   "players": [
     {
       "player": "Daniel Rezaei",
@@ -10,20 +10,9 @@
       "team": "Very Handsome Horses",
       "rank": "11 / 11",
       "chips": "3,550,000",
-      "bb": "29.6 BB",
+      "bb": "23.7 BB",
       "bonus": "Locked 16 PTS",
       "points": 22.0
-    },
-    {
-      "player": "Shaun Deeb",
-      "event": "Event #74: $1,500 8-Game Mixed",
-      "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-74/",
-      "team": "Trump Power",
-      "rank": "1 / 1",
-      "chips": "9,070,000",
-      "bb": "60.5 BB",
-      "bonus": "Locked 12 PTS",
-      "points": 82.0
     }
   ]
 }
