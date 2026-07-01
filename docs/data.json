@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-01T22:10:14.041255+00:00",
+  "generatedAt": "2026-07-01T22:20:14.765471+00:00",
   "leagueName": "WSOP Poker Fantasy Draft 2026",
   "sourceLabel": "25KFantasy",
   "sourceUrl": "https://www.25kfantasy.com/players/",
@@ -68,7 +68,7 @@
         },
         {
           "player": "Matt Vengrin",
-          "points": 78.0
+          "points": 99.0
         },
         {
           "player": "Jason Koon",
@@ -87,9 +87,9 @@
           "points": 55.0
         }
       ],
-      "totalPoints": 861.0,
-      "pointsChange": 0.0,
-      "pointsChangeSincePrevious": 0.0
+      "totalPoints": 882.0,
+      "pointsChange": 21.0,
+      "pointsChangeSincePrevious": 21.0
     },
     {
       "managerName": "JeffBNT",
@@ -189,12 +189,12 @@
           "points": 107.0
         },
         {
-          "player": "Sam Soverel",
-          "points": 80.0
+          "player": "Matt Vengrin",
+          "points": 99.0
         },
         {
-          "player": "Matt Vengrin",
-          "points": 78.0
+          "player": "Sam Soverel",
+          "points": 80.0
         },
         {
           "player": "Andrew Ostapchenko",
@@ -213,9 +213,9 @@
           "points": 0.0
         }
       ],
-      "totalPoints": 507.0,
-      "pointsChange": 2.0,
-      "pointsChangeSincePrevious": 0.0
+      "totalPoints": 528.0,
+      "pointsChange": 23.0,
+      "pointsChangeSincePrevious": 21.0
     },
     {
       "managerName": "Ruben",
@@ -223,12 +223,12 @@
       "url": "https://www.poker.org/fantasy/wsop/2026/team/wugwugwugwug/",
       "players": [
         {
-          "player": "Ian Matakis",
-          "points": 85.0
+          "player": "Matt Vengrin",
+          "points": 99.0
         },
         {
-          "player": "Matt Vengrin",
-          "points": 78.0
+          "player": "Ian Matakis",
+          "points": 85.0
         },
         {
           "player": "Jerry Wong",
@@ -255,9 +255,9 @@
           "points": 30.0
         }
       ],
-      "totalPoints": 482.0,
-      "pointsChange": 1.0,
-      "pointsChangeSincePrevious": 0.0
+      "totalPoints": 503.0,
+      "pointsChange": 22.0,
+      "pointsChangeSincePrevious": 21.0
     },
     {
       "managerName": "Gus",
