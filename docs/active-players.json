@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-07-01T02:10:14.738457+00:00",
+  "generatedAt": "2026-07-01T02:20:14.060209+00:00",
   "league": "25k",
-  "count": 5,
+  "count": 4,
   "players": [
     {
       "player": "Daniel Rezaei",
@@ -41,20 +41,9 @@
       "event": "Event #74: $1,500 8-Game Mixed",
       "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-74/",
       "team": "Trump Power",
-      "rank": "2 / 5",
+      "rank": "2 / 3",
       "chips": "3,920,000",
       "bb": "39.2 BB",
-      "bonus": "Locked 12 PTS",
-      "points": 0.0
-    },
-    {
-      "player": "Blaz Zerjav",
-      "event": "Event #74: $1,500 8-Game Mixed",
-      "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-74/",
-      "team": "Glaser",
-      "rank": "5 / 5",
-      "chips": "805,000",
-      "bb": "8.1 BB",
       "bonus": "Locked 12 PTS",
       "points": 0.0
     }
