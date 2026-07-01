@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-07-01T02:40:10.915075+00:00",
+  "generatedAt": "2026-07-01T02:50:12.477709+00:00",
   "league": "25k",
-  "count": 4,
+  "count": 3,
   "players": [
     {
       "player": "Daniel Rezaei",
@@ -26,24 +26,13 @@
       "points": 22.0
     },
     {
-      "player": "Gabriel Andrade",
-      "event": "Event #73: $5,000 6-Handed No-Limit Hold\u2019em",
-      "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-73/",
-      "team": "Verderamo",
-      "rank": "21 / 15",
-      "chips": "825,000",
-      "bb": "8.3 BB",
-      "bonus": "Locked 16 PTS",
-      "points": 22.0
-    },
-    {
       "player": "Shaun Deeb",
       "event": "Event #74: $1,500 8-Game Mixed",
       "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-74/",
       "team": "Trump Power",
       "rank": "2 / 2",
-      "chips": "3,920,000",
-      "bb": "39.2 BB",
+      "chips": "9,070,000",
+      "bb": "90.7 BB",
       "bonus": "Locked 12 PTS",
       "points": 0.0
     }
