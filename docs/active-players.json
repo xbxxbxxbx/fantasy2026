@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-01T06:10:12.711528+00:00",
+  "generatedAt": "2026-07-01T06:20:13.988304+00:00",
   "league": "25k",
   "count": 14,
   "players": [
@@ -10,7 +10,7 @@
       "team": "2026 ODB Bonus Players",
       "rank": "1 / 23",
       "chips": "924,000",
-      "bb": "23.1 BB",
+      "bb": "18.5 BB",
       "bonus": "Top 18 11 PTS",
       "points": 2.0
     },
@@ -21,7 +21,7 @@
       "team": "2026 ODB Bonus Players",
       "rank": "2 / 23",
       "chips": "749,000",
-      "bb": "18.7 BB",
+      "bb": "15.0 BB",
       "bonus": "Top 18 11 PTS",
       "points": 2.0
     },
@@ -32,7 +32,7 @@
       "team": "Browndog",
       "rank": "4 / 23",
       "chips": "703,000",
-      "bb": "17.6 BB",
+      "bb": "14.1 BB",
       "bonus": "Top 18 11 PTS",
       "points": 2.0
     },
@@ -43,7 +43,7 @@
       "team": "Glue Factory",
       "rank": "5 / 23",
       "chips": "693,000",
-      "bb": "17.3 BB",
+      "bb": "13.9 BB",
       "bonus": "Top 18 11 PTS",
       "points": 2.0
     },
@@ -54,7 +54,7 @@
       "team": "Spitework",
       "rank": "7 / 23",
       "chips": "605,000",
-      "bb": "15.1 BB",
+      "bb": "12.1 BB",
       "bonus": "Top 18 11 PTS",
       "points": 2.0
     },
@@ -65,7 +65,7 @@
       "team": "Glue Factory",
       "rank": "8 / 23",
       "chips": "565,000",
-      "bb": "14.1 BB",
+      "bb": "11.3 BB",
       "bonus": "Top 18 11 PTS",
       "points": 2.0
     },
@@ -76,7 +76,7 @@
       "team": "Very Handsome Horses",
       "rank": "10 / 23",
       "chips": "556,000",
-      "bb": "13.9 BB",
+      "bb": "11.1 BB",
       "bonus": "Top 18 11 PTS",
       "points": 2.0
     },
@@ -87,7 +87,7 @@
       "team": "Dinkers",
       "rank": "11 / 23",
       "chips": "527,000",
-      "bb": "13.2 BB",
+      "bb": "10.5 BB",
       "bonus": "Top 18 11 PTS",
       "points": 2.0
     },
@@ -98,7 +98,7 @@
       "team": "Lang Gang",
       "rank": "12 / 23",
       "chips": "522,000",
-      "bb": "13.1 BB",
+      "bb": "10.4 BB",
       "bonus": "Top 18 11 PTS",
       "points": 2.0
     },
@@ -109,7 +109,7 @@
       "team": "Fleyshman",
       "rank": "13 / 23",
       "chips": "519,000",
-      "bb": "13.0 BB",
+      "bb": "10.4 BB",
       "bonus": "Top 18 11 PTS",
       "points": 2.0
     },
@@ -120,7 +120,7 @@
       "team": "2026 ODB Bonus Players",
       "rank": "15 / 23",
       "chips": "398,000",
-      "bb": "10.0 BB",
+      "bb": "8.0 BB",
       "bonus": "Top 18 11 PTS",
       "points": 2.0
     },
@@ -131,7 +131,7 @@
       "team": "Verderamo",
       "rank": "17 / 23",
       "chips": "308,000",
-      "bb": "7.7 BB",
+      "bb": "6.2 BB",
       "bonus": "Top 18 11 PTS",
       "points": 2.0
     },
@@ -142,7 +142,7 @@
       "team": "Blez/NGNF",
       "rank": "19 / 23",
       "chips": "245,000",
-      "bb": "6.1 BB",
+      "bb": "4.9 BB",
       "bonus": "Top 18 11 PTS",
       "points": 2.0
     },
@@ -153,7 +153,7 @@
       "team": "2026 ODB Bonus Players",
       "rank": "20 / 23",
       "chips": "185,000",
-      "bb": "4.6 BB",
+      "bb": "3.7 BB",
       "bonus": "Top 18 11 PTS",
       "points": 2.0
     }
