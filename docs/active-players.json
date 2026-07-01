@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-01T01:00:16.497412+00:00",
+  "generatedAt": "2026-07-01T01:10:12.522822+00:00",
   "league": "25k",
   "count": 4,
   "players": [
@@ -8,22 +8,22 @@
       "event": "Event #73: $5,000 6-Handed No-Limit Hold\u2019em",
       "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-73/",
       "team": "Very Handsome Horses",
-      "rank": "5 / 19",
+      "rank": "5 / 17",
       "chips": "3,470,000",
       "bb": "43.4 BB",
       "bonus": "Locked 16 PTS",
-      "points": 0.0
+      "points": 22.0
     },
     {
       "player": "Andrew Lichtenberger",
       "event": "Event #73: $5,000 6-Handed No-Limit Hold\u2019em",
       "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-73/",
       "team": "Verderamo",
-      "rank": "14 / 19",
+      "rank": "13 / 17",
       "chips": "1,885,000",
       "bb": "23.6 BB",
       "bonus": "Locked 16 PTS",
-      "points": 0.0
+      "points": 22.0
     },
     {
       "player": "Shaun Deeb",
