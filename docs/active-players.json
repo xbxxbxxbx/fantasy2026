@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-01T18:50:12.653894+00:00",
+  "generatedAt": "2026-07-01T18:56:13.776217+00:00",
   "league": "25k",
   "count": 25,
   "players": [
@@ -147,10 +147,10 @@
       "points": 1.0
     },
     {
-      "player": "Jeremy Becker",
+      "player": "Clemen Deng",
       "event": "Event #72: $1,000 MINI Main Event No-Limit Hold\u2019em",
       "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-72/",
-      "team": "Spitework",
+      "team": "2026 ODB Bonus Players",
       "rank": "480 / 647",
       "chips": "545,000",
       "bb": "10.9 BB",
@@ -158,10 +158,10 @@
       "points": 1.0
     },
     {
-      "player": "Clemen Deng",
+      "player": "Jeremy Becker",
       "event": "Event #72: $1,000 MINI Main Event No-Limit Hold\u2019em",
       "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-72/",
-      "team": "2026 ODB Bonus Players",
+      "team": "Spitework",
       "rank": "480 / 647",
       "chips": "545,000",
       "bb": "10.9 BB",
