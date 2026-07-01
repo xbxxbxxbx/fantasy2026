@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-01T23:30:17.458384+00:00",
+  "generatedAt": "2026-07-01T23:40:14.571177+00:00",
   "league": "25k",
   "count": 5,
   "players": [
@@ -8,9 +8,9 @@
       "event": "Event #72: $1,000 MINI Main Event No-Limit Hold\u2019em",
       "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-72/",
       "team": "2026 ODB Bonus Players",
-      "rank": "66 / 124",
+      "rank": "60 / 117",
       "chips": "1,800,000",
-      "bb": "6.0 BB",
+      "bb": "4.5 BB",
       "bonus": "Top 81 101 PTS",
       "points": 1.0
     },
@@ -21,7 +21,7 @@
       "team": "Browndog",
       "rank": "2 / 6",
       "chips": "2,505,000",
-      "bb": "25.1 BB",
+      "bb": "20.9 BB",
       "bonus": "Locked 11 PTS",
       "points": 0.0
     },
@@ -32,7 +32,7 @@
       "team": "2026 ODB Bonus Players",
       "rank": "3 / 6",
       "chips": "2,160,000",
-      "bb": "21.6 BB",
+      "bb": "18.0 BB",
       "bonus": "Locked 11 PTS",
       "points": 0.0
     },
@@ -43,7 +43,7 @@
       "team": "2026 ODB Bonus Players",
       "rank": "4 / 6",
       "chips": "2,050,000",
-      "bb": "20.5 BB",
+      "bb": "17.1 BB",
       "bonus": "Locked 11 PTS",
       "points": 0.0
     },
@@ -54,7 +54,7 @@
       "team": "Blez/NGNF",
       "rank": "6 / 6",
       "chips": "580,000",
-      "bb": "5.8 BB",
+      "bb": "4.8 BB",
       "bonus": "Locked 11 PTS",
       "points": 0.0
     }
