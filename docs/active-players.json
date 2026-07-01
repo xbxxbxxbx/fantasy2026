@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-01T07:20:14.900189+00:00",
+  "generatedAt": "2026-07-01T07:30:13.909318+00:00",
   "league": "25k",
   "count": 11,
   "players": [
@@ -21,7 +21,7 @@
       "team": "Browndog",
       "rank": "3 / 17",
       "chips": "1,100,000",
-      "bb": "22.0 BB",
+      "bb": "18.3 BB",
       "bonus": "Locked 11 PTS",
       "points": 11.0
     },
@@ -32,7 +32,7 @@
       "team": "Spitework",
       "rank": "4 / 17",
       "chips": "1,030,000",
-      "bb": "20.6 BB",
+      "bb": "17.2 BB",
       "bonus": "Locked 11 PTS",
       "points": 11.0
     },
@@ -43,7 +43,7 @@
       "team": "2026 ODB Bonus Players",
       "rank": "5 / 17",
       "chips": "850,000",
-      "bb": "17.0 BB",
+      "bb": "14.2 BB",
       "bonus": "Locked 11 PTS",
       "points": 11.0
     },
@@ -54,7 +54,7 @@
       "team": "2026 ODB Bonus Players",
       "rank": "6 / 17",
       "chips": "625,000",
-      "bb": "12.5 BB",
+      "bb": "10.4 BB",
       "bonus": "Locked 11 PTS",
       "points": 11.0
     },
@@ -65,7 +65,7 @@
       "team": "Lang Gang",
       "rank": "8 / 17",
       "chips": "545,000",
-      "bb": "10.9 BB",
+      "bb": "9.1 BB",
       "bonus": "Locked 11 PTS",
       "points": 11.0
     },
@@ -76,7 +76,7 @@
       "team": "Blez/NGNF",
       "rank": "9 / 17",
       "chips": "525,000",
-      "bb": "10.5 BB",
+      "bb": "8.8 BB",
       "bonus": "Locked 11 PTS",
       "points": 11.0
     },
@@ -87,7 +87,7 @@
       "team": "Fleyshman",
       "rank": "10 / 17",
       "chips": "519,000",
-      "bb": "10.4 BB",
+      "bb": "8.7 BB",
       "bonus": "Locked 11 PTS",
       "points": 11.0
     },
@@ -98,7 +98,7 @@
       "team": "Dinkers",
       "rank": "11 / 17",
       "chips": "495,000",
-      "bb": "9.9 BB",
+      "bb": "8.3 BB",
       "bonus": "Locked 11 PTS",
       "points": 11.0
     },
@@ -109,7 +109,7 @@
       "team": "Glue Factory",
       "rank": "15 / 17",
       "chips": "305,000",
-      "bb": "6.1 BB",
+      "bb": "5.1 BB",
       "bonus": "Locked 11 PTS",
       "points": 11.0
     },
@@ -120,7 +120,7 @@
       "team": "Glue Factory",
       "rank": "16 / 17",
       "chips": "240,000",
-      "bb": "4.8 BB",
+      "bb": "4.0 BB",
       "bonus": "Locked 11 PTS",
       "points": 11.0
     }
