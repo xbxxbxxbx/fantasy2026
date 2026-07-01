@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-01T22:30:14.965805+00:00",
+  "generatedAt": "2026-07-01T22:40:12.049770+00:00",
   "league": "25k",
   "count": 7,
   "players": [
@@ -8,9 +8,9 @@
       "event": "Event #72: $1,000 MINI Main Event No-Limit Hold\u2019em",
       "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-72/",
       "team": "2026 ODB Bonus Players",
-      "rank": "85 / 187",
+      "rank": "89 / 187",
       "chips": "1,800,000",
-      "bb": "9.0 BB",
+      "bb": "7.2 BB",
       "bonus": "Top 81 101 PTS",
       "points": 1.0
     },
@@ -21,7 +21,7 @@
       "team": "Torching with TJ",
       "rank": "156 / 187",
       "chips": "740,000",
-      "bb": "3.7 BB",
+      "bb": "3.0 BB",
       "bonus": "Top 81 101 PTS",
       "points": 1.0
     },
