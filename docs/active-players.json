@@ -1,8 +1,19 @@
 {
-  "generatedAt": "2026-07-01T03:30:14.565346+00:00",
+  "generatedAt": "2026-07-01T03:40:10.880250+00:00",
   "league": "25k",
-  "count": 1,
+  "count": 2,
   "players": [
+    {
+      "player": "Daniel Rezaei",
+      "event": "Event #73: $5,000 6-Handed No-Limit Hold\u2019em",
+      "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-73/",
+      "team": "Very Handsome Horses",
+      "rank": "11 / 11",
+      "chips": "3,550,000",
+      "bb": "35.5 BB",
+      "bonus": "Locked 16 PTS",
+      "points": 22.0
+    },
     {
       "player": "Shaun Deeb",
       "event": "Event #74: $1,500 8-Game Mixed",
