@@ -1,40 +1,18 @@
 {
-  "generatedAt": "2026-07-01T22:40:12.049770+00:00",
+  "generatedAt": "2026-07-01T22:50:15.059508+00:00",
   "league": "25k",
-  "count": 7,
+  "count": 5,
   "players": [
     {
       "player": "Christina Gollins",
       "event": "Event #72: $1,000 MINI Main Event No-Limit Hold\u2019em",
       "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-72/",
       "team": "2026 ODB Bonus Players",
-      "rank": "89 / 187",
+      "rank": "82 / 165",
       "chips": "1,800,000",
       "bb": "7.2 BB",
       "bonus": "Top 81 101 PTS",
       "points": 1.0
-    },
-    {
-      "player": "Alex Livingston",
-      "event": "Event #72: $1,000 MINI Main Event No-Limit Hold\u2019em",
-      "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-72/",
-      "team": "Torching with TJ",
-      "rank": "156 / 187",
-      "chips": "740,000",
-      "bb": "3.0 BB",
-      "bonus": "Top 81 101 PTS",
-      "points": 1.0
-    },
-    {
-      "player": "Daniel Rezaei",
-      "event": "Event #73: $5,000 6-Handed No-Limit Hold\u2019em",
-      "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-73/",
-      "team": "Very Handsome Horses",
-      "rank": "7 / 7",
-      "chips": "5,275,000",
-      "bb": "21.1 BB",
-      "bonus": "Locked 16 PTS",
-      "points": 0.0
     },
     {
       "player": "Maxx Coleman",
