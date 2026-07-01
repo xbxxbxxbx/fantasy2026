@@ -1,25 +1,14 @@
 {
-  "generatedAt": "2026-07-01T21:50:14.654275+00:00",
+  "generatedAt": "2026-07-01T22:00:20.399122+00:00",
   "league": "25k",
-  "count": 10,
+  "count": 9,
   "players": [
-    {
-      "player": "Shawn Buchanan",
-      "event": "Event #72: $1,000 MINI Main Event No-Limit Hold\u2019em",
-      "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-72/",
-      "team": "Noori",
-      "rank": "31 / 230",
-      "chips": "3,210,000",
-      "bb": "16.1 BB",
-      "bonus": "Top 81 101 PTS",
-      "points": 1.0
-    },
     {
       "player": "Christina Gollins",
       "event": "Event #72: $1,000 MINI Main Event No-Limit Hold\u2019em",
       "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-72/",
       "team": "2026 ODB Bonus Players",
-      "rank": "156 / 230",
+      "rank": "144 / 209",
       "chips": "960,000",
       "bb": "4.8 BB",
       "bonus": "Top 81 101 PTS",
@@ -30,7 +19,7 @@
       "event": "Event #72: $1,000 MINI Main Event No-Limit Hold\u2019em",
       "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-72/",
       "team": "Torching with TJ",
-      "rank": "182 / 230",
+      "rank": "170 / 209",
       "chips": "740,000",
       "bb": "3.7 BB",
       "bonus": "Top 81 101 PTS",
@@ -41,7 +30,7 @@
       "event": "Event #72: $1,000 MINI Main Event No-Limit Hold\u2019em",
       "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-72/",
       "team": "2026 ODB Bonus Players",
-      "rank": "188 / 230",
+      "rank": "176 / 209",
       "chips": "700,000",
       "bb": "3.5 BB",
       "bonus": "Top 81 101 PTS",
@@ -65,7 +54,7 @@
       "team": "Browndog",
       "rank": "1 / 9",
       "chips": "2,325,000",
-      "bb": "29.1 BB",
+      "bb": "23.3 BB",
       "bonus": "Locked 11 PTS",
       "points": 0.0
     },
@@ -76,7 +65,7 @@
       "team": "2026 ODB Bonus Players",
       "rank": "4 / 9",
       "chips": "1,500,000",
-      "bb": "18.8 BB",
+      "bb": "15.0 BB",
       "bonus": "Locked 11 PTS",
       "points": 0.0
     },
@@ -87,7 +76,7 @@
       "team": "2026 ODB Bonus Players",
       "rank": "5 / 9",
       "chips": "1,280,000",
-      "bb": "16.0 BB",
+      "bb": "12.8 BB",
       "bonus": "Locked 11 PTS",
       "points": 0.0
     },
@@ -98,7 +87,7 @@
       "team": "Blez/NGNF",
       "rank": "6 / 9",
       "chips": "815,000",
-      "bb": "10.2 BB",
+      "bb": "8.2 BB",
       "bonus": "Locked 11 PTS",
       "points": 0.0
     },
@@ -109,7 +98,7 @@
       "team": "Glue Factory",
       "rank": "9 / 9",
       "chips": "355,000",
-      "bb": "4.4 BB",
+      "bb": "3.6 BB",
       "bonus": "Locked 11 PTS",
       "points": 0.0
     }
