@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-01T05:50:18.133685+00:00",
+  "generatedAt": "2026-07-01T06:00:18.491685+00:00",
   "league": "25k",
   "count": 14,
   "players": [
@@ -15,11 +15,22 @@
       "points": 2.0
     },
     {
+      "player": "Matt Grapenthien",
+      "event": "Event #75: $10,000 Seven Card Stud Hi-Lo 8 or Better Championship",
+      "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-75/",
+      "team": "2026 ODB Bonus Players",
+      "rank": "2 / 23",
+      "chips": "749,000",
+      "bb": "18.7 BB",
+      "bonus": "Top 18 11 PTS",
+      "points": 2.0
+    },
+    {
       "player": "Maxx Coleman",
       "event": "Event #75: $10,000 Seven Card Stud Hi-Lo 8 or Better Championship",
       "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-75/",
       "team": "Browndog",
-      "rank": "3 / 23",
+      "rank": "4 / 23",
       "chips": "703,000",
       "bb": "17.6 BB",
       "bonus": "Top 18 11 PTS",
@@ -30,7 +41,7 @@
       "event": "Event #75: $10,000 Seven Card Stud Hi-Lo 8 or Better Championship",
       "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-75/",
       "team": "Glue Factory",
-      "rank": "4 / 23",
+      "rank": "5 / 23",
       "chips": "693,000",
       "bb": "17.3 BB",
       "bonus": "Top 18 11 PTS",
@@ -41,20 +52,9 @@
       "event": "Event #75: $10,000 Seven Card Stud Hi-Lo 8 or Better Championship",
       "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-75/",
       "team": "Spitework",
-      "rank": "6 / 23",
+      "rank": "7 / 23",
       "chips": "605,000",
       "bb": "15.1 BB",
-      "bonus": "Top 18 11 PTS",
-      "points": 2.0
-    },
-    {
-      "player": "Matt Grapenthien",
-      "event": "Event #75: $10,000 Seven Card Stud Hi-Lo 8 or Better Championship",
-      "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-75/",
-      "team": "2026 ODB Bonus Players",
-      "rank": "7 / 23",
-      "chips": "574,000",
-      "bb": "14.4 BB",
       "bonus": "Top 18 11 PTS",
       "points": 2.0
     },
