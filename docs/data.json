@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-02T19:55:32.217212+00:00",
+  "generatedAt": "2026-07-02T20:00:23.907272+00:00",
   "leagueName": "WSOP Poker Fantasy Draft 2026",
   "sourceLabel": "25KFantasy",
   "sourceUrl": "https://www.25kfantasy.com/players/",
@@ -160,7 +160,7 @@
         },
         {
           "player": "Jeremy Becker",
-          "points": 15.0
+          "points": 16.0
         },
         {
           "player": "Shannon Shorr",
@@ -171,9 +171,9 @@
           "points": 9.0
         }
       ],
-      "totalPoints": 585.0,
-      "pointsChange": 0.0,
-      "pointsChangeSincePrevious": 0.0
+      "totalPoints": 586.0,
+      "pointsChange": 1.0,
+      "pointsChangeSincePrevious": 1.0
     },
     {
       "managerName": "Doinky",
