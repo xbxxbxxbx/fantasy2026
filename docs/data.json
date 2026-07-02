@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-02T08:10:16.665384+00:00",
+  "generatedAt": "2026-07-02T08:20:15.107403+00:00",
   "leagueName": "WSOP Poker Fantasy Draft 2026",
   "sourceLabel": "25KFantasy",
   "sourceUrl": "https://www.25kfantasy.com/players/",
@@ -362,7 +362,7 @@
         },
         {
           "player": "Tyler Phillips",
-          "points": 27.0
+          "points": 28.0
         },
         {
           "player": "Brad Owen",
@@ -381,9 +381,9 @@
           "points": 0.0
         }
       ],
-      "totalPoints": 311.0,
-      "pointsChange": 2.0,
-      "pointsChangeSincePrevious": 0.0
+      "totalPoints": 312.0,
+      "pointsChange": 3.0,
+      "pointsChangeSincePrevious": 1.0
     }
   ],
   "failures": []
