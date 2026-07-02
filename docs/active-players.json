@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-02T05:50:13.596017+00:00",
+  "generatedAt": "2026-07-02T06:00:18.725325+00:00",
   "league": "25k",
   "count": 16,
   "players": [
@@ -74,7 +74,7 @@
       "event": "Event #77: $2,500 Mixed Triple Draw Lowball(Limit)",
       "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-77/",
       "team": "Banana",
-      "rank": "3 / 24",
+      "rank": "4 / 24",
       "chips": "955,000",
       "bb": "23.9 BB",
       "bonus": "Top 18 10 PTS",
@@ -85,7 +85,18 @@
       "event": "Event #77: $2,500 Mixed Triple Draw Lowball(Limit)",
       "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-77/",
       "team": "Lady Gaga",
-      "rank": "6 / 24",
+      "rank": "5 / 24",
+      "chips": "780,000",
+      "bb": "19.5 BB",
+      "bonus": "Top 18 10 PTS",
+      "points": 1.0
+    },
+    {
+      "player": "Jordan Siegel",
+      "event": "Event #77: $2,500 Mixed Triple Draw Lowball(Limit)",
+      "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-77/",
+      "team": "Noori",
+      "rank": "5 / 24",
       "chips": "780,000",
       "bb": "19.5 BB",
       "bonus": "Top 18 10 PTS",
@@ -165,17 +176,6 @@
       "rank": "18 / 24",
       "chips": "415,000",
       "bb": "10.4 BB",
-      "bonus": "Top 18 10 PTS",
-      "points": 1.0
-    },
-    {
-      "player": "Jordan Siegel",
-      "event": "Event #77: $2,500 Mixed Triple Draw Lowball(Limit)",
-      "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-77/",
-      "team": "Noori",
-      "rank": "19 / 24",
-      "chips": "405,000",
-      "bb": "10.1 BB",
       "bonus": "Top 18 10 PTS",
       "points": 1.0
     }
