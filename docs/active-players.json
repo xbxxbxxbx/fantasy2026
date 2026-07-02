@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-02T06:00:18.725325+00:00",
+  "generatedAt": "2026-07-02T06:10:16.605714+00:00",
   "league": "25k",
   "count": 16,
   "players": [
@@ -65,7 +65,18 @@
       "team": "Premiums Only",
       "rank": "1 / 24",
       "chips": "1,305,000",
-      "bb": "32.6 BB",
+      "bb": "26.1 BB",
+      "bonus": "Top 18 10 PTS",
+      "points": 1.0
+    },
+    {
+      "player": "Mark Gregorich",
+      "event": "Event #77: $2,500 Mixed Triple Draw Lowball(Limit)",
+      "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-77/",
+      "team": "2026 ODB Bonus Players",
+      "rank": "2 / 24",
+      "chips": "1,075,000",
+      "bb": "21.5 BB",
       "bonus": "Top 18 10 PTS",
       "points": 1.0
     },
@@ -74,42 +85,9 @@
       "event": "Event #77: $2,500 Mixed Triple Draw Lowball(Limit)",
       "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-77/",
       "team": "Banana",
-      "rank": "4 / 24",
+      "rank": "6 / 24",
       "chips": "955,000",
-      "bb": "23.9 BB",
-      "bonus": "Top 18 10 PTS",
-      "points": 1.0
-    },
-    {
-      "player": "Kevin Yun Lam Choi",
-      "event": "Event #77: $2,500 Mixed Triple Draw Lowball(Limit)",
-      "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-77/",
-      "team": "Lady Gaga",
-      "rank": "5 / 24",
-      "chips": "780,000",
-      "bb": "19.5 BB",
-      "bonus": "Top 18 10 PTS",
-      "points": 1.0
-    },
-    {
-      "player": "Jordan Siegel",
-      "event": "Event #77: $2,500 Mixed Triple Draw Lowball(Limit)",
-      "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-77/",
-      "team": "Noori",
-      "rank": "5 / 24",
-      "chips": "780,000",
-      "bb": "19.5 BB",
-      "bonus": "Top 18 10 PTS",
-      "points": 1.0
-    },
-    {
-      "player": "Dylan Smith",
-      "event": "Event #77: $2,500 Mixed Triple Draw Lowball(Limit)",
-      "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-77/",
-      "team": "Spitework",
-      "rank": "10 / 24",
-      "chips": "645,000",
-      "bb": "16.1 BB",
+      "bb": "19.1 BB",
       "bonus": "Top 18 10 PTS",
       "points": 1.0
     },
@@ -118,9 +96,42 @@
       "event": "Event #77: $2,500 Mixed Triple Draw Lowball(Limit)",
       "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-77/",
       "team": "Browndog",
+      "rank": "7 / 24",
+      "chips": "810,000",
+      "bb": "16.2 BB",
+      "bonus": "Top 18 10 PTS",
+      "points": 1.0
+    },
+    {
+      "player": "Kevin Yun Lam Choi",
+      "event": "Event #77: $2,500 Mixed Triple Draw Lowball(Limit)",
+      "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-77/",
+      "team": "Lady Gaga",
+      "rank": "9 / 24",
+      "chips": "780,000",
+      "bb": "15.6 BB",
+      "bonus": "Top 18 10 PTS",
+      "points": 1.0
+    },
+    {
+      "player": "Jordan Siegel",
+      "event": "Event #77: $2,500 Mixed Triple Draw Lowball(Limit)",
+      "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-77/",
+      "team": "Noori",
+      "rank": "9 / 24",
+      "chips": "780,000",
+      "bb": "15.6 BB",
+      "bonus": "Top 18 10 PTS",
+      "points": 1.0
+    },
+    {
+      "player": "Dylan Smith",
+      "event": "Event #77: $2,500 Mixed Triple Draw Lowball(Limit)",
+      "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-77/",
+      "team": "Spitework",
       "rank": "13 / 24",
-      "chips": "560,000",
-      "bb": "14.0 BB",
+      "chips": "645,000",
+      "bb": "12.9 BB",
       "bonus": "Top 18 10 PTS",
       "points": 1.0
     },
@@ -131,18 +142,7 @@
       "team": "Glaser",
       "rank": "14 / 24",
       "chips": "555,000",
-      "bb": "13.9 BB",
-      "bonus": "Top 18 10 PTS",
-      "points": 1.0
-    },
-    {
-      "player": "Mark Gregorich",
-      "event": "Event #77: $2,500 Mixed Triple Draw Lowball(Limit)",
-      "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-77/",
-      "team": "2026 ODB Bonus Players",
-      "rank": "15 / 24",
-      "chips": "485,000",
-      "bb": "12.1 BB",
+      "bb": "11.1 BB",
       "bonus": "Top 18 10 PTS",
       "points": 1.0
     },
@@ -151,9 +151,9 @@
       "event": "Event #77: $2,500 Mixed Triple Draw Lowball(Limit)",
       "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-77/",
       "team": "DNegs",
-      "rank": "16 / 24",
+      "rank": "17 / 24",
       "chips": "460,000",
-      "bb": "11.5 BB",
+      "bb": "9.2 BB",
       "bonus": "Top 18 10 PTS",
       "points": 1.0
     },
@@ -162,9 +162,9 @@
       "event": "Event #77: $2,500 Mixed Triple Draw Lowball(Limit)",
       "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-77/",
       "team": "Wasserson",
-      "rank": "17 / 24",
+      "rank": "18 / 24",
       "chips": "420,000",
-      "bb": "10.5 BB",
+      "bb": "8.4 BB",
       "bonus": "Top 18 10 PTS",
       "points": 1.0
     },
@@ -173,9 +173,9 @@
       "event": "Event #77: $2,500 Mixed Triple Draw Lowball(Limit)",
       "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-77/",
       "team": "Lang Gang",
-      "rank": "18 / 24",
+      "rank": "19 / 24",
       "chips": "415,000",
-      "bb": "10.4 BB",
+      "bb": "8.3 BB",
       "bonus": "Top 18 10 PTS",
       "points": 1.0
     }
