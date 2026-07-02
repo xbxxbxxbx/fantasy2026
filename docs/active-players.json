@@ -1,14 +1,14 @@
 {
-  "generatedAt": "2026-07-02T03:50:16.472439+00:00",
+  "generatedAt": "2026-07-02T04:00:20.390010+00:00",
   "league": "25k",
-  "count": 22,
+  "count": 21,
   "players": [
     {
       "player": "Christina Gollins",
       "event": "Event #72: $1,000 MINI Main Event No-Limit Hold\u2019em",
       "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-72/",
       "team": "2026 ODB Bonus Players",
-      "rank": "17 / 30",
+      "rank": "22 / 30",
       "chips": "1,800,000",
       "bb": "1.5 BB",
       "bonus": "Locked 101 PTS",
@@ -41,7 +41,7 @@
       "event": "Event #76: $100,000 HIGH ROLLER Pot-Limit Omaha",
       "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-76/",
       "team": "Back Office",
-      "rank": "1 / 8",
+      "rank": "1 / 7",
       "chips": "14,320,000",
       "bb": "\u2014",
       "bonus": "Locked 0 PTS",
@@ -52,7 +52,7 @@
       "event": "Event #76: $100,000 HIGH ROLLER Pot-Limit Omaha",
       "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-76/",
       "team": "DNegs",
-      "rank": "2 / 8",
+      "rank": "2 / 7",
       "chips": "11,465,000",
       "bb": "\u2014",
       "bonus": "Locked 0 PTS",
@@ -63,19 +63,8 @@
       "event": "Event #76: $100,000 HIGH ROLLER Pot-Limit Omaha",
       "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-76/",
       "team": "Glaser",
-      "rank": "3 / 8",
+      "rank": "3 / 7",
       "chips": "6,130,000",
-      "bb": "\u2014",
-      "bonus": "Locked 0 PTS",
-      "points": 0.0
-    },
-    {
-      "player": "Jeremy Ausmus",
-      "event": "Event #76: $100,000 HIGH ROLLER Pot-Limit Omaha",
-      "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-76/",
-      "team": "Lang Gang",
-      "rank": "4 / 8",
-      "chips": "5,285,000",
       "bb": "\u2014",
       "bonus": "Locked 0 PTS",
       "points": 0.0
@@ -85,7 +74,7 @@
       "event": "Event #76: $100,000 HIGH ROLLER Pot-Limit Omaha",
       "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-76/",
       "team": "Back Office",
-      "rank": "5 / 8",
+      "rank": "4 / 7",
       "chips": "4,990,000",
       "bb": "\u2014",
       "bonus": "Locked 0 PTS",
@@ -98,7 +87,7 @@
       "team": "Premiums Only",
       "rank": "1 / 39",
       "chips": "1,305,000",
-      "bb": "54.4 BB",
+      "bb": "43.5 BB",
       "bonus": "Top 18 10 PTS",
       "points": 1.0
     },
@@ -109,7 +98,7 @@
       "team": "Banana",
       "rank": "2 / 39",
       "chips": "955,000",
-      "bb": "39.8 BB",
+      "bb": "31.8 BB",
       "bonus": "Top 18 10 PTS",
       "points": 1.0
     },
@@ -120,7 +109,7 @@
       "team": "Lady Gaga",
       "rank": "3 / 39",
       "chips": "780,000",
-      "bb": "32.5 BB",
+      "bb": "26.0 BB",
       "bonus": "Top 18 10 PTS",
       "points": 1.0
     },
@@ -131,7 +120,7 @@
       "team": "Spitework",
       "rank": "10 / 39",
       "chips": "645,000",
-      "bb": "26.9 BB",
+      "bb": "21.5 BB",
       "bonus": "Top 18 10 PTS",
       "points": 1.0
     },
@@ -142,7 +131,7 @@
       "team": "Very Handsome Horses",
       "rank": "11 / 39",
       "chips": "590,000",
-      "bb": "24.6 BB",
+      "bb": "19.7 BB",
       "bonus": "Top 18 10 PTS",
       "points": 1.0
     },
@@ -153,7 +142,7 @@
       "team": "Browndog",
       "rank": "14 / 39",
       "chips": "560,000",
-      "bb": "23.3 BB",
+      "bb": "18.7 BB",
       "bonus": "Top 18 10 PTS",
       "points": 1.0
     },
@@ -164,7 +153,7 @@
       "team": "2026 ODB Bonus Players",
       "rank": "16 / 39",
       "chips": "485,000",
-      "bb": "20.2 BB",
+      "bb": "16.2 BB",
       "bonus": "Top 18 10 PTS",
       "points": 1.0
     },
@@ -175,7 +164,7 @@
       "team": "Glaser",
       "rank": "17 / 39",
       "chips": "460,000",
-      "bb": "19.2 BB",
+      "bb": "15.3 BB",
       "bonus": "Top 18 10 PTS",
       "points": 1.0
     },
@@ -186,7 +175,7 @@
       "team": "DNegs",
       "rank": "17 / 39",
       "chips": "460,000",
-      "bb": "19.2 BB",
+      "bb": "15.3 BB",
       "bonus": "Top 18 10 PTS",
       "points": 1.0
     },
@@ -197,7 +186,7 @@
       "team": "Wasserson",
       "rank": "19 / 39",
       "chips": "420,000",
-      "bb": "17.5 BB",
+      "bb": "14.0 BB",
       "bonus": "Top 18 10 PTS",
       "points": 1.0
     },
@@ -208,7 +197,7 @@
       "team": "Lang Gang",
       "rank": "20 / 39",
       "chips": "415,000",
-      "bb": "17.3 BB",
+      "bb": "13.8 BB",
       "bonus": "Top 18 10 PTS",
       "points": 1.0
     },
@@ -219,7 +208,7 @@
       "team": "Noori",
       "rank": "21 / 39",
       "chips": "405,000",
-      "bb": "16.9 BB",
+      "bb": "13.5 BB",
       "bonus": "Top 18 10 PTS",
       "points": 1.0
     },
@@ -230,7 +219,7 @@
       "team": "Dinkers",
       "rank": "29 / 39",
       "chips": "280,000",
-      "bb": "11.7 BB",
+      "bb": "9.3 BB",
       "bonus": "Top 18 10 PTS",
       "points": 1.0
     },
@@ -241,7 +230,7 @@
       "team": "Browndog",
       "rank": "32 / 39",
       "chips": "240,000",
-      "bb": "10.0 BB",
+      "bb": "8.0 BB",
       "bonus": "Top 18 10 PTS",
       "points": 1.0
     }
