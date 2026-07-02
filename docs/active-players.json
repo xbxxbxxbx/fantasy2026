@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-02T18:50:17.860939+00:00",
+  "generatedAt": "2026-07-02T19:00:25.081932+00:00",
   "league": "25k",
   "count": 37,
   "players": [
@@ -162,9 +162,9 @@
       "event": "Event #78: $600 Deepstack Championship No-Limit Hold'em",
       "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-78/",
       "team": "2026 ODB Bonus Players",
-      "rank": "15 / 429",
+      "rank": "15 / 414",
       "chips": "780,000",
-      "bb": "78.0 BB",
+      "bb": "65.0 BB",
       "bonus": "Top 63 52 PTS",
       "points": 1.0
     },
@@ -173,9 +173,9 @@
       "event": "Event #78: $600 Deepstack Championship No-Limit Hold'em",
       "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-78/",
       "team": "Spitework",
-      "rank": "189 / 429",
+      "rank": "188 / 414",
       "chips": "311,000",
-      "bb": "31.1 BB",
+      "bb": "25.9 BB",
       "bonus": "Top 63 52 PTS",
       "points": 1.0
     },
@@ -184,9 +184,9 @@
       "event": "Event #78: $600 Deepstack Championship No-Limit Hold'em",
       "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-78/",
       "team": "Torching with TJ",
-      "rank": "207 / 429",
+      "rank": "206 / 414",
       "chips": "293,000",
-      "bb": "29.3 BB",
+      "bb": "24.4 BB",
       "bonus": "Top 63 52 PTS",
       "points": 1.0
     },
@@ -195,9 +195,9 @@
       "event": "Event #78: $600 Deepstack Championship No-Limit Hold'em",
       "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-78/",
       "team": "Lucky",
-      "rank": "267 / 429",
+      "rank": "263 / 414",
       "chips": "233,000",
-      "bb": "23.3 BB",
+      "bb": "19.4 BB",
       "bonus": "Top 63 52 PTS",
       "points": 1.0
     },
@@ -206,9 +206,9 @@
       "event": "Event #78: $600 Deepstack Championship No-Limit Hold'em",
       "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-78/",
       "team": "Gators",
-      "rank": "274 / 429",
+      "rank": "270 / 414",
       "chips": "225,000",
-      "bb": "22.5 BB",
+      "bb": "18.8 BB",
       "bonus": "Top 63 52 PTS",
       "points": 1.0
     },
@@ -217,9 +217,9 @@
       "event": "Event #79: $3,000 Freezeout No-Limit Hold'em",
       "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-79/",
       "team": "Fleyshman",
-      "rank": "5 / 226",
+      "rank": "4 / 226",
       "chips": "1,006,000",
-      "bb": "100.6 BB",
+      "bb": "83.8 BB",
       "bonus": "Top 27 18 PTS",
       "points": 1.0
     },
@@ -228,9 +228,9 @@
       "event": "Event #79: $3,000 Freezeout No-Limit Hold'em",
       "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-79/",
       "team": "2026 ODB Bonus Players",
-      "rank": "8 / 226",
+      "rank": "7 / 226",
       "chips": "832,000",
-      "bb": "83.2 BB",
+      "bb": "69.3 BB",
       "bonus": "Top 27 18 PTS",
       "points": 1.0
     },
@@ -239,9 +239,9 @@
       "event": "Event #79: $3,000 Freezeout No-Limit Hold'em",
       "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-79/",
       "team": "Gators",
-      "rank": "32 / 226",
+      "rank": "31 / 226",
       "chips": "537,000",
-      "bb": "53.7 BB",
+      "bb": "44.8 BB",
       "bonus": "Top 27 18 PTS",
       "points": 1.0
     },
@@ -250,9 +250,9 @@
       "event": "Event #79: $3,000 Freezeout No-Limit Hold'em",
       "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-79/",
       "team": "Lady Gaga",
-      "rank": "43 / 226",
+      "rank": "42 / 226",
       "chips": "471,000",
-      "bb": "47.1 BB",
+      "bb": "39.3 BB",
       "bonus": "Top 27 18 PTS",
       "points": 1.0
     },
@@ -263,7 +263,7 @@
       "team": "2026 ODB Bonus Players",
       "rank": "67 / 226",
       "chips": "370,000",
-      "bb": "37.0 BB",
+      "bb": "30.8 BB",
       "bonus": "Top 27 18 PTS",
       "points": 1.0
     },
@@ -274,7 +274,7 @@
       "team": "2026 ODB Bonus Players",
       "rank": "70 / 226",
       "chips": "353,000",
-      "bb": "35.3 BB",
+      "bb": "29.4 BB",
       "bonus": "Top 27 18 PTS",
       "points": 1.0
     },
@@ -285,7 +285,7 @@
       "team": "2026 ODB Bonus Players",
       "rank": "74 / 226",
       "chips": "341,000",
-      "bb": "34.1 BB",
+      "bb": "28.4 BB",
       "bonus": "Top 27 18 PTS",
       "points": 1.0
     },
@@ -296,7 +296,7 @@
       "team": "2026 ODB Bonus Players",
       "rank": "82 / 226",
       "chips": "313,000",
-      "bb": "31.3 BB",
+      "bb": "26.1 BB",
       "bonus": "Top 27 18 PTS",
       "points": 1.0
     },
@@ -307,7 +307,7 @@
       "team": "Very Handsome Horses",
       "rank": "83 / 226",
       "chips": "308,000",
-      "bb": "30.8 BB",
+      "bb": "25.7 BB",
       "bonus": "Top 27 18 PTS",
       "points": 1.0
     },
@@ -318,7 +318,7 @@
       "team": "2026 ODB Bonus Players",
       "rank": "84 / 226",
       "chips": "304,000",
-      "bb": "30.4 BB",
+      "bb": "25.3 BB",
       "bonus": "Top 27 18 PTS",
       "points": 1.0
     },
@@ -329,7 +329,7 @@
       "team": "Glue Factory",
       "rank": "101 / 226",
       "chips": "274,000",
-      "bb": "27.4 BB",
+      "bb": "22.8 BB",
       "bonus": "Top 27 18 PTS",
       "points": 1.0
     },
@@ -340,7 +340,7 @@
       "team": "Lucky",
       "rank": "133 / 226",
       "chips": "216,000",
-      "bb": "21.6 BB",
+      "bb": "18.0 BB",
       "bonus": "Top 27 18 PTS",
       "points": 1.0
     },
@@ -351,7 +351,7 @@
       "team": "Lang Gang",
       "rank": "137 / 226",
       "chips": "209,000",
-      "bb": "20.9 BB",
+      "bb": "17.4 BB",
       "bonus": "Top 27 18 PTS",
       "points": 1.0
     },
@@ -362,7 +362,7 @@
       "team": "Chocolate Factory",
       "rank": "158 / 226",
       "chips": "163,000",
-      "bb": "16.3 BB",
+      "bb": "13.6 BB",
       "bonus": "Top 27 18 PTS",
       "points": 1.0
     },
@@ -373,7 +373,7 @@
       "team": "Lucky",
       "rank": "175 / 226",
       "chips": "137,000",
-      "bb": "13.7 BB",
+      "bb": "11.4 BB",
       "bonus": "Top 27 18 PTS",
       "points": 1.0
     },
@@ -382,9 +382,9 @@
       "event": "Event #79: $3,000 Freezeout No-Limit Hold'em",
       "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-79/",
       "team": "Verderamo",
-      "rank": "190 / 226",
+      "rank": "191 / 226",
       "chips": "116,000",
-      "bb": "11.6 BB",
+      "bb": "9.7 BB",
       "bonus": "Top 27 18 PTS",
       "points": 1.0
     },
@@ -393,9 +393,9 @@
       "event": "Event #79: $3,000 Freezeout No-Limit Hold'em",
       "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-79/",
       "team": "2026 ODB Bonus Players",
-      "rank": "218 / 226",
+      "rank": "219 / 226",
       "chips": "62,000",
-      "bb": "6.2 BB",
+      "bb": "5.2 BB",
       "bonus": "Top 27 18 PTS",
       "points": 1.0
     },
@@ -404,9 +404,9 @@
       "event": "Event #79: $3,000 Freezeout No-Limit Hold'em",
       "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-79/",
       "team": "Spitework",
-      "rank": "220 / 226",
+      "rank": "221 / 226",
       "chips": "44,500",
-      "bb": "4.5 BB",
+      "bb": "3.7 BB",
       "bonus": "Top 27 18 PTS",
       "points": 1.0
     }
