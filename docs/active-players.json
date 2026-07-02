@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-07-02T07:00:25.303106+00:00",
+  "generatedAt": "2026-07-02T07:10:13.237571+00:00",
   "league": "25k",
-  "count": 23,
+  "count": 21,
   "players": [
     {
       "player": "Daniel Negreanu",
@@ -43,51 +43,7 @@
       "team": "Premiums Only",
       "rank": "2 / 20",
       "chips": "1,305,000",
-      "bb": "26.1 BB",
-      "bonus": "Top 18 10 PTS",
-      "points": 1.0
-    },
-    {
-      "player": "Mark Gregorich",
-      "event": "Event #77: $2,500 Mixed Triple Draw Lowball(Limit)",
-      "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-77/",
-      "team": "2026 ODB Bonus Players",
-      "rank": "3 / 20",
-      "chips": "1,075,000",
-      "bb": "21.5 BB",
-      "bonus": "Top 18 10 PTS",
-      "points": 1.0
-    },
-    {
-      "player": "Danny Tang",
-      "event": "Event #77: $2,500 Mixed Triple Draw Lowball(Limit)",
-      "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-77/",
-      "team": "Banana",
-      "rank": "5 / 20",
-      "chips": "955,000",
-      "bb": "19.1 BB",
-      "bonus": "Top 18 10 PTS",
-      "points": 1.0
-    },
-    {
-      "player": "Arthur Morris",
-      "event": "Event #77: $2,500 Mixed Triple Draw Lowball(Limit)",
-      "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-77/",
-      "team": "Browndog",
-      "rank": "6 / 20",
-      "chips": "810,000",
-      "bb": "16.2 BB",
-      "bonus": "Top 18 10 PTS",
-      "points": 1.0
-    },
-    {
-      "player": "Kevin Yun Lam Choi",
-      "event": "Event #77: $2,500 Mixed Triple Draw Lowball(Limit)",
-      "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-77/",
-      "team": "Lady Gaga",
-      "rank": "7 / 20",
-      "chips": "780,000",
-      "bb": "15.6 BB",
+      "bb": "21.8 BB",
       "bonus": "Top 18 10 PTS",
       "points": 1.0
     },
@@ -96,9 +52,53 @@
       "event": "Event #77: $2,500 Mixed Triple Draw Lowball(Limit)",
       "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-77/",
       "team": "Noori",
+      "rank": "3 / 20",
+      "chips": "1,250,000",
+      "bb": "20.8 BB",
+      "bonus": "Top 18 10 PTS",
+      "points": 1.0
+    },
+    {
+      "player": "Mark Gregorich",
+      "event": "Event #77: $2,500 Mixed Triple Draw Lowball(Limit)",
+      "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-77/",
+      "team": "2026 ODB Bonus Players",
+      "rank": "4 / 20",
+      "chips": "1,075,000",
+      "bb": "17.9 BB",
+      "bonus": "Top 18 10 PTS",
+      "points": 1.0
+    },
+    {
+      "player": "Danny Tang",
+      "event": "Event #77: $2,500 Mixed Triple Draw Lowball(Limit)",
+      "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-77/",
+      "team": "Banana",
+      "rank": "6 / 20",
+      "chips": "955,000",
+      "bb": "15.9 BB",
+      "bonus": "Top 18 10 PTS",
+      "points": 1.0
+    },
+    {
+      "player": "Arthur Morris",
+      "event": "Event #77: $2,500 Mixed Triple Draw Lowball(Limit)",
+      "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-77/",
+      "team": "Browndog",
       "rank": "7 / 20",
+      "chips": "810,000",
+      "bb": "13.5 BB",
+      "bonus": "Top 18 10 PTS",
+      "points": 1.0
+    },
+    {
+      "player": "Kevin Yun Lam Choi",
+      "event": "Event #77: $2,500 Mixed Triple Draw Lowball(Limit)",
+      "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-77/",
+      "team": "Lady Gaga",
+      "rank": "8 / 20",
       "chips": "780,000",
-      "bb": "15.6 BB",
+      "bb": "13.0 BB",
       "bonus": "Top 18 10 PTS",
       "points": 1.0
     },
@@ -109,7 +109,7 @@
       "team": "Spitework",
       "rank": "11 / 20",
       "chips": "645,000",
-      "bb": "12.9 BB",
+      "bb": "10.8 BB",
       "bonus": "Top 18 10 PTS",
       "points": 1.0
     },
@@ -120,7 +120,7 @@
       "team": "Glaser",
       "rank": "12 / 20",
       "chips": "555,000",
-      "bb": "11.1 BB",
+      "bb": "9.3 BB",
       "bonus": "Top 18 10 PTS",
       "points": 1.0
     },
@@ -131,7 +131,7 @@
       "team": "DNegs",
       "rank": "14 / 20",
       "chips": "460,000",
-      "bb": "9.2 BB",
+      "bb": "7.7 BB",
       "bonus": "Top 18 10 PTS",
       "points": 1.0
     },
@@ -142,7 +142,7 @@
       "team": "Wasserson",
       "rank": "15 / 20",
       "chips": "420,000",
-      "bb": "8.4 BB",
+      "bb": "7.0 BB",
       "bonus": "Top 18 10 PTS",
       "points": 1.0
     },
@@ -153,19 +153,8 @@
       "team": "Lang Gang",
       "rank": "16 / 20",
       "chips": "415,000",
-      "bb": "8.3 BB",
+      "bb": "6.9 BB",
       "bonus": "Top 18 10 PTS",
-      "points": 1.0
-    },
-    {
-      "player": "Terrance Reid",
-      "event": "Event #78: $600 Deepstack Championship No-Limit Hold'em",
-      "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-78/",
-      "team": "Torching with TJ",
-      "rank": "85 / 751",
-      "chips": "348,000",
-      "bb": "58.0 BB",
-      "bonus": "Top 63 52 PTS",
       "points": 1.0
     },
     {
@@ -173,9 +162,9 @@
       "event": "Event #78: $600 Deepstack Championship No-Limit Hold'em",
       "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-78/",
       "team": "Stake Kings",
-      "rank": "112 / 751",
+      "rank": "117 / 638",
       "chips": "315,000",
-      "bb": "52.5 BB",
+      "bb": "39.4 BB",
       "bonus": "Top 63 52 PTS",
       "points": 1.0
     },
@@ -184,20 +173,9 @@
       "event": "Event #78: $600 Deepstack Championship No-Limit Hold'em",
       "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-78/",
       "team": "Spitework",
-      "rank": "119 / 751",
+      "rank": "125 / 638",
       "chips": "309,000",
-      "bb": "51.5 BB",
-      "bonus": "Top 63 52 PTS",
-      "points": 1.0
-    },
-    {
-      "player": "Chris Conrad",
-      "event": "Event #78: $600 Deepstack Championship No-Limit Hold'em",
-      "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-78/",
-      "team": "2026 ODB Bonus Players",
-      "rank": "181 / 751",
-      "chips": "261,000",
-      "bb": "43.5 BB",
+      "bb": "38.6 BB",
       "bonus": "Top 63 52 PTS",
       "points": 1.0
     },
@@ -206,9 +184,20 @@
       "event": "Event #78: $600 Deepstack Championship No-Limit Hold'em",
       "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-78/",
       "team": "Gators",
-      "rank": "213 / 751",
+      "rank": "206 / 638",
       "chips": "237,000",
-      "bb": "39.5 BB",
+      "bb": "29.6 BB",
+      "bonus": "Top 63 52 PTS",
+      "points": 1.0
+    },
+    {
+      "player": "Terrance Reid",
+      "event": "Event #78: $600 Deepstack Championship No-Limit Hold'em",
+      "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-78/",
+      "team": "Torching with TJ",
+      "rank": "236 / 638",
+      "chips": "216,000",
+      "bb": "27.0 BB",
       "bonus": "Top 63 52 PTS",
       "points": 1.0
     },
@@ -217,20 +206,9 @@
       "event": "Event #78: $600 Deepstack Championship No-Limit Hold'em",
       "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-78/",
       "team": "Lucky",
-      "rank": "269 / 751",
+      "rank": "260 / 638",
       "chips": "200,000",
-      "bb": "33.3 BB",
-      "bonus": "Top 63 52 PTS",
-      "points": 1.0
-    },
-    {
-      "player": "Christian Roberts",
-      "event": "Event #78: $600 Deepstack Championship No-Limit Hold'em",
-      "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-78/",
-      "team": "Blades & Shades",
-      "rank": "405 / 751",
-      "chips": "152,000",
-      "bb": "25.3 BB",
+      "bb": "25.0 BB",
       "bonus": "Top 63 52 PTS",
       "points": 1.0
     },
@@ -239,9 +217,9 @@
       "event": "Event #78: $600 Deepstack Championship No-Limit Hold'em",
       "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-78/",
       "team": "2026 ODB Bonus Players",
-      "rank": "418 / 751",
+      "rank": "388 / 638",
       "chips": "148,000",
-      "bb": "24.7 BB",
+      "bb": "18.5 BB",
       "bonus": "Top 63 52 PTS",
       "points": 1.0
     },
@@ -250,9 +228,9 @@
       "event": "Event #78: $600 Deepstack Championship No-Limit Hold'em",
       "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-78/",
       "team": "Browndog",
-      "rank": "528 / 751",
+      "rank": "474 / 638",
       "chips": "117,000",
-      "bb": "19.5 BB",
+      "bb": "14.6 BB",
       "bonus": "Top 63 52 PTS",
       "points": 1.0
     }
