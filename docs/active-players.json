@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-07-03T06:00:20.570947+00:00",
+  "generatedAt": "2026-07-03T06:10:16.690140+00:00",
   "league": "25k",
-  "count": 16,
+  "count": 14,
   "players": [
     {
       "player": "Danny Tang",
@@ -10,7 +10,7 @@
       "team": "Banana",
       "rank": "1 / 3",
       "chips": "10,175,000",
-      "bb": "25.4 BB",
+      "bb": "20.4 BB",
       "bonus": "Locked 10 PTS",
       "points": 0.0
     },
@@ -21,7 +21,7 @@
       "team": "Glaser",
       "rank": "2 / 3",
       "chips": "4,100,000",
-      "bb": "10.3 BB",
+      "bb": "8.2 BB",
       "bonus": "Locked 10 PTS",
       "points": 0.0
     },
@@ -31,8 +31,8 @@
       "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-77/",
       "team": "2026 ODB Bonus Players",
       "rank": "3 / 3",
-      "chips": "1,200,000",
-      "bb": "3.0 BB",
+      "chips": "3,500,000",
+      "bb": "7.0 BB",
       "bonus": "Locked 10 PTS",
       "points": 0.0
     },
@@ -63,121 +63,99 @@
       "event": "Event #80: $10,000 8-Game Mixed Championship",
       "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-80/",
       "team": "Lady Gaga",
-      "rank": "1 / 20",
+      "rank": "1 / 17",
       "chips": "1,310,000",
       "bb": "109.2 BB",
-      "bonus": "Top 18 11 PTS",
-      "points": 2.0
+      "bonus": "Locked 11 PTS",
+      "points": 11.0
     },
     {
       "player": "Brian Rast",
       "event": "Event #80: $10,000 8-Game Mixed Championship",
       "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-80/",
       "team": "Stake Kings",
-      "rank": "2 / 20",
+      "rank": "2 / 17",
       "chips": "1,253,000",
       "bb": "104.4 BB",
-      "bonus": "Top 18 11 PTS",
-      "points": 2.0
+      "bonus": "Locked 11 PTS",
+      "points": 11.0
     },
     {
       "player": "Bryn Kenney",
       "event": "Event #80: $10,000 8-Game Mixed Championship",
       "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-80/",
       "team": "DNegs",
-      "rank": "3 / 20",
+      "rank": "3 / 17",
       "chips": "950,000",
       "bb": "79.2 BB",
-      "bonus": "Top 18 11 PTS",
-      "points": 2.0
+      "bonus": "Locked 11 PTS",
+      "points": 11.0
     },
     {
       "player": "Nick Marchington",
       "event": "Event #80: $10,000 8-Game Mixed Championship",
       "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-80/",
       "team": "2026 ODB Bonus Players",
-      "rank": "5 / 20",
+      "rank": "6 / 17",
       "chips": "751,000",
       "bb": "62.6 BB",
-      "bonus": "Top 18 11 PTS",
-      "points": 2.0
+      "bonus": "Locked 11 PTS",
+      "points": 11.0
     },
     {
       "player": "Ryan Miller",
       "event": "Event #80: $10,000 8-Game Mixed Championship",
       "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-80/",
       "team": "2026 ODB Bonus Players",
-      "rank": "6 / 20",
+      "rank": "7 / 17",
       "chips": "714,000",
       "bb": "59.5 BB",
-      "bonus": "Top 18 11 PTS",
-      "points": 2.0
+      "bonus": "Locked 11 PTS",
+      "points": 11.0
     },
     {
       "player": "John Racener",
       "event": "Event #80: $10,000 8-Game Mixed Championship",
       "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-80/",
       "team": "Noori",
-      "rank": "7 / 20",
+      "rank": "8 / 17",
       "chips": "663,000",
       "bb": "55.3 BB",
-      "bonus": "Top 18 11 PTS",
-      "points": 2.0
-    },
-    {
-      "player": "Marco Johnson",
-      "event": "Event #80: $10,000 8-Game Mixed Championship",
-      "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-80/",
-      "team": "Banana",
-      "rank": "9 / 20",
-      "chips": "568,000",
-      "bb": "47.3 BB",
-      "bonus": "Top 18 11 PTS",
-      "points": 2.0
+      "bonus": "Locked 11 PTS",
+      "points": 11.0
     },
     {
       "player": "Matt Vengrin",
       "event": "Event #80: $10,000 8-Game Mixed Championship",
       "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-80/",
       "team": "Glue Factory",
-      "rank": "12 / 20",
+      "rank": "11 / 17",
       "chips": "415,000",
       "bb": "34.6 BB",
-      "bonus": "Top 18 11 PTS",
-      "points": 2.0
-    },
-    {
-      "player": "Matthew Schreiber",
-      "event": "Event #80: $10,000 8-Game Mixed Championship",
-      "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-80/",
-      "team": "Blez/NGNF",
-      "rank": "15 / 20",
-      "chips": "383,000",
-      "bb": "31.9 BB",
-      "bonus": "Top 18 11 PTS",
-      "points": 2.0
+      "bonus": "Locked 11 PTS",
+      "points": 11.0
     },
     {
       "player": "Maksim Pisarenko",
       "event": "Event #80: $10,000 8-Game Mixed Championship",
       "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-80/",
       "team": "Glue Factory",
-      "rank": "17 / 20",
+      "rank": "14 / 17",
       "chips": "354,000",
       "bb": "29.5 BB",
-      "bonus": "Top 18 11 PTS",
-      "points": 2.0
+      "bonus": "Locked 11 PTS",
+      "points": 11.0
     },
     {
       "player": "David 'ODB' Baker",
       "event": "Event #80: $10,000 8-Game Mixed Championship",
       "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-80/",
       "team": "Stake Kings",
-      "rank": "18 / 20",
+      "rank": "15 / 17",
       "chips": "292,000",
       "bb": "24.3 BB",
-      "bonus": "Top 18 11 PTS",
-      "points": 2.0
+      "bonus": "Locked 11 PTS",
+      "points": 11.0
     }
   ]
 }
