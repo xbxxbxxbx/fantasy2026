@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-03T03:40:15.792442+00:00",
+  "generatedAt": "2026-07-03T03:50:14.206775+00:00",
   "league": "25k",
   "count": 23,
   "players": [
@@ -109,7 +109,7 @@
       "team": "Lady Gaga",
       "rank": "1 / 29",
       "chips": "1,165,000",
-      "bb": "194.2 BB",
+      "bb": "145.6 BB",
       "bonus": "Top 18 11 PTS",
       "points": 2.0
     },
@@ -120,7 +120,7 @@
       "team": "2026 ODB Bonus Players",
       "rank": "2 / 29",
       "chips": "737,000",
-      "bb": "122.8 BB",
+      "bb": "92.1 BB",
       "bonus": "Top 18 11 PTS",
       "points": 2.0
     },
@@ -131,7 +131,7 @@
       "team": "DNegs",
       "rank": "3 / 29",
       "chips": "710,000",
-      "bb": "118.3 BB",
+      "bb": "88.8 BB",
       "bonus": "Top 18 11 PTS",
       "points": 2.0
     },
@@ -142,7 +142,7 @@
       "team": "2026 ODB Bonus Players",
       "rank": "4 / 29",
       "chips": "611,000",
-      "bb": "101.8 BB",
+      "bb": "76.4 BB",
       "bonus": "Top 18 11 PTS",
       "points": 2.0
     },
@@ -153,7 +153,7 @@
       "team": "Glue Factory",
       "rank": "5 / 29",
       "chips": "517,000",
-      "bb": "86.2 BB",
+      "bb": "64.6 BB",
       "bonus": "Top 18 11 PTS",
       "points": 2.0
     },
@@ -164,7 +164,7 @@
       "team": "Banana",
       "rank": "6 / 29",
       "chips": "450,000",
-      "bb": "75.0 BB",
+      "bb": "56.3 BB",
       "bonus": "Top 18 11 PTS",
       "points": 2.0
     },
@@ -175,7 +175,7 @@
       "team": "Noori",
       "rank": "7 / 29",
       "chips": "419,000",
-      "bb": "69.8 BB",
+      "bb": "52.4 BB",
       "bonus": "Top 18 11 PTS",
       "points": 2.0
     },
@@ -186,7 +186,7 @@
       "team": "Blez/NGNF",
       "rank": "9 / 29",
       "chips": "369,000",
-      "bb": "61.5 BB",
+      "bb": "46.1 BB",
       "bonus": "Top 18 11 PTS",
       "points": 2.0
     },
@@ -197,7 +197,7 @@
       "team": "2026 ODB Bonus Players",
       "rank": "10 / 29",
       "chips": "365,000",
-      "bb": "60.8 BB",
+      "bb": "45.6 BB",
       "bonus": "Top 18 11 PTS",
       "points": 2.0
     },
@@ -208,7 +208,7 @@
       "team": "Dinkers",
       "rank": "11 / 29",
       "chips": "361,000",
-      "bb": "60.2 BB",
+      "bb": "45.1 BB",
       "bonus": "Top 18 11 PTS",
       "points": 2.0
     },
@@ -219,7 +219,7 @@
       "team": "Stake Kings",
       "rank": "15 / 29",
       "chips": "341,000",
-      "bb": "56.8 BB",
+      "bb": "42.6 BB",
       "bonus": "Top 18 11 PTS",
       "points": 2.0
     },
@@ -230,7 +230,7 @@
       "team": "Stake Kings",
       "rank": "16 / 29",
       "chips": "327,000",
-      "bb": "54.5 BB",
+      "bb": "40.9 BB",
       "bonus": "Top 18 11 PTS",
       "points": 2.0
     },
@@ -241,7 +241,7 @@
       "team": "Glue Factory",
       "rank": "18 / 29",
       "chips": "315,000",
-      "bb": "52.5 BB",
+      "bb": "39.4 BB",
       "bonus": "Top 18 11 PTS",
       "points": 2.0
     },
@@ -252,7 +252,7 @@
       "team": "Fleyshman",
       "rank": "23 / 29",
       "chips": "271,000",
-      "bb": "45.2 BB",
+      "bb": "33.9 BB",
       "bonus": "Top 18 11 PTS",
       "points": 2.0
     }
