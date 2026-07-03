@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-03T01:10:16.664671+00:00",
+  "generatedAt": "2026-07-03T01:20:15.800216+00:00",
   "leagueName": "WSOP Poker Fantasy Draft 2026",
   "sourceLabel": "25KFantasy",
   "sourceUrl": "https://www.25kfantasy.com/players/",
@@ -228,7 +228,7 @@
         },
         {
           "player": "Ian Matakis",
-          "points": 85.0
+          "points": 86.0
         },
         {
           "player": "Jerry Wong",
@@ -255,9 +255,9 @@
           "points": 30.0
         }
       ],
-      "totalPoints": 504.0,
-      "pointsChange": 0.0,
-      "pointsChangeSincePrevious": 0.0
+      "totalPoints": 505.0,
+      "pointsChange": 1.0,
+      "pointsChangeSincePrevious": 1.0
     },
     {
       "managerName": "Gus",
