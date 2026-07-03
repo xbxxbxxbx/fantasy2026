@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-03T22:30:34.317813+00:00",
+  "generatedAt": "2026-07-03T22:40:16.012839+00:00",
   "leagueName": "WSOP Poker Fantasy Draft 2026",
   "sourceLabel": "25KFantasy",
   "sourceUrl": "https://www.25kfantasy.com/players/",
@@ -18,7 +18,7 @@
         },
         {
           "player": "David 'ODB' Baker",
-          "points": 145.0
+          "points": 156.0
         },
         {
           "player": "Allen Kessler",
@@ -45,9 +45,9 @@
           "points": 20.0
         }
       ],
-      "totalPoints": 937.0,
-      "pointsChange": 0.0,
-      "pointsChangeSincePrevious": 0.0
+      "totalPoints": 948.0,
+      "pointsChange": 11.0,
+      "pointsChangeSincePrevious": 11.0
     },
     {
       "managerName": "ASG",
@@ -118,7 +118,7 @@
         },
         {
           "player": "Ari Engel",
-          "points": 29.0
+          "points": 30.0
         },
         {
           "player": "Ben Yu",
@@ -129,9 +129,9 @@
           "points": 9.0
         }
       ],
-      "totalPoints": 667.0,
-      "pointsChange": 0.0,
-      "pointsChangeSincePrevious": 0.0
+      "totalPoints": 668.0,
+      "pointsChange": 1.0,
+      "pointsChangeSincePrevious": 1.0
     },
     {
       "managerName": "realbmorekid",
