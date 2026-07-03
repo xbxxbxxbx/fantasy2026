@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-03T04:50:17.237704+00:00",
+  "generatedAt": "2026-07-03T05:00:26.181936+00:00",
   "league": "25k",
   "count": 20,
   "players": [
@@ -10,7 +10,7 @@
       "team": "Glaser",
       "rank": "1 / 5",
       "chips": "5,000,000",
-      "bb": "16.7 BB",
+      "bb": "12.5 BB",
       "bonus": "Locked 10 PTS",
       "points": 0.0
     },
@@ -21,7 +21,7 @@
       "team": "Banana",
       "rank": "2 / 5",
       "chips": "4,725,000",
-      "bb": "15.8 BB",
+      "bb": "11.8 BB",
       "bonus": "Locked 10 PTS",
       "points": 0.0
     },
@@ -32,7 +32,7 @@
       "team": "Premiums Only",
       "rank": "3 / 5",
       "chips": "4,175,000",
-      "bb": "13.9 BB",
+      "bb": "10.4 BB",
       "bonus": "Locked 10 PTS",
       "points": 0.0
     },
@@ -43,7 +43,7 @@
       "team": "Lang Gang",
       "rank": "4 / 5",
       "chips": "3,325,000",
-      "bb": "11.1 BB",
+      "bb": "8.3 BB",
       "bonus": "Locked 10 PTS",
       "points": 0.0
     },
@@ -54,7 +54,7 @@
       "team": "2026 ODB Bonus Players",
       "rank": "5 / 5",
       "chips": "1,200,000",
-      "bb": "4.0 BB",
+      "bb": "3.0 BB",
       "bonus": "Locked 10 PTS",
       "points": 0.0
     },
@@ -98,7 +98,7 @@
       "team": "Lady Gaga",
       "rank": "1 / 24",
       "chips": "1,310,000",
-      "bb": "163.8 BB",
+      "bb": "131.0 BB",
       "bonus": "Top 18 11 PTS",
       "points": 2.0
     },
@@ -109,7 +109,7 @@
       "team": "Stake Kings",
       "rank": "2 / 24",
       "chips": "1,253,000",
-      "bb": "156.6 BB",
+      "bb": "125.3 BB",
       "bonus": "Top 18 11 PTS",
       "points": 2.0
     },
@@ -120,7 +120,7 @@
       "team": "DNegs",
       "rank": "3 / 24",
       "chips": "950,000",
-      "bb": "118.8 BB",
+      "bb": "95.0 BB",
       "bonus": "Top 18 11 PTS",
       "points": 2.0
     },
@@ -131,7 +131,7 @@
       "team": "2026 ODB Bonus Players",
       "rank": "5 / 24",
       "chips": "751,000",
-      "bb": "93.9 BB",
+      "bb": "75.1 BB",
       "bonus": "Top 18 11 PTS",
       "points": 2.0
     },
@@ -141,8 +141,8 @@
       "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-80/",
       "team": "2026 ODB Bonus Players",
       "rank": "6 / 24",
-      "chips": "737,000",
-      "bb": "92.1 BB",
+      "chips": "714,000",
+      "bb": "71.4 BB",
       "bonus": "Top 18 11 PTS",
       "points": 2.0
     },
@@ -151,9 +151,9 @@
       "event": "Event #80: $10,000 8-Game Mixed Championship",
       "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-80/",
       "team": "Noori",
-      "rank": "7 / 24",
+      "rank": "8 / 24",
       "chips": "663,000",
-      "bb": "82.9 BB",
+      "bb": "66.3 BB",
       "bonus": "Top 18 11 PTS",
       "points": 2.0
     },
@@ -162,20 +162,9 @@
       "event": "Event #80: $10,000 8-Game Mixed Championship",
       "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-80/",
       "team": "Banana",
-      "rank": "8 / 24",
-      "chips": "560,000",
-      "bb": "70.0 BB",
-      "bonus": "Top 18 11 PTS",
-      "points": 2.0
-    },
-    {
-      "player": "Maksim Pisarenko",
-      "event": "Event #80: $10,000 8-Game Mixed Championship",
-      "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-80/",
-      "team": "Glue Factory",
-      "rank": "9 / 24",
-      "chips": "517,000",
-      "bb": "64.6 BB",
+      "rank": "10 / 24",
+      "chips": "568,000",
+      "bb": "56.8 BB",
       "bonus": "Top 18 11 PTS",
       "points": 2.0
     },
@@ -184,9 +173,9 @@
       "event": "Event #80: $10,000 8-Game Mixed Championship",
       "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-80/",
       "team": "Glue Factory",
-      "rank": "11 / 24",
+      "rank": "12 / 24",
       "chips": "415,000",
-      "bb": "51.9 BB",
+      "bb": "41.5 BB",
       "bonus": "Top 18 11 PTS",
       "points": 2.0
     },
@@ -196,8 +185,19 @@
       "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-80/",
       "team": "Blez/NGNF",
       "rank": "14 / 24",
-      "chips": "369,000",
-      "bb": "46.1 BB",
+      "chips": "383,000",
+      "bb": "38.3 BB",
+      "bonus": "Top 18 11 PTS",
+      "points": 2.0
+    },
+    {
+      "player": "Maksim Pisarenko",
+      "event": "Event #80: $10,000 8-Game Mixed Championship",
+      "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-80/",
+      "team": "Glue Factory",
+      "rank": "17 / 24",
+      "chips": "354,000",
+      "bb": "35.4 BB",
       "bonus": "Top 18 11 PTS",
       "points": 2.0
     },
@@ -208,7 +208,7 @@
       "team": "Stake Kings",
       "rank": "19 / 24",
       "chips": "292,000",
-      "bb": "36.5 BB",
+      "bb": "29.2 BB",
       "bonus": "Top 18 11 PTS",
       "points": 2.0
     },
@@ -218,8 +218,8 @@
       "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-80/",
       "team": "Dinkers",
       "rank": "24 / 24",
-      "chips": "78,000",
-      "bb": "9.8 BB",
+      "chips": "68,000",
+      "bb": "6.8 BB",
       "bonus": "Top 18 11 PTS",
       "points": 2.0
     }
