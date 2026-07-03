@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-03T01:40:17.712539+00:00",
+  "generatedAt": "2026-07-03T01:50:16.601993+00:00",
   "league": "25k",
   "count": 9,
   "players": [
@@ -96,9 +96,9 @@
       "event": "Event #79: $3,000 Freezeout No-Limit Hold'em",
       "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-79/",
       "team": "Lucky",
-      "rank": "32 / 40",
-      "chips": "890,000",
-      "bb": "22.3 BB",
+      "rank": "20 / 40",
+      "chips": "1,700,000",
+      "bb": "42.5 BB",
       "bonus": "Top 27 18 PTS",
       "points": 1.0
     }
