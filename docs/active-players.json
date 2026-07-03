@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-03T19:57:20.932634+00:00",
+  "generatedAt": "2026-07-03T20:00:23.652602+00:00",
   "league": "25k",
   "count": 40,
   "players": [
@@ -32,7 +32,7 @@
       "team": "Stake Kings",
       "rank": "1 / 12",
       "chips": "2,465,000",
-      "bb": "164.3 BB",
+      "bb": "123.3 BB",
       "bonus": "Locked 11 PTS",
       "points": 11.0
     },
@@ -43,7 +43,7 @@
       "team": "Lady Gaga",
       "rank": "2 / 12",
       "chips": "1,955,000",
-      "bb": "130.3 BB",
+      "bb": "97.8 BB",
       "bonus": "Locked 11 PTS",
       "points": 11.0
     },
@@ -54,7 +54,7 @@
       "team": "Glue Factory",
       "rank": "5 / 12",
       "chips": "835,000",
-      "bb": "55.7 BB",
+      "bb": "41.8 BB",
       "bonus": "Locked 11 PTS",
       "points": 11.0
     },
@@ -65,7 +65,7 @@
       "team": "2026 ODB Bonus Players",
       "rank": "7 / 12",
       "chips": "765,000",
-      "bb": "51.0 BB",
+      "bb": "38.3 BB",
       "bonus": "Locked 11 PTS",
       "points": 11.0
     },
@@ -76,7 +76,7 @@
       "team": "DNegs",
       "rank": "8 / 12",
       "chips": "745,000",
-      "bb": "49.7 BB",
+      "bb": "37.3 BB",
       "bonus": "Locked 11 PTS",
       "points": 11.0
     },
@@ -87,7 +87,7 @@
       "team": "Glue Factory",
       "rank": "10 / 12",
       "chips": "610,000",
-      "bb": "40.7 BB",
+      "bb": "30.5 BB",
       "bonus": "Locked 11 PTS",
       "points": 11.0
     },
@@ -98,7 +98,7 @@
       "team": "2026 ODB Bonus Players",
       "rank": "11 / 12",
       "chips": "550,000",
-      "bb": "36.7 BB",
+      "bb": "27.5 BB",
       "bonus": "Locked 11 PTS",
       "points": 11.0
     },
@@ -109,7 +109,7 @@
       "team": "Stake Kings",
       "rank": "12 / 12",
       "chips": "345,000",
-      "bb": "23.0 BB",
+      "bb": "17.3 BB",
       "bonus": "Locked 11 PTS",
       "points": 11.0
     },
@@ -404,7 +404,7 @@
       "event": "Event #83: $1,500 PLO Double Board Bomb Pot (High Only)",
       "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-83/",
       "team": "Lady Gaga",
-      "rank": "169 / 227",
+      "rank": "170 / 227",
       "chips": "89,000",
       "bb": "14.8 BB",
       "bonus": "Top 27 17 PTS",
@@ -415,7 +415,7 @@
       "event": "Event #83: $1,500 PLO Double Board Bomb Pot (High Only)",
       "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-83/",
       "team": "Trump Power",
-      "rank": "180 / 227",
+      "rank": "181 / 227",
       "chips": "76,000",
       "bb": "12.7 BB",
       "bonus": "Top 27 17 PTS",
@@ -426,7 +426,7 @@
       "event": "Event #83: $1,500 PLO Double Board Bomb Pot (High Only)",
       "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-83/",
       "team": "Fleyshman",
-      "rank": "192 / 227",
+      "rank": "193 / 227",
       "chips": "62,000",
       "bb": "10.3 BB",
       "bonus": "Top 27 17 PTS",
