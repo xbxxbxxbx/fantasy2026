@@ -1,14 +1,14 @@
 {
-  "generatedAt": "2026-07-03T05:32:43.014836+00:00",
+  "generatedAt": "2026-07-03T05:40:15.532988+00:00",
   "league": "25k",
-  "count": 18,
+  "count": 17,
   "players": [
     {
       "player": "Patrick Stacey",
       "event": "Event #77: $2,500 Mixed Triple Draw Lowball(Limit)",
       "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-77/",
       "team": "Glaser",
-      "rank": "1 / 4",
+      "rank": "1 / 3",
       "chips": "8,100,000",
       "bb": "20.3 BB",
       "bonus": "Locked 10 PTS",
@@ -19,20 +19,9 @@
       "event": "Event #77: $2,500 Mixed Triple Draw Lowball(Limit)",
       "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-77/",
       "team": "Banana",
-      "rank": "2 / 4",
+      "rank": "2 / 3",
       "chips": "4,725,000",
       "bb": "11.8 BB",
-      "bonus": "Locked 10 PTS",
-      "points": 0.0
-    },
-    {
-      "player": "Allen Kessler",
-      "event": "Event #77: $2,500 Mixed Triple Draw Lowball(Limit)",
-      "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-77/",
-      "team": "Lang Gang",
-      "rank": "3 / 4",
-      "chips": "3,325,000",
-      "bb": "8.3 BB",
       "bonus": "Locked 10 PTS",
       "points": 0.0
     },
@@ -41,7 +30,7 @@
       "event": "Event #77: $2,500 Mixed Triple Draw Lowball(Limit)",
       "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-77/",
       "team": "2026 ODB Bonus Players",
-      "rank": "4 / 4",
+      "rank": "3 / 3",
       "chips": "1,200,000",
       "bb": "3.0 BB",
       "bonus": "Locked 10 PTS",
@@ -52,33 +41,33 @@
       "event": "Event #79: $3,000 Freezeout No-Limit Hold'em",
       "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-79/",
       "team": "2026 ODB Bonus Players",
-      "rank": "4 / 19",
+      "rank": "4 / 18",
       "chips": "6,050,000",
       "bb": "75.6 BB",
       "bonus": "Locked 18 PTS",
-      "points": 0.0
+      "points": 22.0
     },
     {
       "player": "Chris Moorman",
       "event": "Event #79: $3,000 Freezeout No-Limit Hold'em",
       "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-79/",
       "team": "Fleyshman",
-      "rank": "10 / 19",
+      "rank": "10 / 18",
       "chips": "2,965,000",
       "bb": "37.1 BB",
       "bonus": "Locked 18 PTS",
-      "points": 0.0
+      "points": 22.0
     },
     {
       "player": "Dylan Weisman",
       "event": "Event #79: $3,000 Freezeout No-Limit Hold'em",
       "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-79/",
       "team": "Lucky",
-      "rank": "13 / 19",
+      "rank": "13 / 18",
       "chips": "2,370,000",
       "bb": "29.6 BB",
       "bonus": "Locked 18 PTS",
-      "points": 0.0
+      "points": 22.0
     },
     {
       "player": "Alex Foxen",
