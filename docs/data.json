@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-03T05:50:16.393997+00:00",
+  "generatedAt": "2026-07-03T06:00:20.404234+00:00",
   "leagueName": "WSOP Poker Fantasy Draft 2026",
   "sourceLabel": "25KFantasy",
   "sourceUrl": "https://www.25kfantasy.com/players/",
@@ -182,7 +182,7 @@
       "players": [
         {
           "player": "Dylan Weisman",
-          "points": 168.0
+          "points": 190.0
         },
         {
           "player": "Stephen Song",
@@ -213,9 +213,9 @@
           "points": 0.0
         }
       ],
-      "totalPoints": 528.0,
-      "pointsChange": 0.0,
-      "pointsChangeSincePrevious": 0.0
+      "totalPoints": 550.0,
+      "pointsChange": 22.0,
+      "pointsChangeSincePrevious": 22.0
     },
     {
       "managerName": "Ruben",
