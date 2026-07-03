@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-03T02:30:18.436879+00:00",
+  "generatedAt": "2026-07-03T02:40:16.720708+00:00",
   "league": "25k",
   "count": 9,
   "players": [
@@ -74,9 +74,9 @@
       "event": "Event #79: $3,000 Freezeout No-Limit Hold'em",
       "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-79/",
       "team": "Fleyshman",
-      "rank": "3 / 40",
+      "rank": "3 / 38",
       "chips": "3,355,000",
-      "bb": "83.9 BB",
+      "bb": "67.1 BB",
       "bonus": "Top 27 18 PTS",
       "points": 1.0
     },
@@ -85,9 +85,9 @@
       "event": "Event #79: $3,000 Freezeout No-Limit Hold'em",
       "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-79/",
       "team": "2026 ODB Bonus Players",
-      "rank": "4 / 40",
+      "rank": "4 / 38",
       "chips": "3,100,000",
-      "bb": "77.5 BB",
+      "bb": "62.0 BB",
       "bonus": "Top 27 18 PTS",
       "points": 1.0
     },
@@ -96,9 +96,9 @@
       "event": "Event #79: $3,000 Freezeout No-Limit Hold'em",
       "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-79/",
       "team": "Lucky",
-      "rank": "20 / 40",
+      "rank": "19 / 38",
       "chips": "1,700,000",
-      "bb": "42.5 BB",
+      "bb": "34.0 BB",
       "bonus": "Top 27 18 PTS",
       "points": 1.0
     }
