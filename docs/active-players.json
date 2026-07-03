@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-07-03T07:50:17.627873+00:00",
+  "generatedAt": "2026-07-03T08:00:21.428867+00:00",
   "league": "25k",
-  "count": 10,
+  "count": 42,
   "players": [
     {
       "player": "Andrew Moreno",
@@ -112,6 +112,358 @@
       "bb": "15.7 BB",
       "bonus": "Locked 11 PTS",
       "points": 11.0
+    },
+    {
+      "player": "Paul Fehlig",
+      "event": "Event #83: $1,500 PLO Double Board Bomb Pot (High Only)",
+      "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-83/",
+      "team": "2026 ODB Bonus Players",
+      "rank": "8 / 251",
+      "chips": "300,000",
+      "bb": "60.0 BB",
+      "bonus": "Top 27 17 PTS",
+      "points": 1.0
+    },
+    {
+      "player": "Jun Weng",
+      "event": "Event #83: $1,500 PLO Double Board Bomb Pot (High Only)",
+      "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-83/",
+      "team": "Lady Gaga",
+      "rank": "13 / 251",
+      "chips": "260,000",
+      "bb": "52.0 BB",
+      "bonus": "Top 27 17 PTS",
+      "points": 1.0
+    },
+    {
+      "player": "Anthony Zinno",
+      "event": "Event #83: $1,500 PLO Double Board Bomb Pot (High Only)",
+      "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-83/",
+      "team": "Very Handsome Horses",
+      "rank": "21 / 251",
+      "chips": "236,000",
+      "bb": "47.2 BB",
+      "bonus": "Top 27 17 PTS",
+      "points": 1.0
+    },
+    {
+      "player": "Jason Stockfish",
+      "event": "Event #83: $1,500 PLO Double Board Bomb Pot (High Only)",
+      "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-83/",
+      "team": "2026 ODB Bonus Players",
+      "rank": "29 / 251",
+      "chips": "211,000",
+      "bb": "42.2 BB",
+      "bonus": "Top 27 17 PTS",
+      "points": 1.0
+    },
+    {
+      "player": "Christopher DeMaci",
+      "event": "Event #83: $1,500 PLO Double Board Bomb Pot (High Only)",
+      "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-83/",
+      "team": "2026 ODB Bonus Players",
+      "rank": "29 / 251",
+      "chips": "211,000",
+      "bb": "42.2 BB",
+      "bonus": "Top 27 17 PTS",
+      "points": 1.0
+    },
+    {
+      "player": "Ryutaro Suzuki",
+      "event": "Event #83: $1,500 PLO Double Board Bomb Pot (High Only)",
+      "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-83/",
+      "team": "Spitework",
+      "rank": "46 / 251",
+      "chips": "170,000",
+      "bb": "34.0 BB",
+      "bonus": "Top 27 17 PTS",
+      "points": 1.0
+    },
+    {
+      "player": "Brad Ruben",
+      "event": "Event #83: $1,500 PLO Double Board Bomb Pot (High Only)",
+      "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-83/",
+      "team": "Verderamo",
+      "rank": "49 / 251",
+      "chips": "163,000",
+      "bb": "32.6 BB",
+      "bonus": "Top 27 17 PTS",
+      "points": 1.0
+    },
+    {
+      "player": "Kevin Yun Lam Choi",
+      "event": "Event #83: $1,500 PLO Double Board Bomb Pot (High Only)",
+      "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-83/",
+      "team": "Lady Gaga",
+      "rank": "51 / 251",
+      "chips": "160,000",
+      "bb": "32.0 BB",
+      "bonus": "Top 27 17 PTS",
+      "points": 1.0
+    },
+    {
+      "player": "Robert Mizrachi",
+      "event": "Event #83: $1,500 PLO Double Board Bomb Pot (High Only)",
+      "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-83/",
+      "team": "Very Handsome Horses",
+      "rank": "56 / 251",
+      "chips": "156,000",
+      "bb": "31.2 BB",
+      "bonus": "Top 27 17 PTS",
+      "points": 1.0
+    },
+    {
+      "player": "Jon Turner",
+      "event": "Event #83: $1,500 PLO Double Board Bomb Pot (High Only)",
+      "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-83/",
+      "team": "Wasserson",
+      "rank": "70 / 251",
+      "chips": "130,000",
+      "bb": "26.0 BB",
+      "bonus": "Top 27 17 PTS",
+      "points": 1.0
+    },
+    {
+      "player": "Jesse Lonis",
+      "event": "Event #83: $1,500 PLO Double Board Bomb Pot (High Only)",
+      "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-83/",
+      "team": "Blades & Shades",
+      "rank": "74 / 251",
+      "chips": "127,000",
+      "bb": "25.4 BB",
+      "bonus": "Top 27 17 PTS",
+      "points": 1.0
+    },
+    {
+      "player": "Malcolm Trayner",
+      "event": "Event #83: $1,500 PLO Double Board Bomb Pot (High Only)",
+      "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-83/",
+      "team": "Trump Power",
+      "rank": "79 / 251",
+      "chips": "120,500",
+      "bb": "24.1 BB",
+      "bonus": "Top 27 17 PTS",
+      "points": 1.0
+    },
+    {
+      "player": "Justin Fawcett",
+      "event": "Event #83: $1,500 PLO Double Board Bomb Pot (High Only)",
+      "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-83/",
+      "team": "Premiums Only",
+      "rank": "87 / 251",
+      "chips": "114,000",
+      "bb": "22.8 BB",
+      "bonus": "Top 27 17 PTS",
+      "points": 1.0
+    },
+    {
+      "player": "Mike Matusow",
+      "event": "Event #83: $1,500 PLO Double Board Bomb Pot (High Only)",
+      "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-83/",
+      "team": "Noori",
+      "rank": "105 / 251",
+      "chips": "97,000",
+      "bb": "19.4 BB",
+      "bonus": "Top 27 17 PTS",
+      "points": 1.0
+    },
+    {
+      "player": "Yueqi Zhu",
+      "event": "Event #83: $1,500 PLO Double Board Bomb Pot (High Only)",
+      "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-83/",
+      "team": "Trump Power",
+      "rank": "107 / 251",
+      "chips": "94,000",
+      "bb": "18.8 BB",
+      "bonus": "Top 27 17 PTS",
+      "points": 1.0
+    },
+    {
+      "player": "Christian Harder",
+      "event": "Event #83: $1,500 PLO Double Board Bomb Pot (High Only)",
+      "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-83/",
+      "team": "Fleyshman",
+      "rank": "121 / 251",
+      "chips": "78,000",
+      "bb": "15.6 BB",
+      "bonus": "Top 27 17 PTS",
+      "points": 1.0
+    },
+    {
+      "player": "Ash Gupta",
+      "event": "Event #83: $1,500 PLO Double Board Bomb Pot (High Only)",
+      "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-83/",
+      "team": "Trump Power",
+      "rank": "123 / 251",
+      "chips": "74,400",
+      "bb": "14.9 BB",
+      "bonus": "Top 27 17 PTS",
+      "points": 1.0
+    },
+    {
+      "player": "David Tarbet",
+      "event": "Event #83: $1,500 PLO Double Board Bomb Pot (High Only)",
+      "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-83/",
+      "team": "2026 ODB Bonus Players",
+      "rank": "124 / 251",
+      "chips": "73,000",
+      "bb": "14.6 BB",
+      "bonus": "Top 27 17 PTS",
+      "points": 1.0
+    },
+    {
+      "player": "James Obst",
+      "event": "Event #83: $1,500 PLO Double Board Bomb Pot (High Only)",
+      "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-83/",
+      "team": "Glaser",
+      "rank": "130 / 251",
+      "chips": "69,500",
+      "bb": "13.9 BB",
+      "bonus": "Top 27 17 PTS",
+      "points": 1.0
+    },
+    {
+      "player": "Jeff Madsen",
+      "event": "Event #83: $1,500 PLO Double Board Bomb Pot (High Only)",
+      "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-83/",
+      "team": "Trump Power",
+      "rank": "133 / 251",
+      "chips": "68,500",
+      "bb": "13.7 BB",
+      "bonus": "Top 27 17 PTS",
+      "points": 1.0
+    },
+    {
+      "player": "Steve Zolotow",
+      "event": "Event #83: $1,500 PLO Double Board Bomb Pot (High Only)",
+      "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-83/",
+      "team": "2026 ODB Bonus Players",
+      "rank": "134 / 251",
+      "chips": "68,000",
+      "bb": "13.6 BB",
+      "bonus": "Top 27 17 PTS",
+      "points": 1.0
+    },
+    {
+      "player": "Jason Daly",
+      "event": "Event #83: $1,500 PLO Double Board Bomb Pot (High Only)",
+      "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-83/",
+      "team": "Back Office",
+      "rank": "137 / 251",
+      "chips": "67,000",
+      "bb": "13.4 BB",
+      "bonus": "Top 27 17 PTS",
+      "points": 1.0
+    },
+    {
+      "player": "Ryan Hoenig",
+      "event": "Event #83: $1,500 PLO Double Board Bomb Pot (High Only)",
+      "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-83/",
+      "team": "Premiums Only",
+      "rank": "140 / 251",
+      "chips": "65,000",
+      "bb": "13.0 BB",
+      "bonus": "Top 27 17 PTS",
+      "points": 1.0
+    },
+    {
+      "player": "Ari Engel",
+      "event": "Event #83: $1,500 PLO Double Board Bomb Pot (High Only)",
+      "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-83/",
+      "team": "Lang Gang",
+      "rank": "161 / 251",
+      "chips": "54,500",
+      "bb": "10.9 BB",
+      "bonus": "Top 27 17 PTS",
+      "points": 1.0
+    },
+    {
+      "player": "Anson Tsang",
+      "event": "Event #83: $1,500 PLO Double Board Bomb Pot (High Only)",
+      "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-83/",
+      "team": "Lady Gaga",
+      "rank": "162 / 251",
+      "chips": "53,500",
+      "bb": "10.7 BB",
+      "bonus": "Top 27 17 PTS",
+      "points": 1.0
+    },
+    {
+      "player": "Joao Simao Peres",
+      "event": "Event #83: $1,500 PLO Double Board Bomb Pot (High Only)",
+      "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-83/",
+      "team": "Very Handsome Horses",
+      "rank": "198 / 251",
+      "chips": "25,000",
+      "bb": "5.0 BB",
+      "bonus": "Top 27 17 PTS",
+      "points": 1.0
+    },
+    {
+      "player": "Josh Reichard",
+      "event": "Event #83: $1,500 PLO Double Board Bomb Pot (High Only)",
+      "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-83/",
+      "team": "Torching with TJ",
+      "rank": "198 / 251",
+      "chips": "25,000",
+      "bb": "5.0 BB",
+      "bonus": "Top 27 17 PTS",
+      "points": 1.0
+    },
+    {
+      "player": "Danny Wong",
+      "event": "Event #83: $1,500 PLO Double Board Bomb Pot (High Only)",
+      "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-83/",
+      "team": "Back Office",
+      "rank": "198 / 251",
+      "chips": "25,000",
+      "bb": "5.0 BB",
+      "bonus": "Top 27 17 PTS",
+      "points": 1.0
+    },
+    {
+      "player": "Michael Moncek",
+      "event": "Event #83: $1,500 PLO Double Board Bomb Pot (High Only)",
+      "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-83/",
+      "team": "Gators",
+      "rank": "198 / 251",
+      "chips": "25,000",
+      "bb": "5.0 BB",
+      "bonus": "Top 27 17 PTS",
+      "points": 1.0
+    },
+    {
+      "player": "Naoya Kihara",
+      "event": "Event #83: $1,500 PLO Double Board Bomb Pot (High Only)",
+      "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-83/",
+      "team": "Banana",
+      "rank": "198 / 251",
+      "chips": "25,000",
+      "bb": "5.0 BB",
+      "bonus": "Top 27 17 PTS",
+      "points": 1.0
+    },
+    {
+      "player": "Ray Fishman",
+      "event": "Event #83: $1,500 PLO Double Board Bomb Pot (High Only)",
+      "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-83/",
+      "team": "Browndog",
+      "rank": "198 / 251",
+      "chips": "25,000",
+      "bb": "5.0 BB",
+      "bonus": "Top 27 17 PTS",
+      "points": 1.0
+    },
+    {
+      "player": "Brandon Shack-Harris",
+      "event": "Event #83: $1,500 PLO Double Board Bomb Pot (High Only)",
+      "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-83/",
+      "team": "Glaser",
+      "rank": "248 / 251",
+      "chips": "14,200",
+      "bb": "2.8 BB",
+      "bonus": "Top 27 17 PTS",
+      "points": 1.0
     }
   ]
 }
