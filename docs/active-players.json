@@ -1,14 +1,14 @@
 {
-  "generatedAt": "2026-07-03T06:20:15.139273+00:00",
+  "generatedAt": "2026-07-03T06:30:18.081569+00:00",
   "league": "25k",
-  "count": 14,
+  "count": 13,
   "players": [
     {
       "player": "Danny Tang",
       "event": "Event #77: $2,500 Mixed Triple Draw Lowball(Limit)",
       "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-77/",
       "team": "Banana",
-      "rank": "1 / 3",
+      "rank": "1 / 2",
       "chips": "10,175,000",
       "bb": "20.4 BB",
       "bonus": "Locked 10 PTS",
@@ -19,20 +19,9 @@
       "event": "Event #77: $2,500 Mixed Triple Draw Lowball(Limit)",
       "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-77/",
       "team": "Glaser",
-      "rank": "2 / 3",
+      "rank": "2 / 2",
       "chips": "4,100,000",
       "bb": "8.2 BB",
-      "bonus": "Locked 10 PTS",
-      "points": 0.0
-    },
-    {
-      "player": "Mark Gregorich",
-      "event": "Event #77: $2,500 Mixed Triple Draw Lowball(Limit)",
-      "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-77/",
-      "team": "2026 ODB Bonus Players",
-      "rank": "3 / 3",
-      "chips": "3,500,000",
-      "bb": "7.0 BB",
       "bonus": "Locked 10 PTS",
       "points": 0.0
     },
