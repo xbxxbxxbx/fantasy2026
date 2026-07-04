@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-04T20:00:34.554557+00:00",
+  "generatedAt": "2026-07-04T20:10:18.290386+00:00",
   "league": "25k",
   "count": 10,
   "players": [
@@ -8,31 +8,9 @@
       "event": "Event #81: $800 Summer Celebration No-Limit Hold'em",
       "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-81/",
       "team": "Lucky",
-      "rank": "3 / 152",
-      "chips": "3,840,000",
-      "bb": "48.0 BB",
-      "bonus": "Top 72 69 PTS",
-      "points": 1.0
-    },
-    {
-      "player": "Michael Moncek",
-      "event": "Event #81: $800 Summer Celebration No-Limit Hold'em",
-      "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-81/",
-      "team": "Gators",
-      "rank": "39 / 152",
-      "chips": "1,410,000",
-      "bb": "17.6 BB",
-      "bonus": "Top 72 69 PTS",
-      "points": 1.0
-    },
-    {
-      "player": "Josh Arieh",
-      "event": "Event #81: $800 Summer Celebration No-Limit Hold'em",
-      "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-81/",
-      "team": "DNegs",
-      "rank": "49 / 152",
-      "chips": "1,295,000",
-      "bb": "16.2 BB",
+      "rank": "15 / 148",
+      "chips": "3,360,000",
+      "bb": "42.0 BB",
       "bonus": "Top 72 69 PTS",
       "points": 1.0
     },
@@ -41,9 +19,20 @@
       "event": "Event #81: $800 Summer Celebration No-Limit Hold'em",
       "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-81/",
       "team": "Browndog",
-      "rank": "100 / 152",
-      "chips": "730,000",
-      "bb": "9.1 BB",
+      "rank": "33 / 148",
+      "chips": "2,230,000",
+      "bb": "27.9 BB",
+      "bonus": "Top 72 69 PTS",
+      "points": 1.0
+    },
+    {
+      "player": "Michael Moncek",
+      "event": "Event #81: $800 Summer Celebration No-Limit Hold'em",
+      "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-81/",
+      "team": "Gators",
+      "rank": "74 / 148",
+      "chips": "1,410,000",
+      "bb": "17.6 BB",
       "bonus": "Top 72 69 PTS",
       "points": 1.0
     },
@@ -52,9 +41,20 @@
       "event": "Event #81: $800 Summer Celebration No-Limit Hold'em",
       "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-81/",
       "team": "Blades & Shades",
-      "rank": "104 / 152",
-      "chips": "700,000",
-      "bb": "8.8 BB",
+      "rank": "131 / 148",
+      "chips": "555,000",
+      "bb": "6.9 BB",
+      "bonus": "Top 72 69 PTS",
+      "points": 1.0
+    },
+    {
+      "player": "Josh Arieh",
+      "event": "Event #81: $800 Summer Celebration No-Limit Hold'em",
+      "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-81/",
+      "team": "DNegs",
+      "rank": "148 / 148",
+      "chips": "20,000",
+      "bb": "0.3 BB",
       "bonus": "Top 72 69 PTS",
       "points": 1.0
     },
@@ -63,33 +63,33 @@
       "event": "Event #83: $1,500 PLO Double Board Bomb Pot (High Only)",
       "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-83/",
       "team": "2026 ODB Bonus Players",
-      "rank": "1 / 19",
+      "rank": "1 / 18",
       "chips": "5,885,000",
       "bb": "98.1 BB",
       "bonus": "Locked 17 PTS",
-      "points": 0.0
+      "points": 21.0
     },
     {
       "player": "Jesse Lonis",
       "event": "Event #83: $1,500 PLO Double Board Bomb Pot (High Only)",
       "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-83/",
       "team": "Blades & Shades",
-      "rank": "4 / 19",
+      "rank": "4 / 18",
       "chips": "3,195,000",
       "bb": "53.3 BB",
       "bonus": "Locked 17 PTS",
-      "points": 0.0
+      "points": 21.0
     },
     {
       "player": "Justin Fawcett",
       "event": "Event #83: $1,500 PLO Double Board Bomb Pot (High Only)",
       "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-83/",
       "team": "Premiums Only",
-      "rank": "6 / 19",
+      "rank": "6 / 18",
       "chips": "2,965,000",
       "bb": "49.4 BB",
       "bonus": "Locked 17 PTS",
-      "points": 0.0
+      "points": 21.0
     },
     {
       "player": "Myles Mullaly",
