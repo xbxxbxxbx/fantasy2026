@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-04T04:58:39.757514+00:00",
+  "generatedAt": "2026-07-04T05:00:16.555384+00:00",
   "leagueName": "WSOP Poker Fantasy Draft 2026",
   "sourceLabel": "25KFantasy",
   "sourceUrl": "https://www.25kfantasy.com/players/",
@@ -156,7 +156,7 @@
         },
         {
           "player": "Andrew Ostapchenko",
-          "points": 49.0
+          "points": 51.0
         },
         {
           "player": "Eric Wasserson",
@@ -171,9 +171,9 @@
           "points": 0.0
         }
       ],
-      "totalPoints": 601.0,
-      "pointsChange": 51.0,
-      "pointsChangeSincePrevious": 0.0
+      "totalPoints": 603.0,
+      "pointsChange": 53.0,
+      "pointsChangeSincePrevious": 2.0
     },
     {
       "managerName": "Ruben",
@@ -312,7 +312,7 @@
         },
         {
           "player": "John Racener",
-          "points": 94.0
+          "points": 96.0
         },
         {
           "player": "Scott Seiver",
@@ -328,7 +328,7 @@
         },
         {
           "player": "Erik Seidel",
-          "points": 22.0
+          "points": 24.0
         },
         {
           "player": "Ben Lamb",
@@ -339,9 +339,9 @@
           "points": 0.0
         }
       ],
-      "totalPoints": 363.0,
-      "pointsChange": 0.0,
-      "pointsChangeSincePrevious": 0.0
+      "totalPoints": 367.0,
+      "pointsChange": 4.0,
+      "pointsChangeSincePrevious": 4.0
     },
     {
       "managerName": "Trampstamp",
@@ -362,7 +362,7 @@
         },
         {
           "player": "Andrew Ostapchenko",
-          "points": 49.0
+          "points": 51.0
         },
         {
           "player": "Viktor Blom",
@@ -381,9 +381,9 @@
           "points": 0.0
         }
       ],
-      "totalPoints": 313.0,
-      "pointsChange": 0.0,
-      "pointsChangeSincePrevious": 0.0
+      "totalPoints": 315.0,
+      "pointsChange": 2.0,
+      "pointsChangeSincePrevious": 2.0
     }
   ],
   "failures": []
