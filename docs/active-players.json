@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-04T19:00:29.531046+00:00",
+  "generatedAt": "2026-07-04T19:10:20.586374+00:00",
   "league": "25k",
   "count": 10,
   "players": [
@@ -8,9 +8,9 @@
       "event": "Event #81: $800 Summer Celebration No-Limit Hold'em",
       "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-81/",
       "team": "Lucky",
-      "rank": "7 / 222",
+      "rank": "7 / 207",
       "chips": "2,700,000",
-      "bb": "54.0 BB",
+      "bb": "45.0 BB",
       "bonus": "Top 72 69 PTS",
       "points": 1.0
     },
@@ -19,9 +19,9 @@
       "event": "Event #81: $800 Summer Celebration No-Limit Hold'em",
       "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-81/",
       "team": "Gators",
-      "rank": "36 / 222",
+      "rank": "36 / 207",
       "chips": "1,410,000",
-      "bb": "28.2 BB",
+      "bb": "23.5 BB",
       "bonus": "Top 72 69 PTS",
       "points": 1.0
     },
@@ -30,9 +30,9 @@
       "event": "Event #81: $800 Summer Celebration No-Limit Hold'em",
       "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-81/",
       "team": "DNegs",
-      "rank": "49 / 222",
+      "rank": "49 / 207",
       "chips": "1,295,000",
-      "bb": "25.9 BB",
+      "bb": "21.6 BB",
       "bonus": "Top 72 69 PTS",
       "points": 1.0
     },
@@ -41,9 +41,9 @@
       "event": "Event #81: $800 Summer Celebration No-Limit Hold'em",
       "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-81/",
       "team": "Browndog",
-      "rank": "136 / 222",
+      "rank": "131 / 207",
       "chips": "730,000",
-      "bb": "14.6 BB",
+      "bb": "12.2 BB",
       "bonus": "Top 72 69 PTS",
       "points": 1.0
     },
@@ -52,9 +52,9 @@
       "event": "Event #81: $800 Summer Celebration No-Limit Hold'em",
       "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-81/",
       "team": "Blades & Shades",
-      "rank": "141 / 222",
+      "rank": "136 / 207",
       "chips": "700,000",
-      "bb": "14.0 BB",
+      "bb": "11.7 BB",
       "bonus": "Top 72 69 PTS",
       "points": 1.0
     },
@@ -65,7 +65,7 @@
       "team": "2026 ODB Bonus Players",
       "rank": "1 / 19",
       "chips": "5,885,000",
-      "bb": "117.7 BB",
+      "bb": "98.1 BB",
       "bonus": "Locked 17 PTS",
       "points": 0.0
     },
@@ -76,7 +76,7 @@
       "team": "Blades & Shades",
       "rank": "4 / 19",
       "chips": "3,195,000",
-      "bb": "63.9 BB",
+      "bb": "53.3 BB",
       "bonus": "Locked 17 PTS",
       "points": 0.0
     },
@@ -87,7 +87,7 @@
       "team": "Premiums Only",
       "rank": "6 / 19",
       "chips": "2,965,000",
-      "bb": "59.3 BB",
+      "bb": "49.4 BB",
       "bonus": "Locked 17 PTS",
       "points": 0.0
     },
