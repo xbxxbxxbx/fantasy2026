@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-04T00:30:21.182793+00:00",
+  "generatedAt": "2026-07-04T00:40:17.835215+00:00",
   "league": "25k",
   "count": 14,
   "players": [
@@ -48,13 +48,24 @@
       "points": 0.0
     },
     {
+      "player": "Justin Fawcett",
+      "event": "Event #83: $1,500 PLO Double Board Bomb Pot (High Only)",
+      "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-83/",
+      "team": "Premiums Only",
+      "rank": "1 / 68",
+      "chips": "1,555,000",
+      "bb": "103.7 BB",
+      "bonus": "Top 27 17 PTS",
+      "points": 1.0
+    },
+    {
       "player": "Jon Turner",
       "event": "Event #83: $1,500 PLO Double Board Bomb Pot (High Only)",
       "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-83/",
       "team": "Wasserson",
-      "rank": "1 / 70",
+      "rank": "2 / 68",
       "chips": "1,520,000",
-      "bb": "126.7 BB",
+      "bb": "101.3 BB",
       "bonus": "Top 27 17 PTS",
       "points": 1.0
     },
@@ -63,9 +74,9 @@
       "event": "Event #83: $1,500 PLO Double Board Bomb Pot (High Only)",
       "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-83/",
       "team": "Blades & Shades",
-      "rank": "2 / 70",
+      "rank": "3 / 68",
       "chips": "1,275,000",
-      "bb": "106.3 BB",
+      "bb": "85.0 BB",
       "bonus": "Top 27 17 PTS",
       "points": 1.0
     },
@@ -74,20 +85,9 @@
       "event": "Event #83: $1,500 PLO Double Board Bomb Pot (High Only)",
       "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-83/",
       "team": "2026 ODB Bonus Players",
-      "rank": "6 / 70",
+      "rank": "7 / 68",
       "chips": "1,200,000",
-      "bb": "100.0 BB",
-      "bonus": "Top 27 17 PTS",
-      "points": 1.0
-    },
-    {
-      "player": "Justin Fawcett",
-      "event": "Event #83: $1,500 PLO Double Board Bomb Pot (High Only)",
-      "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-83/",
-      "team": "Premiums Only",
-      "rank": "8 / 70",
-      "chips": "1,195,000",
-      "bb": "99.6 BB",
+      "bb": "80.0 BB",
       "bonus": "Top 27 17 PTS",
       "points": 1.0
     },
@@ -96,9 +96,9 @@
       "event": "Event #83: $1,500 PLO Double Board Bomb Pot (High Only)",
       "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-83/",
       "team": "Lady Gaga",
-      "rank": "9 / 70",
+      "rank": "9 / 68",
       "chips": "1,085,000",
-      "bb": "90.4 BB",
+      "bb": "72.3 BB",
       "bonus": "Top 27 17 PTS",
       "points": 1.0
     },
@@ -107,9 +107,9 @@
       "event": "Event #83: $1,500 PLO Double Board Bomb Pot (High Only)",
       "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-83/",
       "team": "Back Office",
-      "rank": "12 / 70",
+      "rank": "12 / 68",
       "chips": "1,000,000",
-      "bb": "83.3 BB",
+      "bb": "66.7 BB",
       "bonus": "Top 27 17 PTS",
       "points": 1.0
     },
@@ -118,9 +118,9 @@
       "event": "Event #83: $1,500 PLO Double Board Bomb Pot (High Only)",
       "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-83/",
       "team": "Browndog",
-      "rank": "39 / 70",
+      "rank": "39 / 68",
       "chips": "435,000",
-      "bb": "36.3 BB",
+      "bb": "29.0 BB",
       "bonus": "Top 27 17 PTS",
       "points": 1.0
     },
@@ -129,9 +129,9 @@
       "event": "Event #83: $1,500 PLO Double Board Bomb Pot (High Only)",
       "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-83/",
       "team": "Verderamo",
-      "rank": "47 / 70",
+      "rank": "46 / 68",
       "chips": "380,000",
-      "bb": "31.7 BB",
+      "bb": "25.3 BB",
       "bonus": "Top 27 17 PTS",
       "points": 1.0
     },
@@ -140,9 +140,9 @@
       "event": "Event #83: $1,500 PLO Double Board Bomb Pot (High Only)",
       "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-83/",
       "team": "Trump Power",
-      "rank": "51 / 70",
+      "rank": "50 / 68",
       "chips": "345,000",
-      "bb": "28.8 BB",
+      "bb": "23.0 BB",
       "bonus": "Top 27 17 PTS",
       "points": 1.0
     },
@@ -151,9 +151,9 @@
       "event": "Event #83: $1,500 PLO Double Board Bomb Pot (High Only)",
       "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-83/",
       "team": "Very Handsome Horses",
-      "rank": "53 / 70",
+      "rank": "52 / 68",
       "chips": "285,000",
-      "bb": "23.8 BB",
+      "bb": "19.0 BB",
       "bonus": "Top 27 17 PTS",
       "points": 1.0
     }
