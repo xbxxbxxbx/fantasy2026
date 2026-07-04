@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-04T09:50:16.458278+00:00",
+  "generatedAt": "2026-07-04T10:00:22.324544+00:00",
   "league": "25k",
   "count": 5,
   "players": [
@@ -41,9 +41,9 @@
       "event": "Event #84: $5,000 Super Turbo Bounty No-Limit Hold'em",
       "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-84/",
       "team": "2026 ODB Bonus Players",
-      "rank": "4 / 9",
-      "chips": "6,345,000",
-      "bb": "15.9 BB",
+      "rank": "4 / 8",
+      "chips": "6,900,000",
+      "bb": "17.3 BB",
       "bonus": "Locked 14 PTS",
       "points": 0.0
     },
@@ -52,9 +52,9 @@
       "event": "Event #84: $5,000 Super Turbo Bounty No-Limit Hold'em",
       "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-84/",
       "team": "Fleyshman",
-      "rank": "9 / 9",
-      "chips": "850,000",
-      "bb": "2.1 BB",
+      "rank": "6 / 8",
+      "chips": "2,750,000",
+      "bb": "6.9 BB",
       "bonus": "Locked 14 PTS",
       "points": 0.0
     }
