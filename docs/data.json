@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-04T05:30:18.575411+00:00",
+  "generatedAt": "2026-07-04T05:40:13.852660+00:00",
   "leagueName": "WSOP Poker Fantasy Draft 2026",
   "sourceLabel": "25KFantasy",
   "sourceUrl": "https://www.25kfantasy.com/players/",
@@ -26,7 +26,7 @@
         },
         {
           "player": "Kristen Foxen",
-          "points": 135.0
+          "points": 137.0
         },
         {
           "player": "Mike Leah",
@@ -45,9 +45,9 @@
           "points": 20.0
         }
       ],
-      "totalPoints": 948.0,
-      "pointsChange": 11.0,
-      "pointsChangeSincePrevious": 0.0
+      "totalPoints": 950.0,
+      "pointsChange": 13.0,
+      "pointsChangeSincePrevious": 2.0
     },
     {
       "managerName": "ASG",
