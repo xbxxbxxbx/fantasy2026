@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-04T23:10:20.639630+00:00",
+  "generatedAt": "2026-07-04T23:20:21.662283+00:00",
   "leagueName": "WSOP Poker Fantasy Draft 2026",
   "sourceLabel": "25KFantasy",
   "sourceUrl": "https://www.25kfantasy.com/players/",
@@ -269,6 +269,10 @@
           "points": 198.0
         },
         {
+          "player": "Allan Le",
+          "points": 95.0
+        },
+        {
           "player": "Jerry Wong",
           "points": 80.0
         },
@@ -279,10 +283,6 @@
         {
           "player": "Matt Glantz",
           "points": 35.0
-        },
-        {
-          "player": "Allan Le",
-          "points": 26.0
         },
         {
           "player": "Phillip Hui",
@@ -297,9 +297,9 @@
           "points": 10.0
         }
       ],
-      "totalPoints": 471.0,
-      "pointsChange": 0.0,
-      "pointsChangeSincePrevious": 0.0
+      "totalPoints": 540.0,
+      "pointsChange": 69.0,
+      "pointsChangeSincePrevious": 69.0
     },
     {
       "managerName": "Turbo",
