@@ -1,49 +1,49 @@
 {
-  "generatedAt": "2026-07-04T07:30:19.116567+00:00",
+  "generatedAt": "2026-07-04T07:40:13.785314+00:00",
   "league": "25k",
   "count": 9,
   "players": [
-    {
-      "player": "Justin Fawcett",
-      "event": "Event #83: $1,500 PLO Double Board Bomb Pot (High Only)",
-      "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-83/",
-      "team": "Premiums Only",
-      "rank": "3 / 20",
-      "chips": "3,815,000",
-      "bb": "76.3 BB",
-      "bonus": "Locked 17 PTS",
-      "points": 17.0
-    },
     {
       "player": "Jesse Lonis",
       "event": "Event #83: $1,500 PLO Double Board Bomb Pot (High Only)",
       "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-83/",
       "team": "Blades & Shades",
-      "rank": "4 / 20",
+      "rank": "3 / 19",
       "chips": "3,360,000",
       "bb": "67.2 BB",
       "bonus": "Locked 17 PTS",
-      "points": 17.0
+      "points": 0.0
+    },
+    {
+      "player": "Justin Fawcett",
+      "event": "Event #83: $1,500 PLO Double Board Bomb Pot (High Only)",
+      "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-83/",
+      "team": "Premiums Only",
+      "rank": "4 / 19",
+      "chips": "3,315,000",
+      "bb": "66.3 BB",
+      "bonus": "Locked 17 PTS",
+      "points": 0.0
     },
     {
       "player": "Paul Fehlig",
       "event": "Event #83: $1,500 PLO Double Board Bomb Pot (High Only)",
       "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-83/",
       "team": "2026 ODB Bonus Players",
-      "rank": "6 / 20",
+      "rank": "6 / 19",
       "chips": "2,735,000",
       "bb": "54.7 BB",
       "bonus": "Locked 17 PTS",
-      "points": 17.0
+      "points": 0.0
     },
     {
       "player": "Nick Pupillo",
       "event": "Event #84: $5,000 Super Turbo Bounty No-Limit Hold'em",
       "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-84/",
       "team": "DNegs",
-      "rank": "10 / 32",
+      "rank": "10 / 29",
       "chips": "1,700,000",
-      "bb": "17.0 BB",
+      "bb": "14.2 BB",
       "bonus": "Top 27 14 PTS",
       "points": 2.0
     },
@@ -52,9 +52,9 @@
       "event": "Event #84: $5,000 Super Turbo Bounty No-Limit Hold'em",
       "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-84/",
       "team": "Banana",
-      "rank": "14 / 32",
+      "rank": "14 / 29",
       "chips": "1,330,000",
-      "bb": "13.3 BB",
+      "bb": "11.1 BB",
       "bonus": "Top 27 14 PTS",
       "points": 2.0
     },
@@ -63,9 +63,9 @@
       "event": "Event #84: $5,000 Super Turbo Bounty No-Limit Hold'em",
       "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-84/",
       "team": "2026 ODB Bonus Players",
-      "rank": "16 / 32",
+      "rank": "16 / 29",
       "chips": "1,075,000",
-      "bb": "10.8 BB",
+      "bb": "9.0 BB",
       "bonus": "Top 27 14 PTS",
       "points": 2.0
     },
@@ -74,9 +74,9 @@
       "event": "Event #84: $5,000 Super Turbo Bounty No-Limit Hold'em",
       "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-84/",
       "team": "Fleyshman",
-      "rank": "17 / 32",
+      "rank": "17 / 29",
       "chips": "1,070,000",
-      "bb": "10.7 BB",
+      "bb": "8.9 BB",
       "bonus": "Top 27 14 PTS",
       "points": 2.0
     },
@@ -85,9 +85,9 @@
       "event": "Event #84: $5,000 Super Turbo Bounty No-Limit Hold'em",
       "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-84/",
       "team": "Noori",
-      "rank": "19 / 32",
+      "rank": "19 / 29",
       "chips": "1,010,000",
-      "bb": "10.1 BB",
+      "bb": "8.4 BB",
       "bonus": "Top 27 14 PTS",
       "points": 2.0
     },
@@ -96,9 +96,9 @@
       "event": "Event #84: $5,000 Super Turbo Bounty No-Limit Hold'em",
       "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-84/",
       "team": "2026 ODB Bonus Players",
-      "rank": "31 / 32",
+      "rank": "28 / 29",
       "chips": "50,000",
-      "bb": "0.5 BB",
+      "bb": "0.4 BB",
       "bonus": "Top 27 14 PTS",
       "points": 2.0
     }
