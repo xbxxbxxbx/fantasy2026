@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-04T08:10:16.086280+00:00",
+  "generatedAt": "2026-07-04T08:20:14.186529+00:00",
   "league": "25k",
   "count": 8,
   "players": [
@@ -41,9 +41,9 @@
       "event": "Event #84: $5,000 Super Turbo Bounty No-Limit Hold'em",
       "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-84/",
       "team": "Banana",
-      "rank": "2 / 22",
+      "rank": "2 / 21",
       "chips": "4,040,000",
-      "bb": "26.9 BB",
+      "bb": "20.2 BB",
       "bonus": "Locked 14 PTS",
       "points": 14.0
     },
@@ -52,9 +52,9 @@
       "event": "Event #84: $5,000 Super Turbo Bounty No-Limit Hold'em",
       "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-84/",
       "team": "DNegs",
-      "rank": "11 / 22",
+      "rank": "9 / 21",
       "chips": "1,700,000",
-      "bb": "11.3 BB",
+      "bb": "8.5 BB",
       "bonus": "Locked 14 PTS",
       "points": 14.0
     },
@@ -63,9 +63,9 @@
       "event": "Event #84: $5,000 Super Turbo Bounty No-Limit Hold'em",
       "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-84/",
       "team": "2026 ODB Bonus Players",
-      "rank": "15 / 22",
+      "rank": "13 / 21",
       "chips": "1,075,000",
-      "bb": "7.2 BB",
+      "bb": "5.4 BB",
       "bonus": "Locked 14 PTS",
       "points": 14.0
     },
@@ -74,9 +74,9 @@
       "event": "Event #84: $5,000 Super Turbo Bounty No-Limit Hold'em",
       "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-84/",
       "team": "Fleyshman",
-      "rank": "16 / 22",
+      "rank": "14 / 21",
       "chips": "1,070,000",
-      "bb": "7.1 BB",
+      "bb": "5.4 BB",
       "bonus": "Locked 14 PTS",
       "points": 14.0
     },
@@ -85,7 +85,7 @@
       "event": "Event #84: $5,000 Super Turbo Bounty No-Limit Hold'em",
       "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-84/",
       "team": "2026 ODB Bonus Players",
-      "rank": "22 / 22",
+      "rank": "21 / 21",
       "chips": "50,000",
       "bb": "0.3 BB",
       "bonus": "Locked 14 PTS",
