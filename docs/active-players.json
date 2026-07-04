@@ -1,16 +1,16 @@
 {
-  "generatedAt": "2026-07-04T17:50:18.389811+00:00",
+  "generatedAt": "2026-07-04T18:00:31.425128+00:00",
   "league": "25k",
-  "count": 8,
+  "count": 10,
   "players": [
     {
       "player": "Andreas Froehli",
       "event": "Event #81: $800 Summer Celebration No-Limit Hold'em",
       "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-81/",
       "team": "Lucky",
-      "rank": "11 / 217",
+      "rank": "22 / 341",
       "chips": "1,440,000",
-      "bb": "48.0 BB",
+      "bb": "36.0 BB",
       "bonus": "Top 72 69 PTS",
       "points": 1.0
     },
@@ -19,9 +19,31 @@
       "event": "Event #81: $800 Summer Celebration No-Limit Hold'em",
       "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-81/",
       "team": "Gators",
-      "rank": "16 / 217",
+      "rank": "30 / 341",
       "chips": "1,410,000",
-      "bb": "47.0 BB",
+      "bb": "35.3 BB",
+      "bonus": "Top 72 69 PTS",
+      "points": 1.0
+    },
+    {
+      "player": "Josh Arieh",
+      "event": "Event #81: $800 Summer Celebration No-Limit Hold'em",
+      "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-81/",
+      "team": "DNegs",
+      "rank": "42 / 341",
+      "chips": "1,295,000",
+      "bb": "32.4 BB",
+      "bonus": "Top 72 69 PTS",
+      "points": 1.0
+    },
+    {
+      "player": "Matthew Beinner",
+      "event": "Event #81: $800 Summer Celebration No-Limit Hold'em",
+      "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-81/",
+      "team": "Browndog",
+      "rank": "155 / 341",
+      "chips": "730,000",
+      "bb": "18.3 BB",
       "bonus": "Top 72 69 PTS",
       "points": 1.0
     },
@@ -30,9 +52,9 @@
       "event": "Event #81: $800 Summer Celebration No-Limit Hold'em",
       "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-81/",
       "team": "Blades & Shades",
-      "rank": "98 / 217",
+      "rank": "164 / 341",
       "chips": "700,000",
-      "bb": "23.3 BB",
+      "bb": "17.5 BB",
       "bonus": "Top 72 69 PTS",
       "points": 1.0
     },
