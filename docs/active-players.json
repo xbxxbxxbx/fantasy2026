@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-07-04T09:30:21.400621+00:00",
+  "generatedAt": "2026-07-04T09:40:14.840381+00:00",
   "league": "25k",
-  "count": 6,
+  "count": 5,
   "players": [
     {
       "player": "Paul Fehlig",
@@ -41,20 +41,9 @@
       "event": "Event #84: $5,000 Super Turbo Bounty No-Limit Hold'em",
       "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-84/",
       "team": "2026 ODB Bonus Players",
-      "rank": "4 / 10",
+      "rank": "4 / 9",
       "chips": "6,345,000",
-      "bb": "21.2 BB",
-      "bonus": "Locked 14 PTS",
-      "points": 0.0
-    },
-    {
-      "player": "Naoya Kihara",
-      "event": "Event #84: $5,000 Super Turbo Bounty No-Limit Hold'em",
-      "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-84/",
-      "team": "Banana",
-      "rank": "5 / 10",
-      "chips": "4,800,000",
-      "bb": "16.0 BB",
+      "bb": "15.9 BB",
       "bonus": "Locked 14 PTS",
       "points": 0.0
     },
@@ -63,9 +52,9 @@
       "event": "Event #84: $5,000 Super Turbo Bounty No-Limit Hold'em",
       "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-84/",
       "team": "Fleyshman",
-      "rank": "10 / 10",
+      "rank": "9 / 9",
       "chips": "850,000",
-      "bb": "2.8 BB",
+      "bb": "2.1 BB",
       "bonus": "Locked 14 PTS",
       "points": 0.0
     }
