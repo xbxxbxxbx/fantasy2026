@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-04T21:50:22.010627+00:00",
+  "generatedAt": "2026-07-04T22:00:28.352380+00:00",
   "league": "25k",
   "count": 8,
   "players": [
@@ -8,33 +8,33 @@
       "event": "Event #81: $800 Summer Celebration No-Limit Hold'em",
       "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-81/",
       "team": "Gators",
-      "rank": "9 / 77",
+      "rank": "10 / 72",
       "chips": "4,165,000",
       "bb": "20.8 BB",
-      "bonus": "Top 72 69 PTS",
-      "points": 1.0
+      "bonus": "Locked 69 PTS",
+      "points": 69.0
     },
     {
       "player": "Andreas Froehli",
       "event": "Event #81: $800 Summer Celebration No-Limit Hold'em",
       "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-81/",
       "team": "Lucky",
-      "rank": "14 / 77",
+      "rank": "15 / 72",
       "chips": "3,840,000",
       "bb": "19.2 BB",
-      "bonus": "Top 72 69 PTS",
-      "points": 1.0
+      "bonus": "Locked 69 PTS",
+      "points": 69.0
     },
     {
       "player": "Allan Le",
       "event": "Event #81: $800 Summer Celebration No-Limit Hold'em",
       "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-81/",
       "team": "Blades & Shades",
-      "rank": "76 / 77",
+      "rank": "71 / 72",
       "chips": "555,000",
       "bb": "2.8 BB",
-      "bonus": "Top 72 69 PTS",
-      "points": 1.0
+      "bonus": "Locked 69 PTS",
+      "points": 69.0
     },
     {
       "player": "Paul Fehlig",
@@ -63,9 +63,9 @@
       "event": "Event #83: $1,500 PLO Double Board Bomb Pot (High Only)",
       "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-83/",
       "team": "Premiums Only",
-      "rank": "16 / 16",
-      "chips": "255,000",
-      "bb": "3.2 BB",
+      "rank": "15 / 16",
+      "chips": "750,000",
+      "bb": "9.4 BB",
       "bonus": "Locked 17 PTS",
       "points": 21.0
     },
