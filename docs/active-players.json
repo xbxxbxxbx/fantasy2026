@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-04T03:40:12.726605+00:00",
+  "generatedAt": "2026-07-04T03:50:15.177405+00:00",
   "league": "25k",
   "count": 9,
   "players": [
@@ -70,6 +70,17 @@
       "points": 1.0
     },
     {
+      "player": "Jun Weng",
+      "event": "Event #83: $1,500 PLO Double Board Bomb Pot (High Only)",
+      "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-83/",
+      "team": "Lady Gaga",
+      "rank": "14 / 38",
+      "chips": "1,150,000",
+      "bb": "46.0 BB",
+      "bonus": "Top 27 17 PTS",
+      "points": 1.0
+    },
+    {
       "player": "Jesse Lonis",
       "event": "Event #83: $1,500 PLO Double Board Bomb Pot (High Only)",
       "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-83/",
@@ -77,17 +88,6 @@
       "rank": "21 / 38",
       "chips": "1,000,000",
       "bb": "40.0 BB",
-      "bonus": "Top 27 17 PTS",
-      "points": 1.0
-    },
-    {
-      "player": "Jun Weng",
-      "event": "Event #83: $1,500 PLO Double Board Bomb Pot (High Only)",
-      "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-83/",
-      "team": "Lady Gaga",
-      "rank": "23 / 38",
-      "chips": "870,000",
-      "bb": "34.8 BB",
       "bonus": "Top 27 17 PTS",
       "points": 1.0
     },
