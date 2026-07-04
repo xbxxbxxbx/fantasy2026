@@ -1,27 +1,16 @@
 {
-  "generatedAt": "2026-07-04T03:10:15.048939+00:00",
+  "generatedAt": "2026-07-04T03:20:14.413258+00:00",
   "league": "25k",
-  "count": 10,
+  "count": 9,
   "players": [
     {
       "player": "Alex Foxen",
       "event": "Event #80: $10,000 8-Game Mixed Championship",
       "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-80/",
       "team": "Lady Gaga",
-      "rank": "2 / 6",
+      "rank": "2 / 5",
       "chips": "3,695,000",
       "bb": "92.4 BB",
-      "bonus": "Locked 11 PTS",
-      "points": 0.0
-    },
-    {
-      "player": "Matt Vengrin",
-      "event": "Event #80: $10,000 8-Game Mixed Championship",
-      "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-80/",
-      "team": "Glue Factory",
-      "rank": "4 / 6",
-      "chips": "600,000",
-      "bb": "15.0 BB",
       "bonus": "Locked 11 PTS",
       "points": 0.0
     },
@@ -30,7 +19,7 @@
       "event": "Event #80: $10,000 8-Game Mixed Championship",
       "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-80/",
       "team": "Stake Kings",
-      "rank": "5 / 6",
+      "rank": "4 / 5",
       "chips": "575,000",
       "bb": "14.4 BB",
       "bonus": "Locked 11 PTS",
