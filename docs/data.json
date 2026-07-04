@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-04T18:11:42.604676+00:00",
+  "generatedAt": "2026-07-04T18:20:19.347328+00:00",
   "leagueName": "WSOP Poker Fantasy Draft 2026",
   "sourceLabel": "25KFantasy",
   "sourceUrl": "https://www.25kfantasy.com/players/",
@@ -118,7 +118,7 @@
         },
         {
           "player": "Ari Engel",
-          "points": 30.0
+          "points": 31.0
         },
         {
           "player": "Ben Yu",
@@ -129,9 +129,9 @@
           "points": 9.0
         }
       ],
-      "totalPoints": 669.0,
-      "pointsChange": 0.0,
-      "pointsChangeSincePrevious": 0.0
+      "totalPoints": 670.0,
+      "pointsChange": 1.0,
+      "pointsChangeSincePrevious": 1.0
     },
     {
       "managerName": "Doinky",
