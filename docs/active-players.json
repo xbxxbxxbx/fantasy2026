@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-04T21:40:55.386581+00:00",
+  "generatedAt": "2026-07-04T21:50:22.010627+00:00",
   "league": "25k",
   "count": 8,
   "players": [
@@ -8,9 +8,9 @@
       "event": "Event #81: $800 Summer Celebration No-Limit Hold'em",
       "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-81/",
       "team": "Gators",
-      "rank": "8 / 82",
+      "rank": "9 / 77",
       "chips": "4,165,000",
-      "bb": "27.8 BB",
+      "bb": "20.8 BB",
       "bonus": "Top 72 69 PTS",
       "points": 1.0
     },
@@ -19,9 +19,9 @@
       "event": "Event #81: $800 Summer Celebration No-Limit Hold'em",
       "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-81/",
       "team": "Lucky",
-      "rank": "14 / 82",
+      "rank": "14 / 77",
       "chips": "3,840,000",
-      "bb": "25.6 BB",
+      "bb": "19.2 BB",
       "bonus": "Top 72 69 PTS",
       "points": 1.0
     },
@@ -30,9 +30,9 @@
       "event": "Event #81: $800 Summer Celebration No-Limit Hold'em",
       "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-81/",
       "team": "Blades & Shades",
-      "rank": "81 / 82",
+      "rank": "76 / 77",
       "chips": "555,000",
-      "bb": "3.7 BB",
+      "bb": "2.8 BB",
       "bonus": "Top 72 69 PTS",
       "points": 1.0
     },
@@ -41,7 +41,7 @@
       "event": "Event #83: $1,500 PLO Double Board Bomb Pot (High Only)",
       "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-83/",
       "team": "2026 ODB Bonus Players",
-      "rank": "1 / 16",
+      "rank": "2 / 16",
       "chips": "5,885,000",
       "bb": "73.6 BB",
       "bonus": "Locked 17 PTS",
