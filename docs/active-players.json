@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-04T18:30:30.880188+00:00",
+  "generatedAt": "2026-07-04T18:40:20.685076+00:00",
   "league": "25k",
   "count": 10,
   "players": [
@@ -8,9 +8,9 @@
       "event": "Event #81: $800 Summer Celebration No-Limit Hold'em",
       "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-81/",
       "team": "Lucky",
-      "rank": "26 / 280",
+      "rank": "26 / 262",
       "chips": "1,440,000",
-      "bb": "36.0 BB",
+      "bb": "28.8 BB",
       "bonus": "Top 72 69 PTS",
       "points": 1.0
     },
@@ -19,9 +19,9 @@
       "event": "Event #81: $800 Summer Celebration No-Limit Hold'em",
       "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-81/",
       "team": "Gators",
-      "rank": "34 / 280",
+      "rank": "33 / 262",
       "chips": "1,410,000",
-      "bb": "35.3 BB",
+      "bb": "28.2 BB",
       "bonus": "Top 72 69 PTS",
       "points": 1.0
     },
@@ -30,9 +30,9 @@
       "event": "Event #81: $800 Summer Celebration No-Limit Hold'em",
       "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-81/",
       "team": "DNegs",
-      "rank": "47 / 280",
+      "rank": "47 / 262",
       "chips": "1,295,000",
-      "bb": "32.4 BB",
+      "bb": "25.9 BB",
       "bonus": "Top 72 69 PTS",
       "points": 1.0
     },
@@ -41,9 +41,9 @@
       "event": "Event #81: $800 Summer Celebration No-Limit Hold'em",
       "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-81/",
       "team": "Browndog",
-      "rank": "155 / 280",
+      "rank": "157 / 262",
       "chips": "730,000",
-      "bb": "18.3 BB",
+      "bb": "14.6 BB",
       "bonus": "Top 72 69 PTS",
       "points": 1.0
     },
@@ -52,9 +52,9 @@
       "event": "Event #81: $800 Summer Celebration No-Limit Hold'em",
       "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-81/",
       "team": "Blades & Shades",
-      "rank": "161 / 280",
+      "rank": "163 / 262",
       "chips": "700,000",
-      "bb": "17.5 BB",
+      "bb": "14.0 BB",
       "bonus": "Top 72 69 PTS",
       "points": 1.0
     },
