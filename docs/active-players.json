@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-07-04T05:50:15.021786+00:00",
+  "generatedAt": "2026-07-04T06:00:19.490267+00:00",
   "league": "25k",
-  "count": 13,
+  "count": 12,
   "players": [
     {
       "player": "Justin Fawcett",
@@ -41,9 +41,9 @@
       "event": "Event #83: $1,500 PLO Double Board Bomb Pot (High Only)",
       "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-83/",
       "team": "Lady Gaga",
-      "rank": "17 / 28",
-      "chips": "945,000",
-      "bb": "23.6 BB",
+      "rank": "14 / 28",
+      "chips": "1,200,000",
+      "bb": "30.0 BB",
       "bonus": "Top 27 17 PTS",
       "points": 0.0
     },
@@ -63,9 +63,9 @@
       "event": "Event #84: $5,000 Super Turbo Bounty No-Limit Hold'em",
       "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-84/",
       "team": "Banana",
-      "rank": "2 / 72",
+      "rank": "2 / 66",
       "chips": "1,235,000",
-      "bb": "30.9 BB",
+      "bb": "24.7 BB",
       "bonus": "Top 27 14 PTS",
       "points": 2.0
     },
@@ -74,9 +74,9 @@
       "event": "Event #84: $5,000 Super Turbo Bounty No-Limit Hold'em",
       "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-84/",
       "team": "DNegs",
-      "rank": "4 / 72",
+      "rank": "4 / 66",
       "chips": "1,210,000",
-      "bb": "30.3 BB",
+      "bb": "24.2 BB",
       "bonus": "Top 27 14 PTS",
       "points": 2.0
     },
@@ -85,9 +85,9 @@
       "event": "Event #84: $5,000 Super Turbo Bounty No-Limit Hold'em",
       "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-84/",
       "team": "Back Office",
-      "rank": "16 / 72",
+      "rank": "17 / 66",
       "chips": "470,000",
-      "bb": "11.8 BB",
+      "bb": "9.4 BB",
       "bonus": "Top 27 14 PTS",
       "points": 2.0
     },
@@ -96,20 +96,9 @@
       "event": "Event #84: $5,000 Super Turbo Bounty No-Limit Hold'em",
       "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-84/",
       "team": "Fleyshman",
-      "rank": "44 / 72",
+      "rank": "41 / 66",
       "chips": "63,000",
-      "bb": "1.6 BB",
-      "bonus": "Top 27 14 PTS",
-      "points": 2.0
-    },
-    {
-      "player": "Blaz Zerjav",
-      "event": "Event #84: $5,000 Super Turbo Bounty No-Limit Hold'em",
-      "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-84/",
-      "team": "Glaser",
-      "rank": "46 / 72",
-      "chips": "56,000",
-      "bb": "1.4 BB",
+      "bb": "1.3 BB",
       "bonus": "Top 27 14 PTS",
       "points": 2.0
     },
@@ -118,9 +107,9 @@
       "event": "Event #84: $5,000 Super Turbo Bounty No-Limit Hold'em",
       "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-84/",
       "team": "Noori",
-      "rank": "47 / 72",
+      "rank": "43 / 66",
       "chips": "50,000",
-      "bb": "1.3 BB",
+      "bb": "1.0 BB",
       "bonus": "Top 27 14 PTS",
       "points": 2.0
     },
@@ -129,9 +118,9 @@
       "event": "Event #84: $5,000 Super Turbo Bounty No-Limit Hold'em",
       "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-84/",
       "team": "2026 ODB Bonus Players",
-      "rank": "47 / 72",
+      "rank": "43 / 66",
       "chips": "50,000",
-      "bb": "1.3 BB",
+      "bb": "1.0 BB",
       "bonus": "Top 27 14 PTS",
       "points": 2.0
     },
@@ -140,9 +129,9 @@
       "event": "Event #84: $5,000 Super Turbo Bounty No-Limit Hold'em",
       "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-84/",
       "team": "2026 ODB Bonus Players",
-      "rank": "47 / 72",
+      "rank": "43 / 66",
       "chips": "50,000",
-      "bb": "1.3 BB",
+      "bb": "1.0 BB",
       "bonus": "Top 27 14 PTS",
       "points": 2.0
     }
