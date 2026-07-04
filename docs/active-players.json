@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-04T08:40:17.759600+00:00",
+  "generatedAt": "2026-07-04T08:50:15.251933+00:00",
   "league": "25k",
   "count": 8,
   "players": [
@@ -37,13 +37,13 @@
       "points": 0.0
     },
     {
-      "player": "Naoya Kihara",
+      "player": "Myles Mullaly",
       "event": "Event #84: $5,000 Super Turbo Bounty No-Limit Hold'em",
       "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-84/",
-      "team": "Banana",
-      "rank": "2 / 15",
-      "chips": "2,640,000",
-      "bb": "13.2 BB",
+      "team": "2026 ODB Bonus Players",
+      "rank": "4 / 15",
+      "chips": "6,345,000",
+      "bb": "31.7 BB",
       "bonus": "Locked 14 PTS",
       "points": 20.0
     },
@@ -52,9 +52,20 @@
       "event": "Event #84: $5,000 Super Turbo Bounty No-Limit Hold'em",
       "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-84/",
       "team": "DNegs",
-      "rank": "7 / 15",
-      "chips": "1,700,000",
-      "bb": "8.5 BB",
+      "rank": "8 / 15",
+      "chips": "3,100,000",
+      "bb": "15.5 BB",
+      "bonus": "Locked 14 PTS",
+      "points": 20.0
+    },
+    {
+      "player": "Naoya Kihara",
+      "event": "Event #84: $5,000 Super Turbo Bounty No-Limit Hold'em",
+      "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-84/",
+      "team": "Banana",
+      "rank": "9 / 15",
+      "chips": "2,640,000",
+      "bb": "13.2 BB",
       "bonus": "Locked 14 PTS",
       "points": 20.0
     },
@@ -63,9 +74,9 @@
       "event": "Event #84: $5,000 Super Turbo Bounty No-Limit Hold'em",
       "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-84/",
       "team": "2026 ODB Bonus Players",
-      "rank": "10 / 15",
-      "chips": "1,075,000",
-      "bb": "5.4 BB",
+      "rank": "12 / 15",
+      "chips": "1,900,000",
+      "bb": "9.5 BB",
       "bonus": "Locked 14 PTS",
       "points": 20.0
     },
@@ -74,20 +85,9 @@
       "event": "Event #84: $5,000 Super Turbo Bounty No-Limit Hold'em",
       "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-84/",
       "team": "Fleyshman",
-      "rank": "11 / 15",
-      "chips": "1,070,000",
-      "bb": "5.4 BB",
-      "bonus": "Locked 14 PTS",
-      "points": 20.0
-    },
-    {
-      "player": "Myles Mullaly",
-      "event": "Event #84: $5,000 Super Turbo Bounty No-Limit Hold'em",
-      "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-84/",
-      "team": "2026 ODB Bonus Players",
       "rank": "15 / 15",
-      "chips": "50,000",
-      "bb": "0.3 BB",
+      "chips": "850,000",
+      "bb": "4.3 BB",
       "bonus": "Locked 14 PTS",
       "points": 20.0
     }
