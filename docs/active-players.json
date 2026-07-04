@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-04T07:10:13.802315+00:00",
+  "generatedAt": "2026-07-04T07:20:16.188850+00:00",
   "league": "25k",
   "count": 9,
   "players": [
@@ -41,9 +41,9 @@
       "event": "Event #84: $5,000 Super Turbo Bounty No-Limit Hold'em",
       "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-84/",
       "team": "Banana",
-      "rank": "14 / 37",
+      "rank": "13 / 34",
       "chips": "1,330,000",
-      "bb": "16.6 BB",
+      "bb": "13.3 BB",
       "bonus": "Top 27 14 PTS",
       "points": 2.0
     },
@@ -52,9 +52,9 @@
       "event": "Event #84: $5,000 Super Turbo Bounty No-Limit Hold'em",
       "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-84/",
       "team": "DNegs",
-      "rank": "15 / 37",
-      "chips": "1,300,000",
-      "bb": "16.3 BB",
+      "rank": "14 / 34",
+      "chips": "1,100,000",
+      "bb": "11.0 BB",
       "bonus": "Top 27 14 PTS",
       "points": 2.0
     },
@@ -63,9 +63,9 @@
       "event": "Event #84: $5,000 Super Turbo Bounty No-Limit Hold'em",
       "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-84/",
       "team": "2026 ODB Bonus Players",
-      "rank": "17 / 37",
+      "rank": "16 / 34",
       "chips": "1,075,000",
-      "bb": "13.4 BB",
+      "bb": "10.8 BB",
       "bonus": "Top 27 14 PTS",
       "points": 2.0
     },
@@ -74,9 +74,9 @@
       "event": "Event #84: $5,000 Super Turbo Bounty No-Limit Hold'em",
       "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-84/",
       "team": "Fleyshman",
-      "rank": "18 / 37",
+      "rank": "17 / 34",
       "chips": "1,070,000",
-      "bb": "13.4 BB",
+      "bb": "10.7 BB",
       "bonus": "Top 27 14 PTS",
       "points": 2.0
     },
@@ -85,9 +85,9 @@
       "event": "Event #84: $5,000 Super Turbo Bounty No-Limit Hold'em",
       "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-84/",
       "team": "Noori",
-      "rank": "20 / 37",
+      "rank": "19 / 34",
       "chips": "1,010,000",
-      "bb": "12.6 BB",
+      "bb": "10.1 BB",
       "bonus": "Top 27 14 PTS",
       "points": 2.0
     },
@@ -96,9 +96,9 @@
       "event": "Event #84: $5,000 Super Turbo Bounty No-Limit Hold'em",
       "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-84/",
       "team": "2026 ODB Bonus Players",
-      "rank": "35 / 37",
+      "rank": "33 / 34",
       "chips": "50,000",
-      "bb": "0.6 BB",
+      "bb": "0.5 BB",
       "bonus": "Top 27 14 PTS",
       "points": 2.0
     }
