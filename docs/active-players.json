@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-04T08:20:14.186529+00:00",
+  "generatedAt": "2026-07-04T08:30:16.305038+00:00",
   "league": "25k",
   "count": 8,
   "players": [
@@ -41,55 +41,55 @@
       "event": "Event #84: $5,000 Super Turbo Bounty No-Limit Hold'em",
       "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-84/",
       "team": "Banana",
-      "rank": "2 / 21",
+      "rank": "2 / 17",
       "chips": "4,040,000",
       "bb": "20.2 BB",
       "bonus": "Locked 14 PTS",
-      "points": 14.0
+      "points": 20.0
     },
     {
       "player": "Nick Pupillo",
       "event": "Event #84: $5,000 Super Turbo Bounty No-Limit Hold'em",
       "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-84/",
       "team": "DNegs",
-      "rank": "9 / 21",
+      "rank": "7 / 17",
       "chips": "1,700,000",
       "bb": "8.5 BB",
       "bonus": "Locked 14 PTS",
-      "points": 14.0
+      "points": 20.0
     },
     {
       "player": "Michael Berk",
       "event": "Event #84: $5,000 Super Turbo Bounty No-Limit Hold'em",
       "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-84/",
       "team": "2026 ODB Bonus Players",
-      "rank": "13 / 21",
+      "rank": "10 / 17",
       "chips": "1,075,000",
       "bb": "5.4 BB",
       "bonus": "Locked 14 PTS",
-      "points": 14.0
+      "points": 20.0
     },
     {
       "player": "Christian Harder",
       "event": "Event #84: $5,000 Super Turbo Bounty No-Limit Hold'em",
       "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-84/",
       "team": "Fleyshman",
-      "rank": "14 / 21",
+      "rank": "11 / 17",
       "chips": "1,070,000",
       "bb": "5.4 BB",
       "bonus": "Locked 14 PTS",
-      "points": 14.0
+      "points": 20.0
     },
     {
       "player": "Myles Mullaly",
       "event": "Event #84: $5,000 Super Turbo Bounty No-Limit Hold'em",
       "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-84/",
       "team": "2026 ODB Bonus Players",
-      "rank": "21 / 21",
+      "rank": "17 / 17",
       "chips": "50,000",
       "bb": "0.3 BB",
       "bonus": "Locked 14 PTS",
-      "points": 14.0
+      "points": 20.0
     }
   ]
 }
