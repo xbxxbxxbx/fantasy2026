@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-05T02:30:24.479555+00:00",
+  "generatedAt": "2026-07-05T02:40:21.869147+00:00",
   "league": "25k",
   "count": 4,
   "players": [
@@ -8,31 +8,31 @@
       "event": "Event #81: $800 Summer Celebration No-Limit Hold'em",
       "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-81/",
       "team": "Gators",
-      "rank": "8 / 14",
+      "rank": "8 / 13",
       "chips": "13,300,000",
       "bb": "11.1 BB",
       "bonus": "Locked 69 PTS",
       "points": 71.0
     },
     {
-      "player": "Paul Fehlig",
-      "event": "Event #83: $1,500 PLO Double Board Bomb Pot (High Only)",
-      "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-83/",
-      "team": "2026 ODB Bonus Players",
-      "rank": "3 / 8",
-      "chips": "7,470,000",
-      "bb": "37.4 BB",
-      "bonus": "Locked 17 PTS",
-      "points": 0.0
-    },
-    {
       "player": "Justin Fawcett",
       "event": "Event #83: $1,500 PLO Double Board Bomb Pot (High Only)",
       "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-83/",
       "team": "Premiums Only",
-      "rank": "5 / 8",
-      "chips": "3,480,000",
-      "bb": "17.4 BB",
+      "rank": "1 / 8",
+      "chips": "9,440,000",
+      "bb": "47.2 BB",
+      "bonus": "Locked 17 PTS",
+      "points": 0.0
+    },
+    {
+      "player": "Paul Fehlig",
+      "event": "Event #83: $1,500 PLO Double Board Bomb Pot (High Only)",
+      "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-83/",
+      "team": "2026 ODB Bonus Players",
+      "rank": "4 / 8",
+      "chips": "7,470,000",
+      "bb": "37.4 BB",
       "bonus": "Locked 17 PTS",
       "points": 0.0
     },
