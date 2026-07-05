@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-05T02:50:20.755497+00:00",
+  "generatedAt": "2026-07-05T03:00:30.915738+00:00",
   "league": "25k",
   "count": 4,
   "players": [
@@ -8,7 +8,7 @@
       "event": "Event #81: $800 Summer Celebration No-Limit Hold'em",
       "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-81/",
       "team": "Gators",
-      "rank": "8 / 12",
+      "rank": "11 / 12",
       "chips": "11,300,000",
       "bb": "9.4 BB",
       "bonus": "Locked 69 PTS",
@@ -21,7 +21,7 @@
       "team": "Premiums Only",
       "rank": "2 / 8",
       "chips": "10,440,000",
-      "bb": "52.2 BB",
+      "bb": "43.5 BB",
       "bonus": "Locked 17 PTS",
       "points": 0.0
     },
@@ -32,7 +32,7 @@
       "team": "2026 ODB Bonus Players",
       "rank": "7 / 8",
       "chips": "2,145,000",
-      "bb": "10.7 BB",
+      "bb": "8.9 BB",
       "bonus": "Locked 17 PTS",
       "points": 0.0
     },
@@ -43,7 +43,7 @@
       "team": "Blades & Shades",
       "rank": "8 / 8",
       "chips": "1,200,000",
-      "bb": "6.0 BB",
+      "bb": "5.0 BB",
       "bonus": "Locked 17 PTS",
       "points": 0.0
     }
