@@ -1,14 +1,14 @@
 {
-  "generatedAt": "2026-07-05T00:10:20.839447+00:00",
+  "generatedAt": "2026-07-05T00:20:25.574504+00:00",
   "league": "25k",
-  "count": 5,
+  "count": 4,
   "players": [
     {
       "player": "Michael Moncek",
       "event": "Event #81: $800 Summer Celebration No-Limit Hold'em",
       "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-81/",
       "team": "Gators",
-      "rank": "6 / 32",
+      "rank": "7 / 27",
       "chips": "7,225,000",
       "bb": "14.5 BB",
       "bonus": "Locked 69 PTS",
@@ -26,37 +26,26 @@
       "points": 0.0
     },
     {
-      "player": "Jesse Lonis",
-      "event": "Event #83: $1,500 PLO Double Board Bomb Pot (High Only)",
-      "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-83/",
-      "team": "Blades & Shades",
-      "rank": "7 / 10",
-      "chips": "2,805,000",
-      "bb": "23.4 BB",
-      "bonus": "Locked 17 PTS",
-      "points": 0.0
-    },
-    {
       "player": "Justin Fawcett",
       "event": "Event #83: $1,500 PLO Double Board Bomb Pot (High Only)",
       "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-83/",
       "team": "Premiums Only",
-      "rank": "9 / 10",
-      "chips": "950,000",
-      "bb": "7.9 BB",
+      "rank": "5 / 10",
+      "chips": "3,408,000",
+      "bb": "28.4 BB",
       "bonus": "Locked 17 PTS",
       "points": 0.0
     },
     {
-      "player": "Myles Mullaly",
-      "event": "Event #84: $5,000 Super Turbo Bounty No-Limit Hold'em",
-      "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-84/",
-      "team": "2026 ODB Bonus Players",
-      "rank": "1 / 1",
-      "chips": "8,500,000",
-      "bb": "7.1 BB",
-      "bonus": "Locked 14 PTS",
-      "points": 112.0
+      "player": "Jesse Lonis",
+      "event": "Event #83: $1,500 PLO Double Board Bomb Pot (High Only)",
+      "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-83/",
+      "team": "Blades & Shades",
+      "rank": "8 / 10",
+      "chips": "2,805,000",
+      "bb": "23.4 BB",
+      "bonus": "Locked 17 PTS",
+      "points": 0.0
     }
   ]
 }
