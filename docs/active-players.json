@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-07-05T03:00:30.915738+00:00",
+  "generatedAt": "2026-07-05T03:10:21.549789+00:00",
   "league": "25k",
-  "count": 4,
+  "count": 8,
   "players": [
     {
       "player": "Michael Moncek",
@@ -10,7 +10,7 @@
       "team": "Gators",
       "rank": "11 / 12",
       "chips": "11,300,000",
-      "bb": "9.4 BB",
+      "bb": "7.5 BB",
       "bonus": "Locked 69 PTS",
       "points": 71.0
     },
@@ -46,6 +46,50 @@
       "bb": "5.0 BB",
       "bonus": "Locked 17 PTS",
       "points": 0.0
+    },
+    {
+      "player": "Tyler Phillips",
+      "event": "Event #85: $1,000 No-Limit Hold'em",
+      "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-85/",
+      "team": "Glue Factory",
+      "rank": "82 / 251",
+      "chips": "135,000",
+      "bb": "22.5 BB",
+      "bonus": "Top 27 18 PTS",
+      "points": 1.0
+    },
+    {
+      "player": "Gabriel Andrade",
+      "event": "Event #85: $1,000 No-Limit Hold'em",
+      "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-85/",
+      "team": "Verderamo",
+      "rank": "97 / 251",
+      "chips": "128,000",
+      "bb": "21.3 BB",
+      "bonus": "Top 27 18 PTS",
+      "points": 1.0
+    },
+    {
+      "player": "Yueqi Zhu",
+      "event": "Event #85: $1,000 No-Limit Hold'em",
+      "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-85/",
+      "team": "Trump Power",
+      "rank": "169 / 251",
+      "chips": "74,000",
+      "bb": "12.3 BB",
+      "bonus": "Top 27 18 PTS",
+      "points": 1.0
+    },
+    {
+      "player": "Kevin Yun Lam Choi",
+      "event": "Event #85: $1,000 No-Limit Hold'em",
+      "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-85/",
+      "team": "Lady Gaga",
+      "rank": "193 / 251",
+      "chips": "57,000",
+      "bb": "9.5 BB",
+      "bonus": "Top 27 18 PTS",
+      "points": 1.0
     }
   ]
 }
