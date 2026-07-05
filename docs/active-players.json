@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-04T23:50:22.078483+00:00",
+  "generatedAt": "2026-07-05T00:00:33.824082+00:00",
   "league": "25k",
   "count": 5,
   "players": [
@@ -8,7 +8,7 @@
       "event": "Event #81: $800 Summer Celebration No-Limit Hold'em",
       "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-81/",
       "team": "Gators",
-      "rank": "8 / 38",
+      "rank": "7 / 36",
       "chips": "7,225,000",
       "bb": "18.1 BB",
       "bonus": "Locked 69 PTS",
@@ -19,44 +19,44 @@
       "event": "Event #83: $1,500 PLO Double Board Bomb Pot (High Only)",
       "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-83/",
       "team": "2026 ODB Bonus Players",
-      "rank": "2 / 11",
+      "rank": "2 / 10",
       "chips": "9,240,000",
       "bb": "77.0 BB",
       "bonus": "Locked 17 PTS",
-      "points": 21.0
+      "points": 0.0
     },
     {
       "player": "Jesse Lonis",
       "event": "Event #83: $1,500 PLO Double Board Bomb Pot (High Only)",
       "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-83/",
       "team": "Blades & Shades",
-      "rank": "7 / 11",
+      "rank": "7 / 10",
       "chips": "2,805,000",
       "bb": "23.4 BB",
       "bonus": "Locked 17 PTS",
-      "points": 21.0
+      "points": 0.0
     },
     {
       "player": "Justin Fawcett",
       "event": "Event #83: $1,500 PLO Double Board Bomb Pot (High Only)",
       "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-83/",
       "team": "Premiums Only",
-      "rank": "10 / 11",
-      "chips": "1,190,000",
-      "bb": "9.9 BB",
+      "rank": "9 / 10",
+      "chips": "950,000",
+      "bb": "7.9 BB",
       "bonus": "Locked 17 PTS",
-      "points": 21.0
+      "points": 0.0
     },
     {
       "player": "Myles Mullaly",
       "event": "Event #84: $5,000 Super Turbo Bounty No-Limit Hold'em",
       "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-84/",
       "team": "2026 ODB Bonus Players",
-      "rank": "2 / 2",
+      "rank": "1 / 1",
       "chips": "8,500,000",
       "bb": "7.1 BB",
       "bonus": "Locked 14 PTS",
-      "points": 0.0
+      "points": 112.0
     }
   ]
 }
