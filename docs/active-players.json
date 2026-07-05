@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-07-05T03:20:21.968982+00:00",
+  "generatedAt": "2026-07-05T03:30:32.600727+00:00",
   "league": "25k",
-  "count": 5,
+  "count": 4,
   "players": [
     {
       "player": "Michael Moncek",
@@ -19,20 +19,9 @@
       "event": "Event #83: $1,500 PLO Double Board Bomb Pot (High Only)",
       "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-83/",
       "team": "Premiums Only",
-      "rank": "2 / 7",
+      "rank": "2 / 6",
       "chips": "10,440,000",
       "bb": "43.5 BB",
-      "bonus": "Locked 17 PTS",
-      "points": 0.0
-    },
-    {
-      "player": "Paul Fehlig",
-      "event": "Event #83: $1,500 PLO Double Board Bomb Pot (High Only)",
-      "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-83/",
-      "team": "2026 ODB Bonus Players",
-      "rank": "7 / 7",
-      "chips": "2,145,000",
-      "bb": "8.9 BB",
       "bonus": "Locked 17 PTS",
       "points": 0.0
     },
@@ -41,9 +30,9 @@
       "event": "Event #85: $1,000 No-Limit Hold'em",
       "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-85/",
       "team": "Glue Factory",
-      "rank": "79 / 229",
+      "rank": "77 / 213",
       "chips": "135,000",
-      "bb": "22.5 BB",
+      "bb": "16.9 BB",
       "bonus": "Top 27 18 PTS",
       "points": 1.0
     },
@@ -52,9 +41,9 @@
       "event": "Event #85: $1,000 No-Limit Hold'em",
       "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-85/",
       "team": "Verderamo",
-      "rank": "93 / 229",
+      "rank": "91 / 213",
       "chips": "128,000",
-      "bb": "21.3 BB",
+      "bb": "16.0 BB",
       "bonus": "Top 27 18 PTS",
       "points": 1.0
     }
