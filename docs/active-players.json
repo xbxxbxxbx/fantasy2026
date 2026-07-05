@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-05T03:50:20.729028+00:00",
+  "generatedAt": "2026-07-05T04:00:34.008225+00:00",
   "league": "25k",
   "count": 4,
   "players": [
@@ -8,9 +8,9 @@
       "event": "Event #81: $800 Summer Celebration No-Limit Hold'em",
       "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-81/",
       "team": "Gators",
-      "rank": "9 / 9",
-      "chips": "11,300,000",
-      "bb": "7.5 BB",
+      "rank": "2 / 9",
+      "chips": "41,600,000",
+      "bb": "27.7 BB",
       "bonus": "Locked 69 PTS",
       "points": 0.0
     },
@@ -21,7 +21,7 @@
       "team": "Premiums Only",
       "rank": "2 / 6",
       "chips": "10,440,000",
-      "bb": "43.5 BB",
+      "bb": "34.8 BB",
       "bonus": "Locked 17 PTS",
       "points": 0.0
     },
@@ -30,9 +30,9 @@
       "event": "Event #85: $1,000 No-Limit Hold'em",
       "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-85/",
       "team": "Glue Factory",
-      "rank": "76 / 176",
+      "rank": "76 / 167",
       "chips": "135,000",
-      "bb": "16.9 BB",
+      "bb": "13.5 BB",
       "bonus": "Top 27 18 PTS",
       "points": 1.0
     },
@@ -41,9 +41,9 @@
       "event": "Event #85: $1,000 No-Limit Hold'em",
       "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-85/",
       "team": "Verderamo",
-      "rank": "90 / 176",
+      "rank": "90 / 167",
       "chips": "128,000",
-      "bb": "16.0 BB",
+      "bb": "12.8 BB",
       "bonus": "Top 27 18 PTS",
       "points": 1.0
     }
