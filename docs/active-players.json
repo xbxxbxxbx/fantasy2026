@@ -1,19 +1,8 @@
 {
-  "generatedAt": "2026-07-05T08:35:19.943875+00:00",
+  "generatedAt": "2026-07-05T10:52:04.947795+00:00",
   "league": "25k",
-  "count": 2,
+  "count": 1,
   "players": [
-    {
-      "player": "Justin Fawcett",
-      "event": "Event #83: $1,500 PLO Double Board Bomb Pot (High Only)",
-      "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-83/",
-      "team": "Premiums Only",
-      "rank": "2 / 2",
-      "chips": "14,900,000",
-      "bb": "18.6 BB",
-      "bonus": "Locked 17 PTS",
-      "points": 0.0
-    },
     {
       "player": "Tyler Phillips",
       "event": "Event #85: $1,000 No-Limit Hold'em",
