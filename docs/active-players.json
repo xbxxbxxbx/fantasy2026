@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-05T19:38:29.551047+00:00",
+  "generatedAt": "2026-07-05T20:40:19.769086+00:00",
   "league": "25k",
   "count": 1,
   "players": [
@@ -8,11 +8,11 @@
       "event": "Event #85: $1,000 No-Limit Hold'em",
       "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-85/",
       "team": "Glue Factory",
-      "rank": "12 / 26",
-      "chips": "900,000",
-      "bb": "18.0 BB",
+      "rank": "5 / 18",
+      "chips": "1,925,000",
+      "bb": "24.1 BB",
       "bonus": "Locked 18 PTS",
-      "points": 18.0
+      "points": 22.0
     }
   ]
 }
