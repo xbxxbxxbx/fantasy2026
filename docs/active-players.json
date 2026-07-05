@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-05T02:10:21.242760+00:00",
+  "generatedAt": "2026-07-05T02:20:21.850699+00:00",
   "league": "25k",
   "count": 4,
   "players": [
@@ -10,7 +10,7 @@
       "team": "Gators",
       "rank": "8 / 14",
       "chips": "13,300,000",
-      "bb": "13.3 BB",
+      "bb": "11.1 BB",
       "bonus": "Locked 69 PTS",
       "points": 71.0
     },
