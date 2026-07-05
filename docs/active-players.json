@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-05T04:20:21.009492+00:00",
+  "generatedAt": "2026-07-05T04:30:29.137806+00:00",
   "league": "25k",
   "count": 3,
   "players": [
@@ -9,7 +9,7 @@
       "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-81/",
       "team": "Gators",
       "rank": "1 / 9",
-      "chips": "41,600,000",
+      "chips": "41,500,000",
       "bb": "27.7 BB",
       "bonus": "Locked 69 PTS",
       "points": 0.0
@@ -30,7 +30,7 @@
       "event": "Event #85: $1,000 No-Limit Hold'em",
       "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-85/",
       "team": "Glue Factory",
-      "rank": "68 / 134",
+      "rank": "66 / 124",
       "chips": "135,000",
       "bb": "13.5 BB",
       "bonus": "Top 27 18 PTS",
