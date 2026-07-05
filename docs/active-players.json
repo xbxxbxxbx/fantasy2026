@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-05T01:00:28.810331+00:00",
+  "generatedAt": "2026-07-05T01:10:22.519022+00:00",
   "league": "25k",
   "count": 4,
   "players": [
@@ -8,11 +8,11 @@
       "event": "Event #81: $800 Summer Celebration No-Limit Hold'em",
       "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-81/",
       "team": "Gators",
-      "rank": "8 / 23",
+      "rank": "8 / 19",
       "chips": "13,300,000",
       "bb": "22.2 BB",
       "bonus": "Locked 69 PTS",
-      "points": 69.0
+      "points": 0.0
     },
     {
       "player": "Paul Fehlig",
