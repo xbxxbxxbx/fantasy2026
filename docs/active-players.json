@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-05T03:30:32.600727+00:00",
+  "generatedAt": "2026-07-05T03:40:20.625048+00:00",
   "league": "25k",
   "count": 4,
   "players": [
@@ -8,11 +8,11 @@
       "event": "Event #81: $800 Summer Celebration No-Limit Hold'em",
       "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-81/",
       "team": "Gators",
-      "rank": "10 / 11",
+      "rank": "9 / 9",
       "chips": "11,300,000",
-      "bb": "7.5 BB",
+      "bb": "5.7 BB",
       "bonus": "Locked 69 PTS",
-      "points": 71.0
+      "points": 0.0
     },
     {
       "player": "Justin Fawcett",
@@ -30,7 +30,7 @@
       "event": "Event #85: $1,000 No-Limit Hold'em",
       "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-85/",
       "team": "Glue Factory",
-      "rank": "77 / 213",
+      "rank": "77 / 194",
       "chips": "135,000",
       "bb": "16.9 BB",
       "bonus": "Top 27 18 PTS",
@@ -41,7 +41,7 @@
       "event": "Event #85: $1,000 No-Limit Hold'em",
       "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-85/",
       "team": "Verderamo",
-      "rank": "91 / 213",
+      "rank": "91 / 194",
       "chips": "128,000",
       "bb": "16.0 BB",
       "bonus": "Top 27 18 PTS",
