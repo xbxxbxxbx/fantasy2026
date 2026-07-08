@@ -1,16 +1,16 @@
 {
-  "generatedAt": "2026-07-08T21:35:47.975410+00:00",
+  "generatedAt": "2026-07-08T22:44:02.834772+00:00",
   "league": "25k",
   "count": 4,
   "players": [
     {
-      "player": "Phillip Hui",
+      "player": "Naoya Kihara",
       "event": "Event #86: $600 ULTRA STACK No-Limit Hold'em",
       "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-86/",
-      "team": "Blades & Shades",
-      "rank": "52 / 364",
-      "chips": "1,700,000",
-      "bb": "28.3 BB",
+      "team": "Banana",
+      "rank": "55 / 279",
+      "chips": "1,970,000",
+      "bb": "24.6 BB",
       "bonus": "Top 81 81 PTS",
       "points": 1.0
     },
@@ -19,20 +19,20 @@
       "event": "Event #86: $600 ULTRA STACK No-Limit Hold'em",
       "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-86/",
       "team": "Stake Kings",
-      "rank": "214 / 364",
-      "chips": "780,000",
-      "bb": "13.0 BB",
+      "rank": "84 / 279",
+      "chips": "1,600,000",
+      "bb": "20.0 BB",
       "bonus": "Top 81 81 PTS",
       "points": 1.0
     },
     {
-      "player": "Naoya Kihara",
+      "player": "Phillip Hui",
       "event": "Event #86: $600 ULTRA STACK No-Limit Hold'em",
       "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-86/",
-      "team": "Banana",
-      "rank": "287 / 364",
-      "chips": "590,000",
-      "bb": "9.8 BB",
+      "team": "Blades & Shades",
+      "rank": "92 / 279",
+      "chips": "1,520,000",
+      "bb": "19.0 BB",
       "bonus": "Top 81 81 PTS",
       "points": 1.0
     },
@@ -41,9 +41,9 @@
       "event": "Event #86: $600 ULTRA STACK No-Limit Hold'em",
       "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-86/",
       "team": "Gators",
-      "rank": "362 / 364",
+      "rank": "278 / 279",
       "chips": "191,000",
-      "bb": "3.2 BB",
+      "bb": "2.4 BB",
       "bonus": "Top 81 81 PTS",
       "points": 1.0
     }
