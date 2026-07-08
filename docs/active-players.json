@@ -1,16 +1,16 @@
 {
-  "generatedAt": "2026-07-08T18:45:33.926472+00:00",
+  "generatedAt": "2026-07-08T20:14:30.750818+00:00",
   "league": "25k",
-  "count": 5,
+  "count": 6,
   "players": [
     {
       "player": "Phillip Hui",
       "event": "Event #86: $600 ULTRA STACK No-Limit Hold'em",
       "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-86/",
       "team": "Blades & Shades",
-      "rank": "19 / 321",
+      "rank": "40 / 565",
       "chips": "1,700,000",
-      "bb": "56.7 BB",
+      "bb": "42.5 BB",
       "bonus": "Top 81 81 PTS",
       "points": 1.0
     },
@@ -19,9 +19,20 @@
       "event": "Event #86: $600 ULTRA STACK No-Limit Hold'em",
       "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-86/",
       "team": "Stake Kings",
-      "rank": "127 / 321",
+      "rank": "242 / 565",
       "chips": "780,000",
-      "bb": "26.0 BB",
+      "bb": "19.5 BB",
+      "bonus": "Top 81 81 PTS",
+      "points": 1.0
+    },
+    {
+      "player": "Naoya Kihara",
+      "event": "Event #86: $600 ULTRA STACK No-Limit Hold'em",
+      "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-86/",
+      "team": "Banana",
+      "rank": "362 / 565",
+      "chips": "590,000",
+      "bb": "14.8 BB",
       "bonus": "Top 81 81 PTS",
       "points": 1.0
     },
@@ -30,9 +41,9 @@
       "event": "Event #86: $600 ULTRA STACK No-Limit Hold'em",
       "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-86/",
       "team": "Glue Factory",
-      "rank": "209 / 321",
+      "rank": "393 / 565",
       "chips": "525,000",
-      "bb": "17.5 BB",
+      "bb": "13.1 BB",
       "bonus": "Top 81 81 PTS",
       "points": 1.0
     },
@@ -41,9 +52,9 @@
       "event": "Event #86: $600 ULTRA STACK No-Limit Hold'em",
       "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-86/",
       "team": "2026 ODB Bonus Players",
-      "rank": "299 / 321",
+      "rank": "536 / 565",
       "chips": "255,000",
-      "bb": "8.5 BB",
+      "bb": "6.4 BB",
       "bonus": "Top 81 81 PTS",
       "points": 1.0
     },
@@ -52,9 +63,9 @@
       "event": "Event #86: $600 ULTRA STACK No-Limit Hold'em",
       "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-86/",
       "team": "Gators",
-      "rank": "308 / 321",
+      "rank": "553 / 565",
       "chips": "191,000",
-      "bb": "6.4 BB",
+      "bb": "4.8 BB",
       "bonus": "Top 81 81 PTS",
       "points": 1.0
     }
