@@ -1,18 +1,62 @@
 {
-  "generatedAt": "2026-07-05T23:52:39.033290+00:00",
+  "generatedAt": "2026-07-08T17:03:34.183370+00:00",
   "league": "25k",
-  "count": 1,
+  "count": 5,
   "players": [
     {
-      "player": "Tyler Phillips",
-      "event": "Event #85: $1,000 No-Limit Hold'em",
-      "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-85/",
+      "player": "Phillip Hui",
+      "event": "Event #86: $600 ULTRA STACK No-Limit Hold'em",
+      "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-86/",
+      "team": "Blades & Shades",
+      "rank": "19 / 321",
+      "chips": "1,700,000",
+      "bb": "56.7 BB",
+      "bonus": "Top 81 81 PTS",
+      "points": 1.0
+    },
+    {
+      "player": "David 'ODB' Baker",
+      "event": "Event #86: $600 ULTRA STACK No-Limit Hold'em",
+      "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-86/",
+      "team": "Stake Kings",
+      "rank": "127 / 321",
+      "chips": "780,000",
+      "bb": "26.0 BB",
+      "bonus": "Top 81 81 PTS",
+      "points": 1.0
+    },
+    {
+      "player": "Matt Wantman",
+      "event": "Event #86: $600 ULTRA STACK No-Limit Hold'em",
+      "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-86/",
       "team": "Glue Factory",
-      "rank": "2 / 5",
-      "chips": "4,450,000",
-      "bb": "17.8 BB",
-      "bonus": "Locked 18 PTS",
-      "points": 0.0
+      "rank": "209 / 321",
+      "chips": "525,000",
+      "bb": "17.5 BB",
+      "bonus": "Top 81 81 PTS",
+      "points": 1.0
+    },
+    {
+      "player": "Nick Palma",
+      "event": "Event #86: $600 ULTRA STACK No-Limit Hold'em",
+      "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-86/",
+      "team": "2026 ODB Bonus Players",
+      "rank": "299 / 321",
+      "chips": "255,000",
+      "bb": "8.5 BB",
+      "bonus": "Top 81 81 PTS",
+      "points": 1.0
+    },
+    {
+      "player": "Michael Moncek",
+      "event": "Event #86: $600 ULTRA STACK No-Limit Hold'em",
+      "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-86/",
+      "team": "Gators",
+      "rank": "308 / 321",
+      "chips": "191,000",
+      "bb": "6.4 BB",
+      "bonus": "Top 81 81 PTS",
+      "points": 1.0
     }
   ]
 }
