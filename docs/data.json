@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-08T20:14:30.633859+00:00",
+  "generatedAt": "2026-07-08T21:35:47.749960+00:00",
   "leagueName": "WSOP Poker Fantasy Draft 2026",
   "sourceLabel": "25KFantasy",
   "sourceUrl": "https://www.25kfantasy.com/players/",
@@ -22,7 +22,7 @@
         },
         {
           "player": "Allen Kessler",
-          "points": 140.0
+          "points": 141.0
         },
         {
           "player": "Kristen Foxen",
@@ -30,7 +30,7 @@
         },
         {
           "player": "Mike Leah",
-          "points": 106.0
+          "points": 107.0
         },
         {
           "player": "Viktor Blom",
@@ -45,9 +45,9 @@
           "points": 20.0
         }
       ],
-      "totalPoints": 950.0,
-      "pointsChange": 0.0,
-      "pointsChangeSincePrevious": 0.0
+      "totalPoints": 952.0,
+      "pointsChange": 2.0,
+      "pointsChangeSincePrevious": 2.0
     },
     {
       "managerName": "ASG",
@@ -68,7 +68,7 @@
         },
         {
           "player": "Mike Leah",
-          "points": 106.0
+          "points": 107.0
         },
         {
           "player": "Jason Koon",
@@ -87,9 +87,9 @@
           "points": 55.0
         }
       ],
-      "totalPoints": 934.0,
-      "pointsChange": 0.0,
-      "pointsChangeSincePrevious": 0.0
+      "totalPoints": 935.0,
+      "pointsChange": 1.0,
+      "pointsChangeSincePrevious": 1.0
     },
     {
       "managerName": "JeffBNT",
@@ -308,7 +308,7 @@
       "players": [
         {
           "player": "Allen Kessler",
-          "points": 140.0
+          "points": 141.0
         },
         {
           "player": "John Racener",
@@ -339,9 +339,9 @@
           "points": 0.0
         }
       ],
-      "totalPoints": 414.0,
-      "pointsChange": 0.0,
-      "pointsChangeSincePrevious": 0.0
+      "totalPoints": 415.0,
+      "pointsChange": 1.0,
+      "pointsChangeSincePrevious": 1.0
     },
     {
       "managerName": "Trampstamp",
