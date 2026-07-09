@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-09T04:06:35.122581+00:00",
+  "generatedAt": "2026-07-09T07:52:46.554911+00:00",
   "leagueName": "WSOP Poker Fantasy Draft 2026",
   "sourceLabel": "25KFantasy",
   "sourceUrl": "https://www.25kfantasy.com/players/",
@@ -18,7 +18,7 @@
         },
         {
           "player": "David 'ODB' Baker",
-          "points": 156.0
+          "points": 237.0
         },
         {
           "player": "Allen Kessler",
@@ -45,9 +45,9 @@
           "points": 20.0
         }
       ],
-      "totalPoints": 952.0,
-      "pointsChange": 2.0,
-      "pointsChangeSincePrevious": 0.0
+      "totalPoints": 1033.0,
+      "pointsChange": 83.0,
+      "pointsChangeSincePrevious": 81.0
     },
     {
       "managerName": "ASG",

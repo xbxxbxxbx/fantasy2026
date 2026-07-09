@@ -1,27 +1,16 @@
 {
-  "generatedAt": "2026-07-09T04:06:35.357683+00:00",
+  "generatedAt": "2026-07-09T07:52:46.750737+00:00",
   "league": "25k",
-  "count": 2,
+  "count": 1,
   "players": [
-    {
-      "player": "David 'ODB' Baker",
-      "event": "Event #86: $600 ULTRA STACK No-Limit Hold'em",
-      "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-86/",
-      "team": "Stake Kings",
-      "rank": "11 / 73",
-      "chips": "8,100,000",
-      "bb": "27.0 BB",
-      "bonus": "Locked 81 PTS",
-      "points": 81.0
-    },
     {
       "player": "Michael Moncek",
       "event": "Event #86: $600 ULTRA STACK No-Limit Hold'em",
       "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-86/",
       "team": "Gators",
-      "rank": "73 / 73",
-      "chips": "191,000",
-      "bb": "0.6 BB",
+      "rank": "11 / 26",
+      "chips": "10,800,000",
+      "bb": "10.8 BB",
       "bonus": "Locked 81 PTS",
       "points": 81.0
     }
