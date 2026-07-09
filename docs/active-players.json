@@ -1,40 +1,29 @@
 {
-  "generatedAt": "2026-07-08T23:57:08.855108+00:00",
+  "generatedAt": "2026-07-09T04:06:35.357683+00:00",
   "league": "25k",
-  "count": 3,
+  "count": 2,
   "players": [
-    {
-      "player": "Naoya Kihara",
-      "event": "Event #86: $600 ULTRA STACK No-Limit Hold'em",
-      "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-86/",
-      "team": "Banana",
-      "rank": "55 / 195",
-      "chips": "1,970,000",
-      "bb": "16.4 BB",
-      "bonus": "Top 81 81 PTS",
-      "points": 1.0
-    },
     {
       "player": "David 'ODB' Baker",
       "event": "Event #86: $600 ULTRA STACK No-Limit Hold'em",
       "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-86/",
       "team": "Stake Kings",
-      "rank": "77 / 195",
-      "chips": "1,600,000",
-      "bb": "13.3 BB",
-      "bonus": "Top 81 81 PTS",
-      "points": 1.0
+      "rank": "11 / 73",
+      "chips": "8,100,000",
+      "bb": "27.0 BB",
+      "bonus": "Locked 81 PTS",
+      "points": 81.0
     },
     {
       "player": "Michael Moncek",
       "event": "Event #86: $600 ULTRA STACK No-Limit Hold'em",
       "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-86/",
       "team": "Gators",
-      "rank": "195 / 195",
+      "rank": "73 / 73",
       "chips": "191,000",
-      "bb": "1.6 BB",
-      "bonus": "Top 81 81 PTS",
-      "points": 1.0
+      "bb": "0.6 BB",
+      "bonus": "Locked 81 PTS",
+      "points": 81.0
     }
   ]
 }
