@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-09T20:16:19.400071+00:00",
+  "generatedAt": "2026-07-09T21:53:03.824666+00:00",
   "leagueName": "WSOP Poker Fantasy Draft 2026",
   "sourceLabel": "25KFantasy",
   "sourceUrl": "https://www.25kfantasy.com/players/",
@@ -30,7 +30,7 @@
         },
         {
           "player": "Mike Leah",
-          "points": 107.0
+          "points": 110.0
         },
         {
           "player": "Viktor Blom",
@@ -45,8 +45,8 @@
           "points": 20.0
         }
       ],
-      "totalPoints": 1036.0,
-      "pointsChange": 3.0,
+      "totalPoints": 1039.0,
+      "pointsChange": 6.0,
       "pointsChangeSincePrevious": 3.0
     },
     {
@@ -64,11 +64,11 @@
         },
         {
           "player": "Bryce Yockey",
-          "points": 134.0
+          "points": 135.0
         },
         {
           "player": "Mike Leah",
-          "points": 107.0
+          "points": 110.0
         },
         {
           "player": "Jason Koon",
@@ -76,7 +76,7 @@
         },
         {
           "player": "Jon Turner",
-          "points": 59.0
+          "points": 62.0
         },
         {
           "player": "Chance Kornuth",
@@ -87,9 +87,9 @@
           "points": 55.0
         }
       ],
-      "totalPoints": 935.0,
-      "pointsChange": 0.0,
-      "pointsChangeSincePrevious": 0.0
+      "totalPoints": 942.0,
+      "pointsChange": 7.0,
+      "pointsChangeSincePrevious": 7.0
     },
     {
       "managerName": "JeffBNT",
@@ -110,7 +110,7 @@
         },
         {
           "player": "Jon Turner",
-          "points": 59.0
+          "points": 62.0
         },
         {
           "player": "Nicholas Seward",
@@ -118,7 +118,7 @@
         },
         {
           "player": "Ari Engel",
-          "points": 31.0
+          "points": 32.0
         },
         {
           "player": "Ben Yu",
@@ -129,9 +129,9 @@
           "points": 9.0
         }
       ],
-      "totalPoints": 670.0,
-      "pointsChange": 0.0,
-      "pointsChangeSincePrevious": 0.0
+      "totalPoints": 674.0,
+      "pointsChange": 4.0,
+      "pointsChangeSincePrevious": 4.0
     },
     {
       "managerName": "realbmorekid",
@@ -156,7 +156,7 @@
         },
         {
           "player": "Esther Taylor",
-          "points": 22.0
+          "points": 23.0
         },
         {
           "player": "Jeremy Becker",
@@ -171,9 +171,9 @@
           "points": 9.0
         }
       ],
-      "totalPoints": 622.0,
-      "pointsChange": 0.0,
-      "pointsChangeSincePrevious": 0.0
+      "totalPoints": 623.0,
+      "pointsChange": 1.0,
+      "pointsChangeSincePrevious": 1.0
     },
     {
       "managerName": "Doinky",
@@ -190,7 +190,7 @@
         },
         {
           "player": "Stephen Song",
-          "points": 107.0
+          "points": 110.0
         },
         {
           "player": "Sam Soverel",
@@ -206,16 +206,16 @@
         },
         {
           "player": "Adam Hendrix",
-          "points": 10.0
+          "points": 11.0
         },
         {
           "player": "Isaac Haxton",
           "points": 0.0
         }
       ],
-      "totalPoints": 603.0,
-      "pointsChange": 0.0,
-      "pointsChangeSincePrevious": 0.0
+      "totalPoints": 607.0,
+      "pointsChange": 4.0,
+      "pointsChangeSincePrevious": 4.0
     },
     {
       "managerName": "Ruben",
@@ -236,7 +236,7 @@
         },
         {
           "player": "Jerry Wong",
-          "points": 80.0
+          "points": 81.0
         },
         {
           "player": "Brandon Shack-Harris",
@@ -255,9 +255,9 @@
           "points": 30.0
         }
       ],
-      "totalPoints": 601.0,
-      "pointsChange": 0.0,
-      "pointsChangeSincePrevious": 0.0
+      "totalPoints": 602.0,
+      "pointsChange": 1.0,
+      "pointsChangeSincePrevious": 1.0
     },
     {
       "managerName": "Gus",
@@ -274,7 +274,7 @@
         },
         {
           "player": "Jerry Wong",
-          "points": 80.0
+          "points": 81.0
         },
         {
           "player": "Nick Guagenti",
@@ -290,16 +290,16 @@
         },
         {
           "player": "Esther Taylor",
-          "points": 22.0
+          "points": 23.0
         },
         {
           "player": "Danny Wong",
-          "points": 10.0
+          "points": 11.0
         }
       ],
-      "totalPoints": 541.0,
-      "pointsChange": 0.0,
-      "pointsChangeSincePrevious": 0.0
+      "totalPoints": 544.0,
+      "pointsChange": 3.0,
+      "pointsChangeSincePrevious": 3.0
     },
     {
       "managerName": "Turbo",
@@ -374,16 +374,16 @@
         },
         {
           "player": "Esther Taylor",
-          "points": 22.0
+          "points": 23.0
         },
         {
           "player": "Ben Lamb",
           "points": 0.0
         }
       ],
-      "totalPoints": 315.0,
-      "pointsChange": 0.0,
-      "pointsChangeSincePrevious": 0.0
+      "totalPoints": 316.0,
+      "pointsChange": 1.0,
+      "pointsChangeSincePrevious": 1.0
     }
   ],
   "failures": []
