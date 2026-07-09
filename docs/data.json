@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-09T21:53:03.824666+00:00",
+  "generatedAt": "2026-07-09T23:12:00.227846+00:00",
   "leagueName": "WSOP Poker Fantasy Draft 2026",
   "sourceLabel": "25KFantasy",
   "sourceUrl": "https://www.25kfantasy.com/players/",
@@ -47,7 +47,7 @@
       ],
       "totalPoints": 1039.0,
       "pointsChange": 6.0,
-      "pointsChangeSincePrevious": 3.0
+      "pointsChangeSincePrevious": 0.0
     },
     {
       "managerName": "ASG",
@@ -60,7 +60,7 @@
         },
         {
           "player": "Matt Vengrin",
-          "points": 150.0
+          "points": 151.0
         },
         {
           "player": "Bryce Yockey",
@@ -87,9 +87,9 @@
           "points": 55.0
         }
       ],
-      "totalPoints": 942.0,
-      "pointsChange": 7.0,
-      "pointsChangeSincePrevious": 7.0
+      "totalPoints": 943.0,
+      "pointsChange": 8.0,
+      "pointsChangeSincePrevious": 1.0
     },
     {
       "managerName": "JeffBNT",
@@ -131,7 +131,7 @@
       ],
       "totalPoints": 674.0,
       "pointsChange": 4.0,
-      "pointsChangeSincePrevious": 4.0
+      "pointsChangeSincePrevious": 0.0
     },
     {
       "managerName": "realbmorekid",
@@ -173,7 +173,7 @@
       ],
       "totalPoints": 623.0,
       "pointsChange": 1.0,
-      "pointsChangeSincePrevious": 1.0
+      "pointsChangeSincePrevious": 0.0
     },
     {
       "managerName": "Doinky",
@@ -186,7 +186,7 @@
         },
         {
           "player": "Matt Vengrin",
-          "points": 150.0
+          "points": 151.0
         },
         {
           "player": "Stephen Song",
@@ -213,9 +213,9 @@
           "points": 0.0
         }
       ],
-      "totalPoints": 607.0,
-      "pointsChange": 4.0,
-      "pointsChangeSincePrevious": 4.0
+      "totalPoints": 608.0,
+      "pointsChange": 5.0,
+      "pointsChangeSincePrevious": 1.0
     },
     {
       "managerName": "Ruben",
@@ -224,7 +224,7 @@
       "players": [
         {
           "player": "Matt Vengrin",
-          "points": 150.0
+          "points": 151.0
         },
         {
           "player": "Maksim Pisarenko",
@@ -255,8 +255,8 @@
           "points": 30.0
         }
       ],
-      "totalPoints": 602.0,
-      "pointsChange": 1.0,
+      "totalPoints": 603.0,
+      "pointsChange": 2.0,
       "pointsChangeSincePrevious": 1.0
     },
     {
@@ -286,7 +286,7 @@
         },
         {
           "player": "Phillip Hui",
-          "points": 24.0
+          "points": 25.0
         },
         {
           "player": "Esther Taylor",
@@ -297,9 +297,9 @@
           "points": 11.0
         }
       ],
-      "totalPoints": 544.0,
-      "pointsChange": 3.0,
-      "pointsChangeSincePrevious": 3.0
+      "totalPoints": 545.0,
+      "pointsChange": 4.0,
+      "pointsChangeSincePrevious": 1.0
     },
     {
       "managerName": "Turbo",
@@ -383,7 +383,7 @@
       ],
       "totalPoints": 316.0,
       "pointsChange": 1.0,
-      "pointsChangeSincePrevious": 1.0
+      "pointsChangeSincePrevious": 0.0
     }
   ],
   "failures": []
