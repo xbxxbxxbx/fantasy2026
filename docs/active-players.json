@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-09T07:52:46.750737+00:00",
+  "generatedAt": "2026-07-09T10:54:14.199860+00:00",
   "league": "25k",
   "count": 1,
   "players": [
@@ -8,11 +8,11 @@
       "event": "Event #86: $600 ULTRA STACK No-Limit Hold'em",
       "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-86/",
       "team": "Gators",
-      "rank": "11 / 26",
-      "chips": "10,800,000",
-      "bb": "10.8 BB",
+      "rank": "3 / 16",
+      "chips": "44,500,000",
+      "bb": "29.7 BB",
       "bonus": "Locked 81 PTS",
-      "points": 81.0
+      "points": 83.0
     }
   ]
 }
