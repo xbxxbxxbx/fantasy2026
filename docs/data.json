@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-10T01:01:32.531140+00:00",
+  "generatedAt": "2026-07-10T05:03:57.288494+00:00",
   "leagueName": "WSOP Poker Fantasy Draft 2026",
   "sourceLabel": "25KFantasy",
   "sourceUrl": "https://www.25kfantasy.com/players/",
@@ -173,7 +173,7 @@
       ],
       "totalPoints": 624.0,
       "pointsChange": 2.0,
-      "pointsChangeSincePrevious": 1.0
+      "pointsChangeSincePrevious": 0.0
     },
     {
       "managerName": "Doinky",
@@ -215,7 +215,7 @@
       ],
       "totalPoints": 609.0,
       "pointsChange": 6.0,
-      "pointsChangeSincePrevious": 1.0
+      "pointsChangeSincePrevious": 0.0
     },
     {
       "managerName": "Ruben",
@@ -227,12 +227,12 @@
           "points": 151.0
         },
         {
-          "player": "Maksim Pisarenko",
-          "points": 87.0
+          "player": "Ian Matakis",
+          "points": 89.0
         },
         {
-          "player": "Ian Matakis",
-          "points": 86.0
+          "player": "Maksim Pisarenko",
+          "points": 87.0
         },
         {
           "player": "Jerry Wong",
@@ -240,7 +240,7 @@
         },
         {
           "player": "Brandon Shack-Harris",
-          "points": 60.0
+          "points": 61.0
         },
         {
           "player": "Jim Collopy",
@@ -255,9 +255,9 @@
           "points": 30.0
         }
       ],
-      "totalPoints": 603.0,
-      "pointsChange": 2.0,
-      "pointsChangeSincePrevious": 0.0
+      "totalPoints": 607.0,
+      "pointsChange": 6.0,
+      "pointsChangeSincePrevious": 4.0
     },
     {
       "managerName": "Gus",
@@ -270,7 +270,7 @@
         },
         {
           "player": "Allan Le",
-          "points": 96.0
+          "points": 99.0
         },
         {
           "player": "Jerry Wong",
@@ -278,7 +278,7 @@
         },
         {
           "player": "Nick Guagenti",
-          "points": 77.0
+          "points": 78.0
         },
         {
           "player": "Matt Glantz",
@@ -297,9 +297,9 @@
           "points": 11.0
         }
       ],
-      "totalPoints": 546.0,
-      "pointsChange": 5.0,
-      "pointsChangeSincePrevious": 1.0
+      "totalPoints": 550.0,
+      "pointsChange": 9.0,
+      "pointsChangeSincePrevious": 4.0
     },
     {
       "managerName": "Turbo",
@@ -383,7 +383,7 @@
       ],
       "totalPoints": 317.0,
       "pointsChange": 2.0,
-      "pointsChangeSincePrevious": 1.0
+      "pointsChangeSincePrevious": 0.0
     }
   ],
   "failures": []
