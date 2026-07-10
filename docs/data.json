@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-10T20:57:13.610269+00:00",
+  "generatedAt": "2026-07-10T22:12:15.666680+00:00",
   "leagueName": "WSOP Poker Fantasy Draft 2026",
   "sourceLabel": "25KFantasy",
   "sourceUrl": "https://www.25kfantasy.com/players/",
@@ -64,7 +64,7 @@
         },
         {
           "player": "Bryce Yockey",
-          "points": 135.0
+          "points": 136.0
         },
         {
           "player": "Mike Leah",
@@ -87,8 +87,8 @@
           "points": 55.0
         }
       ],
-      "totalPoints": 944.0,
-      "pointsChange": 1.0,
+      "totalPoints": 945.0,
+      "pointsChange": 2.0,
       "pointsChangeSincePrevious": 1.0
     },
     {
@@ -173,7 +173,7 @@
       ],
       "totalPoints": 625.0,
       "pointsChange": 1.0,
-      "pointsChangeSincePrevious": 1.0
+      "pointsChangeSincePrevious": 0.0
     },
     {
       "managerName": "Doinky",
@@ -215,7 +215,7 @@
       ],
       "totalPoints": 610.0,
       "pointsChange": 1.0,
-      "pointsChangeSincePrevious": 1.0
+      "pointsChangeSincePrevious": 0.0
     },
     {
       "managerName": "Ruben",
@@ -257,7 +257,7 @@
       ],
       "totalPoints": 609.0,
       "pointsChange": 1.0,
-      "pointsChangeSincePrevious": 1.0
+      "pointsChangeSincePrevious": 0.0
     },
     {
       "managerName": "Gus",
