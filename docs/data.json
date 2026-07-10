@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-10T19:47:47.014914+00:00",
+  "generatedAt": "2026-07-10T20:57:13.610269+00:00",
   "leagueName": "WSOP Poker Fantasy Draft 2026",
   "sourceLabel": "25KFantasy",
   "sourceUrl": "https://www.25kfantasy.com/players/",
@@ -47,7 +47,7 @@
       ],
       "totalPoints": 1090.0,
       "pointsChange": 3.0,
-      "pointsChangeSincePrevious": 3.0
+      "pointsChangeSincePrevious": 0.0
     },
     {
       "managerName": "ASG",
@@ -60,7 +60,7 @@
         },
         {
           "player": "Matt Vengrin",
-          "points": 151.0
+          "points": 152.0
         },
         {
           "player": "Bryce Yockey",
@@ -87,9 +87,9 @@
           "points": 55.0
         }
       ],
-      "totalPoints": 943.0,
-      "pointsChange": 0.0,
-      "pointsChangeSincePrevious": 0.0
+      "totalPoints": 944.0,
+      "pointsChange": 1.0,
+      "pointsChangeSincePrevious": 1.0
     },
     {
       "managerName": "JeffBNT",
@@ -148,7 +148,7 @@
         },
         {
           "player": "Christian Harder",
-          "points": 60.0
+          "points": 61.0
         },
         {
           "player": "Cherish Andrews",
@@ -171,9 +171,9 @@
           "points": 9.0
         }
       ],
-      "totalPoints": 624.0,
-      "pointsChange": 0.0,
-      "pointsChangeSincePrevious": 0.0
+      "totalPoints": 625.0,
+      "pointsChange": 1.0,
+      "pointsChangeSincePrevious": 1.0
     },
     {
       "managerName": "Doinky",
@@ -186,7 +186,7 @@
         },
         {
           "player": "Matt Vengrin",
-          "points": 151.0
+          "points": 152.0
         },
         {
           "player": "Stephen Song",
@@ -213,9 +213,9 @@
           "points": 0.0
         }
       ],
-      "totalPoints": 609.0,
-      "pointsChange": 0.0,
-      "pointsChangeSincePrevious": 0.0
+      "totalPoints": 610.0,
+      "pointsChange": 1.0,
+      "pointsChangeSincePrevious": 1.0
     },
     {
       "managerName": "Ruben",
@@ -224,7 +224,7 @@
       "players": [
         {
           "player": "Matt Vengrin",
-          "points": 151.0
+          "points": 152.0
         },
         {
           "player": "Ian Matakis",
@@ -255,9 +255,9 @@
           "points": 30.0
         }
       ],
-      "totalPoints": 608.0,
-      "pointsChange": 0.0,
-      "pointsChangeSincePrevious": 0.0
+      "totalPoints": 609.0,
+      "pointsChange": 1.0,
+      "pointsChangeSincePrevious": 1.0
     },
     {
       "managerName": "Gus",
