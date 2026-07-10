@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-10T18:01:14.835625+00:00",
+  "generatedAt": "2026-07-10T19:47:47.014914+00:00",
   "leagueName": "WSOP Poker Fantasy Draft 2026",
   "sourceLabel": "25KFantasy",
   "sourceUrl": "https://www.25kfantasy.com/players/",
@@ -14,7 +14,7 @@
       "players": [
         {
           "player": "Martin Zamani",
-          "points": 334.0
+          "points": 337.0
         },
         {
           "player": "David 'ODB' Baker",
@@ -45,9 +45,9 @@
           "points": 20.0
         }
       ],
-      "totalPoints": 1087.0,
-      "pointsChange": 0.0,
-      "pointsChangeSincePrevious": 0.0
+      "totalPoints": 1090.0,
+      "pointsChange": 3.0,
+      "pointsChangeSincePrevious": 3.0
     },
     {
       "managerName": "ASG",
