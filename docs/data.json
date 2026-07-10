@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-10T05:03:57.288494+00:00",
+  "generatedAt": "2026-07-10T08:41:11.327194+00:00",
   "leagueName": "WSOP Poker Fantasy Draft 2026",
   "sourceLabel": "25KFantasy",
   "sourceUrl": "https://www.25kfantasy.com/players/",
@@ -18,7 +18,7 @@
         },
         {
           "player": "David 'ODB' Baker",
-          "points": 237.0
+          "points": 285.0
         },
         {
           "player": "Allen Kessler",
@@ -45,9 +45,9 @@
           "points": 20.0
         }
       ],
-      "totalPoints": 1039.0,
-      "pointsChange": 6.0,
-      "pointsChangeSincePrevious": 0.0
+      "totalPoints": 1087.0,
+      "pointsChange": 54.0,
+      "pointsChangeSincePrevious": 48.0
     },
     {
       "managerName": "ASG",
@@ -102,7 +102,7 @@
         },
         {
           "player": "Arthur Morris",
-          "points": 135.0
+          "points": 183.0
         },
         {
           "player": "Sam Soverel",
@@ -129,9 +129,9 @@
           "points": 9.0
         }
       ],
-      "totalPoints": 674.0,
-      "pointsChange": 4.0,
-      "pointsChangeSincePrevious": 0.0
+      "totalPoints": 722.0,
+      "pointsChange": 52.0,
+      "pointsChangeSincePrevious": 48.0
     },
     {
       "managerName": "realbmorekid",
@@ -244,7 +244,7 @@
         },
         {
           "player": "Jim Collopy",
-          "points": 57.0
+          "points": 58.0
         },
         {
           "player": "Ryan Hoenig",
@@ -255,9 +255,9 @@
           "points": 30.0
         }
       ],
-      "totalPoints": 607.0,
-      "pointsChange": 6.0,
-      "pointsChangeSincePrevious": 4.0
+      "totalPoints": 608.0,
+      "pointsChange": 7.0,
+      "pointsChangeSincePrevious": 1.0
     },
     {
       "managerName": "Gus",
@@ -299,7 +299,7 @@
       ],
       "totalPoints": 550.0,
       "pointsChange": 9.0,
-      "pointsChangeSincePrevious": 4.0
+      "pointsChangeSincePrevious": 0.0
     },
     {
       "managerName": "Turbo",
