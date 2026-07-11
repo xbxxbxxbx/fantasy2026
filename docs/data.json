@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-11T03:48:48.031369+00:00",
+  "generatedAt": "2026-07-11T06:05:46.793112+00:00",
   "leagueName": "WSOP Poker Fantasy Draft 2026",
   "sourceLabel": "25KFantasy",
   "sourceUrl": "https://www.25kfantasy.com/players/",
@@ -140,7 +140,7 @@
       "players": [
         {
           "player": "Joey Weissman",
-          "points": 260.0
+          "points": 263.0
         },
         {
           "player": "Shaun Deeb",
@@ -171,9 +171,9 @@
           "points": 9.0
         }
       ],
-      "totalPoints": 625.0,
-      "pointsChange": 1.0,
-      "pointsChangeSincePrevious": 0.0
+      "totalPoints": 628.0,
+      "pointsChange": 4.0,
+      "pointsChangeSincePrevious": 3.0
     },
     {
       "managerName": "Doinky",
@@ -198,7 +198,7 @@
         },
         {
           "player": "Andrew Ostapchenko",
-          "points": 52.0
+          "points": 65.0
         },
         {
           "player": "Eric Wasserson",
@@ -213,9 +213,9 @@
           "points": 0.0
         }
       ],
-      "totalPoints": 610.0,
-      "pointsChange": 1.0,
-      "pointsChangeSincePrevious": 0.0
+      "totalPoints": 623.0,
+      "pointsChange": 14.0,
+      "pointsChangeSincePrevious": 13.0
     },
     {
       "managerName": "Ruben",
@@ -257,7 +257,7 @@
       ],
       "totalPoints": 610.0,
       "pointsChange": 2.0,
-      "pointsChangeSincePrevious": 1.0
+      "pointsChangeSincePrevious": 0.0
     },
     {
       "managerName": "Gus",
@@ -299,7 +299,7 @@
       ],
       "totalPoints": 552.0,
       "pointsChange": 2.0,
-      "pointsChangeSincePrevious": 1.0
+      "pointsChangeSincePrevious": 0.0
     },
     {
       "managerName": "Turbo",
@@ -353,16 +353,16 @@
           "points": 73.0
         },
         {
+          "player": "Andrew Ostapchenko",
+          "points": 65.0
+        },
+        {
           "player": "Chance Kornuth",
           "points": 57.0
         },
         {
           "player": "Patrick Leonard",
           "points": 55.0
-        },
-        {
-          "player": "Andrew Ostapchenko",
-          "points": 52.0
         },
         {
           "player": "Viktor Blom",
@@ -381,9 +381,9 @@
           "points": 0.0
         }
       ],
-      "totalPoints": 317.0,
-      "pointsChange": 0.0,
-      "pointsChangeSincePrevious": 0.0
+      "totalPoints": 330.0,
+      "pointsChange": 13.0,
+      "pointsChangeSincePrevious": 13.0
     }
   ],
   "failures": []
