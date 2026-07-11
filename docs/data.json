@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-11T00:14:42.171791+00:00",
+  "generatedAt": "2026-07-11T03:48:48.031369+00:00",
   "leagueName": "WSOP Poker Fantasy Draft 2026",
   "sourceLabel": "25KFantasy",
   "sourceUrl": "https://www.25kfantasy.com/players/",
@@ -236,7 +236,7 @@
         },
         {
           "player": "Jerry Wong",
-          "points": 81.0
+          "points": 82.0
         },
         {
           "player": "Brandon Shack-Harris",
@@ -255,9 +255,9 @@
           "points": 30.0
         }
       ],
-      "totalPoints": 609.0,
-      "pointsChange": 1.0,
-      "pointsChangeSincePrevious": 0.0
+      "totalPoints": 610.0,
+      "pointsChange": 2.0,
+      "pointsChangeSincePrevious": 1.0
     },
     {
       "managerName": "Gus",
@@ -274,7 +274,7 @@
         },
         {
           "player": "Jerry Wong",
-          "points": 81.0
+          "points": 82.0
         },
         {
           "player": "Nick Guagenti",
@@ -297,9 +297,9 @@
           "points": 12.0
         }
       ],
-      "totalPoints": 551.0,
-      "pointsChange": 1.0,
-      "pointsChangeSincePrevious": 0.0
+      "totalPoints": 552.0,
+      "pointsChange": 2.0,
+      "pointsChangeSincePrevious": 1.0
     },
     {
       "managerName": "Turbo",
