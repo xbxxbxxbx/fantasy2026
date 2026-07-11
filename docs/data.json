@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-11T06:05:46.793112+00:00",
+  "generatedAt": "2026-07-11T08:14:31.995570+00:00",
   "leagueName": "WSOP Poker Fantasy Draft 2026",
   "sourceLabel": "25KFantasy",
   "sourceUrl": "https://www.25kfantasy.com/players/",
@@ -173,7 +173,7 @@
       ],
       "totalPoints": 628.0,
       "pointsChange": 4.0,
-      "pointsChangeSincePrevious": 3.0
+      "pointsChangeSincePrevious": 0.0
     },
     {
       "managerName": "Doinky",
@@ -215,7 +215,7 @@
       ],
       "totalPoints": 623.0,
       "pointsChange": 14.0,
-      "pointsChangeSincePrevious": 13.0
+      "pointsChangeSincePrevious": 0.0
     },
     {
       "managerName": "Ruben",
@@ -312,7 +312,7 @@
         },
         {
           "player": "John Racener",
-          "points": 96.0
+          "points": 109.0
         },
         {
           "player": "Tyler Phillips",
@@ -339,9 +339,9 @@
           "points": 0.0
         }
       ],
-      "totalPoints": 415.0,
-      "pointsChange": 0.0,
-      "pointsChangeSincePrevious": 0.0
+      "totalPoints": 428.0,
+      "pointsChange": 13.0,
+      "pointsChangeSincePrevious": 13.0
     },
     {
       "managerName": "Trampstamp",
@@ -383,7 +383,7 @@
       ],
       "totalPoints": 330.0,
       "pointsChange": 13.0,
-      "pointsChangeSincePrevious": 13.0
+      "pointsChangeSincePrevious": 0.0
     }
   ],
   "failures": []
