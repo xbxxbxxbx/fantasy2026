@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-11T21:27:07.854261+00:00",
+  "generatedAt": "2026-07-11T22:27:01.824343+00:00",
   "leagueName": "WSOP Poker Fantasy Draft 2026",
   "sourceLabel": "25KFantasy",
   "sourceUrl": "https://www.25kfantasy.com/players/",
@@ -71,12 +71,12 @@
           "points": 110.0
         },
         {
-          "player": "Jason Koon",
-          "points": 73.0
+          "player": "Jon Turner",
+          "points": 90.0
         },
         {
-          "player": "Jon Turner",
-          "points": 62.0
+          "player": "Jason Koon",
+          "points": 73.0
         },
         {
           "player": "Chance Kornuth",
@@ -87,9 +87,9 @@
           "points": 55.0
         }
       ],
-      "totalPoints": 945.0,
-      "pointsChange": 0.0,
-      "pointsChangeSincePrevious": 0.0
+      "totalPoints": 973.0,
+      "pointsChange": 28.0,
+      "pointsChangeSincePrevious": 28.0
     },
     {
       "managerName": "JeffBNT",
@@ -105,12 +105,12 @@
           "points": 183.0
         },
         {
-          "player": "Sam Soverel",
-          "points": 80.0
+          "player": "Jon Turner",
+          "points": 90.0
         },
         {
-          "player": "Jon Turner",
-          "points": 62.0
+          "player": "Sam Soverel",
+          "points": 80.0
         },
         {
           "player": "Nicholas Seward",
@@ -129,9 +129,9 @@
           "points": 9.0
         }
       ],
-      "totalPoints": 722.0,
-      "pointsChange": 0.0,
-      "pointsChangeSincePrevious": 0.0
+      "totalPoints": 750.0,
+      "pointsChange": 28.0,
+      "pointsChangeSincePrevious": 28.0
     },
     {
       "managerName": "realbmorekid",
@@ -323,11 +323,11 @@
           "points": 55.0
         },
         {
-          "player": "Brad Owen",
-          "points": 24.0
+          "player": "Erik Seidel",
+          "points": 36.0
         },
         {
-          "player": "Erik Seidel",
+          "player": "Brad Owen",
           "points": 24.0
         },
         {
@@ -339,9 +339,9 @@
           "points": 0.0
         }
       ],
-      "totalPoints": 428.0,
-      "pointsChange": 0.0,
-      "pointsChangeSincePrevious": 0.0
+      "totalPoints": 440.0,
+      "pointsChange": 12.0,
+      "pointsChangeSincePrevious": 12.0
     },
     {
       "managerName": "Trampstamp",
