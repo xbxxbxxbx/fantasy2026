@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-12T01:10:53.558598+00:00",
+  "generatedAt": "2026-07-12T04:42:03.608410+00:00",
   "leagueName": "WSOP Poker Fantasy Draft 2026",
   "sourceLabel": "25KFantasy",
   "sourceUrl": "https://www.25kfantasy.com/players/",
@@ -26,7 +26,7 @@
         },
         {
           "player": "Allen Kessler",
-          "points": 141.0
+          "points": 142.0
         },
         {
           "player": "Mike Leah",
@@ -45,9 +45,9 @@
           "points": 20.0
         }
       ],
-      "totalPoints": 1112.0,
-      "pointsChange": 22.0,
-      "pointsChangeSincePrevious": 0.0
+      "totalPoints": 1113.0,
+      "pointsChange": 23.0,
+      "pointsChangeSincePrevious": 1.0
     },
     {
       "managerName": "ASG",
@@ -118,7 +118,7 @@
         },
         {
           "player": "Ari Engel",
-          "points": 32.0
+          "points": 33.0
         },
         {
           "player": "Ben Yu",
@@ -129,9 +129,9 @@
           "points": 9.0
         }
       ],
-      "totalPoints": 750.0,
-      "pointsChange": 28.0,
-      "pointsChangeSincePrevious": 0.0
+      "totalPoints": 751.0,
+      "pointsChange": 29.0,
+      "pointsChangeSincePrevious": 1.0
     },
     {
       "managerName": "realbmorekid",
@@ -148,7 +148,7 @@
         },
         {
           "player": "Christian Harder",
-          "points": 61.0
+          "points": 62.0
         },
         {
           "player": "Cherish Andrews",
@@ -171,9 +171,9 @@
           "points": 9.0
         }
       ],
-      "totalPoints": 628.0,
-      "pointsChange": 0.0,
-      "pointsChangeSincePrevious": 0.0
+      "totalPoints": 629.0,
+      "pointsChange": 1.0,
+      "pointsChangeSincePrevious": 1.0
     },
     {
       "managerName": "Doinky",
@@ -182,7 +182,7 @@
       "players": [
         {
           "player": "Dylan Weisman",
-          "points": 190.0
+          "points": 191.0
         },
         {
           "player": "Matt Vengrin",
@@ -190,7 +190,7 @@
         },
         {
           "player": "Stephen Song",
-          "points": 110.0
+          "points": 111.0
         },
         {
           "player": "Sam Soverel",
@@ -213,9 +213,9 @@
           "points": 0.0
         }
       ],
-      "totalPoints": 623.0,
-      "pointsChange": 0.0,
-      "pointsChangeSincePrevious": 0.0
+      "totalPoints": 625.0,
+      "pointsChange": 2.0,
+      "pointsChangeSincePrevious": 2.0
     },
     {
       "managerName": "Ruben",
@@ -270,7 +270,7 @@
         },
         {
           "player": "Allan Le",
-          "points": 99.0
+          "points": 100.0
         },
         {
           "player": "Jerry Wong",
@@ -297,9 +297,9 @@
           "points": 12.0
         }
       ],
-      "totalPoints": 552.0,
-      "pointsChange": 0.0,
-      "pointsChangeSincePrevious": 0.0
+      "totalPoints": 553.0,
+      "pointsChange": 1.0,
+      "pointsChangeSincePrevious": 1.0
     },
     {
       "managerName": "Turbo",
@@ -308,7 +308,7 @@
       "players": [
         {
           "player": "Allen Kessler",
-          "points": 141.0
+          "points": 142.0
         },
         {
           "player": "John Racener",
@@ -339,9 +339,9 @@
           "points": 0.0
         }
       ],
-      "totalPoints": 440.0,
-      "pointsChange": 12.0,
-      "pointsChangeSincePrevious": 0.0
+      "totalPoints": 441.0,
+      "pointsChange": 13.0,
+      "pointsChangeSincePrevious": 1.0
     },
     {
       "managerName": "Trampstamp",
