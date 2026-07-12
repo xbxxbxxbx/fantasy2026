@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-07-12T16:41:18.357484+00:00",
+  "generatedAt": "2026-07-12T17:44:29.038749+00:00",
   "league": "25k",
-  "count": 34,
+  "count": 32,
   "players": [
     {
       "player": "Malcolm Trayner",
@@ -10,7 +10,7 @@
       "team": "Trump Power",
       "rank": "7 / 62",
       "chips": "17,200,000",
-      "bb": "114.7 BB",
+      "bb": "86.0 BB",
       "bonus": "Locked 95 PTS",
       "points": 95.0
     },
@@ -21,7 +21,7 @@
       "team": "2026 ODB Bonus Players",
       "rank": "23 / 62",
       "chips": "10,000,000",
-      "bb": "66.7 BB",
+      "bb": "50.0 BB",
       "bonus": "Locked 95 PTS",
       "points": 95.0
     },
@@ -32,18 +32,7 @@
       "team": "Torching with TJ",
       "rank": "28 / 62",
       "chips": "7,775,000",
-      "bb": "51.8 BB",
-      "bonus": "Locked 95 PTS",
-      "points": 95.0
-    },
-    {
-      "player": "Shaun Deeb",
-      "event": "Event #82: $10,000 MAIN EVENT NLH World Championship",
-      "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-82/",
-      "team": "Trump Power",
-      "rank": "29 / 62",
-      "chips": "7,650,000",
-      "bb": "51.0 BB",
+      "bb": "38.9 BB",
       "bonus": "Locked 95 PTS",
       "points": 95.0
     },
@@ -54,18 +43,7 @@
       "team": "Dinkers",
       "rank": "35 / 62",
       "chips": "6,775,000",
-      "bb": "45.2 BB",
-      "bonus": "Locked 95 PTS",
-      "points": 95.0
-    },
-    {
-      "player": "Dylan Smith",
-      "event": "Event #82: $10,000 MAIN EVENT NLH World Championship",
-      "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-82/",
-      "team": "Spitework",
-      "rank": "47 / 62",
-      "chips": "4,350,000",
-      "bb": "29.0 BB",
+      "bb": "33.9 BB",
       "bonus": "Locked 95 PTS",
       "points": 95.0
     },
