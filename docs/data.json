@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-12T17:44:28.390062+00:00",
+  "generatedAt": "2026-07-12T18:43:31.808190+00:00",
   "leagueName": "WSOP Poker Fantasy Draft 2026",
   "sourceLabel": "25KFantasy",
   "sourceUrl": "https://www.25kfantasy.com/players/",
@@ -18,7 +18,7 @@
         },
         {
           "player": "David 'ODB' Baker",
-          "points": 285.0
+          "points": 286.0
         },
         {
           "player": "Kristen Foxen",
@@ -30,7 +30,7 @@
         },
         {
           "player": "Mike Leah",
-          "points": 110.0
+          "points": 111.0
         },
         {
           "player": "Viktor Blom",
@@ -45,9 +45,9 @@
           "points": 20.0
         }
       ],
-      "totalPoints": 1113.0,
-      "pointsChange": 0.0,
-      "pointsChangeSincePrevious": 0.0
+      "totalPoints": 1115.0,
+      "pointsChange": 2.0,
+      "pointsChangeSincePrevious": 2.0
     },
     {
       "managerName": "ASG",
@@ -68,7 +68,7 @@
         },
         {
           "player": "Mike Leah",
-          "points": 110.0
+          "points": 111.0
         },
         {
           "player": "Jon Turner",
@@ -87,9 +87,9 @@
           "points": 55.0
         }
       ],
-      "totalPoints": 974.0,
-      "pointsChange": 0.0,
-      "pointsChangeSincePrevious": 0.0
+      "totalPoints": 975.0,
+      "pointsChange": 1.0,
+      "pointsChangeSincePrevious": 1.0
     },
     {
       "managerName": "JeffBNT",
@@ -156,7 +156,7 @@
         },
         {
           "player": "Esther Taylor",
-          "points": 23.0
+          "points": 24.0
         },
         {
           "player": "Jeremy Becker",
@@ -171,9 +171,9 @@
           "points": 9.0
         }
       ],
-      "totalPoints": 630.0,
-      "pointsChange": 0.0,
-      "pointsChangeSincePrevious": 0.0
+      "totalPoints": 631.0,
+      "pointsChange": 1.0,
+      "pointsChangeSincePrevious": 1.0
     },
     {
       "managerName": "Doinky",
@@ -290,16 +290,16 @@
         },
         {
           "player": "Esther Taylor",
-          "points": 23.0
+          "points": 24.0
         },
         {
           "player": "Danny Wong",
           "points": 12.0
         }
       ],
-      "totalPoints": 553.0,
-      "pointsChange": 0.0,
-      "pointsChangeSincePrevious": 0.0
+      "totalPoints": 554.0,
+      "pointsChange": 1.0,
+      "pointsChangeSincePrevious": 1.0
     },
     {
       "managerName": "Turbo",
@@ -374,16 +374,16 @@
         },
         {
           "player": "Esther Taylor",
-          "points": 23.0
+          "points": 24.0
         },
         {
           "player": "Ben Lamb",
           "points": 0.0
         }
       ],
-      "totalPoints": 331.0,
-      "pointsChange": 0.0,
-      "pointsChangeSincePrevious": 0.0
+      "totalPoints": 332.0,
+      "pointsChange": 1.0,
+      "pointsChangeSincePrevious": 1.0
     }
   ],
   "failures": []
