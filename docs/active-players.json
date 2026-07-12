@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-07-12T21:01:45.631148+00:00",
+  "generatedAt": "2026-07-12T22:04:03.851457+00:00",
   "league": "25k",
-  "count": 23,
+  "count": 17,
   "players": [
     {
       "player": "Malcolm Trayner",
@@ -37,14 +37,14 @@
       "points": 95.0
     },
     {
-      "player": "Ben Yu",
-      "event": "Event #88: $300 Gladiators of Poker No-Limit Hold'em",
-      "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-88/",
-      "team": "Back Office",
-      "rank": "65 / 129",
-      "chips": "1,600,000",
-      "bb": "13.3 BB",
-      "bonus": "Top 81 101 PTS",
+      "player": "Justin Saliba",
+      "event": "Event #89: $3,000 Mid-Stakes Championship No-Limit Hold'em",
+      "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-89/",
+      "team": "Browndog",
+      "rank": "12 / 91",
+      "chips": "2,260,000",
+      "bb": "56.5 BB",
+      "bonus": "Top 45 37 PTS",
       "points": 1.0
     },
     {
@@ -52,20 +52,9 @@
       "event": "Event #89: $3,000 Mid-Stakes Championship No-Limit Hold'em",
       "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-89/",
       "team": "2026 ODB Bonus Players",
-      "rank": "5 / 113",
-      "chips": "2,150,000",
-      "bb": "71.7 BB",
-      "bonus": "Top 45 37 PTS",
-      "points": 1.0
-    },
-    {
-      "player": "Clemen Deng",
-      "event": "Event #89: $3,000 Mid-Stakes Championship No-Limit Hold'em",
-      "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-89/",
-      "team": "2026 ODB Bonus Players",
-      "rank": "27 / 113",
-      "chips": "1,450,000",
-      "bb": "48.3 BB",
+      "rank": "13 / 91",
+      "chips": "2,255,000",
+      "bb": "56.4 BB",
       "bonus": "Top 45 37 PTS",
       "points": 1.0
     },
@@ -74,31 +63,9 @@
       "event": "Event #89: $3,000 Mid-Stakes Championship No-Limit Hold'em",
       "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-89/",
       "team": "2026 ODB Bonus Players",
-      "rank": "46 / 113",
-      "chips": "1,065,000",
-      "bb": "35.5 BB",
-      "bonus": "Top 45 37 PTS",
-      "points": 1.0
-    },
-    {
-      "player": "Matt Affleck",
-      "event": "Event #89: $3,000 Mid-Stakes Championship No-Limit Hold'em",
-      "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-89/",
-      "team": "2026 ODB Bonus Players",
-      "rank": "48 / 113",
-      "chips": "1,030,000",
-      "bb": "34.3 BB",
-      "bonus": "Top 45 37 PTS",
-      "points": 1.0
-    },
-    {
-      "player": "Nicholas Verderamo",
-      "event": "Event #89: $3,000 Mid-Stakes Championship No-Limit Hold'em",
-      "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-89/",
-      "team": "2026 ODB Bonus Players",
-      "rank": "53 / 113",
-      "chips": "910,000",
-      "bb": "30.3 BB",
+      "rank": "35 / 91",
+      "chips": "1,475,000",
+      "bb": "36.9 BB",
       "bonus": "Top 45 37 PTS",
       "points": 1.0
     },
@@ -107,42 +74,9 @@
       "event": "Event #89: $3,000 Mid-Stakes Championship No-Limit Hold'em",
       "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-89/",
       "team": "Spitework",
-      "rank": "58 / 113",
-      "chips": "870,000",
-      "bb": "29.0 BB",
-      "bonus": "Top 45 37 PTS",
-      "points": 1.0
-    },
-    {
-      "player": "Klemens Roiter",
-      "event": "Event #89: $3,000 Mid-Stakes Championship No-Limit Hold'em",
-      "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-89/",
-      "team": "Lady Gaga",
-      "rank": "76 / 113",
-      "chips": "720,000",
-      "bb": "24.0 BB",
-      "bonus": "Top 45 37 PTS",
-      "points": 1.0
-    },
-    {
-      "player": "Ren Lin",
-      "event": "Event #89: $3,000 Mid-Stakes Championship No-Limit Hold'em",
-      "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-89/",
-      "team": "Lang Gang",
-      "rank": "92 / 113",
-      "chips": "525,000",
-      "bb": "17.5 BB",
-      "bonus": "Top 45 37 PTS",
-      "points": 1.0
-    },
-    {
-      "player": "Justin Saliba",
-      "event": "Event #89: $3,000 Mid-Stakes Championship No-Limit Hold'em",
-      "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-89/",
-      "team": "Browndog",
-      "rank": "101 / 113",
-      "chips": "442,000",
-      "bb": "14.7 BB",
+      "rank": "39 / 91",
+      "chips": "1,415,000",
+      "bb": "35.4 BB",
       "bonus": "Top 45 37 PTS",
       "points": 1.0
     },
@@ -151,9 +85,53 @@
       "event": "Event #89: $3,000 Mid-Stakes Championship No-Limit Hold'em",
       "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-89/",
       "team": "2026 ODB Bonus Players",
-      "rank": "104 / 113",
-      "chips": "380,000",
-      "bb": "12.7 BB",
+      "rank": "44 / 91",
+      "chips": "1,300,000",
+      "bb": "32.5 BB",
+      "bonus": "Top 45 37 PTS",
+      "points": 1.0
+    },
+    {
+      "player": "Clemen Deng",
+      "event": "Event #89: $3,000 Mid-Stakes Championship No-Limit Hold'em",
+      "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-89/",
+      "team": "2026 ODB Bonus Players",
+      "rank": "48 / 91",
+      "chips": "1,195,000",
+      "bb": "29.9 BB",
+      "bonus": "Top 45 37 PTS",
+      "points": 1.0
+    },
+    {
+      "player": "Nicholas Verderamo",
+      "event": "Event #89: $3,000 Mid-Stakes Championship No-Limit Hold'em",
+      "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-89/",
+      "team": "2026 ODB Bonus Players",
+      "rank": "53 / 91",
+      "chips": "1,135,000",
+      "bb": "28.4 BB",
+      "bonus": "Top 45 37 PTS",
+      "points": 1.0
+    },
+    {
+      "player": "Matt Affleck",
+      "event": "Event #89: $3,000 Mid-Stakes Championship No-Limit Hold'em",
+      "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-89/",
+      "team": "2026 ODB Bonus Players",
+      "rank": "68 / 91",
+      "chips": "820,000",
+      "bb": "20.5 BB",
+      "bonus": "Top 45 37 PTS",
+      "points": 1.0
+    },
+    {
+      "player": "Klemens Roiter",
+      "event": "Event #89: $3,000 Mid-Stakes Championship No-Limit Hold'em",
+      "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-89/",
+      "team": "Lady Gaga",
+      "rank": "73 / 91",
+      "chips": "720,000",
+      "bb": "18.0 BB",
       "bonus": "Top 45 37 PTS",
       "points": 1.0
     },
@@ -162,9 +140,9 @@
       "event": "Event #89: $3,000 Mid-Stakes Championship No-Limit Hold'em",
       "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-89/",
       "team": "2026 ODB Bonus Players",
-      "rank": "105 / 113",
-      "chips": "365,000",
-      "bb": "12.2 BB",
+      "rank": "91 / 91",
+      "chips": "155,000",
+      "bb": "3.9 BB",
       "bonus": "Top 45 37 PTS",
       "points": 1.0
     },
@@ -173,88 +151,44 @@
       "event": "Event #92: $3,000 T.O.R.S.E.",
       "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-92/",
       "team": "Blades & Shades",
-      "rank": "1 / 16",
-      "chips": "2,020,000",
+      "rank": "1 / 10",
+      "chips": "2,880,000",
       "bb": "\u2014",
       "bonus": "Locked 9 PTS",
-      "points": 9.0
-    },
-    {
-      "player": "Alex Livingston",
-      "event": "Event #92: $3,000 T.O.R.S.E.",
-      "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-92/",
-      "team": "Torching with TJ",
-      "rank": "2 / 16",
-      "chips": "1,840,000",
-      "bb": "\u2014",
-      "bonus": "Locked 9 PTS",
-      "points": 9.0
+      "points": 0.0
     },
     {
       "player": "Jesse Lonis",
       "event": "Event #92: $3,000 T.O.R.S.E.",
       "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-92/",
       "team": "Blades & Shades",
-      "rank": "3 / 16",
-      "chips": "1,570,000",
+      "rank": "2 / 10",
+      "chips": "2,250,000",
       "bb": "\u2014",
       "bonus": "Locked 9 PTS",
-      "points": 9.0
+      "points": 0.0
+    },
+    {
+      "player": "Alex Livingston",
+      "event": "Event #92: $3,000 T.O.R.S.E.",
+      "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-92/",
+      "team": "Torching with TJ",
+      "rank": "3 / 10",
+      "chips": "1,840,000",
+      "bb": "\u2014",
+      "bonus": "Locked 9 PTS",
+      "points": 0.0
     },
     {
       "player": "David Bach",
       "event": "Event #92: $3,000 T.O.R.S.E.",
       "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-92/",
       "team": "2026 ODB Bonus Players",
-      "rank": "4 / 16",
+      "rank": "4 / 10",
       "chips": "1,395,000",
       "bb": "\u2014",
       "bonus": "Locked 9 PTS",
-      "points": 9.0
-    },
-    {
-      "player": "Naoya Kihara",
-      "event": "Event #92: $3,000 T.O.R.S.E.",
-      "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-92/",
-      "team": "Banana",
-      "rank": "8 / 16",
-      "chips": "900,000",
-      "bb": "\u2014",
-      "bonus": "Locked 9 PTS",
-      "points": 9.0
-    },
-    {
-      "player": "Viktor Blom",
-      "event": "Event #92: $3,000 T.O.R.S.E.",
-      "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-92/",
-      "team": "Wasserson",
-      "rank": "11 / 16",
-      "chips": "800,000",
-      "bb": "\u2014",
-      "bonus": "Locked 9 PTS",
-      "points": 9.0
-    },
-    {
-      "player": "Marco Johnson",
-      "event": "Event #92: $3,000 T.O.R.S.E.",
-      "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-92/",
-      "team": "Banana",
-      "rank": "15 / 16",
-      "chips": "460,000",
-      "bb": "\u2014",
-      "bonus": "Locked 9 PTS",
-      "points": 9.0
-    },
-    {
-      "player": "Brandon Shack-Harris",
-      "event": "Event #92: $3,000 T.O.R.S.E.",
-      "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-92/",
-      "team": "Glaser",
-      "rank": "16 / 16",
-      "chips": "170,000",
-      "bb": "\u2014",
-      "bonus": "Locked 9 PTS",
-      "points": 9.0
+      "points": 0.0
     }
   ]
 }
