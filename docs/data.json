@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-12T22:04:03.701915+00:00",
+  "generatedAt": "2026-07-12T23:09:20.265184+00:00",
   "leagueName": "WSOP Poker Fantasy Draft 2026",
   "sourceLabel": "25KFantasy",
   "sourceUrl": "https://www.25kfantasy.com/players/",
@@ -42,12 +42,12 @@
         },
         {
           "player": "Ben Yu",
-          "points": 20.0
+          "points": 21.0
         }
       ],
-      "totalPoints": 1124.0,
-      "pointsChange": 11.0,
-      "pointsChangeSincePrevious": 9.0
+      "totalPoints": 1125.0,
+      "pointsChange": 12.0,
+      "pointsChangeSincePrevious": 1.0
     },
     {
       "managerName": "ASG",
@@ -122,16 +122,16 @@
         },
         {
           "player": "Ben Yu",
-          "points": 20.0
+          "points": 21.0
         },
         {
           "player": "Brock Wilson",
           "points": 9.0
         }
       ],
-      "totalPoints": 752.0,
-      "pointsChange": 0.0,
-      "pointsChangeSincePrevious": 0.0
+      "totalPoints": 753.0,
+      "pointsChange": 1.0,
+      "pointsChangeSincePrevious": 1.0
     },
     {
       "managerName": "realbmorekid",
@@ -215,7 +215,7 @@
       ],
       "totalPoints": 628.0,
       "pointsChange": 18.0,
-      "pointsChangeSincePrevious": 18.0
+      "pointsChangeSincePrevious": 0.0
     },
     {
       "managerName": "Doinky",
@@ -383,7 +383,7 @@
       ],
       "totalPoints": 341.0,
       "pointsChange": 10.0,
-      "pointsChangeSincePrevious": 9.0
+      "pointsChangeSincePrevious": 0.0
     }
   ],
   "failures": []
