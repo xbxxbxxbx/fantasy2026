@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-12T07:18:18.358900+00:00",
+  "generatedAt": "2026-07-12T09:22:55.073801+00:00",
   "leagueName": "WSOP Poker Fantasy Draft 2026",
   "sourceLabel": "25KFantasy",
   "sourceUrl": "https://www.25kfantasy.com/players/",
@@ -89,7 +89,7 @@
       ],
       "totalPoints": 974.0,
       "pointsChange": 29.0,
-      "pointsChangeSincePrevious": 1.0
+      "pointsChangeSincePrevious": 0.0
     },
     {
       "managerName": "JeffBNT",
@@ -131,7 +131,7 @@
       ],
       "totalPoints": 752.0,
       "pointsChange": 30.0,
-      "pointsChangeSincePrevious": 1.0
+      "pointsChangeSincePrevious": 0.0
     },
     {
       "managerName": "realbmorekid",
@@ -173,7 +173,7 @@
       ],
       "totalPoints": 630.0,
       "pointsChange": 2.0,
-      "pointsChangeSincePrevious": 1.0
+      "pointsChangeSincePrevious": 0.0
     },
     {
       "managerName": "Doinky",
@@ -215,7 +215,7 @@
       ],
       "totalPoints": 626.0,
       "pointsChange": 3.0,
-      "pointsChangeSincePrevious": 1.0
+      "pointsChangeSincePrevious": 0.0
     },
     {
       "managerName": "Ruben",
@@ -383,7 +383,7 @@
       ],
       "totalPoints": 331.0,
       "pointsChange": 1.0,
-      "pointsChangeSincePrevious": 1.0
+      "pointsChangeSincePrevious": 0.0
     }
   ],
   "failures": []
