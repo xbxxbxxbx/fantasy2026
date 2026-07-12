@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-07-12T15:44:59.153962+00:00",
+  "generatedAt": "2026-07-12T16:41:18.357484+00:00",
   "league": "25k",
-  "count": 31,
+  "count": 34,
   "players": [
     {
       "player": "Malcolm Trayner",
@@ -68,6 +68,39 @@
       "bb": "29.0 BB",
       "bonus": "Locked 95 PTS",
       "points": 95.0
+    },
+    {
+      "player": "Andreas Froehli",
+      "event": "Event #88: $300 Gladiators of Poker No-Limit Hold'em",
+      "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-88/",
+      "team": "Lucky",
+      "rank": "110 / 381",
+      "chips": "1,085,000",
+      "bb": "21.7 BB",
+      "bonus": "Top 81 101 PTS",
+      "points": 1.0
+    },
+    {
+      "player": "Ben Yu",
+      "event": "Event #88: $300 Gladiators of Poker No-Limit Hold'em",
+      "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-88/",
+      "team": "Back Office",
+      "rank": "182 / 381",
+      "chips": "750,000",
+      "bb": "15.0 BB",
+      "bonus": "Top 81 101 PTS",
+      "points": 1.0
+    },
+    {
+      "player": "Joey Couden",
+      "event": "Event #88: $300 Gladiators of Poker No-Limit Hold'em",
+      "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-88/",
+      "team": "Browndog",
+      "rank": "348 / 381",
+      "chips": "310,000",
+      "bb": "6.2 BB",
+      "bonus": "Top 81 101 PTS",
+      "points": 1.0
     },
     {
       "player": "Nick Palma",
