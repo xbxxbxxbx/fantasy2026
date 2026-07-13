@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-13T15:55:19.760524+00:00",
+  "generatedAt": "2026-07-13T18:02:29.940220+00:00",
   "league": "25k",
   "count": 13,
   "players": [
@@ -10,7 +10,7 @@
       "team": "Trump Power",
       "rank": "1 / 21",
       "chips": "63,200,000",
-      "bb": "126.4 BB",
+      "bb": "105.3 BB",
       "bonus": "Locked 95 PTS",
       "points": 95.0
     },
@@ -19,9 +19,9 @@
       "event": "Event #82: $10,000 MAIN EVENT NLH World Championship",
       "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-82/",
       "team": "Trump Power",
-      "rank": "6 / 21",
-      "chips": "31,300,000",
-      "bb": "62.6 BB",
+      "rank": "5 / 21",
+      "chips": "33,300,000",
+      "bb": "55.5 BB",
       "bonus": "Locked 95 PTS",
       "points": 95.0
     },
@@ -32,7 +32,7 @@
       "team": "Torching with TJ",
       "rank": "18 / 21",
       "chips": "13,600,000",
-      "bb": "27.2 BB",
+      "bb": "22.7 BB",
       "bonus": "Locked 95 PTS",
       "points": 95.0
     },
@@ -43,7 +43,7 @@
       "team": "2026 ODB Bonus Players",
       "rank": "19 / 21",
       "chips": "13,200,000",
-      "bb": "26.4 BB",
+      "bb": "22.0 BB",
       "bonus": "Locked 95 PTS",
       "points": 95.0
     },
@@ -54,7 +54,7 @@
       "team": "Spitework",
       "rank": "20 / 21",
       "chips": "9,600,000",
-      "bb": "19.2 BB",
+      "bb": "16.0 BB",
       "bonus": "Locked 95 PTS",
       "points": 95.0
     },
