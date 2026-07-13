@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-13T22:39:50.070919+00:00",
+  "generatedAt": "2026-07-13T23:37:26.305215+00:00",
   "leagueName": "WSOP Poker Fantasy Draft 2026",
   "sourceLabel": "25KFantasy",
   "sourceUrl": "https://www.25kfantasy.com/players/",
@@ -47,7 +47,7 @@
       ],
       "totalPoints": 1129.0,
       "pointsChange": 2.0,
-      "pointsChangeSincePrevious": 1.0
+      "pointsChangeSincePrevious": 0.0
     },
     {
       "managerName": "ASG",
@@ -60,7 +60,7 @@
         },
         {
           "player": "Matt Vengrin",
-          "points": 152.0
+          "points": 153.0
         },
         {
           "player": "Bryce Yockey",
@@ -87,8 +87,8 @@
           "points": 55.0
         }
       ],
-      "totalPoints": 980.0,
-      "pointsChange": 1.0,
+      "totalPoints": 981.0,
+      "pointsChange": 2.0,
       "pointsChangeSincePrevious": 1.0
     },
     {
@@ -131,7 +131,7 @@
       ],
       "totalPoints": 862.0,
       "pointsChange": 107.0,
-      "pointsChangeSincePrevious": 107.0
+      "pointsChangeSincePrevious": 0.0
     },
     {
       "managerName": "realbmorekid",
@@ -173,7 +173,7 @@
       ],
       "totalPoints": 740.0,
       "pointsChange": 107.0,
-      "pointsChangeSincePrevious": 107.0
+      "pointsChangeSincePrevious": 0.0
     },
     {
       "managerName": "Gus",
@@ -228,7 +228,7 @@
         },
         {
           "player": "Matt Vengrin",
-          "points": 152.0
+          "points": 153.0
         },
         {
           "player": "Stephen Song",
@@ -255,9 +255,9 @@
           "points": 0.0
         }
       ],
-      "totalPoints": 630.0,
-      "pointsChange": 0.0,
-      "pointsChangeSincePrevious": 0.0
+      "totalPoints": 631.0,
+      "pointsChange": 1.0,
+      "pointsChangeSincePrevious": 1.0
     },
     {
       "managerName": "Ruben",
@@ -266,7 +266,7 @@
       "players": [
         {
           "player": "Matt Vengrin",
-          "points": 152.0
+          "points": 153.0
         },
         {
           "player": "Ian Matakis",
@@ -286,7 +286,7 @@
         },
         {
           "player": "Jim Collopy",
-          "points": 58.0
+          "points": 59.0
         },
         {
           "player": "Ryan Hoenig",
@@ -297,9 +297,9 @@
           "points": 39.0
         }
       ],
-      "totalPoints": 628.0,
-      "pointsChange": 0.0,
-      "pointsChangeSincePrevious": 0.0
+      "totalPoints": 630.0,
+      "pointsChange": 2.0,
+      "pointsChangeSincePrevious": 2.0
     },
     {
       "managerName": "Turbo",
