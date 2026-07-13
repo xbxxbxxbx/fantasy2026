@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-13T21:41:09.417083+00:00",
+  "generatedAt": "2026-07-13T22:39:50.070919+00:00",
   "leagueName": "WSOP Poker Fantasy Draft 2026",
   "sourceLabel": "25KFantasy",
   "sourceUrl": "https://www.25kfantasy.com/players/",
@@ -30,7 +30,7 @@
         },
         {
           "player": "Mike Leah",
-          "points": 113.0
+          "points": 114.0
         },
         {
           "player": "Viktor Blom",
@@ -45,9 +45,9 @@
           "points": 21.0
         }
       ],
-      "totalPoints": 1128.0,
-      "pointsChange": 1.0,
-      "pointsChangeSincePrevious": 0.0
+      "totalPoints": 1129.0,
+      "pointsChange": 2.0,
+      "pointsChangeSincePrevious": 1.0
     },
     {
       "managerName": "ASG",
@@ -68,7 +68,7 @@
         },
         {
           "player": "Mike Leah",
-          "points": 113.0
+          "points": 114.0
         },
         {
           "player": "Jon Turner",
@@ -87,9 +87,9 @@
           "points": 55.0
         }
       ],
-      "totalPoints": 979.0,
-      "pointsChange": 0.0,
-      "pointsChangeSincePrevious": 0.0
+      "totalPoints": 980.0,
+      "pointsChange": 1.0,
+      "pointsChangeSincePrevious": 1.0
     },
     {
       "managerName": "JeffBNT",
@@ -103,6 +103,10 @@
         {
           "player": "Arthur Morris",
           "points": 183.0
+        },
+        {
+          "player": "Brock Wilson",
+          "points": 116.0
         },
         {
           "player": "Jon Turner",
@@ -123,15 +127,53 @@
         {
           "player": "Ben Yu",
           "points": 21.0
+        }
+      ],
+      "totalPoints": 862.0,
+      "pointsChange": 107.0,
+      "pointsChangeSincePrevious": 107.0
+    },
+    {
+      "managerName": "realbmorekid",
+      "teamName": "Bmore\u2019s Brawlers",
+      "url": "https://www.poker.org/fantasy/wsop/2026/team/bmore-s-brawlers/",
+      "players": [
+        {
+          "player": "Joey Weissman",
+          "points": 263.0
+        },
+        {
+          "player": "Shaun Deeb",
+          "points": 193.0
         },
         {
           "player": "Brock Wilson",
-          "points": 9.0
+          "points": 116.0
+        },
+        {
+          "player": "Christian Harder",
+          "points": 62.0
+        },
+        {
+          "player": "Cherish Andrews",
+          "points": 48.0
+        },
+        {
+          "player": "Esther Taylor",
+          "points": 24.0
+        },
+        {
+          "player": "Jeremy Becker",
+          "points": 19.0
+        },
+        {
+          "player": "Shannon Shorr",
+          "points": 15.0
         }
       ],
-      "totalPoints": 755.0,
-      "pointsChange": 0.0,
-      "pointsChangeSincePrevious": 0.0
+      "totalPoints": 740.0,
+      "pointsChange": 107.0,
+      "pointsChangeSincePrevious": 107.0
     },
     {
       "managerName": "Gus",
@@ -173,48 +215,6 @@
       ],
       "totalPoints": 659.0,
       "pointsChange": 96.0,
-      "pointsChangeSincePrevious": 0.0
-    },
-    {
-      "managerName": "realbmorekid",
-      "teamName": "Bmore\u2019s Brawlers",
-      "url": "https://www.poker.org/fantasy/wsop/2026/team/bmore-s-brawlers/",
-      "players": [
-        {
-          "player": "Joey Weissman",
-          "points": 263.0
-        },
-        {
-          "player": "Shaun Deeb",
-          "points": 193.0
-        },
-        {
-          "player": "Christian Harder",
-          "points": 62.0
-        },
-        {
-          "player": "Cherish Andrews",
-          "points": 48.0
-        },
-        {
-          "player": "Esther Taylor",
-          "points": 24.0
-        },
-        {
-          "player": "Jeremy Becker",
-          "points": 19.0
-        },
-        {
-          "player": "Shannon Shorr",
-          "points": 15.0
-        },
-        {
-          "player": "Brock Wilson",
-          "points": 9.0
-        }
-      ],
-      "totalPoints": 633.0,
-      "pointsChange": 0.0,
       "pointsChangeSincePrevious": 0.0
     },
     {
