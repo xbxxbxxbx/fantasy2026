@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-13T04:03:26.333381+00:00",
+  "generatedAt": "2026-07-13T07:37:19.160536+00:00",
   "leagueName": "WSOP Poker Fantasy Draft 2026",
   "sourceLabel": "25KFantasy",
   "sourceUrl": "https://www.25kfantasy.com/players/",
@@ -30,7 +30,7 @@
         },
         {
           "player": "Mike Leah",
-          "points": 111.0
+          "points": 113.0
         },
         {
           "player": "Viktor Blom",
@@ -45,9 +45,9 @@
           "points": 21.0
         }
       ],
-      "totalPoints": 1125.0,
-      "pointsChange": 12.0,
-      "pointsChangeSincePrevious": 0.0
+      "totalPoints": 1127.0,
+      "pointsChange": 14.0,
+      "pointsChangeSincePrevious": 2.0
     },
     {
       "managerName": "ASG",
@@ -64,11 +64,11 @@
         },
         {
           "player": "Bryce Yockey",
-          "points": 137.0
+          "points": 139.0
         },
         {
           "player": "Mike Leah",
-          "points": 111.0
+          "points": 113.0
         },
         {
           "player": "Jon Turner",
@@ -87,9 +87,9 @@
           "points": 55.0
         }
       ],
-      "totalPoints": 975.0,
-      "pointsChange": 1.0,
-      "pointsChangeSincePrevious": 0.0
+      "totalPoints": 979.0,
+      "pointsChange": 5.0,
+      "pointsChangeSincePrevious": 4.0
     },
     {
       "managerName": "JeffBNT",
@@ -110,7 +110,7 @@
         },
         {
           "player": "Sam Soverel",
-          "points": 80.0
+          "points": 82.0
         },
         {
           "player": "Nicholas Seward",
@@ -129,9 +129,9 @@
           "points": 9.0
         }
       ],
-      "totalPoints": 753.0,
-      "pointsChange": 1.0,
-      "pointsChangeSincePrevious": 0.0
+      "totalPoints": 755.0,
+      "pointsChange": 3.0,
+      "pointsChangeSincePrevious": 2.0
     },
     {
       "managerName": "realbmorekid",
@@ -160,7 +160,7 @@
         },
         {
           "player": "Jeremy Becker",
-          "points": 17.0
+          "points": 19.0
         },
         {
           "player": "Shannon Shorr",
@@ -171,9 +171,51 @@
           "points": 9.0
         }
       ],
-      "totalPoints": 631.0,
-      "pointsChange": 1.0,
-      "pointsChangeSincePrevious": 0.0
+      "totalPoints": 633.0,
+      "pointsChange": 3.0,
+      "pointsChangeSincePrevious": 2.0
+    },
+    {
+      "managerName": "Doinky",
+      "teamName": "doinky",
+      "url": "https://www.poker.org/fantasy/wsop/2026/team/doinky/",
+      "players": [
+        {
+          "player": "Dylan Weisman",
+          "points": 191.0
+        },
+        {
+          "player": "Matt Vengrin",
+          "points": 152.0
+        },
+        {
+          "player": "Stephen Song",
+          "points": 111.0
+        },
+        {
+          "player": "Sam Soverel",
+          "points": 82.0
+        },
+        {
+          "player": "Andrew Ostapchenko",
+          "points": 66.0
+        },
+        {
+          "player": "Eric Wasserson",
+          "points": 15.0
+        },
+        {
+          "player": "Adam Hendrix",
+          "points": 11.0
+        },
+        {
+          "player": "Isaac Haxton",
+          "points": 0.0
+        }
+      ],
+      "totalPoints": 628.0,
+      "pointsChange": 2.0,
+      "pointsChangeSincePrevious": 2.0
     },
     {
       "managerName": "Ruben",
@@ -215,48 +257,6 @@
       ],
       "totalPoints": 628.0,
       "pointsChange": 18.0,
-      "pointsChangeSincePrevious": 0.0
-    },
-    {
-      "managerName": "Doinky",
-      "teamName": "doinky",
-      "url": "https://www.poker.org/fantasy/wsop/2026/team/doinky/",
-      "players": [
-        {
-          "player": "Dylan Weisman",
-          "points": 191.0
-        },
-        {
-          "player": "Matt Vengrin",
-          "points": 152.0
-        },
-        {
-          "player": "Stephen Song",
-          "points": 111.0
-        },
-        {
-          "player": "Sam Soverel",
-          "points": 80.0
-        },
-        {
-          "player": "Andrew Ostapchenko",
-          "points": 66.0
-        },
-        {
-          "player": "Eric Wasserson",
-          "points": 15.0
-        },
-        {
-          "player": "Adam Hendrix",
-          "points": 11.0
-        },
-        {
-          "player": "Isaac Haxton",
-          "points": 0.0
-        }
-      ],
-      "totalPoints": 626.0,
-      "pointsChange": 0.0,
       "pointsChangeSincePrevious": 0.0
     },
     {
@@ -383,7 +383,7 @@
       ],
       "totalPoints": 436.0,
       "pointsChange": 105.0,
-      "pointsChangeSincePrevious": 95.0
+      "pointsChangeSincePrevious": 0.0
     }
   ],
   "failures": []
