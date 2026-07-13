@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-13T19:43:58.767214+00:00",
+  "generatedAt": "2026-07-13T20:45:38.294786+00:00",
   "leagueName": "WSOP Poker Fantasy Draft 2026",
   "sourceLabel": "25KFantasy",
   "sourceUrl": "https://www.25kfantasy.com/players/",
@@ -47,7 +47,7 @@
       ],
       "totalPoints": 1128.0,
       "pointsChange": 1.0,
-      "pointsChangeSincePrevious": 1.0
+      "pointsChangeSincePrevious": 0.0
     },
     {
       "managerName": "ASG",
@@ -156,7 +156,7 @@
         },
         {
           "player": "Matt Glantz",
-          "points": 35.0
+          "points": 36.0
         },
         {
           "player": "Phillip Hui",
@@ -171,9 +171,9 @@
           "points": 12.0
         }
       ],
-      "totalPoints": 658.0,
-      "pointsChange": 95.0,
-      "pointsChangeSincePrevious": 95.0
+      "totalPoints": 659.0,
+      "pointsChange": 96.0,
+      "pointsChangeSincePrevious": 1.0
     },
     {
       "managerName": "realbmorekid",
