@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-13T18:02:29.087510+00:00",
+  "generatedAt": "2026-07-13T19:43:58.767214+00:00",
   "leagueName": "WSOP Poker Fantasy Draft 2026",
   "sourceLabel": "25KFantasy",
   "sourceUrl": "https://www.25kfantasy.com/players/",
@@ -18,7 +18,7 @@
         },
         {
           "player": "David 'ODB' Baker",
-          "points": 286.0
+          "points": 287.0
         },
         {
           "player": "Kristen Foxen",
@@ -45,9 +45,9 @@
           "points": 21.0
         }
       ],
-      "totalPoints": 1127.0,
-      "pointsChange": 0.0,
-      "pointsChangeSincePrevious": 0.0
+      "totalPoints": 1128.0,
+      "pointsChange": 1.0,
+      "pointsChangeSincePrevious": 1.0
     },
     {
       "managerName": "ASG",
@@ -132,6 +132,48 @@
       "totalPoints": 755.0,
       "pointsChange": 0.0,
       "pointsChangeSincePrevious": 0.0
+    },
+    {
+      "managerName": "Gus",
+      "teamName": "mynameaintearl",
+      "url": "https://www.poker.org/fantasy/wsop/2026/team/mynameaintearl/",
+      "players": [
+        {
+          "player": "Dylan Smith",
+          "points": 293.0
+        },
+        {
+          "player": "Allan Le",
+          "points": 100.0
+        },
+        {
+          "player": "Nick Guagenti",
+          "points": 87.0
+        },
+        {
+          "player": "Jerry Wong",
+          "points": 82.0
+        },
+        {
+          "player": "Matt Glantz",
+          "points": 35.0
+        },
+        {
+          "player": "Phillip Hui",
+          "points": 25.0
+        },
+        {
+          "player": "Esther Taylor",
+          "points": 24.0
+        },
+        {
+          "player": "Danny Wong",
+          "points": 12.0
+        }
+      ],
+      "totalPoints": 658.0,
+      "pointsChange": 95.0,
+      "pointsChangeSincePrevious": 95.0
     },
     {
       "managerName": "realbmorekid",
@@ -256,48 +298,6 @@
         }
       ],
       "totalPoints": 628.0,
-      "pointsChange": 0.0,
-      "pointsChangeSincePrevious": 0.0
-    },
-    {
-      "managerName": "Gus",
-      "teamName": "mynameaintearl",
-      "url": "https://www.poker.org/fantasy/wsop/2026/team/mynameaintearl/",
-      "players": [
-        {
-          "player": "Dylan Smith",
-          "points": 198.0
-        },
-        {
-          "player": "Allan Le",
-          "points": 100.0
-        },
-        {
-          "player": "Nick Guagenti",
-          "points": 87.0
-        },
-        {
-          "player": "Jerry Wong",
-          "points": 82.0
-        },
-        {
-          "player": "Matt Glantz",
-          "points": 35.0
-        },
-        {
-          "player": "Phillip Hui",
-          "points": 25.0
-        },
-        {
-          "player": "Esther Taylor",
-          "points": 24.0
-        },
-        {
-          "player": "Danny Wong",
-          "points": 12.0
-        }
-      ],
-      "totalPoints": 563.0,
       "pointsChange": 0.0,
       "pointsChangeSincePrevious": 0.0
     },
