@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-13T00:11:34.271016+00:00",
+  "generatedAt": "2026-07-13T04:03:26.333381+00:00",
   "leagueName": "WSOP Poker Fantasy Draft 2026",
   "sourceLabel": "25KFantasy",
   "sourceUrl": "https://www.25kfantasy.com/players/",
@@ -349,6 +349,10 @@
       "url": "https://www.poker.org/fantasy/wsop/2026/team/lowerbackstamp/",
       "players": [
         {
+          "player": "Patrick Leonard",
+          "points": 150.0
+        },
+        {
           "player": "Jason Koon",
           "points": 73.0
         },
@@ -359,10 +363,6 @@
         {
           "player": "Chance Kornuth",
           "points": 57.0
-        },
-        {
-          "player": "Patrick Leonard",
-          "points": 55.0
         },
         {
           "player": "Viktor Blom",
@@ -381,9 +381,9 @@
           "points": 0.0
         }
       ],
-      "totalPoints": 341.0,
-      "pointsChange": 10.0,
-      "pointsChangeSincePrevious": 0.0
+      "totalPoints": 436.0,
+      "pointsChange": 105.0,
+      "pointsChangeSincePrevious": 95.0
     }
   ],
   "failures": []
