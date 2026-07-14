@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-14T01:04:00.775485+00:00",
+  "generatedAt": "2026-07-14T04:16:40.651500+00:00",
   "leagueName": "WSOP Poker Fantasy Draft 2026",
   "sourceLabel": "25KFantasy",
   "sourceUrl": "https://www.25kfantasy.com/players/",
@@ -118,7 +118,7 @@
         },
         {
           "player": "Nicholas Seward",
-          "points": 37.0
+          "points": 38.0
         },
         {
           "player": "Ari Engel",
@@ -129,8 +129,8 @@
           "points": 21.0
         }
       ],
-      "totalPoints": 863.0,
-      "pointsChange": 108.0,
+      "totalPoints": 864.0,
+      "pointsChange": 109.0,
       "pointsChangeSincePrevious": 1.0
     },
     {
@@ -173,7 +173,7 @@
       ],
       "totalPoints": 847.0,
       "pointsChange": 214.0,
-      "pointsChangeSincePrevious": 107.0
+      "pointsChangeSincePrevious": 0.0
     },
     {
       "managerName": "Gus",
@@ -215,7 +215,7 @@
       ],
       "totalPoints": 660.0,
       "pointsChange": 97.0,
-      "pointsChangeSincePrevious": 1.0
+      "pointsChangeSincePrevious": 0.0
     },
     {
       "managerName": "Doinky",
@@ -341,7 +341,7 @@
       ],
       "totalPoints": 456.0,
       "pointsChange": 15.0,
-      "pointsChangeSincePrevious": 15.0
+      "pointsChangeSincePrevious": 0.0
     },
     {
       "managerName": "Trampstamp",
