@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-14T19:55:04.824395+00:00",
+  "generatedAt": "2026-07-14T21:09:33.433775+00:00",
   "leagueName": "WSOP Poker Fantasy Draft 2026",
   "sourceLabel": "25KFantasy",
   "sourceUrl": "https://www.25kfantasy.com/players/",
@@ -47,7 +47,7 @@
       ],
       "totalPoints": 1130.0,
       "pointsChange": 1.0,
-      "pointsChangeSincePrevious": 1.0
+      "pointsChangeSincePrevious": 0.0
     },
     {
       "managerName": "ASG",
@@ -89,7 +89,7 @@
       ],
       "totalPoints": 982.0,
       "pointsChange": 1.0,
-      "pointsChangeSincePrevious": 1.0
+      "pointsChangeSincePrevious": 0.0
     },
     {
       "managerName": "JeffBNT",
@@ -248,16 +248,16 @@
         },
         {
           "player": "Adam Hendrix",
-          "points": 13.0
+          "points": 14.0
         },
         {
           "player": "Isaac Haxton",
           "points": 0.0
         }
       ],
-      "totalPoints": 631.0,
-      "pointsChange": 0.0,
-      "pointsChangeSincePrevious": 0.0
+      "totalPoints": 632.0,
+      "pointsChange": 1.0,
+      "pointsChangeSincePrevious": 1.0
     },
     {
       "managerName": "Ruben",
