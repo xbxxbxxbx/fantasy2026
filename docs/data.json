@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-13T23:37:26.305215+00:00",
+  "generatedAt": "2026-07-14T01:04:00.775485+00:00",
   "leagueName": "WSOP Poker Fantasy Draft 2026",
   "sourceLabel": "25KFantasy",
   "sourceUrl": "https://www.25kfantasy.com/players/",
@@ -89,7 +89,7 @@
       ],
       "totalPoints": 981.0,
       "pointsChange": 2.0,
-      "pointsChangeSincePrevious": 1.0
+      "pointsChangeSincePrevious": 0.0
     },
     {
       "managerName": "JeffBNT",
@@ -102,7 +102,7 @@
         },
         {
           "player": "Arthur Morris",
-          "points": 183.0
+          "points": 184.0
         },
         {
           "player": "Brock Wilson",
@@ -129,9 +129,9 @@
           "points": 21.0
         }
       ],
-      "totalPoints": 862.0,
-      "pointsChange": 107.0,
-      "pointsChangeSincePrevious": 0.0
+      "totalPoints": 863.0,
+      "pointsChange": 108.0,
+      "pointsChangeSincePrevious": 1.0
     },
     {
       "managerName": "realbmorekid",
@@ -139,12 +139,12 @@
       "url": "https://www.poker.org/fantasy/wsop/2026/team/bmore-s-brawlers/",
       "players": [
         {
-          "player": "Joey Weissman",
-          "points": 263.0
+          "player": "Shaun Deeb",
+          "points": 300.0
         },
         {
-          "player": "Shaun Deeb",
-          "points": 193.0
+          "player": "Joey Weissman",
+          "points": 263.0
         },
         {
           "player": "Brock Wilson",
@@ -171,9 +171,9 @@
           "points": 15.0
         }
       ],
-      "totalPoints": 740.0,
-      "pointsChange": 107.0,
-      "pointsChangeSincePrevious": 0.0
+      "totalPoints": 847.0,
+      "pointsChange": 214.0,
+      "pointsChangeSincePrevious": 107.0
     },
     {
       "managerName": "Gus",
@@ -190,7 +190,7 @@
         },
         {
           "player": "Nick Guagenti",
-          "points": 87.0
+          "points": 88.0
         },
         {
           "player": "Jerry Wong",
@@ -213,9 +213,9 @@
           "points": 12.0
         }
       ],
-      "totalPoints": 659.0,
-      "pointsChange": 96.0,
-      "pointsChangeSincePrevious": 0.0
+      "totalPoints": 660.0,
+      "pointsChange": 97.0,
+      "pointsChangeSincePrevious": 1.0
     },
     {
       "managerName": "Doinky",
@@ -257,7 +257,7 @@
       ],
       "totalPoints": 631.0,
       "pointsChange": 1.0,
-      "pointsChangeSincePrevious": 1.0
+      "pointsChangeSincePrevious": 0.0
     },
     {
       "managerName": "Ruben",
@@ -299,7 +299,7 @@
       ],
       "totalPoints": 630.0,
       "pointsChange": 2.0,
-      "pointsChangeSincePrevious": 2.0
+      "pointsChangeSincePrevious": 0.0
     },
     {
       "managerName": "Turbo",
@@ -312,7 +312,7 @@
         },
         {
           "player": "John Racener",
-          "points": 109.0
+          "points": 124.0
         },
         {
           "player": "Tyler Phillips",
@@ -339,9 +339,9 @@
           "points": 0.0
         }
       ],
-      "totalPoints": 441.0,
-      "pointsChange": 0.0,
-      "pointsChangeSincePrevious": 0.0
+      "totalPoints": 456.0,
+      "pointsChange": 15.0,
+      "pointsChangeSincePrevious": 15.0
     },
     {
       "managerName": "Trampstamp",
