@@ -1,16 +1,16 @@
 {
-  "generatedAt": "2026-07-14T06:31:03.526864+00:00",
+  "generatedAt": "2026-07-14T08:52:02.153088+00:00",
   "league": "25k",
-  "count": 10,
+  "count": 9,
   "players": [
     {
       "player": "David Peters",
       "event": "Event #94: $10,000 6-Handed No-Limit Hold'em Championship",
       "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-94/",
       "team": "Spitework",
-      "rank": "2 / 7",
+      "rank": "2 / 5",
       "chips": "7,375,000",
-      "bb": "61.5 BB",
+      "bb": "36.9 BB",
       "bonus": "Locked 15 PTS",
       "points": 0.0
     },
@@ -19,20 +19,9 @@
       "event": "Event #94: $10,000 6-Handed No-Limit Hold'em Championship",
       "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-94/",
       "team": "Glue Factory",
-      "rank": "3 / 7",
+      "rank": "3 / 5",
       "chips": "5,725,000",
-      "bb": "47.7 BB",
-      "bonus": "Locked 15 PTS",
-      "points": 0.0
-    },
-    {
-      "player": "Vladas Tamasauskas",
-      "event": "Event #94: $10,000 6-Handed No-Limit Hold'em Championship",
-      "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-94/",
-      "team": "Dinkers",
-      "rank": "5 / 7",
-      "chips": "2,530,000",
-      "bb": "21.1 BB",
+      "bb": "28.6 BB",
       "bonus": "Locked 15 PTS",
       "points": 0.0
     },
@@ -41,9 +30,9 @@
       "event": "Event #94: $10,000 6-Handed No-Limit Hold'em Championship",
       "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-94/",
       "team": "Blez/NGNF",
-      "rank": "6 / 7",
+      "rank": "5 / 5",
       "chips": "1,720,000",
-      "bb": "14.3 BB",
+      "bb": "8.6 BB",
       "bonus": "Locked 15 PTS",
       "points": 0.0
     },
@@ -52,66 +41,66 @@
       "event": "Event #96: $3,000 6-Handed Pot-Limit Omaha",
       "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-96/",
       "team": "Glue Factory",
-      "rank": "1 / 21",
-      "chips": "4,175,000",
+      "rank": "1 / 18",
+      "chips": "4,710,000",
       "bb": "\u2014",
-      "bonus": "Top 18 13 PTS",
-      "points": 1.0
-    },
-    {
-      "player": "Alex Livingston",
-      "event": "Event #96: $3,000 6-Handed Pot-Limit Omaha",
-      "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-96/",
-      "team": "Torching with TJ",
-      "rank": "6 / 21",
-      "chips": "1,835,000",
-      "bb": "\u2014",
-      "bonus": "Top 18 13 PTS",
-      "points": 1.0
+      "bonus": "Locked 13 PTS",
+      "points": 13.0
     },
     {
       "player": "Biao Ding",
       "event": "Event #96: $3,000 6-Handed Pot-Limit Omaha",
       "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-96/",
       "team": "Spitework",
-      "rank": "7 / 21",
-      "chips": "1,825,000",
+      "rank": "2 / 18",
+      "chips": "3,940,000",
       "bb": "\u2014",
-      "bonus": "Top 18 13 PTS",
-      "points": 1.0
+      "bonus": "Locked 13 PTS",
+      "points": 13.0
     },
     {
       "player": "Robert Mizrachi",
       "event": "Event #96: $3,000 6-Handed Pot-Limit Omaha",
       "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-96/",
       "team": "Very Handsome Horses",
-      "rank": "12 / 21",
-      "chips": "1,440,000",
+      "rank": "3 / 18",
+      "chips": "3,515,000",
       "bb": "\u2014",
-      "bonus": "Top 18 13 PTS",
-      "points": 1.0
+      "bonus": "Locked 13 PTS",
+      "points": 13.0
     },
     {
       "player": "Erik Seidel",
       "event": "Event #96: $3,000 6-Handed Pot-Limit Omaha",
       "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-96/",
       "team": "Fleyshman",
-      "rank": "14 / 21",
-      "chips": "1,100,000",
+      "rank": "4 / 18",
+      "chips": "2,860,000",
       "bb": "\u2014",
-      "bonus": "Top 18 13 PTS",
-      "points": 1.0
+      "bonus": "Locked 13 PTS",
+      "points": 13.0
+    },
+    {
+      "player": "Alex Livingston",
+      "event": "Event #96: $3,000 6-Handed Pot-Limit Omaha",
+      "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-96/",
+      "team": "Torching with TJ",
+      "rank": "8 / 18",
+      "chips": "2,230,000",
+      "bb": "\u2014",
+      "bonus": "Locked 13 PTS",
+      "points": 13.0
     },
     {
       "player": "Sam Soverel",
       "event": "Event #96: $3,000 6-Handed Pot-Limit Omaha",
       "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-96/",
       "team": "Torching with TJ",
-      "rank": "17 / 21",
-      "chips": "1,015,000",
+      "rank": "12 / 18",
+      "chips": "1,460,000",
       "bb": "\u2014",
-      "bonus": "Top 18 13 PTS",
-      "points": 1.0
+      "bonus": "Locked 13 PTS",
+      "points": 13.0
     }
   ]
 }
