@@ -1,8 +1,19 @@
 {
-  "generatedAt": "2026-07-14T15:52:38.095040+00:00",
+  "generatedAt": "2026-07-14T17:13:23.986997+00:00",
   "league": "25k",
-  "count": 8,
+  "count": 9,
   "players": [
+    {
+      "player": "Greg Mueller",
+      "event": "Event #82: $10,000 MAIN EVENT NLH World Championship",
+      "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-82/",
+      "team": "2026 ODB Bonus Players",
+      "rank": "4 / 9",
+      "chips": "52,500,000",
+      "bb": "35.0 BB",
+      "bonus": "Locked 95 PTS",
+      "points": 0.0
+    },
     {
       "player": "David Peters",
       "event": "Event #94: $10,000 6-Handed No-Limit Hold'em Championship",
