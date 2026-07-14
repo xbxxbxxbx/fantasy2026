@@ -1,16 +1,16 @@
 {
-  "generatedAt": "2026-07-14T08:52:02.153088+00:00",
+  "generatedAt": "2026-07-14T10:43:12.489659+00:00",
   "league": "25k",
-  "count": 9,
+  "count": 8,
   "players": [
     {
       "player": "David Peters",
       "event": "Event #94: $10,000 6-Handed No-Limit Hold'em Championship",
       "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-94/",
       "team": "Spitework",
-      "rank": "2 / 5",
-      "chips": "7,375,000",
-      "bb": "36.9 BB",
+      "rank": "2 / 4",
+      "chips": "9,025,000",
+      "bb": "36.1 BB",
       "bonus": "Locked 15 PTS",
       "points": 0.0
     },
@@ -19,20 +19,9 @@
       "event": "Event #94: $10,000 6-Handed No-Limit Hold'em Championship",
       "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-94/",
       "team": "Glue Factory",
-      "rank": "3 / 5",
-      "chips": "5,725,000",
-      "bb": "28.6 BB",
-      "bonus": "Locked 15 PTS",
-      "points": 0.0
-    },
-    {
-      "player": "Justin Liberto",
-      "event": "Event #94: $10,000 6-Handed No-Limit Hold'em Championship",
-      "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-94/",
-      "team": "Blez/NGNF",
-      "rank": "5 / 5",
-      "chips": "1,720,000",
-      "bb": "8.6 BB",
+      "rank": "3 / 4",
+      "chips": "7,275,000",
+      "bb": "29.1 BB",
       "bonus": "Locked 15 PTS",
       "points": 0.0
     },
