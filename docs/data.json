@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-14T21:09:33.433775+00:00",
+  "generatedAt": "2026-07-14T22:13:24.370824+00:00",
   "leagueName": "WSOP Poker Fantasy Draft 2026",
   "sourceLabel": "25KFantasy",
   "sourceUrl": "https://www.25kfantasy.com/players/",
@@ -109,12 +109,12 @@
           "points": 116.0
         },
         {
-          "player": "Jon Turner",
-          "points": 90.0
+          "player": "Sam Soverel",
+          "points": 95.0
         },
         {
-          "player": "Sam Soverel",
-          "points": 82.0
+          "player": "Jon Turner",
+          "points": 90.0
         },
         {
           "player": "Nicholas Seward",
@@ -129,9 +129,9 @@
           "points": 21.0
         }
       ],
-      "totalPoints": 864.0,
-      "pointsChange": 0.0,
-      "pointsChangeSincePrevious": 0.0
+      "totalPoints": 877.0,
+      "pointsChange": 13.0,
+      "pointsChangeSincePrevious": 13.0
     },
     {
       "managerName": "realbmorekid",
@@ -236,7 +236,7 @@
         },
         {
           "player": "Sam Soverel",
-          "points": 82.0
+          "points": 95.0
         },
         {
           "player": "Andrew Ostapchenko",
@@ -255,9 +255,9 @@
           "points": 0.0
         }
       ],
-      "totalPoints": 632.0,
-      "pointsChange": 1.0,
-      "pointsChangeSincePrevious": 1.0
+      "totalPoints": 645.0,
+      "pointsChange": 14.0,
+      "pointsChangeSincePrevious": 13.0
     },
     {
       "managerName": "Ruben",
