@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-14T18:34:07.521197+00:00",
+  "generatedAt": "2026-07-14T19:55:04.824395+00:00",
   "leagueName": "WSOP Poker Fantasy Draft 2026",
   "sourceLabel": "25KFantasy",
   "sourceUrl": "https://www.25kfantasy.com/players/",
@@ -30,7 +30,7 @@
         },
         {
           "player": "Mike Leah",
-          "points": 114.0
+          "points": 115.0
         },
         {
           "player": "Viktor Blom",
@@ -45,9 +45,9 @@
           "points": 21.0
         }
       ],
-      "totalPoints": 1129.0,
-      "pointsChange": 0.0,
-      "pointsChangeSincePrevious": 0.0
+      "totalPoints": 1130.0,
+      "pointsChange": 1.0,
+      "pointsChangeSincePrevious": 1.0
     },
     {
       "managerName": "ASG",
@@ -68,7 +68,7 @@
         },
         {
           "player": "Mike Leah",
-          "points": 114.0
+          "points": 115.0
         },
         {
           "player": "Jon Turner",
@@ -87,9 +87,9 @@
           "points": 55.0
         }
       ],
-      "totalPoints": 981.0,
-      "pointsChange": 0.0,
-      "pointsChangeSincePrevious": 0.0
+      "totalPoints": 982.0,
+      "pointsChange": 1.0,
+      "pointsChangeSincePrevious": 1.0
     },
     {
       "managerName": "JeffBNT",
