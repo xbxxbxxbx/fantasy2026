@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-07-15T17:06:54.773909+00:00",
+  "generatedAt": "2026-07-15T18:19:40.459694+00:00",
   "league": "25k",
-  "count": 38,
+  "count": 37,
   "players": [
     {
       "player": "Greg Mueller",
@@ -140,42 +140,9 @@
       "event": "Event #98: $800 Deepstack No-Limit Hold\u2019em",
       "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-98/",
       "team": "Back Office",
-      "rank": "7 / 129",
+      "rank": "7 / 117",
       "chips": "1,295,000",
-      "bb": "51.8 BB",
-      "bonus": "Top 36 21 PTS",
-      "points": 1.0
-    },
-    {
-      "player": "Ryan Laplante",
-      "event": "Event #98: $800 Deepstack No-Limit Hold\u2019em",
-      "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-98/",
-      "team": "2026 ODB Bonus Players",
-      "rank": "30 / 129",
-      "chips": "845,000",
-      "bb": "33.8 BB",
-      "bonus": "Top 36 21 PTS",
-      "points": 1.0
-    },
-    {
-      "player": "John Riordan",
-      "event": "Event #98: $800 Deepstack No-Limit Hold\u2019em",
-      "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-98/",
-      "team": "Stake Kings",
-      "rank": "54 / 129",
-      "chips": "575,000",
-      "bb": "23.0 BB",
-      "bonus": "Top 36 21 PTS",
-      "points": 1.0
-    },
-    {
-      "player": "Justin Zaki",
-      "event": "Event #98: $800 Deepstack No-Limit Hold\u2019em",
-      "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-98/",
-      "team": "Noori",
-      "rank": "56 / 129",
-      "chips": "570,000",
-      "bb": "22.8 BB",
+      "bb": "43.2 BB",
       "bonus": "Top 36 21 PTS",
       "points": 1.0
     },
@@ -184,9 +151,31 @@
       "event": "Event #98: $800 Deepstack No-Limit Hold\u2019em",
       "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-98/",
       "team": "2026 ODB Bonus Players",
-      "rank": "128 / 129",
-      "chips": "91,000",
-      "bb": "3.6 BB",
+      "rank": "31 / 117",
+      "chips": "850,000",
+      "bb": "28.3 BB",
+      "bonus": "Top 36 21 PTS",
+      "points": 1.0
+    },
+    {
+      "player": "Ryan Laplante",
+      "event": "Event #98: $800 Deepstack No-Limit Hold\u2019em",
+      "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-98/",
+      "team": "2026 ODB Bonus Players",
+      "rank": "32 / 117",
+      "chips": "845,000",
+      "bb": "28.2 BB",
+      "bonus": "Top 36 21 PTS",
+      "points": 1.0
+    },
+    {
+      "player": "John Riordan",
+      "event": "Event #98: $800 Deepstack No-Limit Hold\u2019em",
+      "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-98/",
+      "team": "Stake Kings",
+      "rank": "54 / 117",
+      "chips": "575,000",
+      "bb": "19.2 BB",
       "bonus": "Top 36 21 PTS",
       "points": 1.0
     },
