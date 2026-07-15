@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-07-15T00:10:51.982934+00:00",
+  "generatedAt": "2026-07-15T03:38:52.396286+00:00",
   "league": "25k",
-  "count": 8,
+  "count": 6,
   "players": [
     {
       "player": "Greg Mueller",
@@ -19,52 +19,30 @@
       "event": "Event #95: $500 Summer Saver No-Limit Hold'em",
       "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-95/",
       "team": "Premiums Only",
-      "rank": "8 / 80",
-      "chips": "5,010,000",
-      "bb": "33.4 BB",
-      "bonus": "Top 54 47 PTS",
-      "points": 1.0
+      "rank": "17 / 27",
+      "chips": "4,625,000",
+      "bb": "11.6 BB",
+      "bonus": "Locked 47 PTS",
+      "points": 47.0
     },
     {
       "player": "Martin Kabrhel",
       "event": "Event #95: $500 Summer Saver No-Limit Hold'em",
       "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-95/",
       "team": "Lucky",
-      "rank": "13 / 80",
+      "rank": "21 / 27",
       "chips": "4,100,000",
-      "bb": "27.3 BB",
-      "bonus": "Top 54 47 PTS",
-      "points": 1.0
-    },
-    {
-      "player": "Andreas Froehli",
-      "event": "Event #95: $500 Summer Saver No-Limit Hold'em",
-      "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-95/",
-      "team": "Lucky",
-      "rank": "33 / 80",
-      "chips": "2,350,000",
-      "bb": "15.7 BB",
-      "bonus": "Top 54 47 PTS",
-      "points": 1.0
+      "bb": "10.3 BB",
+      "bonus": "Locked 47 PTS",
+      "points": 47.0
     },
     {
       "player": "Christopher Vitch",
       "event": "Event #96: $3,000 6-Handed Pot-Limit Omaha",
       "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-96/",
       "team": "Glue Factory",
-      "rank": "1 / 8",
-      "chips": "5,300,000",
-      "bb": "\u2014",
-      "bonus": "Locked 13 PTS",
-      "points": 0.0
-    },
-    {
-      "player": "Biao Ding",
-      "event": "Event #96: $3,000 6-Handed Pot-Limit Omaha",
-      "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-96/",
-      "team": "Spitework",
-      "rank": "2 / 8",
-      "chips": "5,100,000",
+      "rank": "2 / 5",
+      "chips": "6,350,000",
       "bb": "\u2014",
       "bonus": "Locked 13 PTS",
       "points": 0.0
@@ -74,8 +52,8 @@
       "event": "Event #96: $3,000 6-Handed Pot-Limit Omaha",
       "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-96/",
       "team": "Fleyshman",
-      "rank": "7 / 8",
-      "chips": "2,470,000",
+      "rank": "3 / 5",
+      "chips": "5,700,000",
       "bb": "\u2014",
       "bonus": "Locked 13 PTS",
       "points": 0.0
@@ -85,8 +63,8 @@
       "event": "Event #96: $3,000 6-Handed Pot-Limit Omaha",
       "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-96/",
       "team": "Very Handsome Horses",
-      "rank": "8 / 8",
-      "chips": "1,850,000",
+      "rank": "5 / 5",
+      "chips": "2,800,000",
       "bb": "\u2014",
       "bonus": "Locked 13 PTS",
       "points": 0.0
