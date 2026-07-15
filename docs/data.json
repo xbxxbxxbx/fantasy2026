@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-15T03:38:51.968260+00:00",
+  "generatedAt": "2026-07-15T05:59:37.871849+00:00",
   "leagueName": "WSOP Poker Fantasy Draft 2026",
   "sourceLabel": "25KFantasy",
   "sourceUrl": "https://www.25kfantasy.com/players/",
@@ -315,16 +315,16 @@
           "points": 124.0
         },
         {
+          "player": "Erik Seidel",
+          "points": 89.0
+        },
+        {
           "player": "Tyler Phillips",
           "points": 75.0
         },
         {
           "player": "Scott Seiver",
           "points": 55.0
-        },
-        {
-          "player": "Erik Seidel",
-          "points": 36.0
         },
         {
           "player": "Brad Owen",
@@ -339,9 +339,9 @@
           "points": 0.0
         }
       ],
-      "totalPoints": 456.0,
-      "pointsChange": 0.0,
-      "pointsChangeSincePrevious": 0.0
+      "totalPoints": 509.0,
+      "pointsChange": 53.0,
+      "pointsChangeSincePrevious": 53.0
     },
     {
       "managerName": "Trampstamp",

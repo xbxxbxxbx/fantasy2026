@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-07-15T03:38:52.396286+00:00",
+  "generatedAt": "2026-07-15T05:59:38.135247+00:00",
   "league": "25k",
-  "count": 6,
+  "count": 23,
   "players": [
     {
       "player": "Greg Mueller",
@@ -15,59 +15,246 @@
       "points": 0.0
     },
     {
-      "player": "Justin Fawcett",
-      "event": "Event #95: $500 Summer Saver No-Limit Hold'em",
-      "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-95/",
-      "team": "Premiums Only",
-      "rank": "17 / 27",
-      "chips": "4,625,000",
-      "bb": "11.6 BB",
-      "bonus": "Locked 47 PTS",
-      "points": 47.0
-    },
-    {
-      "player": "Martin Kabrhel",
-      "event": "Event #95: $500 Summer Saver No-Limit Hold'em",
-      "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-95/",
-      "team": "Lucky",
-      "rank": "21 / 27",
-      "chips": "4,100,000",
-      "bb": "10.3 BB",
-      "bonus": "Locked 47 PTS",
-      "points": 47.0
-    },
-    {
-      "player": "Christopher Vitch",
-      "event": "Event #96: $3,000 6-Handed Pot-Limit Omaha",
-      "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-96/",
-      "team": "Glue Factory",
-      "rank": "2 / 5",
-      "chips": "6,350,000",
+      "player": "Alex Foxen",
+      "event": "Event #97: $25,000 High Roller H.O.R.S.E.",
+      "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-97/",
+      "team": "Lady Gaga",
+      "rank": "2 / 20",
+      "chips": "2,275,000",
       "bb": "\u2014",
-      "bonus": "Locked 13 PTS",
-      "points": 0.0
+      "bonus": "Top 18 11 PTS",
+      "points": 2.0
     },
     {
-      "player": "Erik Seidel",
-      "event": "Event #96: $3,000 6-Handed Pot-Limit Omaha",
-      "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-96/",
-      "team": "Fleyshman",
-      "rank": "3 / 5",
-      "chips": "5,700,000",
+      "player": "Matthew Beinner",
+      "event": "Event #97: $25,000 High Roller H.O.R.S.E.",
+      "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-97/",
+      "team": "Browndog",
+      "rank": "3 / 20",
+      "chips": "1,660,000",
       "bb": "\u2014",
-      "bonus": "Locked 13 PTS",
-      "points": 0.0
+      "bonus": "Top 18 11 PTS",
+      "points": 2.0
     },
     {
-      "player": "Robert Mizrachi",
-      "event": "Event #96: $3,000 6-Handed Pot-Limit Omaha",
-      "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-96/",
-      "team": "Very Handsome Horses",
-      "rank": "5 / 5",
-      "chips": "2,800,000",
+      "player": "Aaron Kupin",
+      "event": "Event #97: $25,000 High Roller H.O.R.S.E.",
+      "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-97/",
+      "team": "Back Office",
+      "rank": "4 / 20",
+      "chips": "1,500,000",
       "bb": "\u2014",
-      "bonus": "Locked 13 PTS",
-      "points": 0.0
+      "bonus": "Top 18 11 PTS",
+      "points": 2.0
+    },
+    {
+      "player": "Naoya Kihara",
+      "event": "Event #97: $25,000 High Roller H.O.R.S.E.",
+      "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-97/",
+      "team": "Banana",
+      "rank": "5 / 20",
+      "chips": "1,410,000",
+      "bb": "\u2014",
+      "bonus": "Top 18 11 PTS",
+      "points": 2.0
+    },
+    {
+      "player": "Ari Engel",
+      "event": "Event #97: $25,000 High Roller H.O.R.S.E.",
+      "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-97/",
+      "team": "Lang Gang",
+      "rank": "7 / 20",
+      "chips": "1,040,000",
+      "bb": "\u2014",
+      "bonus": "Top 18 11 PTS",
+      "points": 2.0
+    },
+    {
+      "player": "Arthur Morris",
+      "event": "Event #97: $25,000 High Roller H.O.R.S.E.",
+      "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-97/",
+      "team": "Browndog",
+      "rank": "8 / 20",
+      "chips": "1,020,000",
+      "bb": "\u2014",
+      "bonus": "Top 18 11 PTS",
+      "points": 2.0
+    },
+    {
+      "player": "Maxx Coleman",
+      "event": "Event #97: $25,000 High Roller H.O.R.S.E.",
+      "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-97/",
+      "team": "Browndog",
+      "rank": "9 / 20",
+      "chips": "1,005,000",
+      "bb": "\u2014",
+      "bonus": "Top 18 11 PTS",
+      "points": 2.0
+    },
+    {
+      "player": "Yueqi Zhu",
+      "event": "Event #97: $25,000 High Roller H.O.R.S.E.",
+      "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-97/",
+      "team": "Trump Power",
+      "rank": "11 / 20",
+      "chips": "825,000",
+      "bb": "\u2014",
+      "bonus": "Top 18 11 PTS",
+      "points": 2.0
+    },
+    {
+      "player": "Jeremy Ausmus",
+      "event": "Event #97: $25,000 High Roller H.O.R.S.E.",
+      "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-97/",
+      "team": "Lang Gang",
+      "rank": "12 / 20",
+      "chips": "775,000",
+      "bb": "\u2014",
+      "bonus": "Top 18 11 PTS",
+      "points": 2.0
+    },
+    {
+      "player": "Qinghai Pan",
+      "event": "Event #97: $25,000 High Roller H.O.R.S.E.",
+      "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-97/",
+      "team": "Blades & Shades",
+      "rank": "14 / 20",
+      "chips": "695,000",
+      "bb": "\u2014",
+      "bonus": "Top 18 11 PTS",
+      "points": 2.0
+    },
+    {
+      "player": "Josh Arieh",
+      "event": "Event #97: $25,000 High Roller H.O.R.S.E.",
+      "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-97/",
+      "team": "DNegs",
+      "rank": "16 / 20",
+      "chips": "620,000",
+      "bb": "\u2014",
+      "bonus": "Top 18 11 PTS",
+      "points": 2.0
+    },
+    {
+      "player": "Shaun Deeb",
+      "event": "Event #97: $25,000 High Roller H.O.R.S.E.",
+      "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-97/",
+      "team": "Trump Power",
+      "rank": "17 / 20",
+      "chips": "555,000",
+      "bb": "\u2014",
+      "bonus": "Top 18 11 PTS",
+      "points": 2.0
+    },
+    {
+      "player": "Matt Grapenthien",
+      "event": "Event #97: $25,000 High Roller H.O.R.S.E.",
+      "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-97/",
+      "team": "2026 ODB Bonus Players",
+      "rank": "18 / 20",
+      "chips": "530,000",
+      "bb": "\u2014",
+      "bonus": "Top 18 11 PTS",
+      "points": 2.0
+    },
+    {
+      "player": "Walter Chambers",
+      "event": "Event #97: $25,000 High Roller H.O.R.S.E.",
+      "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-97/",
+      "team": "2026 ODB Bonus Players",
+      "rank": "20 / 20",
+      "chips": "205,000",
+      "bb": "\u2014",
+      "bonus": "Top 18 11 PTS",
+      "points": 2.0
+    },
+    {
+      "player": "Ryan Laplante",
+      "event": "Event #98: $800 Deepstack No-Limit Hold\u2019em",
+      "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-98/",
+      "team": "2026 ODB Bonus Players",
+      "rank": "19 / 199",
+      "chips": "720,000",
+      "bb": "48.0 BB",
+      "bonus": "Top 36 21 PTS",
+      "points": 1.0
+    },
+    {
+      "player": "John Riordan",
+      "event": "Event #98: $800 Deepstack No-Limit Hold\u2019em",
+      "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-98/",
+      "team": "Stake Kings",
+      "rank": "28 / 199",
+      "chips": "575,000",
+      "bb": "38.3 BB",
+      "bonus": "Top 36 21 PTS",
+      "points": 1.0
+    },
+    {
+      "player": "Ryuta Nakai",
+      "event": "Event #98: $800 Deepstack No-Limit Hold\u2019em",
+      "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-98/",
+      "team": "Back Office",
+      "rank": "29 / 199",
+      "chips": "568,000",
+      "bb": "37.9 BB",
+      "bonus": "Top 36 21 PTS",
+      "points": 1.0
+    },
+    {
+      "player": "Benjamin Miner",
+      "event": "Event #98: $800 Deepstack No-Limit Hold\u2019em",
+      "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-98/",
+      "team": "Blez/NGNF",
+      "rank": "98 / 199",
+      "chips": "269,000",
+      "bb": "17.9 BB",
+      "bonus": "Top 36 21 PTS",
+      "points": 1.0
+    },
+    {
+      "player": "Paul Fehlig",
+      "event": "Event #98: $800 Deepstack No-Limit Hold\u2019em",
+      "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-98/",
+      "team": "2026 ODB Bonus Players",
+      "rank": "114 / 199",
+      "chips": "237,000",
+      "bb": "15.8 BB",
+      "bonus": "Top 36 21 PTS",
+      "points": 1.0
+    },
+    {
+      "player": "Jake Schwartz",
+      "event": "Event #98: $800 Deepstack No-Limit Hold\u2019em",
+      "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-98/",
+      "team": "2026 ODB Bonus Players",
+      "rank": "148 / 199",
+      "chips": "150,000",
+      "bb": "10.0 BB",
+      "bonus": "Top 36 21 PTS",
+      "points": 1.0
+    },
+    {
+      "player": "Justin Zaki",
+      "event": "Event #98: $800 Deepstack No-Limit Hold\u2019em",
+      "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-98/",
+      "team": "Noori",
+      "rank": "166 / 199",
+      "chips": "115,000",
+      "bb": "7.7 BB",
+      "bonus": "Top 36 21 PTS",
+      "points": 1.0
+    },
+    {
+      "player": "Justin Young",
+      "event": "Event #98: $800 Deepstack No-Limit Hold\u2019em",
+      "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-98/",
+      "team": "2026 ODB Bonus Players",
+      "rank": "179 / 199",
+      "chips": "91,000",
+      "bb": "6.1 BB",
+      "bonus": "Top 36 21 PTS",
+      "points": 1.0
     }
   ]
 }
