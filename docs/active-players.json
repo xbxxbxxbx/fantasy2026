@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-07-15T18:19:40.459694+00:00",
+  "generatedAt": "2026-07-15T19:43:36.679310+00:00",
   "league": "25k",
-  "count": 37,
+  "count": 35,
   "players": [
     {
       "player": "Greg Mueller",
@@ -136,35 +136,13 @@
       "points": 11.0
     },
     {
-      "player": "Ryuta Nakai",
-      "event": "Event #98: $800 Deepstack No-Limit Hold\u2019em",
-      "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-98/",
-      "team": "Back Office",
-      "rank": "7 / 117",
-      "chips": "1,295,000",
-      "bb": "43.2 BB",
-      "bonus": "Top 36 21 PTS",
-      "points": 1.0
-    },
-    {
-      "player": "Justin Young",
-      "event": "Event #98: $800 Deepstack No-Limit Hold\u2019em",
-      "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-98/",
-      "team": "2026 ODB Bonus Players",
-      "rank": "31 / 117",
-      "chips": "850,000",
-      "bb": "28.3 BB",
-      "bonus": "Top 36 21 PTS",
-      "points": 1.0
-    },
-    {
       "player": "Ryan Laplante",
       "event": "Event #98: $800 Deepstack No-Limit Hold\u2019em",
       "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-98/",
       "team": "2026 ODB Bonus Players",
-      "rank": "32 / 117",
-      "chips": "845,000",
-      "bb": "28.2 BB",
+      "rank": "4 / 59",
+      "chips": "1,840,000",
+      "bb": "30.7 BB",
       "bonus": "Top 36 21 PTS",
       "points": 1.0
     },
@@ -173,9 +151,9 @@
       "event": "Event #98: $800 Deepstack No-Limit Hold\u2019em",
       "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-98/",
       "team": "Stake Kings",
-      "rank": "54 / 117",
+      "rank": "39 / 59",
       "chips": "575,000",
-      "bb": "19.2 BB",
+      "bb": "9.6 BB",
       "bonus": "Top 36 21 PTS",
       "points": 1.0
     },
