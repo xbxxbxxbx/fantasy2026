@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-15T05:59:37.871849+00:00",
+  "generatedAt": "2026-07-15T08:31:32.617241+00:00",
   "leagueName": "WSOP Poker Fantasy Draft 2026",
   "sourceLabel": "25KFantasy",
   "sourceUrl": "https://www.25kfantasy.com/players/",
@@ -64,7 +64,7 @@
         },
         {
           "player": "Bryce Yockey",
-          "points": 139.0
+          "points": 141.0
         },
         {
           "player": "Mike Leah",
@@ -79,17 +79,17 @@
           "points": 73.0
         },
         {
-          "player": "Chance Kornuth",
+          "player": "Scott Seiver",
           "points": 57.0
         },
         {
-          "player": "Scott Seiver",
-          "points": 55.0
+          "player": "Chance Kornuth",
+          "points": 57.0
         }
       ],
-      "totalPoints": 1067.0,
-      "pointsChange": 86.0,
-      "pointsChangeSincePrevious": 0.0
+      "totalPoints": 1071.0,
+      "pointsChange": 90.0,
+      "pointsChangeSincePrevious": 4.0
     },
     {
       "managerName": "JeffBNT",
@@ -102,7 +102,7 @@
         },
         {
           "player": "Arthur Morris",
-          "points": 184.0
+          "points": 195.0
         },
         {
           "player": "Brock Wilson",
@@ -118,7 +118,7 @@
         },
         {
           "player": "Nicholas Seward",
-          "points": 38.0
+          "points": 40.0
         },
         {
           "player": "Ari Engel",
@@ -129,9 +129,9 @@
           "points": 21.0
         }
       ],
-      "totalPoints": 962.0,
-      "pointsChange": 98.0,
-      "pointsChangeSincePrevious": 0.0
+      "totalPoints": 975.0,
+      "pointsChange": 111.0,
+      "pointsChangeSincePrevious": 13.0
     },
     {
       "managerName": "realbmorekid",
@@ -324,7 +324,7 @@
         },
         {
           "player": "Scott Seiver",
-          "points": 55.0
+          "points": 57.0
         },
         {
           "player": "Brad Owen",
@@ -339,9 +339,9 @@
           "points": 0.0
         }
       ],
-      "totalPoints": 509.0,
-      "pointsChange": 53.0,
-      "pointsChangeSincePrevious": 53.0
+      "totalPoints": 511.0,
+      "pointsChange": 55.0,
+      "pointsChangeSincePrevious": 2.0
     },
     {
       "managerName": "Trampstamp",
