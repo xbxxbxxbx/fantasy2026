@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-07-16T07:05:09.880445+00:00",
+  "generatedAt": "2026-07-16T09:27:47.003680+00:00",
   "league": "25k",
-  "count": 2,
+  "count": 1,
   "players": [
     {
       "player": "Greg Mueller",
@@ -12,17 +12,6 @@
       "chips": "52,500,000",
       "bb": "35.0 BB",
       "bonus": "Locked 95 PTS",
-      "points": 0.0
-    },
-    {
-      "player": "Ryuta Nakai",
-      "event": "Event #100: $1,000 Super Turbo No-Limit Hold'em",
-      "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-100/",
-      "team": "Back Office",
-      "rank": "4 / 9",
-      "chips": "1,035,000",
-      "bb": "2.1 BB",
-      "bonus": "Locked 17 PTS",
       "points": 0.0
     }
   ]
