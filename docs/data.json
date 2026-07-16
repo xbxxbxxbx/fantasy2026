@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-16T04:29:36.236549+00:00",
+  "generatedAt": "2026-07-16T07:05:09.726344+00:00",
   "leagueName": "WSOP Poker Fantasy Draft 2026",
   "sourceLabel": "25KFantasy",
   "sourceUrl": "https://www.25kfantasy.com/players/",
@@ -72,7 +72,7 @@
         },
         {
           "player": "Jon Turner",
-          "points": 90.0
+          "points": 111.0
         },
         {
           "player": "Jason Koon",
@@ -87,9 +87,9 @@
           "points": 57.0
         }
       ],
-      "totalPoints": 1071.0,
-      "pointsChange": 0.0,
-      "pointsChangeSincePrevious": 0.0
+      "totalPoints": 1092.0,
+      "pointsChange": 21.0,
+      "pointsChangeSincePrevious": 21.0
     },
     {
       "managerName": "JeffBNT",
@@ -109,12 +109,12 @@
           "points": 116.0
         },
         {
-          "player": "Sam Soverel",
-          "points": 97.0
+          "player": "Jon Turner",
+          "points": 111.0
         },
         {
-          "player": "Jon Turner",
-          "points": 90.0
+          "player": "Sam Soverel",
+          "points": 97.0
         },
         {
           "player": "Ari Engel",
@@ -129,9 +129,9 @@
           "points": 21.0
         }
       ],
-      "totalPoints": 1028.0,
-      "pointsChange": 53.0,
-      "pointsChangeSincePrevious": 0.0
+      "totalPoints": 1049.0,
+      "pointsChange": 74.0,
+      "pointsChangeSincePrevious": 21.0
     },
     {
       "managerName": "realbmorekid",

@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-07-16T04:29:36.705587+00:00",
+  "generatedAt": "2026-07-16T07:05:09.880445+00:00",
   "league": "25k",
-  "count": 7,
+  "count": 2,
   "players": [
     {
       "player": "Greg Mueller",
@@ -15,70 +15,15 @@
       "points": 0.0
     },
     {
-      "player": "Darren Rabinowitz",
-      "event": "Event #99: $5,000 8-Handed No-Limit Hold'em",
-      "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-99/",
-      "team": "2026 ODB Bonus Players",
-      "rank": "1 / 2",
-      "chips": "27,525,000",
-      "bb": "45.9 BB",
-      "bonus": "Locked 16 PTS",
-      "points": 0.0
-    },
-    {
-      "player": "Phil Hellmuth",
-      "event": "Event #99: $5,000 8-Handed No-Limit Hold'em",
-      "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-99/",
-      "team": "Fleyshman",
-      "rank": "2 / 2",
-      "chips": "16,675,000",
-      "bb": "27.8 BB",
-      "bonus": "Locked 16 PTS",
-      "points": 0.0
-    },
-    {
       "player": "Ryuta Nakai",
       "event": "Event #100: $1,000 Super Turbo No-Limit Hold'em",
       "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-100/",
       "team": "Back Office",
-      "rank": "5 / 25",
+      "rank": "4 / 9",
       "chips": "1,035,000",
-      "bb": "10.4 BB",
+      "bb": "2.1 BB",
       "bonus": "Locked 17 PTS",
-      "points": 17.0
-    },
-    {
-      "player": "Jon Turner",
-      "event": "Event #100: $1,000 Super Turbo No-Limit Hold'em",
-      "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-100/",
-      "team": "Wasserson",
-      "rank": "8 / 25",
-      "chips": "825,000",
-      "bb": "8.3 BB",
-      "bonus": "Locked 17 PTS",
-      "points": 17.0
-    },
-    {
-      "player": "Aaron Kupin",
-      "event": "Event #100: $1,000 Super Turbo No-Limit Hold'em",
-      "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-100/",
-      "team": "Back Office",
-      "rank": "9 / 25",
-      "chips": "720,000",
-      "bb": "7.2 BB",
-      "bonus": "Locked 17 PTS",
-      "points": 17.0
-    },
-    {
-      "player": "Eric Baldwin",
-      "event": "Event #100: $1,000 Super Turbo No-Limit Hold'em",
-      "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-100/",
-      "team": "2026 ODB Bonus Players",
-      "rank": "10 / 25",
-      "chips": "695,000",
-      "bb": "7.0 BB",
-      "bonus": "Locked 17 PTS",
-      "points": 17.0
+      "points": 0.0
     }
   ]
 }
