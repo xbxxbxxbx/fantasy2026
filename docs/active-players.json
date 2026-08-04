@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-03T23:49:25.657762+00:00",
+  "generatedAt": "2026-08-04T12:22:40.293141+00:00",
   "league": "25k",
   "count": 1,
   "players": [
@@ -8,9 +8,9 @@
       "event": "Event #82: $10,000 MAIN EVENT NLH World Championship",
       "eventUrl": "https://www.25kfantasy.com/events/wsop-event/2026-event-82/",
       "team": "2026 ODB Bonus Players",
-      "rank": "4 / 9",
-      "chips": "52,500,000",
-      "bb": "35.0 BB",
+      "rank": "7 / 7",
+      "chips": "29,500,000",
+      "bb": "19.7 BB",
       "bonus": "Locked 95 PTS",
       "points": 0.0
     }
