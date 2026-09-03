@@ -386,5 +386,7 @@
       "pointsChangeSincePrevious": 0.0
     }
   ],
-  "failures": []
+  "failures": [],
+  "successCount": 9,
+  "configuredTeamCount": 9
 }
